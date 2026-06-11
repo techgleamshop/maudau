@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<yml_catalog date="2026-06-11 03:23">
+<yml_catalog date="2026-06-11 04:23">
   <shop>
     <categories>
       <category id="1082" portal_id="1839">Клавіатури</category>
@@ -1759,8 +1759,8 @@
         <param name="Колір">Білий</param>
         <param name="Стан">Новий</param>
       </offer>
-      <offer id="621" available="true">
-        <availability_status>available</availability_status>
+      <offer id="621" available="false">
+        <availability_status>temporarily_unavailable</availability_status>
         <name_ua>Стрім-консоль AJAZZ AKP153 / 15 клавіш / TFT-дисплей / Підтримка OBS та макросів / Black</name_ua>
         <name_ru>Стрим-консоль AJAZZ AKP153 Black / 15 клавиш /TFT-дисплей /поддержка OBS и макросов / Black</name_ru>
         <description_ua><p><strong>Настільна стрім-консоль AJAZZ AKP153  — контроль на кінчиках пальців!</strong></p>    <p>Професійна стрім-консоль із 16 програмованими клавішами, TFT-дисплеєм і підтримкою OBS, Light Control та іншого стрімінгового софту. Ідеальний вибір для контент-мейкерів, дизайнерів, відеоредакторів, геймерів і всіх, хто автоматизує свою роботу.</p>    <p><strong>Основні характеристики:</strong></p>    <ul>   <li>Кількість клавіш: 16 програмованих кнопок Switch Blade</li>   <li>Підтримка макросів: запуск програм, керування OBS, браузер, звук, світло</li>   <li>Дисплей: кольоровий TFT — підтримує кастомні іконки та GIF</li>   <li>Кут нахилу: 40°, знімна підставка, нековзка основа</li>   <li>Сумісність: Windows 7+, MacOS 10.13+, Android, iOS</li>   <li>Інтеграції: OBS Studio, Light Control та інші — через плагіни або кастомні конфігурації</li>   <li>Матеріал: метал + пластик — міцність і стиль в одному корпусі</li>   <li>Підключення: USB (кабель у комплекті, в оплітці)</li>   <li>Розміри: 191 × 135 × 77 мм</li>   <li>Вага: 330 g</li>  </ul></description_ua>
@@ -11243,8 +11243,8 @@
         <param name="Тип">Ігрові (геймерські)</param>
         <country>Китай</country>
       </offer>
-      <offer id="1744" available="true">
-        <availability_status>available</availability_status>
+      <offer id="1744" available="false">
+        <availability_status>temporarily_unavailable</availability_status>
         <name_ua>Ігрова бездротова мишка ATK Dragonfly A9 Plus 2.0 / Три режими підключення / Сенсор PixArt 3395 / 26000 DPI / White</name_ua>
         <name_ru>Игровая беспроводная мышка ATK Dragonfly A9 Plus 2.0 / Три режима подключения / Сенсор PixArt 3395 / 26000 DPI / White</name_ru>
         <description_ua><p data-end="407" data-start="46"><strong>ATK A9 Plus 2.0 </strong>— це ігрова миша, створена для точного керування, стабільної роботи та комфортного використання як у динамічних іграх, так і в щоденних задачах. Модель поєднує продуктивний сенсор, комбіноване підключення, ергономічну форму та хорошу автономність, що робить її практичним вибором для тих, хто шукає універсальну ігрову мишу.</p>    <p data-end="703" data-start="409">Миша оснащена оптичним сенсором PixArt PAW3395 з максимальною роздільною здатністю до 26000 DPI, що забезпечує плавне відстеження рухів і високу точність у різних сценаріях використання. Це дозволяє комфортно використовувати мишу як для шутерів і динамічних ігор, так і для повсякденної роботи.</p>    <p data-end="1034" data-start="705"><strong>ATK A9 Plus 2.0 </strong>підтримує комбіноване підключення та може працювати як у дротовому, так і в бездротовому режимі. Для бездротового з’єднання використовується радіоканал NearLink, який забезпечує стабільний сигнал на відстані до 10 метрів. Якщо акумулятор розрядиться, мишу можна швидко перевести в дротовий режим через USB Type-C.</p>    <p data-end="1428" data-start="1036">Модель отримала вбудований літієвий акумулятор на 800 мАг, який забезпечує до 240 годин автономної роботи. Вага миші становить близько 57 г, а корпус розміром 125 × 64 × 40 мм добре підходить для правої руки. Додатково варто відзначити перемикачі Huano Ice Berry Pink Dot із ресурсом до 80 мільйонів натискань, 6 кнопок і можливість програмного налаштування макросів, DPI та інших параметрів.</p>    <p data-end="1453" data-start="1430"><strong data-end="1451" data-start="1430">Основні переваги:</strong></p>    <ul data-end="2009" data-start="1454">   <li data-end="1479" data-section-id="1bo4g0i" data-start="1454">Сенсор PixArt PAW3395</li>   <li data-end="1507" data-section-id="1i6rhfp" data-start="1480">Чутливість до 26000 DPI</li>   <li data-end="1535" data-section-id="l78c35" data-start="1508">Комбіноване підключення</li>   <li data-end="1582" data-section-id="fbp9r0" data-start="1536">Підтримка дротового та бездротового режиму</li>   <li data-end="1607" data-section-id="17aohrz" data-start="1583">Інтерфейс USB Type-C</li>   <li data-end="1658" data-section-id="1on2of2" data-start="1608">Бездротове з’єднання через радіоканал NearLink</li>   <li data-end="1689" data-section-id="p03y3b" data-start="1659">Радіус роботи до 10 метрів</li>   <li data-end="1712" data-section-id="meedip" data-start="1690">Акумулятор 800 мАг</li>   <li data-end="1747" data-section-id="1gb9gty" data-start="1713">До 240 годин автономної роботи</li>   <li data-end="1769" data-section-id="cfmjbp" data-start="1748">Вага близько 57 г</li>   <li data-end="1797" data-section-id="594tdn" data-start="1770">Розмір 125 × 64 × 40 мм</li>   <li data-end="1829" data-section-id="za4o75" data-start="1798">Конструкція для правої руки</li>   <li data-end="1842" data-section-id="1dsdc58" data-start="1830">6 кнопок</li>   <li data-end="1882" data-section-id="1vyq23r" data-start="1843">Перемикачі Huano Ice Berry Pink Dot</li>   <li data-end="1931" data-section-id="1y5vta8" data-start="1883">Ресурс перемикачів до 80 мільйонів натискань</li>   <li data-end="1985" data-section-id="1ow2tfx" data-start="1932">Підтримка програмного налаштування макросів і DPI</li>  </ul></description_ua>
@@ -13813,8 +13813,8 @@
         <param name="Тип">Ігрові (геймерські)</param>
         <country>Китай</country>
       </offer>
-      <offer id="1850" available="true">
-        <availability_status>available</availability_status>
+      <offer id="1850" available="false">
+        <availability_status>temporarily_unavailable</availability_status>
         <name_ua>Ігрова магнітна клавіатура Aula Hero 84 / Дротове підключення / Black King Switch / White Lines</name_ua>
         <name_ru>Игровая магнитная клавиатура Aula Hero 84 / Проводное подключение / Black King Switch / White Lines</name_ru>
         <description_ua><p><strong>AULA HERO84 HE — Магнітна геймерська клавіатура нового покоління  </strong></p>    <p>Миттєва реакція, повна кастомізація, інноваційні технології — створено для перемог у кожній грі.</p>    <p><strong>Основні характеристики:  </strong></p>    <ul>   <li>Тип перемикачів: магнітні Hall Effect (безконтактні)  </li>   <li>Налаштування точки спрацювання: від 0.01 мм до 3.4 мм  </li>   <li>Polling Rate: 8000 Гц  </li>   <li>Scanning Rate: 128 000 Гц  </li>   <li>Anti-Ghosting: повна підтримка  </li>   <li>Форм-фактор: 75% (84 клавіші)  </li>   <li>Матеріали: металева пластина + 5-шарова шумопоглинаюча конструкція  </li>   <li>Підсвітка: RGB з Lightbox-ефектом та південною орієнтацією LED  </li>   <li>Керування підсвіткою: колір, ефекти, швидкість, яскравість  </li>   <li>Налаштування: через Web Driver  </li>   <li>Підключення: USB A → USB-C  </li>   <li>Сумісність: Windows / Mac</li>   <li>Розміри: 322×139×42 мм  </li>   <li>Вага: 910 г</li>  </ul></description_ua>
