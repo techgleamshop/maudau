@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<yml_catalog date="2026-06-12 15:23">
+<yml_catalog date="2026-06-12 16:23">
   <shop>
     <categories>
       <category id="1082" portal_id="1839">Клавіатури</category>
@@ -13,8 +13,8 @@
       <category id="1093" portal_id="2675">Кейкапи</category>
     </categories>
     <offers>
-      <offer id="512" available="true">
-        <availability_status>available</availability_status>
+      <offer id="512" available="false">
+        <availability_status>temporarily_unavailable</availability_status>
         <name_ua>Ігрова дротова магнітна клавіатура AJAZZ AK680 MAX / RGB / Magnetic Switch / 1К / Black</name_ua>
         <name_ru>Игровая проводная магнитная клавиатура AJAZZ AK680 MAX / RGB / Magnetic Switch / 1К / Black</name_ru>
         <description_ua><p><strong>Магнітна клавіатура AJAZZ AK680 MAX</strong></p>    <p>AJAZZ AK680 MAX — ультимативна клавіатура для геймерів та профі, які хочуть точності, швидкості та комфорту у кожному матчі.</p>    <p><strong>Основні характеристики:</strong></p>    <ul>   <li>Клавіші: 68, форм-фактор 68%  </li>   <li>Перемикачі: Магнітні свитчі з точністю до 0.01 мм (Hall Effect)  </li>   <li>Підключення: USB Type-C  </li>   <li>Polling Rate: 1000 Гц  </li>   <li>Rapid Trigger: миттєве повторне натискання  </li>   <li>Кейкапи: PBT  </li>   <li>Корпус: ABS + алюмінієва пластина  </li>   <li>Підсвітка: Проф RGB, південна орієнтація</li>  </ul>    <p><strong>Особливості:</strong></p>    <ul>   <li>Iндивідуальне налаштування точки спрацьовування (0.01–2.0 мм)  </li>   <li>До 100 млн натискань  </li>   <li>Затримка лише 0.125 мс  </li>   <li>Hot-Swap: зміна свитчів без пайки  </li>   <li>Gasket TOP-mounted + шар PORON для мʼякості та тиші  </li>   <li>Повна кастомізація через ПЗ  </li>   <li>NKRO, сумісність з Windows/macOS</li>  </ul></description_ua>
