@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<yml_catalog date="2026-06-20 03:23">
+<yml_catalog date="2026-06-20 04:23">
   <shop>
     <categories>
       <category id="1082" portal_id="1839">Клавіатури</category>
@@ -8935,8 +8935,8 @@
         <param name="Тип">Ігрові (геймерські)</param>
         <country>Китай</country>
       </offer>
-      <offer id="1637" available="true">
-        <availability_status>available</availability_status>
+      <offer id="1637" available="false">
+        <availability_status>temporarily_unavailable</availability_status>
         <name_ua>Ігрова бездротова мишка ATK VXE Dragonfly R1 NearLink / Три режими підключення / Сенсор PixArt PAW3395 / 18000 DPI / White</name_ua>
         <name_ru>Игровая беспроводная мышка ATK VXE Dragonfly R1 NearLink / Три режима подключения / Сенсор PixArt PAW3395 / 18000 DPI / White</name_ru>
         <description_ua><p><strong>VGN Dragonfly R1</strong> — це ідеальний баланс між вагою, точністю та автономністю, створений для геймерів, що прагнуть до досконалості. З вагою всього <strong>55 грами</strong>, ця миша майже невідчутна в руці, що дозволяє робити блискавичні ривки та точні рухи з мінімальною втомою. Ергономічна форма та спеціальне <strong>покриття &quot;ice-feeling&quot;</strong> забезпечують надійний хват і комфорт навіть під час найдовших ігрових марафонів, даючи вам повний контроль над ситуацією.</p>    <p>За бездоганну точність відповідає <strong>сенсор PAW3395</strong> з роздільною здатністю до <strong>18000 DPI</strong>, який гарантує ідеальне відстеження кожного руху. Миша пропонує максимальну гнучкість завдяки трьом режимам підключення: <strong>надшвидкісному NearLink, універсальному Bluetooth та класичному дротовому.</strong> Потужний <strong>акумулятор на 520 мАг</strong> забезпечує тривалу гру без перерв на зарядку, роблячи Dragonfly R1 надійним інструментом для здобуття перемог.</p>    <h3>Основні характеристики:</h3>    <ul>   <li>   <p><b>Вага:</b> 55 г.</p>   </li>   <li>   <p><b>Сенсор:</b> PAW3395</p>   </li>   <li>   <p><b>Підключення:</b> NearLink / Bluetooth / Дротове (USB-C)</p>   </li>   <li>   <p><b>Максимальна роздільна здатність:</b> 18000 DPI</p>   </li>   <li>   <p><b>Частота опитування:</b> 125–1000 Гц</p>   </li>   <li>   <p><b>Швидкість відстеження (IPS):</b> 400</p>   </li>   <li>   <p><b>Прискорення:</b> 40G</p>   </li>   <li>   <p><strong>Ресурс перемикачів:</strong> 20 мільйонів натискань</p>   </li>   <li>   <p><strong>Автономність:</strong> До 75 годин роботи від одного заряду (520 мАг)</p>   </li>   <li>   <p><b>Покриття:</b> Ice-feeling для кращого хвату</p>   </li>   <li>   <p><b>Розміри:</b> 120.6 x 64 x 37.8 мм</p>   </li>   <li>   <p><b>Сумісність:</b> Windows, macOS, Linux, Chrome OS</p>   </li>  </ul></description_ua>
