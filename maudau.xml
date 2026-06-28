@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<yml_catalog date="2026-06-28 19:23">
+<yml_catalog date="2026-06-28 20:23">
   <shop>
     <categories>
       <category id="1082" portal_id="1839">Клавіатури</category>
@@ -1676,8 +1676,8 @@
         <param name="Тип">Ігрові (геймерські)</param>
         <country>Китай</country>
       </offer>
-      <offer id="635" available="true">
-        <availability_status>available</availability_status>
+      <offer id="635" available="false">
+        <availability_status>temporarily_unavailable</availability_status>
         <name_ua>Ігрова бездротова миша ATTACK SHARK X11 / Сенсор PAW3311 / 22000 DPI / Док-станція в комплекті  / White</name_ua>
         <name_ru>Игровая беспроводная мышь ATTACK SHARK X11 / Сенсор PAW3311 / 22000 DPI / Док-станция в комплекте / White</name_ru>
         <description_ua><p><strong>Ігрова мишка ATTACK SHARK X11 — ультралегка миша з магнітною зарядкою </strong></p>    <p>ATTACK SHARK X11 — це стильна та функціональна миша для геймерів, яка поєднує у собі легкість, комфорт та сучасні технології. Завдяки магнітній зарядній станції, вона завжди готова до гри.</p>    <p><strong>Основні характеристики:</strong></p>    <ul>   <li>Тип: Ігрова миша  </li>   <li>Сенсор: PixArt PAW3311  </li>   <li>DPI: До 22 000 DPI (6 рівнів чутливості)  </li>   <li>Підключення: 2.4GHz Wireless / Bluetooth 5.0 / USB-C  </li>   <li>Вага: 63 г  </li>   <li>Перемикачі: HUANO (до 20 млн кліків)  </li>   <li>Енкодер: TTC  </li>   <li>Автономність: До 65 годин роботи  </li>   <li>Час зарядки: 2–3 години  </li>   <li>Форма: Ергономічний корпус без дірок  </li>   <li>Покриття: Приємне на дотик, захист від пилу  </li>   <li>Сумісність: Windows / macOS / Android / Xbox  </li>   <li>Фірмове ПЗ: Налаштування DPI, RGB, polling rate, макроси, кнопки</li>  </ul></description_ua>
@@ -1802,8 +1802,8 @@
         <param name="Тип">Ігрові (геймерські)</param>
         <country>Китай</country>
       </offer>
-      <offer id="640" available="true">
-        <availability_status>available</availability_status>
+      <offer id="640" available="false">
+        <availability_status>temporarily_unavailable</availability_status>
         <name_ua>Ігрова мишка ATTACK SHARK R5 Ultra / Три режими підключення / PAW3950MAX / Carbon Fiber / 39 г / White</name_ua>
         <name_ru>Игровая мышка ATTACK SHARK R5 Ultra / Три режима подключения / PAW3950MAX / Carbon Fiber / 39 г / White</name_ru>
         <description_ua><p><strong>ATTACK SHARK R5 Ultra — найлегша ігрова миша з сенсором PAW3950MAX і 8000 Гц бездротово! </strong></p>    <p>ATTACK SHARK R5 Ultra — це ультимативна миша для кіберспорту: неймовірна швидкість, точність і комфорт в одному корпусі з вуглецевого волокна.</p>    <p><strong>Основні характеристики:  </strong></p>    <ul>   <li>Вага: лише 39 г  </li>   <li>Матеріал: корпус із вуглецевого волокна  </li>   <li>Сенсор: PixArt PAW3950MAX  </li>   <li>DPI: до 42000  </li>   <li>Швидкість: до 750 IPS  </li>   <li>Прискорення: до 50G  </li>   <li>Polling Rate: до 8000 Гц (у бездротовому режимі!)  </li>   <li>Перемикачі: Omron (ресурс 100 млн натискань)  </li>   <li>Енкодер: F-Switch E10  </li>   <li>Підключення: USB-C / 2.4G Wireless / Bluetooth 5.2  </li>   <li>Сумісність: Windows / Mac / Android  </li>   <li>Розміри: 119.5×61×36.3 мм</li>  </ul>    <p><strong>Особливості:  </strong></p>    <ul>   <li>Корпус із вуглецевого волокна — міцність та легкість  </li>   <li>Частота 8000 Гц бездротово — миттєва реакція  </li>   <li>Сумісність із веб-драйвером — налаштування RGB, DPI, макросів  </li>   <li>Bluetooth, 2.4G або дротове — універсальна з будь-якими пристроями  </li>   <li>Надійні Omron-світчі + енкодер F-Switch  </li>   <li>Професійний дизайн — ідеальний баланс</li>  </ul></description_ua>
@@ -4329,7 +4329,7 @@
         <name_ru>Игровая магнитная проводная клавиатура LANGTU MC68 / Проводное подключение / Magnetic Emperor Switch / White</name_ru>
         <description_ua><p data-end="1651" data-start="1307">LANGTU <strong data-end="1322" data-start="1314">MC68</strong> створена для тих, кому потрібна максимальна швидкість та точність. Магнітно-керовані (Hall) перемикачі забезпечують блискавичний спрацьовування та стабільне натискання з мінімальною втомою пальців. Компактний <strong data-end="1548" data-start="1532">68-клавішний</strong> форм-фактор (≈65%) звільняє місце для миші, залишаючись повністю придатним для щоденної роботи й ігор.</p>    <p data-end="1897" data-start="1653">Фірмова <strong data-end="1678" data-start="1661">RGB-підсвітка</strong> з декількома ефектами легко налаштовується під ваш стиль — від стриманого підсвічування до яскравих динамічних сцен. Підключення по дроту гарантує нульові затримки та стабільність навіть під час найнапруженіших матчів.</p>    <p data-end="1897" data-start="1653"><strong>Основні характеристики:</strong></p>    <p data-end="1897" data-start="1653"><strong data-end="2720" data-start="2700">Тип перемикачів:</strong> магнітні / Hall Effect (магнітно-керовані осі)</p>    <p data-end="2811" data-start="2772"><strong data-end="2793" data-start="2772">Кількість клавіш:</strong> 68 (≈65% макет)</p>    <p data-end="2869" data-start="2814"><strong data-end="2830" data-start="2814">Підключення:</strong> дротове, USB Type-C (знімний кабель)</p>    <p data-end="2925" data-start="2872"><strong data-end="2890" data-start="2872">Підсвічування:</strong> RGB, декілька режимів та ефектів</p>    <p data-end="3021" data-start="2928"><strong data-end="2940" data-start="2928">Функції:</strong> anti-ghosting / N-Key rollover*, макроси/ефекти (через ПЗ, якщо підтримується)</p>    <p data-end="3086" data-start="3024"><strong data-end="3040" data-start="3024">Призначення:</strong> ігрова/офісна, кіберспорт, компактний сетап</p></description_ua>
         <description_ru><p><strong>LANGTU MC68 </strong>предназначена для тех, кому нужна максимальная скорость и точность. Магнитно-управляемые (Hall) переключатели обеспечивают молниеносное срабатывание и стабильное нажатие с минимальной усталостью пальцев. Компактный 68-клавишный форм-фактор (≈65%) освобождает место для мыши, оставаясь полностью пригодным для ежедневной работы и игр.</p>    <p>Фирменная RGB-подсветка с несколькими эффектами легко настраивается под ваш стиль – от сдержанной подсветки до ярких динамических сцен. Подключение по проводу гарантирует нулевые задержки и стабильность даже во время самых напряженных матчей.</p>    <p><strong>Основные характеристики:</strong></p>    <p>Тип переключателей: магнитные / Hall Effect (магнитно управляемые оси)</p>    <p>Количество клавиш: 68 (≈65% макет)</p>    <p>Подключение: проводное, USB Type-C (съемный кабель)</p>    <p>Подсветка: RGB, несколько режимов и эффектов</p>    <p>Функции: anti-ghosting / N-Key rollover*, макросы/эффекты (через ПО, если поддерживается)</p>    <p>Назначение: игровая/офисная, киберспорт, компактный сетап</p></description_ru>
-        <price>2099</price>
+        <price>1799</price>
         <old_price>2499</old_price>
         <categoryId>1082</categoryId>
         <vendor>LANGTU</vendor>
@@ -5383,8 +5383,8 @@
         <name_ru>Игровая магнитная проводная клавиатура Royal Kludge RK C61 / Mint Switch / Black</name_ru>
         <description_ua>Ігрова магнітна дротова клавіатура Royal Kludge RK C61 / Mint Switch / Black</description_ua>
         <description_ru>Игровая магнитная проводная клавиатура Royal Kludge RK C61 / Mint Switch / Black</description_ru>
-        <price>1995</price>
-        <old_price>2100</old_price>
+        <price>1519</price>
+        <old_price>1599</old_price>
         <categoryId>1082</categoryId>
         <vendor>Royal Kludge</vendor>
         <picture>https://techgleam.com.ua/content/images/10/igrovaja-magnitnaja-provodnaja-klaviatura-royal-kludge-rk-c61-mint-switch-black-64927566484328_%2Bf7ca8485e0.jpg</picture>
@@ -7652,8 +7652,8 @@
         <name_ru>Игровая беспроводная мышка Aula V9 Pro+ / Сенсор PAW3395 / Три режима подключения / Black</name_ru>
         <description_ua><p data-end="1654" data-start="1414"><strong data-end="1430" data-start="1414">AULA V9 Pro+</strong> — це продуктивна <strong data-end="1472" data-start="1448">tri-mode ігрова миша</strong> для змагального геймінгу та щоденного використання. Вона оснащена флагманським сенсором <strong data-end="1579" data-start="1561">PixArt PAW3395</strong>, який забезпечує стабільне відстеження, високу точність і миттєву реакцію.</p>    <p data-end="1858" data-start="1656">Підтримуються режими підключення:<br data-end="1692" data-start="1689" />    <strong data-end="1712" data-start="1694">Дротовий (USB)</strong> з частотою опитування <strong data-end="1749" data-start="1735">до 8000 Гц</strong><br data-end="1752" data-start="1749" />    <strong data-end="1777" data-start="1754">Бездротовий 2.4 ГГц</strong> з частотою <strong data-end="1800" data-start="1789">1000 Гц</strong><br data-end="1803" data-start="1800" />    <strong data-end="1818" data-start="1805">Bluetooth</strong> — для ноутбуків і мобільних пристроїв</p>    <p data-end="2036" data-start="1860">У комплекті є <strong data-end="1900" data-start="1874">1K бездротовий ресивер</strong>. Миша використовує <strong data-end="1955" data-start="1920">механічні мікроперемикачі Omron</strong> з ресурсом <strong data-end="1994" data-start="1967">до 100 мільйонів кліків</strong>, що гарантує довговічність і чіткий клік.</p>    <p data-end="2243" data-start="2038">Покриття <strong data-end="2064" data-start="2047">Nano ice-cool</strong> зменшує нагрів і забезпечує приємний тактильний контакт навіть під час тривалих сесій. Вбудований акумулятор <strong data-end="2185" data-start="2174">600 mAh</strong> дає тривалий час автономної роботи без частих підзарядок.</p>    <p data-end="2372" data-start="2245"><strong data-end="2261" data-start="2245">AULA V9 Pro+</strong> — оптимальний вибір для FPS, MOBA та кіберспортивних дисциплін, де важливі швидкість, стабільність і контроль.</p></description_ua>
         <description_ru><p>AULA V9 Pro+ – это производительная tri-mode игровая мышь для соревновательного гейминга и ежедневного использования. Она оснащена флагманским сенсором PixArt PAW3395, обеспечивающим стабильное отслеживание, высокую точность и мгновенную реакцию.</p>    <p>Поддерживаются режимы подключения:<br />    Проводной (USB) с частотой опроса до 8000 Гц<br />    Беспроводной 2.4 ГГц с частотой 1000 Гц<br />    Bluetooth – для ноутбуков и мобильных устройств</p>    <p>В комплекте есть 1K беспроводной ресивер. Мышь использует механические переключатели Omron с ресурсом до 100 миллионов кликов, что гарантирует долговечность и четкий клик.</p>    <p>Покрытие Nano ice-cool уменьшает нагрев и обеспечивает приятный тактильный контакт даже во время продолжительных сессий. Встроенный аккумулятор 600 mAh дает длительное время автономную работу без частых подзарядок.</p>    <p>AULA V9 Pro+ – оптимальный выбор для FPS, MOBA и киберспортивных дисциплин, где важны скорость, стабильность и контроль.</p></description_ru>
-        <price>2184</price>
-        <old_price>2299</old_price>
+        <price>1899</price>
+        <old_price>1999</old_price>
         <categoryId>1084</categoryId>
         <vendor>Aula</vendor>
         <picture>https://techgleam.com.ua/content/images/15/igrovaja-besprovodnaja-myshka-aula-v9-pro-sensor-paw3395-tri-rezhima-podkluchenija-black-15193455202634_%2B8b11d590b6.png</picture>
