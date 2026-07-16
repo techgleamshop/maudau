@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<yml_catalog date="2026-07-16 03:23">
+<yml_catalog date="2026-07-16 04:23">
   <shop>
     <categories>
       <category id="1082" portal_id="1839">Клавіатури</category>
@@ -426,6 +426,27 @@
         <param name="Вид">Ігрові</param>
         <country>Китай</country>
       </offer>
+      <offer id="693" available="true">
+        <availability_status>available</availability_status>
+        <name_ua>Ігрова скляна поверхня ATTACK SHARK CM05 / 450×400 мм / Склопад / Black</name_ua>
+        <name_ru>Игровая стеклянная поверхность ATTACK SHARK CM05 / 450×400 мм / Стеклопад / Black</name_ru>
+        <description_ua><p data-end="1923" data-start="1591"><strong data-end="1649" data-start="1591">Скляний килимок ATTACK SHARK CM05</strong> — вибір для геймерів і креаторів, яким важлива стабільність, точність і контроль.<br data-end="1734" data-start="1731" />  Загартоване скло з нано-текстурою дає <strong data-end="1807" data-start="1772">неймовірно плавне ковзання миші</strong>, а сенсор точно зчитує навіть найменші рухи. Формат <strong data-end="1874" data-start="1860">450×400 мм</strong> дарує простір для різких фліків і рівних треків.</p>    <ul>   <li data-end="2007" data-start="1927"><strong data-end="1940" data-start="1927">Матеріал:</strong> загартоване скло з нано-текстурою — гладке ковзання без залипань</li>   <li data-end="2072" data-start="2010"><strong data-end="2021" data-start="2010">Розмір:</strong> 450×400 мм — багато місця для FPS, MOBA і роботи</li>   <li data-end="2141" data-start="2075"><strong data-end="2086" data-start="2075">Основа:</strong> протиковзке покриття надійно фіксує килимок на столі</li>   <li data-end="2218" data-start="2144"><strong data-end="2163" data-start="2144">Зносостійкість:</strong> не боїться подряпин, вологи й щоденного використання</li>   <li data-end="2286" data-start="2221"><strong data-end="2240" data-start="2221">Простий догляд:</strong> легко очищається, не вбирає запахи й рідини</li>   <li data-end="2382" data-start="2289"><strong data-end="2300" data-start="2289">Дизайн: </strong>контур з рельєфним топографічним візерунком — естетично та мінімалістично</li>   <li data-end="2450" data-start="2385"><strong data-end="2400" data-start="2385">Сумісність:</strong> коректно працює з усіма сучасними сенсорами мишей</li>  </ul>    <p data-end="2615" data-start="2452">CM05 — це не просто аксесуар, а <strong data-end="2507" data-start="2484">преміальна поверхня</strong>, яка поєднує естетику та продуктивність. Відчуйте стабільність, чистоту ковзання і точність у кожному русі.</p></description_ua>
+        <description_ru><p><strong>Стеклянный коврик ATTACK SHARK CM05 - выбор для геймеров и креаторов, которым важна стабильность, точность и контроль.</strong><br />  Закаленное стекло с нанотекстурой дает невероятно плавное скольжение мыши, а сенсор точно считывает даже малейшие движения. Формат 450×400 мм дарит простор для резких фликов и ровных треков.</p>    <ul>   <li>Материал: закаленное стекло с нано-текстурой — гладкое скольжение без залипаний</li>   <li>Размер: 450×400 мм — много места для FPS, MOBA и работы</li>   <li>Основа: противоскользящее покрытие надежно фиксирует коврик на столе</li>   <li>Износостойкость: не боится царапин, влаги и ежедневного использования</li>   <li>Простой уход: легко очищается, не впитывает запахи и жидкости</li>   <li>Дизайн: Контур с рельефным топографическим узором — эстетически и минималистически</li>   <li>Совместимость: корректно работает со всеми современными сенсорами мышей</li>  </ul>    <p>CM05 – это не просто аксессуар, а премиальная поверхность, сочетающая эстетику и производительность. Ощутите стабильность, чистоту скольжения и точность в каждом движении.</p></description_ru>
+        <price>2564</price>
+        <old_price>2699</old_price>
+        <categoryId>1089</categoryId>
+        <vendor>Attack Shark</vendor>
+        <picture>https://www.techgleam.com.ua/content/images/44/13120286162880_%2B2de50e4814.jpg</picture>
+        <picture>https://www.techgleam.com.ua/content/images/44/99353357048557_%2Bcacddc1d97.jpg</picture>
+        <picture>https://www.techgleam.com.ua/content/images/44/34561694694912_%2B75f979a8af.jpg</picture>
+        <picture>https://www.techgleam.com.ua/content/images/44/74287179978587_%2Bd86791228c.jpg</picture>
+        <picture>https://www.techgleam.com.ua/content/images/44/11784157159127_%2Ba42411ab3d.jpg</picture>
+        <picture>https://www.techgleam.com.ua/content/images/44/73503460890505_%2Bcdc8e7890f.jpg</picture>
+        <picture>https://www.techgleam.com.ua/content/images/44/44381812657904_%2B5e42d8ce89.jpg</picture>
+        <param name="Гарантія">1 місяць</param>
+        <param name="Колір">Чорний</param>
+        <param name="Особливості">Ігрові</param>
+      </offer>
       <offer id="707" available="true">
         <availability_status>available</availability_status>
         <name_ua>Ігровий килимок Attack Shark CM02 / 40*45 см / Black Red</name_ua>
@@ -744,35 +765,6 @@
         <picture>https://www.techgleam.com.ua/content/images/33/kovrik-dlja-myshi-i-klaviatury-topographic-white-9040-sm-38215675724887_%2B7ce565955b.png</picture>
         <param name="Гарантія">3 місяці</param>
         <param name="Колір">Білий</param>
-      </offer>
-      <offer id="1003" available="true">
-        <availability_status>available</availability_status>
-        <name_ua>Ігрова бездротова мишка Madlions Mad G Pro / Сенсор PAW3395 / 26000 DPI / White</name_ua>
-        <name_ru>Игровая беспроводная мышка Madlions Mad G Pro / Сенсор PAW3395 / 26000 DPI / White</name_ru>
-        <description_ua><p data-end="546" data-start="264"><strong data-end="286" data-start="264">Madlions Mad G Pro</strong> — це професійна ультралегка бездротова ігрова миша, створена для гравців, які прагнуть максимальної точності, швидкості та контролю. Вага всього <strong data-end="440" data-start="432">48 г</strong> у поєднанні з потужним акумулятором <strong data-end="488" data-start="477">500 mAh</strong> робить її ідеальною для тривалих ігрових сесій без втоми.</p>    <p data-end="885" data-start="548">Миша оснащена флагманським сенсором <strong data-end="602" data-start="584">PixArt PAW3395</strong>, який забезпечує високу точність відстеження з роздільною здатністю <strong data-end="688" data-start="671">до 26 000 DPI</strong>. Завдяки частоті опитування <strong data-end="753" data-start="717">до 8000 Гц у бездротовому режимі</strong> та <strong data-end="780" data-start="757">1000 Гц у дротовому</strong>, Mad G Pro гарантує мінімальну затримку й миттєвий відгук — критично важливо для FPS-ігор і кіберспорту.</p>    <p data-end="1184" data-start="887">Симетричний, злегка конічний дизайн підходить для різних типів хвату, а фірмове покриття <strong data-end="996" data-start="976">Ice Lion Coating</strong> забезпечує надійне зчеплення навіть під час інтенсивної гри. Легкі та чіткі <strong data-end="1122" data-start="1073">мікроперемикачі Ring Nuo Ice Berry Powder Dot</strong> додають приємні тактильні відчуття та стабільність натискань.</p>    <p data-end="1210" data-start="1186"><strong data-end="1210" data-start="1189">Основні характеристики:</strong></p>    <ul data-end="1463" data-start="1211">   <li data-end="1238" data-start="1211">   <p data-end="1238" data-start="1213">Ультралегка вага — 48 г</p>   </li>   <li data-end="1264" data-start="1239">   <p data-end="1264" data-start="1241">Сенсор PixArt PAW3395</p>   </li>   <li data-end="1319" data-start="1265">   <p data-end="1319" data-start="1267">Частота опитування: 1K (дротове) / 8K (бездротове)</p>   </li>   <li data-end="1337" data-start="1320">   <p data-end="1337" data-start="1322">До 26 000 DPI</p>   </li>   <li data-end="1373" data-start="1338">   <p data-end="1373" data-start="1340">Симетричний ергономічний дизайн</p>   </li>   <li data-end="1403" data-start="1374">   <p data-end="1403" data-start="1376">Покриття Ice Lion Coating</p>   </li>   <li data-end="1426" data-start="1404">   <p data-end="1426" data-start="1406">Акумулятор 500 mAh</p>   </li>   <li data-end="1463" data-start="1427">   <p data-end="1463" data-start="1429">Орієнтована на FPS та кіберспорт</p>   </li>  </ul>    <p data-end="1583" data-start="1465"><strong data-end="1487" data-start="1465">Madlions Mad G Pro</strong> — вибір геймерів, яким потрібна <strong data-end="1582" data-start="1520">швидкість без компромісів і повний контроль у кожному русі</strong>.</p></description_ua>
-        <description_ru><p><strong>Madlions Mad G Pro —</strong> это профессиональная ультралегкая беспроводная игровая мышь, предназначенная для игроков, стремящихся к максимальной точности, скорости и контролю. Вес всего 48 г в сочетании с мощным аккумулятором 500 mAh делает его идеальным для длительных игровых сессий без усталости.</p>    <p>Мышь оснащена флагманским сенсором PixArt PAW3395, обеспечивающим высокую точность отслеживания с разрешением до 26 000 DPI. Благодаря частоте опроса до 8000 Гц в беспроводном режиме и 1000 Гц в проводном, Mad G Pro гарантирует минимальную задержку и мгновенный отклик – критически важно для FPS-игр и киберспорта.</p>    <p>Симметричный слегка конический дизайн подходит для различных типов хвата, а фирменное покрытие Ice Lion Coating обеспечивает надежное сцепление даже во время интенсивной игры. Легкие и четкие микропереключатели Ring Nuo Ice Berry Powder Dot придают приятные тактильные ощущения и стабильность нажатия.</p>    <p><strong>Основные характеристики:</strong></p>    <ul>   <li>Ультралегкий вес - 48 г</li>   <li>Сенсор PixArt PAW3395</li>   <li>Частота опроса: 1K (проводной) / 8K (беспроводной)</li>   <li>До 26 000 DPI</li>   <li>Симметричный эргономичный дизайн</li>   <li>Покрытие Ice Lion Coating</li>   <li>Аккумулятор 500 mAh</li>   <li>Ориентированная на FPS и киберспорт</li>  </ul>    <p><strong>Madlions Mad G Pro –</strong> выбор геймеров, которым нужна скорость без компромиссов и полный контроль в каждом движении.</p></description_ru>
-        <price>2089</price>
-        <old_price>2199</old_price>
-        <categoryId>1084</categoryId>
-        <vendor>Madlions</vendor>
-        <picture>https://www.techgleam.com.ua/content/images/4/igrovaja-besprovodnaja-myshka-madlions-mad-g-pro-sensor-paw3395-26000-dpi-white-58486646267619_%2B00ac3fbce3.jpg</picture>
-        <picture>https://www.techgleam.com.ua/content/images/4/igrovaja-besprovodnaja-myshka-madlions-mad-g-pro-sensor-paw3395-26000-dpi-white-74332722906578_%2Bcac0e4bfb1.jpg</picture>
-        <param name="Гарантія">1 місяць</param>
-        <param name="Колір">Білий</param>
-        <param name="Підключення">Комбіноване</param>
-        <param name="Сумісність з ОС">Microsoft Windows</param>
-        <param name="Сумісність з ОС">Mac OS</param>
-        <param name="Сумісність з ОС">Linux</param>
-        <param name="Вага">48 г</param>
-        <param name="Кількість кнопок миші">6</param>
-        <param name="Тип датчика">Оптичний</param>
-        <param name="Інтерфейс підключення">Bluetooth</param>
-        <param name="Інтерфейс підключення">Радіоінтерфейс</param>
-        <param name="Інтерфейс підключення">USB</param>
-        <param name="Роздільна здатність сенсора">Понад 20000 dpi</param>
-        <param name="Стан">Новий</param>
-        <param name="Тип">Ігрові (геймерські)</param>
-        <country>Китай</country>
       </offer>
       <offer id="1004" available="true">
         <availability_status>available</availability_status>
@@ -6063,27 +6055,6 @@
         <param name="Комплектація">Клавіатура</param>
         <param name="Призначення">Для ПК</param>
       </offer>
-      <offer id="693" available="false">
-        <availability_status>temporarily_unavailable</availability_status>
-        <name_ua>Ігрова скляна поверхня ATTACK SHARK CM05 / 450×400 мм / Склопад / Black</name_ua>
-        <name_ru>Игровая стеклянная поверхность ATTACK SHARK CM05 / 450×400 мм / Стеклопад / Black</name_ru>
-        <description_ua><p data-end="1923" data-start="1591"><strong data-end="1649" data-start="1591">Скляний килимок ATTACK SHARK CM05</strong> — вибір для геймерів і креаторів, яким важлива стабільність, точність і контроль.<br data-end="1734" data-start="1731" />  Загартоване скло з нано-текстурою дає <strong data-end="1807" data-start="1772">неймовірно плавне ковзання миші</strong>, а сенсор точно зчитує навіть найменші рухи. Формат <strong data-end="1874" data-start="1860">450×400 мм</strong> дарує простір для різких фліків і рівних треків.</p>    <ul>   <li data-end="2007" data-start="1927"><strong data-end="1940" data-start="1927">Матеріал:</strong> загартоване скло з нано-текстурою — гладке ковзання без залипань</li>   <li data-end="2072" data-start="2010"><strong data-end="2021" data-start="2010">Розмір:</strong> 450×400 мм — багато місця для FPS, MOBA і роботи</li>   <li data-end="2141" data-start="2075"><strong data-end="2086" data-start="2075">Основа:</strong> протиковзке покриття надійно фіксує килимок на столі</li>   <li data-end="2218" data-start="2144"><strong data-end="2163" data-start="2144">Зносостійкість:</strong> не боїться подряпин, вологи й щоденного використання</li>   <li data-end="2286" data-start="2221"><strong data-end="2240" data-start="2221">Простий догляд:</strong> легко очищається, не вбирає запахи й рідини</li>   <li data-end="2382" data-start="2289"><strong data-end="2300" data-start="2289">Дизайн: </strong>контур з рельєфним топографічним візерунком — естетично та мінімалістично</li>   <li data-end="2450" data-start="2385"><strong data-end="2400" data-start="2385">Сумісність:</strong> коректно працює з усіма сучасними сенсорами мишей</li>  </ul>    <p data-end="2615" data-start="2452">CM05 — це не просто аксесуар, а <strong data-end="2507" data-start="2484">преміальна поверхня</strong>, яка поєднує естетику та продуктивність. Відчуйте стабільність, чистоту ковзання і точність у кожному русі.</p></description_ua>
-        <description_ru><p><strong>Стеклянный коврик ATTACK SHARK CM05 - выбор для геймеров и креаторов, которым важна стабильность, точность и контроль.</strong><br />  Закаленное стекло с нанотекстурой дает невероятно плавное скольжение мыши, а сенсор точно считывает даже малейшие движения. Формат 450×400 мм дарит простор для резких фликов и ровных треков.</p>    <ul>   <li>Материал: закаленное стекло с нано-текстурой — гладкое скольжение без залипаний</li>   <li>Размер: 450×400 мм — много места для FPS, MOBA и работы</li>   <li>Основа: противоскользящее покрытие надежно фиксирует коврик на столе</li>   <li>Износостойкость: не боится царапин, влаги и ежедневного использования</li>   <li>Простой уход: легко очищается, не впитывает запахи и жидкости</li>   <li>Дизайн: Контур с рельефным топографическим узором — эстетически и минималистически</li>   <li>Совместимость: корректно работает со всеми современными сенсорами мышей</li>  </ul>    <p>CM05 – это не просто аксессуар, а премиальная поверхность, сочетающая эстетику и производительность. Ощутите стабильность, чистоту скольжения и точность в каждом движении.</p></description_ru>
-        <price>2564</price>
-        <old_price>2699</old_price>
-        <categoryId>1089</categoryId>
-        <vendor>Attack Shark</vendor>
-        <picture>https://www.techgleam.com.ua/content/images/44/13120286162880_%2B2de50e4814.jpg</picture>
-        <picture>https://www.techgleam.com.ua/content/images/44/99353357048557_%2Bcacddc1d97.jpg</picture>
-        <picture>https://www.techgleam.com.ua/content/images/44/34561694694912_%2B75f979a8af.jpg</picture>
-        <picture>https://www.techgleam.com.ua/content/images/44/74287179978587_%2Bd86791228c.jpg</picture>
-        <picture>https://www.techgleam.com.ua/content/images/44/11784157159127_%2Ba42411ab3d.jpg</picture>
-        <picture>https://www.techgleam.com.ua/content/images/44/73503460890505_%2Bcdc8e7890f.jpg</picture>
-        <picture>https://www.techgleam.com.ua/content/images/44/44381812657904_%2B5e42d8ce89.jpg</picture>
-        <param name="Гарантія">1 місяць</param>
-        <param name="Колір">Чорний</param>
-        <param name="Особливості">Ігрові</param>
-      </offer>
       <offer id="694" available="false">
         <availability_status>temporarily_unavailable</availability_status>
         <name_ua>Ігрова скляна поверхня ATTACK SHARK CM05 / 450×400 мм / Склопад / White</name_ua>
@@ -8446,6 +8417,35 @@
         <param name="Комплектація">Клавіатура</param>
         <param name="Призначення">Для ПК</param>
         <param name="Вид">Ігрові</param>
+        <country>Китай</country>
+      </offer>
+      <offer id="1003" available="false">
+        <availability_status>temporarily_unavailable</availability_status>
+        <name_ua>Ігрова бездротова мишка Madlions Mad G Pro / Сенсор PAW3395 / 26000 DPI / White</name_ua>
+        <name_ru>Игровая беспроводная мышка Madlions Mad G Pro / Сенсор PAW3395 / 26000 DPI / White</name_ru>
+        <description_ua><p data-end="546" data-start="264"><strong data-end="286" data-start="264">Madlions Mad G Pro</strong> — це професійна ультралегка бездротова ігрова миша, створена для гравців, які прагнуть максимальної точності, швидкості та контролю. Вага всього <strong data-end="440" data-start="432">48 г</strong> у поєднанні з потужним акумулятором <strong data-end="488" data-start="477">500 mAh</strong> робить її ідеальною для тривалих ігрових сесій без втоми.</p>    <p data-end="885" data-start="548">Миша оснащена флагманським сенсором <strong data-end="602" data-start="584">PixArt PAW3395</strong>, який забезпечує високу точність відстеження з роздільною здатністю <strong data-end="688" data-start="671">до 26 000 DPI</strong>. Завдяки частоті опитування <strong data-end="753" data-start="717">до 8000 Гц у бездротовому режимі</strong> та <strong data-end="780" data-start="757">1000 Гц у дротовому</strong>, Mad G Pro гарантує мінімальну затримку й миттєвий відгук — критично важливо для FPS-ігор і кіберспорту.</p>    <p data-end="1184" data-start="887">Симетричний, злегка конічний дизайн підходить для різних типів хвату, а фірмове покриття <strong data-end="996" data-start="976">Ice Lion Coating</strong> забезпечує надійне зчеплення навіть під час інтенсивної гри. Легкі та чіткі <strong data-end="1122" data-start="1073">мікроперемикачі Ring Nuo Ice Berry Powder Dot</strong> додають приємні тактильні відчуття та стабільність натискань.</p>    <p data-end="1210" data-start="1186"><strong data-end="1210" data-start="1189">Основні характеристики:</strong></p>    <ul data-end="1463" data-start="1211">   <li data-end="1238" data-start="1211">   <p data-end="1238" data-start="1213">Ультралегка вага — 48 г</p>   </li>   <li data-end="1264" data-start="1239">   <p data-end="1264" data-start="1241">Сенсор PixArt PAW3395</p>   </li>   <li data-end="1319" data-start="1265">   <p data-end="1319" data-start="1267">Частота опитування: 1K (дротове) / 8K (бездротове)</p>   </li>   <li data-end="1337" data-start="1320">   <p data-end="1337" data-start="1322">До 26 000 DPI</p>   </li>   <li data-end="1373" data-start="1338">   <p data-end="1373" data-start="1340">Симетричний ергономічний дизайн</p>   </li>   <li data-end="1403" data-start="1374">   <p data-end="1403" data-start="1376">Покриття Ice Lion Coating</p>   </li>   <li data-end="1426" data-start="1404">   <p data-end="1426" data-start="1406">Акумулятор 500 mAh</p>   </li>   <li data-end="1463" data-start="1427">   <p data-end="1463" data-start="1429">Орієнтована на FPS та кіберспорт</p>   </li>  </ul>    <p data-end="1583" data-start="1465"><strong data-end="1487" data-start="1465">Madlions Mad G Pro</strong> — вибір геймерів, яким потрібна <strong data-end="1582" data-start="1520">швидкість без компромісів і повний контроль у кожному русі</strong>.</p></description_ua>
+        <description_ru><p><strong>Madlions Mad G Pro —</strong> это профессиональная ультралегкая беспроводная игровая мышь, предназначенная для игроков, стремящихся к максимальной точности, скорости и контролю. Вес всего 48 г в сочетании с мощным аккумулятором 500 mAh делает его идеальным для длительных игровых сессий без усталости.</p>    <p>Мышь оснащена флагманским сенсором PixArt PAW3395, обеспечивающим высокую точность отслеживания с разрешением до 26 000 DPI. Благодаря частоте опроса до 8000 Гц в беспроводном режиме и 1000 Гц в проводном, Mad G Pro гарантирует минимальную задержку и мгновенный отклик – критически важно для FPS-игр и киберспорта.</p>    <p>Симметричный слегка конический дизайн подходит для различных типов хвата, а фирменное покрытие Ice Lion Coating обеспечивает надежное сцепление даже во время интенсивной игры. Легкие и четкие микропереключатели Ring Nuo Ice Berry Powder Dot придают приятные тактильные ощущения и стабильность нажатия.</p>    <p><strong>Основные характеристики:</strong></p>    <ul>   <li>Ультралегкий вес - 48 г</li>   <li>Сенсор PixArt PAW3395</li>   <li>Частота опроса: 1K (проводной) / 8K (беспроводной)</li>   <li>До 26 000 DPI</li>   <li>Симметричный эргономичный дизайн</li>   <li>Покрытие Ice Lion Coating</li>   <li>Аккумулятор 500 mAh</li>   <li>Ориентированная на FPS и киберспорт</li>  </ul>    <p><strong>Madlions Mad G Pro –</strong> выбор геймеров, которым нужна скорость без компромиссов и полный контроль в каждом движении.</p></description_ru>
+        <price>2089</price>
+        <old_price>2199</old_price>
+        <categoryId>1084</categoryId>
+        <vendor>Madlions</vendor>
+        <picture>https://www.techgleam.com.ua/content/images/4/igrovaja-besprovodnaja-myshka-madlions-mad-g-pro-sensor-paw3395-26000-dpi-white-58486646267619_%2B00ac3fbce3.jpg</picture>
+        <picture>https://www.techgleam.com.ua/content/images/4/igrovaja-besprovodnaja-myshka-madlions-mad-g-pro-sensor-paw3395-26000-dpi-white-74332722906578_%2Bcac0e4bfb1.jpg</picture>
+        <param name="Гарантія">1 місяць</param>
+        <param name="Колір">Білий</param>
+        <param name="Підключення">Комбіноване</param>
+        <param name="Сумісність з ОС">Microsoft Windows</param>
+        <param name="Сумісність з ОС">Mac OS</param>
+        <param name="Сумісність з ОС">Linux</param>
+        <param name="Вага">48 г</param>
+        <param name="Кількість кнопок миші">6</param>
+        <param name="Тип датчика">Оптичний</param>
+        <param name="Інтерфейс підключення">Bluetooth</param>
+        <param name="Інтерфейс підключення">Радіоінтерфейс</param>
+        <param name="Інтерфейс підключення">USB</param>
+        <param name="Роздільна здатність сенсора">Понад 20000 dpi</param>
+        <param name="Стан">Новий</param>
+        <param name="Тип">Ігрові (геймерські)</param>
         <country>Китай</country>
       </offer>
       <offer id="1005" available="false">
