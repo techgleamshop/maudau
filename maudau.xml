@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<yml_catalog date="2026-07-20 22:23">
+<yml_catalog date="2026-07-21 00:23">
   <shop>
     <categories>
       <category id="1082" portal_id="1839">Клавіатури</category>
@@ -946,33 +946,6 @@
         <param name="Вид">Ігрові</param>
         <country>Китай</country>
       </offer>
-      <offer id="1597" available="true">
-        <availability_status>available</availability_status>
-        <name_ua>Ігрова бездротова мишка VGN VXE R1 SE+ / Три режими підключення / Сенсор Pixart PAW3395 SE / 18000 DPI / White</name_ua>
-        <name_ru>Игровая беспроводная мышка VGN VXE R1 SE+ / Три режима подключения / Сенсор Pixart PAW3395 SE / 18000 DPI / White</name_ru>
-        <description_ua><p data-end="470" data-start="179"><strong data-end="203" data-start="179">VGN VXE R1 SE+ </strong> — легка і точна ігрова мишка з <strong data-end="268" data-start="235">потрійним режимом підключення</strong>: <strong data-end="307" data-start="270">Bluetooth / 2.4 ГГц (донгл) / USB</strong>. Усередині — сенсор <strong data-end="349" data-start="328">PixArt PAW3395 SE</strong> з максимальною роздільною здатністю <strong data-end="403" data-start="386">до 18 000 DPI</strong>, що дає плавне й стабільне відстеження для FPS та швидких шутерів.</p>    <p data-end="795" data-start="472">Модель оснащена <strong data-end="512" data-start="488">акумулятором 520 mAh</strong>, а також підтримує підвищену швидкість бездротового відгуку <strong data-end="587" data-start="573">до 2000 Гц</strong> (за характеристиками). Є <strong data-end="639" data-start="613">6 програмованих кнопок</strong>, а в комплекті — <strong data-end="691" data-start="657">паракордовий USB Type-C кабель</strong>, <strong data-end="720" data-start="693">передавач/донгл 1000 Гц</strong> та інструкція. Форм-фактор — <strong data-end="775" data-start="750">середній (105–120 мм)</strong>, колір — <strong data-end="794" data-start="785">білий</strong>.</p>    <p data-end="818" data-start="797"><strong data-end="818" data-start="797">Ключові переваги:</strong></p>    <ul data-end="1061" data-start="819">   <li data-end="862" data-start="819">   <p data-end="862" data-start="821"><strong data-end="834" data-start="821">Tri-Mode:</strong> Bluetooth / 2.4 ГГц / USB</p>   </li>   <li data-end="908" data-start="863">   <p data-end="908" data-start="865">Сенсор <strong data-end="886" data-start="872">PAW3395 SE</strong> — <strong data-end="906" data-start="889">до 18 000 DPI</strong></p>   </li>   <li data-end="956" data-start="909">   <p data-end="956" data-start="911"><strong data-end="942" data-start="911">Wireless polling до 2000 Гц</strong> (за заявою)</p>   </li>   <li data-end="987" data-start="957">   <p data-end="987" data-start="959"><strong data-end="985" data-start="959">6 програмованих кнопок</strong></p>   </li>   <li data-end="1014" data-start="988">   <p data-end="1014" data-start="990">Акумулятор <strong data-end="1012" data-start="1001">520 mAh</strong></p>   </li>   <li data-end="1061" data-start="1015">   <p data-end="1061" data-start="1017">Комплект: паракорд USB-C + донгл <strong data-end="1061" data-start="1050">1000 Гц</strong></p>   </li>  </ul>    <p data-end="1095" data-start="1063"><strong data-end="1095" data-start="1063">Характеристики (зі скрінів):</strong></p>    <ul data-end="1499" data-start="1096">   <li data-end="1124" data-start="1096">   <p data-end="1124" data-start="1098">Модель: <strong data-end="1124" data-start="1106">VGN VXE R1 SE+</strong></p>   </li>   <li data-end="1143" data-start="1125">   <p data-end="1143" data-start="1127">Колір: <strong data-end="1143" data-start="1134">Білий</strong></p>   </li>   <li data-end="1202" data-start="1144">   <p data-end="1202" data-start="1146">Підключення: <strong data-end="1174" data-start="1159">комбіноване</strong> (Bluetooth / USB / 2.4 ГГц)</p>   </li>   <li data-end="1234" data-start="1203">   <p data-end="1234" data-start="1205">Сенсор: <strong data-end="1234" data-start="1213">PixArt PAW3395 SE</strong></p>   </li>   <li data-end="1258" data-start="1235">   <p data-end="1258" data-start="1237">Макс. DPI: <strong data-end="1258" data-start="1248">18 000</strong></p>   </li>   <li data-end="1288" data-start="1259">   <p data-end="1288" data-start="1261">Кнопки: <strong data-end="1274" data-start="1269">6</strong>, програмовані</p>   </li>   <li data-end="1330" data-start="1289">   <p data-end="1330" data-start="1291">Акумулятор: <strong data-end="1314" data-start="1303">520 mAh</strong> (пропрієтарний)</p>   </li>   <li data-end="1358" data-start="1331">   <p data-end="1358" data-start="1333">Тип датчика: <strong data-end="1358" data-start="1346">оптичний</strong></p>   </li>   <li data-end="1435" data-start="1359">   <p data-end="1435" data-start="1361">Країна-виробник: <strong data-end="1464" data-start="1455">Китай</strong></p>   </li>   <li data-end="1499" data-start="1465">   <p data-end="1499" data-start="1467">Розмір: <strong data-end="1499" data-start="1475">середня (105–120 мм)</strong></p>   </li>  </ul></description_ua>
-        <description_ru><p data-end="1778" data-start="1526"><strong data-end="1550" data-start="1526">VGN VXE R1 SE+</strong> — лёгкая и точная игровая мышь с <strong data-end="1615" data-start="1584">тройным режимом подключения</strong>: <strong data-end="1654" data-start="1617">Bluetooth / 2.4 ГГц (донгл) / USB</strong>. Сенсор <strong data-end="1684" data-start="1663">PixArt PAW3395 SE</strong> обеспечивает разрешение <strong data-end="1726" data-start="1709">до 18 000 DPI</strong> и стабильное отслеживание для FPS и динамичных игр.</p>    <p data-end="2062" data-start="1780">Встроенный аккумулятор <strong data-end="1814" data-start="1803">520 mAh</strong>, поддержка ускоренного беспроводного отклика <strong data-end="1874" data-start="1860">до 2000 Гц</strong> (по характеристикам), <strong data-end="1925" data-start="1897">6 программируемых кнопок</strong>. В комплекте — <strong data-end="1975" data-start="1941">паракордовый кабель USB Type-C</strong>, <strong data-end="1994" data-start="1977">донгл 1000 Гц</strong> и руководство. Размер — <strong data-end="2043" data-start="2019">средний (105–120 мм)</strong>, цвет — <strong data-end="2061" data-start="2052">белый</strong>.</p>    <p data-end="2081" data-start="2064"><strong data-end="2081" data-start="2064">Преимущества:</strong></p>    <ul data-end="2330" data-start="2082">   <li data-end="2125" data-start="2082">   <p data-end="2125" data-start="2084"><strong data-end="2097" data-start="2084">Tri-Mode:</strong> Bluetooth / 2.4 ГГц / USB</p>   </li>   <li data-end="2171" data-start="2126">   <p data-end="2171" data-start="2128">Сенсор <strong data-end="2149" data-start="2135">PAW3395 SE</strong> — <strong data-end="2169" data-start="2152">до 18 000 DPI</strong></p>   </li>   <li data-end="2222" data-start="2172">   <p data-end="2222" data-start="2174"><strong data-end="2205" data-start="2174">Wireless polling до 2000 Гц</strong> (по заявлению)</p>   </li>   <li data-end="2255" data-start="2223">   <p data-end="2255" data-start="2225"><strong data-end="2253" data-start="2225">6 программируемых кнопок</strong></p>   </li>   <li data-end="2283" data-start="2256">   <p data-end="2283" data-start="2258">Аккумулятор <strong data-end="2281" data-start="2270">520 mAh</strong></p>   </li>  </ul></description_ru>
-        <price>1299</price>
-        <old_price>1699</old_price>
-        <categoryId>1084</categoryId>
-        <vendor>VGN</vendor>
-        <picture>https://techgleam.com.ua/content/images/48/igrovaja-besprovodnaja-myshka-vgn-vxe-r1-se-tri-rezhima-podkluchenija-sensor-pixart-paw3395-se-18000-dpi-white-68515539796854_%2B731c100c8e.jpg</picture>
-        <param name="Гарантія">1 місяць</param>
-        <param name="Колір">Білий</param>
-        <param name="Підключення">Комбіноване</param>
-        <param name="Сумісність з ОС">Microsoft Windows</param>
-        <param name="Сумісність з ОС">Mac OS</param>
-        <param name="Сумісність з ОС">Linux</param>
-        <param name="Кількість кнопок миші">6</param>
-        <param name="Тип датчика">Оптичний</param>
-        <param name="Інтерфейс підключення">Bluetooth</param>
-        <param name="Інтерфейс підключення">Радіоінтерфейс</param>
-        <param name="Інтерфейс підключення">USB</param>
-        <param name="Роздільна здатність сенсора">16001 - 20000 dpi</param>
-        <param name="Стан">Новий</param>
-        <param name="Тип">Ігрові (геймерські)</param>
-        <country>Китай</country>
-      </offer>
       <offer id="1606" available="true">
         <availability_status>available</availability_status>
         <name_ua>Ігрова бездротова мишка EWEADN S9 Pro / Три режими підключення / Сенсор PAW3395 / 26000 DPI / White</name_ua>
@@ -1459,38 +1432,6 @@
         <param name="Гарантія">3 місяці</param>
         <param name="Колір">Червоний</param>
         <param name="Особливості">Ігрові</param>
-      </offer>
-      <offer id="1732" available="true">
-        <availability_status>available</availability_status>
-        <name_ua>Ігрова механічна дротова клавіатура Ajazz NK68 / Red Switch / 65% / RGB / Black</name_ua>
-        <name_ru>Игровая механическая проводная клавиатура Ajazz NK68 / Red Switch / 65% / RGB / Black</name_ru>
-        <description_ua><p data-end="1300" data-start="1064"><strong data-end="1078" data-start="1064">AJAZZ NK68</strong> — це стильна та компактна <strong data-end="1150" data-start="1105">ігрова механічна клавіатура у форматі 65%</strong>, створена для тих, хто цінує швидку реакцію, ергономіку та можливість кастомізації. Вона чудово підходить для геймінгу та повсякденного використання.</p>    <p data-end="1579" data-start="1302">Клавіатура оснащена <strong data-end="1361" data-start="1322">механічними перемикачами Red Switch</strong>, які забезпечують плавний хід і швидке спрацювання без тактильного опору — ідеально для динамічних ігор. Підтримка <strong data-end="1489" data-start="1477">Hot-Swap</strong> дозволяє замінювати перемикачі без пайки, підлаштовуючи клавіатуру під власні вподобання.</p>    <p data-end="1851" data-start="1581">Особливістю моделі є <strong data-end="1644" data-start="1602">RGB-панель з 17 режимами підсвічування</strong>, яка створює яскраву атмосферу та додає унікального вигляду сетапу. Компактний корпус і <strong data-end="1769" data-start="1733">зручний ремінець для перенесення</strong> роблять AJAZZ NK68 практичним вибором для користувачів, яким важлива мобільність.</p>    <div data-end="1885" data-start="1853"><strong data-end="1885" data-start="1858">Основні характеристики:</strong><br data-end="1920" data-start="1917" />  — Формат: 65%<br data-end="1936" data-start="1933" />  — Тип: механічна ігрова клавіатура<br data-end="1973" data-start="1970" />  — Перемикачі: Red Switch<br data-end="2000" data-start="1997" />  — Hot-Swap: так<br data-end="2018" data-start="2015" />  — Підсвітка: RGB-панель, 17 режимів<br data-end="2056" data-start="2053" />  — Особливості: ремінець для перенесення</div></description_ua>
-        <description_ru><p><strong>AJAZZ NK68 – </strong>це стильна і компактна ігрова механічна клавіатура у форматі 65%, призначена для тих, хто цінує швидку реакцію, ергономіку і можливість кастомізації. Вона відмінно підходить для геймінгу і повсякденного використання.</p>    <p>Клавіатура оснащена механічними перемикачами Red Switch, що забезпечують плавний хід і швидке спрацьовування без тактильного опору – ідеально для динамічних ігор. Підтримка Hot-Swap дозволяє замінювати перемикачі без пайки, підлаштовуючи клавіатуру під свої уподобання.</p>    <p>Особливістю моделі є RGB-панель з 17 режимами підсвічування, яка створює яскраву атмосферу і надає унікальний вигляд сетапу. Компактний корпус і зручний ремінець для перенесення роблять AJAZZ NK68 практичним вибором для користувачів, яким важлива мобільність.</p>    <p><strong>Основні характеристики:</strong></p>    <p>- Формат: 65%</p>    <p>- Тип: ігрова клавіатура</p>    <p>- Перемикачі: Red Switch</p>    <p>- Hot-Swap: так</p>    <p>- Підсвічування: RGB-панель, 17 режимів</p>    <p>- Особливості: ремінець для перенесення</p></description_ru>
-        <price>1399</price>
-        <categoryId>1082</categoryId>
-        <vendor>Ajazz</vendor>
-        <picture>https://techgleam.com.ua/content/images/33/grova-mexanchna-drotova-klavatura-ajazz-nk68-red-switch-65-rgb-black-48496210488854_%2Ba4b1fba4e1.jpg</picture>
-        <picture>https://techgleam.com.ua/content/images/33/grova-mexanchna-drotova-klavatura-ajazz-nk68-red-switch-65-rgb-black-52875889899837_%2B0aee207922.jpg</picture>
-        <picture>https://techgleam.com.ua/content/images/33/grova-mexanchna-drotova-klavatura-ajazz-nk68-red-switch-65-rgb-black-92993804183153_%2Bc64908fabb.jpg</picture>
-        <picture>https://techgleam.com.ua/content/images/33/grova-mexanchna-drotova-klavatura-ajazz-nk68-red-switch-65-rgb-black-11179709580023_%2B5b9ce0bbfc.jpg</picture>
-        <param name="Гарантія">3 місяці</param>
-        <param name="Колір">Чорний</param>
-        <param name="Конструкція клавіш">Механічна</param>
-        <param name="Підключення">Дротове</param>
-        <param name="Інтерфейс підключення">USB Type-C</param>
-        <param name="Розкладка">Eng</param>
-        <param name="Форм-фактор">Компактні</param>
-        <param name="Колір підсвічування">RGB</param>
-        <param name="Підсвічування клавіш">Є</param>
-        <param name="Матеріал корпусу">Пластик</param>
-        <param name="Сумісність з ОС">Windows</param>
-        <param name="Сумісність з ОС">Mac OS</param>
-        <param name="Сумісність з ОС">Linux</param>
-        <param name="Стан">Новий</param>
-        <param name="Комплектація">Клавіатура</param>
-        <param name="Призначення">Для ПК</param>
-        <param name="Вид">Ігрові</param>
-        <country>Китай</country>
       </offer>
       <offer id="1737" available="true">
         <availability_status>available</availability_status>
@@ -10723,6 +10664,33 @@
         <param name="Тип">Ігрові (геймерські)</param>
         <country>Китай</country>
       </offer>
+      <offer id="1597" available="false">
+        <availability_status>temporarily_unavailable</availability_status>
+        <name_ua>Ігрова бездротова мишка VGN VXE R1 SE+ / Три режими підключення / Сенсор Pixart PAW3395 SE / 18000 DPI / White</name_ua>
+        <name_ru>Игровая беспроводная мышка VGN VXE R1 SE+ / Три режима подключения / Сенсор Pixart PAW3395 SE / 18000 DPI / White</name_ru>
+        <description_ua><p data-end="470" data-start="179"><strong data-end="203" data-start="179">VGN VXE R1 SE+ </strong> — легка і точна ігрова мишка з <strong data-end="268" data-start="235">потрійним режимом підключення</strong>: <strong data-end="307" data-start="270">Bluetooth / 2.4 ГГц (донгл) / USB</strong>. Усередині — сенсор <strong data-end="349" data-start="328">PixArt PAW3395 SE</strong> з максимальною роздільною здатністю <strong data-end="403" data-start="386">до 18 000 DPI</strong>, що дає плавне й стабільне відстеження для FPS та швидких шутерів.</p>    <p data-end="795" data-start="472">Модель оснащена <strong data-end="512" data-start="488">акумулятором 520 mAh</strong>, а також підтримує підвищену швидкість бездротового відгуку <strong data-end="587" data-start="573">до 2000 Гц</strong> (за характеристиками). Є <strong data-end="639" data-start="613">6 програмованих кнопок</strong>, а в комплекті — <strong data-end="691" data-start="657">паракордовий USB Type-C кабель</strong>, <strong data-end="720" data-start="693">передавач/донгл 1000 Гц</strong> та інструкція. Форм-фактор — <strong data-end="775" data-start="750">середній (105–120 мм)</strong>, колір — <strong data-end="794" data-start="785">білий</strong>.</p>    <p data-end="818" data-start="797"><strong data-end="818" data-start="797">Ключові переваги:</strong></p>    <ul data-end="1061" data-start="819">   <li data-end="862" data-start="819">   <p data-end="862" data-start="821"><strong data-end="834" data-start="821">Tri-Mode:</strong> Bluetooth / 2.4 ГГц / USB</p>   </li>   <li data-end="908" data-start="863">   <p data-end="908" data-start="865">Сенсор <strong data-end="886" data-start="872">PAW3395 SE</strong> — <strong data-end="906" data-start="889">до 18 000 DPI</strong></p>   </li>   <li data-end="956" data-start="909">   <p data-end="956" data-start="911"><strong data-end="942" data-start="911">Wireless polling до 2000 Гц</strong> (за заявою)</p>   </li>   <li data-end="987" data-start="957">   <p data-end="987" data-start="959"><strong data-end="985" data-start="959">6 програмованих кнопок</strong></p>   </li>   <li data-end="1014" data-start="988">   <p data-end="1014" data-start="990">Акумулятор <strong data-end="1012" data-start="1001">520 mAh</strong></p>   </li>   <li data-end="1061" data-start="1015">   <p data-end="1061" data-start="1017">Комплект: паракорд USB-C + донгл <strong data-end="1061" data-start="1050">1000 Гц</strong></p>   </li>  </ul>    <p data-end="1095" data-start="1063"><strong data-end="1095" data-start="1063">Характеристики (зі скрінів):</strong></p>    <ul data-end="1499" data-start="1096">   <li data-end="1124" data-start="1096">   <p data-end="1124" data-start="1098">Модель: <strong data-end="1124" data-start="1106">VGN VXE R1 SE+</strong></p>   </li>   <li data-end="1143" data-start="1125">   <p data-end="1143" data-start="1127">Колір: <strong data-end="1143" data-start="1134">Білий</strong></p>   </li>   <li data-end="1202" data-start="1144">   <p data-end="1202" data-start="1146">Підключення: <strong data-end="1174" data-start="1159">комбіноване</strong> (Bluetooth / USB / 2.4 ГГц)</p>   </li>   <li data-end="1234" data-start="1203">   <p data-end="1234" data-start="1205">Сенсор: <strong data-end="1234" data-start="1213">PixArt PAW3395 SE</strong></p>   </li>   <li data-end="1258" data-start="1235">   <p data-end="1258" data-start="1237">Макс. DPI: <strong data-end="1258" data-start="1248">18 000</strong></p>   </li>   <li data-end="1288" data-start="1259">   <p data-end="1288" data-start="1261">Кнопки: <strong data-end="1274" data-start="1269">6</strong>, програмовані</p>   </li>   <li data-end="1330" data-start="1289">   <p data-end="1330" data-start="1291">Акумулятор: <strong data-end="1314" data-start="1303">520 mAh</strong> (пропрієтарний)</p>   </li>   <li data-end="1358" data-start="1331">   <p data-end="1358" data-start="1333">Тип датчика: <strong data-end="1358" data-start="1346">оптичний</strong></p>   </li>   <li data-end="1435" data-start="1359">   <p data-end="1435" data-start="1361">Країна-виробник: <strong data-end="1464" data-start="1455">Китай</strong></p>   </li>   <li data-end="1499" data-start="1465">   <p data-end="1499" data-start="1467">Розмір: <strong data-end="1499" data-start="1475">середня (105–120 мм)</strong></p>   </li>  </ul></description_ua>
+        <description_ru><p data-end="1778" data-start="1526"><strong data-end="1550" data-start="1526">VGN VXE R1 SE+</strong> — лёгкая и точная игровая мышь с <strong data-end="1615" data-start="1584">тройным режимом подключения</strong>: <strong data-end="1654" data-start="1617">Bluetooth / 2.4 ГГц (донгл) / USB</strong>. Сенсор <strong data-end="1684" data-start="1663">PixArt PAW3395 SE</strong> обеспечивает разрешение <strong data-end="1726" data-start="1709">до 18 000 DPI</strong> и стабильное отслеживание для FPS и динамичных игр.</p>    <p data-end="2062" data-start="1780">Встроенный аккумулятор <strong data-end="1814" data-start="1803">520 mAh</strong>, поддержка ускоренного беспроводного отклика <strong data-end="1874" data-start="1860">до 2000 Гц</strong> (по характеристикам), <strong data-end="1925" data-start="1897">6 программируемых кнопок</strong>. В комплекте — <strong data-end="1975" data-start="1941">паракордовый кабель USB Type-C</strong>, <strong data-end="1994" data-start="1977">донгл 1000 Гц</strong> и руководство. Размер — <strong data-end="2043" data-start="2019">средний (105–120 мм)</strong>, цвет — <strong data-end="2061" data-start="2052">белый</strong>.</p>    <p data-end="2081" data-start="2064"><strong data-end="2081" data-start="2064">Преимущества:</strong></p>    <ul data-end="2330" data-start="2082">   <li data-end="2125" data-start="2082">   <p data-end="2125" data-start="2084"><strong data-end="2097" data-start="2084">Tri-Mode:</strong> Bluetooth / 2.4 ГГц / USB</p>   </li>   <li data-end="2171" data-start="2126">   <p data-end="2171" data-start="2128">Сенсор <strong data-end="2149" data-start="2135">PAW3395 SE</strong> — <strong data-end="2169" data-start="2152">до 18 000 DPI</strong></p>   </li>   <li data-end="2222" data-start="2172">   <p data-end="2222" data-start="2174"><strong data-end="2205" data-start="2174">Wireless polling до 2000 Гц</strong> (по заявлению)</p>   </li>   <li data-end="2255" data-start="2223">   <p data-end="2255" data-start="2225"><strong data-end="2253" data-start="2225">6 программируемых кнопок</strong></p>   </li>   <li data-end="2283" data-start="2256">   <p data-end="2283" data-start="2258">Аккумулятор <strong data-end="2281" data-start="2270">520 mAh</strong></p>   </li>  </ul></description_ru>
+        <price>1299</price>
+        <old_price>1699</old_price>
+        <categoryId>1084</categoryId>
+        <vendor>VGN</vendor>
+        <picture>https://techgleam.com.ua/content/images/48/igrovaja-besprovodnaja-myshka-vgn-vxe-r1-se-tri-rezhima-podkluchenija-sensor-pixart-paw3395-se-18000-dpi-white-68515539796854_%2B731c100c8e.jpg</picture>
+        <param name="Гарантія">1 місяць</param>
+        <param name="Колір">Білий</param>
+        <param name="Підключення">Комбіноване</param>
+        <param name="Сумісність з ОС">Microsoft Windows</param>
+        <param name="Сумісність з ОС">Mac OS</param>
+        <param name="Сумісність з ОС">Linux</param>
+        <param name="Кількість кнопок миші">6</param>
+        <param name="Тип датчика">Оптичний</param>
+        <param name="Інтерфейс підключення">Bluetooth</param>
+        <param name="Інтерфейс підключення">Радіоінтерфейс</param>
+        <param name="Інтерфейс підключення">USB</param>
+        <param name="Роздільна здатність сенсора">16001 - 20000 dpi</param>
+        <param name="Стан">Новий</param>
+        <param name="Тип">Ігрові (геймерські)</param>
+        <country>Китай</country>
+      </offer>
       <offer id="1598" available="false">
         <availability_status>temporarily_unavailable</availability_status>
         <name_ua>Ігрова бездротова мишка Mchose G7 / Три режими підключення / Сенсор PixArt PAW3311 / 12000DPI / White</name_ua>
@@ -12523,6 +12491,38 @@
         <param name="Підсвічування клавіш">Є</param>
         <param name="Матеріал корпусу">Пластик</param>
         <param name="Живлення">Акумулятор</param>
+        <param name="Сумісність з ОС">Windows</param>
+        <param name="Сумісність з ОС">Mac OS</param>
+        <param name="Сумісність з ОС">Linux</param>
+        <param name="Стан">Новий</param>
+        <param name="Комплектація">Клавіатура</param>
+        <param name="Призначення">Для ПК</param>
+        <param name="Вид">Ігрові</param>
+        <country>Китай</country>
+      </offer>
+      <offer id="1732" available="false">
+        <availability_status>temporarily_unavailable</availability_status>
+        <name_ua>Ігрова механічна дротова клавіатура Ajazz NK68 / Red Switch / 65% / RGB / Black</name_ua>
+        <name_ru>Игровая механическая проводная клавиатура Ajazz NK68 / Red Switch / 65% / RGB / Black</name_ru>
+        <description_ua><p data-end="1300" data-start="1064"><strong data-end="1078" data-start="1064">AJAZZ NK68</strong> — це стильна та компактна <strong data-end="1150" data-start="1105">ігрова механічна клавіатура у форматі 65%</strong>, створена для тих, хто цінує швидку реакцію, ергономіку та можливість кастомізації. Вона чудово підходить для геймінгу та повсякденного використання.</p>    <p data-end="1579" data-start="1302">Клавіатура оснащена <strong data-end="1361" data-start="1322">механічними перемикачами Red Switch</strong>, які забезпечують плавний хід і швидке спрацювання без тактильного опору — ідеально для динамічних ігор. Підтримка <strong data-end="1489" data-start="1477">Hot-Swap</strong> дозволяє замінювати перемикачі без пайки, підлаштовуючи клавіатуру під власні вподобання.</p>    <p data-end="1851" data-start="1581">Особливістю моделі є <strong data-end="1644" data-start="1602">RGB-панель з 17 режимами підсвічування</strong>, яка створює яскраву атмосферу та додає унікального вигляду сетапу. Компактний корпус і <strong data-end="1769" data-start="1733">зручний ремінець для перенесення</strong> роблять AJAZZ NK68 практичним вибором для користувачів, яким важлива мобільність.</p>    <div data-end="1885" data-start="1853"><strong data-end="1885" data-start="1858">Основні характеристики:</strong><br data-end="1920" data-start="1917" />  — Формат: 65%<br data-end="1936" data-start="1933" />  — Тип: механічна ігрова клавіатура<br data-end="1973" data-start="1970" />  — Перемикачі: Red Switch<br data-end="2000" data-start="1997" />  — Hot-Swap: так<br data-end="2018" data-start="2015" />  — Підсвітка: RGB-панель, 17 режимів<br data-end="2056" data-start="2053" />  — Особливості: ремінець для перенесення</div></description_ua>
+        <description_ru><p><strong>AJAZZ NK68 – </strong>це стильна і компактна ігрова механічна клавіатура у форматі 65%, призначена для тих, хто цінує швидку реакцію, ергономіку і можливість кастомізації. Вона відмінно підходить для геймінгу і повсякденного використання.</p>    <p>Клавіатура оснащена механічними перемикачами Red Switch, що забезпечують плавний хід і швидке спрацьовування без тактильного опору – ідеально для динамічних ігор. Підтримка Hot-Swap дозволяє замінювати перемикачі без пайки, підлаштовуючи клавіатуру під свої уподобання.</p>    <p>Особливістю моделі є RGB-панель з 17 режимами підсвічування, яка створює яскраву атмосферу і надає унікальний вигляд сетапу. Компактний корпус і зручний ремінець для перенесення роблять AJAZZ NK68 практичним вибором для користувачів, яким важлива мобільність.</p>    <p><strong>Основні характеристики:</strong></p>    <p>- Формат: 65%</p>    <p>- Тип: ігрова клавіатура</p>    <p>- Перемикачі: Red Switch</p>    <p>- Hot-Swap: так</p>    <p>- Підсвічування: RGB-панель, 17 режимів</p>    <p>- Особливості: ремінець для перенесення</p></description_ru>
+        <price>1399</price>
+        <categoryId>1082</categoryId>
+        <vendor>Ajazz</vendor>
+        <picture>https://techgleam.com.ua/content/images/33/grova-mexanchna-drotova-klavatura-ajazz-nk68-red-switch-65-rgb-black-48496210488854_%2Ba4b1fba4e1.jpg</picture>
+        <picture>https://techgleam.com.ua/content/images/33/grova-mexanchna-drotova-klavatura-ajazz-nk68-red-switch-65-rgb-black-52875889899837_%2B0aee207922.jpg</picture>
+        <picture>https://techgleam.com.ua/content/images/33/grova-mexanchna-drotova-klavatura-ajazz-nk68-red-switch-65-rgb-black-92993804183153_%2Bc64908fabb.jpg</picture>
+        <picture>https://techgleam.com.ua/content/images/33/grova-mexanchna-drotova-klavatura-ajazz-nk68-red-switch-65-rgb-black-11179709580023_%2B5b9ce0bbfc.jpg</picture>
+        <param name="Гарантія">3 місяці</param>
+        <param name="Колір">Чорний</param>
+        <param name="Конструкція клавіш">Механічна</param>
+        <param name="Підключення">Дротове</param>
+        <param name="Інтерфейс підключення">USB Type-C</param>
+        <param name="Розкладка">Eng</param>
+        <param name="Форм-фактор">Компактні</param>
+        <param name="Колір підсвічування">RGB</param>
+        <param name="Підсвічування клавіш">Є</param>
+        <param name="Матеріал корпусу">Пластик</param>
         <param name="Сумісність з ОС">Windows</param>
         <param name="Сумісність з ОС">Mac OS</param>
         <param name="Сумісність з ОС">Linux</param>
@@ -15616,8 +15616,8 @@
         <param name="Призначення">Геймерські</param>
         <country>Китай</country>
       </offer>
-      <offer id="1419" available="true">
-        <availability_status>available</availability_status>
+      <offer id="1419" available="false">
+        <availability_status>temporarily_unavailable</availability_status>
         <name_ua>Ігрова гарнітура FIFINE H9 USB / Jack 3.5 мм / 7.1 Surround / Знімний мікрофон</name_ua>
         <name_ru>Игровая гарнитура FIFINE H9 USB / Jack 3.5 мм / 7.1 Surround / Съемный микрофон</name_ru>
         <description_ua><p data-end="1670" data-start="1408"><strong data-end="1421" data-start="1408">FIFINE H9</strong> — це універсальна <strong data-end="1460" data-start="1440">ігрова гарнітура</strong> для ПК, консолей та мобільних пристроїв. Вона підтримує <strong data-end="1561" data-start="1517">два типи підключення: USB та Jack 3.5 мм</strong>, що дозволяє використовувати навушники з Windows, Mac OS, PlayStation, Xbox, Nintendo Switch та смартфонами.</p>    <p data-end="1866" data-start="1672">Потужні <strong data-end="1698" data-start="1680">50-мм динаміки</strong> з частотним діапазоном <strong data-end="1740" data-start="1722">20 Гц – 20 кГц</strong> забезпечують насичений звук і глибокі баси, а підтримка <strong data-end="1833" data-start="1797">віртуального обʼємного звуку 7.1</strong> покращує позиціонування в іграх.</p>    <p data-end="2069" data-start="1868">Закрите акустичне оформлення ефективно ізолює зовнішні шуми, створюючи повне занурення у гру. <strong data-end="2005" data-start="1962">Конденсаторний однонаправлений мікрофон</strong> чітко передає голос без сторонніх перешкод та легко знімається.</p>    <p data-end="2195" data-start="2071">У комплекті передбачений <strong data-end="2134" data-start="2096">USB-перехідник з пультом керування</strong>, що дозволяє швидко регулювати гучність і вимикати мікрофон.</p>    <p data-end="2295" data-start="2197"><strong data-end="2210" data-start="2197">FIFINE H9</strong> — ідеальний вибір для геймерів, які цінують універсальність, комфорт і якісний звук.</p></description_ua>
@@ -16212,8 +16212,8 @@
         <param name="Призначення">Геймерські</param>
         <country>Китай</country>
       </offer>
-      <offer id="1694" available="true">
-        <availability_status>available</availability_status>
+      <offer id="1694" available="false">
+        <availability_status>temporarily_unavailable</availability_status>
         <name_ua>Ігрові бездротові навушники Mchose X9 / Три режими підключення / 2.4GHz Wireless / Type-C Wireless / Bluetooth 5.3 / Black</name_ua>
         <name_ru>Игровые беспроводные наушники Mchose X9 / Три режима подключения / 2.4GHz Wireless / Type-C Wireless / Bluetooth 5.3 / Black</name_ru>
         <description_ua><p data-end="385" data-start="46"><strong>MCHOSE X9  </strong>— це бездротові ігрові навушники, створені для комфортного геймінгу, спілкування та щоденного використання на різних пристроях. Модель поєднує об’ємне звучання, низьку затримку, тривалу автономність і широкий вибір режимів підключення, що робить її універсальним рішенням для ПК, консолей і смартфонів.</p>    <p data-end="744" data-start="387">Навушники оснащені 53-мм драйверами з алюмінієвим покриттям і аудіочипом C-Media Pro-Grade, завдяки чому забезпечують виразне та насичене звучання. Підтримка 7.1 surround sound особливо корисна в шутерах та інших іграх, де важливо точно визначати напрямок звуку. Частотний діапазон навушників становить 20–20000 Гц, чутливість — 113±3 дБ, а опір — 32Ω ±15%.</p>    <p data-end="1085" data-start="746">MCHOSE X9 підтримують кілька варіантів підключення: дротове, 2.4 ГГц, Type-C wireless і Bluetooth 5.3. У режимі 2.4 ГГц затримка становить лише 15 мс, що добре підходить для динамічних ігор. Bluetooth-з’єднання працює на відстані до 40 м, а сумісність із ПК, PS, Switch і телефонами робить модель зручною для різних сценаріїв використання.</p>    <p data-end="1480" data-start="1087">Навушники оснащені мікрофоном з AI Noise-Cancelling, який допомагає чіткіше передавати голос під час гри, дзвінків або стримів. Акумулятор ємністю 2000 мАг забезпечує до 200 годин роботи в Bluetooth-режимі та до 130 годин у режимі 2.4 ГГц. Конструкція вагою близько 300 г доповнена регульованим алюмінієвим наголів’ям і амбушурами 52 × 66 мм для комфортного використання протягом довгого часу.</p>    <p data-end="1644" data-start="1482">Модель також підтримує RGB-підсвітку з music sync, налаштування еквалайзера через MCHOSE M HUB і OTA-оновлення прошивки, що додає більше гнучкості у використанні.</p>    <p data-end="1669" data-start="1646"><strong data-end="1667" data-start="1646">Основні переваги:</strong></p>    <ul data-end="2439" data-start="1670">   <li data-end="1712" data-section-id="tkd16o" data-start="1670">53-мм драйвери з алюмінієвим покриттям</li>   <li data-end="1743" data-section-id="uzrv20" data-start="1713">Аудіочип C-Media Pro-Grade</li>   <li data-end="1768" data-section-id="1xdmyh4" data-start="1744">Об’ємне звучання 7.1</li>   <li data-end="1803" data-section-id="1jh9phj" data-start="1769">Мікрофон з AI Noise-Cancelling</li>   <li data-end="1869" data-section-id="2hqxja" data-start="1804">Підключення: дротове, 2.4 ГГц, Type-C wireless, Bluetooth 5.3</li>   <li data-end="1912" data-section-id="14mrvgy" data-start="1870">Низька затримка 15 мс у режимі 2.4 ГГц</li>   <li data-end="1951" data-section-id="dmi8v1" data-start="1913">Радіус Bluetooth-з’єднання до 40 м</li>   <li data-end="1996" data-section-id="12ws6fu" data-start="1952">Сумісність з ПК, PS, Switch і телефонами</li>   <li data-end="2042" data-section-id="15mqwfg" data-start="1997">Частотний діапазон навушників 20–20000 Гц</li>   <li data-end="2077" data-section-id="1x8t33x" data-start="2043">Чутливість навушників 113±3 дБ</li>   <li data-end="2095" data-section-id="chwhs7" data-start="2078">Опір 32Ω ±15%</li>   <li data-end="2140" data-section-id="154d1oz" data-start="2096">Частотний діапазон мікрофона 100–8000 Гц</li>   <li data-end="2174" data-section-id="gih3em" data-start="2141">Чутливість мікрофона -38±3 дБ</li>   <li data-end="2198" data-section-id="on2c3v" data-start="2175">Акумулятор 2000 мАг</li>   <li data-end="2241" data-section-id="1ap956n" data-start="2199">До 200 годин роботи в Bluetooth-режимі</li>   <li data-end="2282" data-section-id="1ab8mga" data-start="2242">До 130 годин роботи в режимі 2.4 ГГц</li>   <li data-end="2305" data-section-id="10hc9fo" data-start="2283">Вага близько 300 г</li>   <li data-end="2342" data-section-id="36j2ds" data-start="2306">Регульоване алюмінієве наголів’я</li>   <li data-end="2373" data-section-id="uuoyfn" data-start="2343">RGB-підсвітка з music sync</li>   <li data-end="2412" data-section-id="173jx1f" data-start="2374">Налаштування EQ через MCHOSE M HUB</li>   <li data-end="2439" data-section-id="8rtfsg" data-start="2413">OTA-оновлення прошивки</li>  </ul></description_ua>
