@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<yml_catalog date="2026-07-25 03:23">
+<yml_catalog date="2026-07-25 04:23">
   <shop>
     <categories>
       <category id="1082" portal_id="1839">Клавіатури</category>
@@ -658,41 +658,6 @@
         <param name="Гарантія">1 місяць</param>
         <param name="Колір">Чорний</param>
         <param name="Конструкція клавіш">Магнітна</param>
-        <param name="Підключення">Дротове</param>
-        <param name="Інтерфейс підключення">USB Type-C</param>
-        <param name="Розкладка">Eng</param>
-        <param name="Форм-фактор">Компактні</param>
-        <param name="Колір підсвічування">RGB</param>
-        <param name="Підсвічування клавіш">Є</param>
-        <param name="Матеріал корпусу">Пластик</param>
-        <param name="Сумісність з ОС">Windows</param>
-        <param name="Сумісність з ОС">Mac OS</param>
-        <param name="Сумісність з ОС">Linux</param>
-        <param name="Стан">Новий</param>
-        <param name="Комплектація">Клавіатура</param>
-        <param name="Призначення">Для ПК</param>
-        <param name="Вид">Ігрові</param>
-        <country>Китай</country>
-      </offer>
-      <offer id="1029" available="true">
-        <availability_status>available</availability_status>
-        <name_ua>Ігрова механічна дротова клавіатура Ajazz NK68 / Red Switch / 65% / RGB / White Lines</name_ua>
-        <name_ru>Игровая механическая проводная клавиатура Ajazz NK68 / Red Switch / 65% / RGB / White Lines</name_ru>
-        <description_ua><p data-end="1300" data-start="1064"><strong data-end="1078" data-start="1064">AJAZZ NK68</strong> — це стильна та компактна <strong data-end="1150" data-start="1105">ігрова механічна клавіатура у форматі 65%</strong>, створена для тих, хто цінує швидку реакцію, ергономіку та можливість кастомізації. Вона чудово підходить для геймінгу та повсякденного використання.</p>    <p data-end="1579" data-start="1302">Клавіатура оснащена <strong data-end="1361" data-start="1322">механічними перемикачами Red Switch</strong>, які забезпечують плавний хід і швидке спрацювання без тактильного опору — ідеально для динамічних ігор. Підтримка <strong data-end="1489" data-start="1477">Hot-Swap</strong> дозволяє замінювати перемикачі без пайки, підлаштовуючи клавіатуру під власні вподобання.</p>    <p data-end="1851" data-start="1581">Особливістю моделі є <strong data-end="1644" data-start="1602">RGB-панель з 17 режимами підсвічування</strong>, яка створює яскраву атмосферу та додає унікального вигляду сетапу. Компактний корпус і <strong data-end="1769" data-start="1733">зручний ремінець для перенесення</strong> роблять AJAZZ NK68 практичним вибором для користувачів, яким важлива мобільність.</p>    <div data-end="1885" data-start="1853"><strong data-end="1885" data-start="1858">Основні характеристики:</strong><br data-end="1920" data-start="1917" />  — Формат: 65%<br data-end="1936" data-start="1933" />  — Тип: механічна ігрова клавіатура<br data-end="1973" data-start="1970" />  — Перемикачі: Red Switch<br data-end="2000" data-start="1997" />  — Hot-Swap: так<br data-end="2018" data-start="2015" />  — Підсвітка: RGB-панель, 17 режимів<br data-end="2056" data-start="2053" />  — Особливості: ремінець для перенесення</div></description_ua>
-        <description_ru><p><strong>AJAZZ NK68 – </strong>це стильна і компактна ігрова механічна клавіатура у форматі 65%, призначена для тих, хто цінує швидку реакцію, ергономіку і можливість кастомізації. Вона відмінно підходить для геймінгу і повсякденного використання.</p>    <p>Клавіатура оснащена механічними перемикачами Red Switch, що забезпечують плавний хід і швидке спрацьовування без тактильного опору – ідеально для динамічних ігор. Підтримка Hot-Swap дозволяє замінювати перемикачі без пайки, підлаштовуючи клавіатуру під свої уподобання.</p>    <p>Особливістю моделі є RGB-панель з 17 режимами підсвічування, яка створює яскраву атмосферу і надає унікальний вигляд сетапу. Компактний корпус і зручний ремінець для перенесення роблять AJAZZ NK68 практичним вибором для користувачів, яким важлива мобільність.</p>    <p><strong>Основні характеристики:</strong></p>    <p>- Формат: 65%</p>    <p>- Тип: ігрова клавіатура</p>    <p>- Перемикачі: Red Switch</p>    <p>- Hot-Swap: так</p>    <p>- Підсвічування: RGB-панель, 17 режимів</p>    <p>- Особливості: ремінець для перенесення</p></description_ru>
-        <price>1399</price>
-        <categoryId>1082</categoryId>
-        <vendor>Ajazz</vendor>
-        <picture>https://www.techgleam.com.ua/content/images/30/igrovaja-mexanicheskaja-provodnaja-klaviatura-ajazz-nk68-red-switch-65-rgb-white-75177137878157_%2B5405458094.jpg</picture>
-        <picture>https://www.techgleam.com.ua/content/images/30/igrovaja-mexanicheskaja-provodnaja-klaviatura-ajazz-nk68-red-switch-65-rgb-white-38339492683805_%2B2bbd15d24a.jpg</picture>
-        <picture>https://www.techgleam.com.ua/content/images/30/igrovaja-mexanicheskaja-provodnaja-klaviatura-ajazz-nk68-red-switch-65-rgb-white-89910857851433_%2B3a997ee80b.jpg</picture>
-        <picture>https://www.techgleam.com.ua/content/images/30/igrovaja-mexanicheskaja-provodnaja-klaviatura-ajazz-nk68-red-switch-65-rgb-white-94337159510751_%2Bf10602753d.jpg</picture>
-        <picture>https://www.techgleam.com.ua/content/images/30/igrovaja-mexanicheskaja-provodnaja-klaviatura-ajazz-nk68-red-switch-65-rgb-white-35797414678795_%2Bec92d941f5.jpg</picture>
-        <picture>https://www.techgleam.com.ua/content/images/30/igrovaja-mexanicheskaja-provodnaja-klaviatura-ajazz-nk68-red-switch-65-rgb-white-48670333068771_%2Bf56ab99e97.jpg</picture>
-        <picture>https://www.techgleam.com.ua/content/images/30/igrovaja-mexanicheskaja-provodnaja-klaviatura-ajazz-nk68-red-switch-65-rgb-white-48684924409758_%2Bfe3dc3beff.jpg</picture>
-        <param name="Гарантія">3 місяці</param>
-        <param name="Колір">Білий</param>
-        <param name="Конструкція клавіш">Механічна</param>
         <param name="Підключення">Дротове</param>
         <param name="Інтерфейс підключення">USB Type-C</param>
         <param name="Розкладка">Eng</param>
@@ -2920,6 +2885,37 @@
         <param name="Підсвічування клавіш">Є</param>
         <param name="Матеріал корпусу">Пластик</param>
         <param name="Живлення">Акумулятор</param>
+        <param name="Сумісність з ОС">Windows</param>
+        <param name="Сумісність з ОС">Mac OS</param>
+        <param name="Сумісність з ОС">Linux</param>
+        <param name="Стан">Новий</param>
+        <param name="Комплектація">Клавіатура</param>
+        <param name="Призначення">Для ПК</param>
+        <param name="Вид">Ігрові</param>
+        <country>Китай</country>
+      </offer>
+      <offer id="1921" available="true">
+        <availability_status>available</availability_status>
+        <name_ua>Ігрова дротова магнітна клавіатура ATK 68 V3 HE / Hall Effect / Gateron Jade Pro Switch / 8K / Black</name_ua>
+        <name_ru>Игровая  проводная магнитная клавиатура ATK 68 V3 HE / Hall Effect / Gateron Jade Pro Switch / 8K / Black</name_ru>
+        <description_ua><p><strong>ATK 68 V3 HE</strong> — флагманська магнітна ігрова клавіатура у компактному форматі <strong>65%</strong>, створена для кіберспорту, швидкого відгуку та максимального контролю в іграх. Модель використовує <strong>Hall Effect магнітні перемикачі Gateron Jade Pro</strong>, які забезпечують плавне натискання, високу точність і підтримку Rapid Trigger.</p>    <p>Клавіатура має дротове підключення через <strong>USB-C</strong>, частоту опитування <strong>8000 Гц</strong> і надшвидку частоту сканування <strong>256 кГц</strong>, що дозволяє миттєво реєструвати натискання. Діапазон Rapid Trigger <strong>0.005–3.3 мм</strong> та крок налаштування <strong>0.001 мм</strong> дають можливість дуже точно адаптувати клавіатуру під власний стиль гри.</p>    <p>Корпус виконаний із <strong>CNC алюмінію</strong>, що додає клавіатурі преміального вигляду, міцності та приємної ваги. Внутрішнє наповнення з алюмінієвою пластиною, силіконовим демпфуванням і PORON-піною покращує звук натискання та зменшує небажані вібрації. Кейкапи профілю <strong>Cherry Profile</strong> забезпечують зручну посадку пальців і комфорт під час гри або набору тексту.</p>    <p><strong>Основні характеристики:</strong></p>    <ul data-spread="false">   <li>Тип: магнітна ігрова клавіатура</li>   <li>Формат: <strong>65%</strong></li>   <li>Перемикачі: <strong>Gateron Jade Pro</strong></li>   <li>Тип перемикачів: <strong>Hall Effect / Magnetic</strong></li>   <li>Підключення: <strong>дротове USB-C</strong></li>   <li>Частота опитування: <strong>8000 Гц</strong></li>   <li>Частота сканування: <strong>256 кГц</strong></li>   <li>Rapid Trigger Range: <strong>0.005–3.3 мм</strong></li>   <li>Rapid Trigger Step: <strong>0.001 мм</strong></li>   <li>Корпус: <strong>CNC алюміній</strong></li>   <li>Плата позиціонування: <strong>алюміній</strong></li>   <li>Внутрішнє наповнення: <strong>Silicone Dampening Pad + PORON Bottom Foam</strong></li>   <li>Кейкапи: <strong>Cherry Profile</strong></li>   <li>Підтримка Hot-Swap</li>   <li>Підтримка Music Rhythm</li>   <li>Стабілізатори: попередньо змащені</li>   <li>Орієнтовний розмір: <strong>325 × 115 × 35 мм</strong></li>   <li>Орієнтовна вага: <strong>1.35 кг</strong></li>   <li>Сумісність: <strong>Windows / macOS</strong></li>  </ul></description_ua>
+        <description_ru><p><strong>ATK 68 V3 HE</strong> — флагманская магнитная игровая клавиатура в компактном формате <strong>65%</strong>, созданная для киберспорта, быстрого отклика и максимального контроля в играх. Модель использует <strong>Hall Effect магнитные переключатели Gateron Jade Pro</strong>, которые обеспечивают плавное нажатие, высокую точность и поддержку Rapid Trigger.</p>    <p>Клавиатура имеет проводное подключение через <strong>USB-C</strong>, частоту опроса <strong>8000 Гц</strong> и сверхбыструю частоту сканирования <strong>256 кГц</strong>, что позволяет мгновенно регистрировать нажатия. Диапазон Rapid Trigger <strong>0.005–3.3 мм</strong> и шаг настройки <strong>0.001 мм</strong> дают возможность очень точно адаптировать клавиатуру под собственный стиль игры.</p>    <p>Корпус выполнен из <strong>CNC алюминия</strong>, что добавляет клавиатуре премиальный внешний вид, прочность и приятный вес. Внутреннее наполнение с алюминиевой пластиной, силиконовым демпфированием и PORON-пеной улучшает звук нажатия и уменьшает лишние вибрации. Кейкапы профиля <strong>Cherry Profile</strong> обеспечивают удобную посадку пальцев и комфорт во время игры или набора текста.</p>    <p><strong>Основные характеристики:</strong></p>    <ul data-spread="false">   <li>Тип: магнитная игровая клавиатура</li>   <li>Формат: <strong>65%</strong></li>   <li>Переключатели: <strong>Gateron Jade Pro</strong></li>   <li>Тип переключателей: <strong>Hall Effect / Magnetic</strong></li>   <li>Подключение: <strong>проводное USB-C</strong></li>   <li>Частота опроса: <strong>8000 Гц</strong></li>   <li>Частота сканирования: <strong>256 кГц</strong></li>   <li>Rapid Trigger Range: <strong>0.005–3.3 мм</strong></li>   <li>Rapid Trigger Step: <strong>0.001 мм</strong></li>   <li>Корпус: <strong>CNC алюминий</strong></li>   <li>Позиционная пластина: <strong>алюминий</strong></li>   <li>Внутреннее наполнение: <strong>Silicone Dampening Pad + PORON Bottom Foam</strong></li>   <li>Кейкапы: <strong>Cherry Profile</strong></li>   <li>Поддержка Hot-Swap</li>   <li>Поддержка Music Rhythm</li>   <li>Стабилизаторы: предварительно смазанные</li>   <li>Ориентировочный размер: <strong>325 × 115 × 35 мм</strong></li>   <li>Ориентировочный вес: <strong>1.35 кг</strong></li>   <li>Совместимость: <strong>Windows / macOS</strong></li>  </ul></description_ru>
+        <price>5599</price>
+        <categoryId>1082</categoryId>
+        <vendor>ATK</vendor>
+        <picture>https://www.techgleam.com.ua/content/images/22/grova-drotova-magntna-klavatura-atk-68-v3-he-hall-effect-gateron-jade-pro-switch-8k-black-44272300036470_%2B39056b032f.jpg</picture>
+        <picture>https://www.techgleam.com.ua/content/images/22/grova-drotova-magntna-klavatura-atk-68-v3-he-hall-effect-gateron-jade-pro-switch-8k-black-40067096393507_%2B0adbebc070.jpg</picture>
+        <picture>https://www.techgleam.com.ua/content/images/22/grova-drotova-magntna-klavatura-atk-68-v3-he-hall-effect-gateron-jade-pro-switch-8k-black-61045028486231_%2B4127cd37e5.jpg</picture>
+        <param name="Гарантія">3 місяці</param>
+        <param name="Колір">Чорний</param>
+        <param name="Конструкція клавіш">Магнітна</param>
+        <param name="Підключення">Дротове</param>
+        <param name="Інтерфейс підключення">USB Type-C</param>
+        <param name="Розкладка">Eng</param>
+        <param name="Форм-фактор">Компактні</param>
+        <param name="Колір підсвічування">RGB</param>
+        <param name="Підсвічування клавіш">Є</param>
+        <param name="Матеріал корпусу">Алюміній</param>
         <param name="Сумісність з ОС">Windows</param>
         <param name="Сумісність з ОС">Mac OS</param>
         <param name="Сумісність з ОС">Linux</param>
@@ -8691,6 +8687,41 @@
         <param name="Вид">Ігрові</param>
         <country>Китай</country>
       </offer>
+      <offer id="1029" available="false">
+        <availability_status>temporarily_unavailable</availability_status>
+        <name_ua>Ігрова механічна дротова клавіатура Ajazz NK68 / Red Switch / 65% / RGB / White Lines</name_ua>
+        <name_ru>Игровая механическая проводная клавиатура Ajazz NK68 / Red Switch / 65% / RGB / White Lines</name_ru>
+        <description_ua><p data-end="1300" data-start="1064"><strong data-end="1078" data-start="1064">AJAZZ NK68</strong> — це стильна та компактна <strong data-end="1150" data-start="1105">ігрова механічна клавіатура у форматі 65%</strong>, створена для тих, хто цінує швидку реакцію, ергономіку та можливість кастомізації. Вона чудово підходить для геймінгу та повсякденного використання.</p>    <p data-end="1579" data-start="1302">Клавіатура оснащена <strong data-end="1361" data-start="1322">механічними перемикачами Red Switch</strong>, які забезпечують плавний хід і швидке спрацювання без тактильного опору — ідеально для динамічних ігор. Підтримка <strong data-end="1489" data-start="1477">Hot-Swap</strong> дозволяє замінювати перемикачі без пайки, підлаштовуючи клавіатуру під власні вподобання.</p>    <p data-end="1851" data-start="1581">Особливістю моделі є <strong data-end="1644" data-start="1602">RGB-панель з 17 режимами підсвічування</strong>, яка створює яскраву атмосферу та додає унікального вигляду сетапу. Компактний корпус і <strong data-end="1769" data-start="1733">зручний ремінець для перенесення</strong> роблять AJAZZ NK68 практичним вибором для користувачів, яким важлива мобільність.</p>    <div data-end="1885" data-start="1853"><strong data-end="1885" data-start="1858">Основні характеристики:</strong><br data-end="1920" data-start="1917" />  — Формат: 65%<br data-end="1936" data-start="1933" />  — Тип: механічна ігрова клавіатура<br data-end="1973" data-start="1970" />  — Перемикачі: Red Switch<br data-end="2000" data-start="1997" />  — Hot-Swap: так<br data-end="2018" data-start="2015" />  — Підсвітка: RGB-панель, 17 режимів<br data-end="2056" data-start="2053" />  — Особливості: ремінець для перенесення</div></description_ua>
+        <description_ru><p><strong>AJAZZ NK68 – </strong>це стильна і компактна ігрова механічна клавіатура у форматі 65%, призначена для тих, хто цінує швидку реакцію, ергономіку і можливість кастомізації. Вона відмінно підходить для геймінгу і повсякденного використання.</p>    <p>Клавіатура оснащена механічними перемикачами Red Switch, що забезпечують плавний хід і швидке спрацьовування без тактильного опору – ідеально для динамічних ігор. Підтримка Hot-Swap дозволяє замінювати перемикачі без пайки, підлаштовуючи клавіатуру під свої уподобання.</p>    <p>Особливістю моделі є RGB-панель з 17 режимами підсвічування, яка створює яскраву атмосферу і надає унікальний вигляд сетапу. Компактний корпус і зручний ремінець для перенесення роблять AJAZZ NK68 практичним вибором для користувачів, яким важлива мобільність.</p>    <p><strong>Основні характеристики:</strong></p>    <p>- Формат: 65%</p>    <p>- Тип: ігрова клавіатура</p>    <p>- Перемикачі: Red Switch</p>    <p>- Hot-Swap: так</p>    <p>- Підсвічування: RGB-панель, 17 режимів</p>    <p>- Особливості: ремінець для перенесення</p></description_ru>
+        <price>1399</price>
+        <categoryId>1082</categoryId>
+        <vendor>Ajazz</vendor>
+        <picture>https://www.techgleam.com.ua/content/images/30/igrovaja-mexanicheskaja-provodnaja-klaviatura-ajazz-nk68-red-switch-65-rgb-white-75177137878157_%2B5405458094.jpg</picture>
+        <picture>https://www.techgleam.com.ua/content/images/30/igrovaja-mexanicheskaja-provodnaja-klaviatura-ajazz-nk68-red-switch-65-rgb-white-38339492683805_%2B2bbd15d24a.jpg</picture>
+        <picture>https://www.techgleam.com.ua/content/images/30/igrovaja-mexanicheskaja-provodnaja-klaviatura-ajazz-nk68-red-switch-65-rgb-white-89910857851433_%2B3a997ee80b.jpg</picture>
+        <picture>https://www.techgleam.com.ua/content/images/30/igrovaja-mexanicheskaja-provodnaja-klaviatura-ajazz-nk68-red-switch-65-rgb-white-94337159510751_%2Bf10602753d.jpg</picture>
+        <picture>https://www.techgleam.com.ua/content/images/30/igrovaja-mexanicheskaja-provodnaja-klaviatura-ajazz-nk68-red-switch-65-rgb-white-35797414678795_%2Bec92d941f5.jpg</picture>
+        <picture>https://www.techgleam.com.ua/content/images/30/igrovaja-mexanicheskaja-provodnaja-klaviatura-ajazz-nk68-red-switch-65-rgb-white-48670333068771_%2Bf56ab99e97.jpg</picture>
+        <picture>https://www.techgleam.com.ua/content/images/30/igrovaja-mexanicheskaja-provodnaja-klaviatura-ajazz-nk68-red-switch-65-rgb-white-48684924409758_%2Bfe3dc3beff.jpg</picture>
+        <param name="Гарантія">3 місяці</param>
+        <param name="Колір">Білий</param>
+        <param name="Конструкція клавіш">Механічна</param>
+        <param name="Підключення">Дротове</param>
+        <param name="Інтерфейс підключення">USB Type-C</param>
+        <param name="Розкладка">Eng</param>
+        <param name="Форм-фактор">Компактні</param>
+        <param name="Колір підсвічування">RGB</param>
+        <param name="Підсвічування клавіш">Є</param>
+        <param name="Матеріал корпусу">Пластик</param>
+        <param name="Сумісність з ОС">Windows</param>
+        <param name="Сумісність з ОС">Mac OS</param>
+        <param name="Сумісність з ОС">Linux</param>
+        <param name="Стан">Новий</param>
+        <param name="Комплектація">Клавіатура</param>
+        <param name="Призначення">Для ПК</param>
+        <param name="Вид">Ігрові</param>
+        <country>Китай</country>
+      </offer>
       <offer id="1030" available="false">
         <availability_status>temporarily_unavailable</availability_status>
         <name_ua>Ігрова дротова механічна клавіатура Onikuma G55 / Tea Switch / RGB / 60% / Black</name_ua>
@@ -14407,37 +14438,6 @@
         <param name="Роздільна здатність сенсора">Понад 20000 dpi</param>
         <param name="Стан">Новий</param>
         <param name="Тип">Ігрові (геймерські)</param>
-        <country>Китай</country>
-      </offer>
-      <offer id="1921" available="false">
-        <availability_status>temporarily_unavailable</availability_status>
-        <name_ua>Ігрова дротова магнітна клавіатура ATK 68 V3 HE / Hall Effect / Gateron Jade Pro Switch / 8K / Black</name_ua>
-        <name_ru>Игровая  проводная магнитная клавиатура ATK 68 V3 HE / Hall Effect / Gateron Jade Pro Switch / 8K / Black</name_ru>
-        <description_ua><p><strong>ATK 68 V3 HE</strong> — флагманська магнітна ігрова клавіатура у компактному форматі <strong>65%</strong>, створена для кіберспорту, швидкого відгуку та максимального контролю в іграх. Модель використовує <strong>Hall Effect магнітні перемикачі Gateron Jade Pro</strong>, які забезпечують плавне натискання, високу точність і підтримку Rapid Trigger.</p>    <p>Клавіатура має дротове підключення через <strong>USB-C</strong>, частоту опитування <strong>8000 Гц</strong> і надшвидку частоту сканування <strong>256 кГц</strong>, що дозволяє миттєво реєструвати натискання. Діапазон Rapid Trigger <strong>0.005–3.3 мм</strong> та крок налаштування <strong>0.001 мм</strong> дають можливість дуже точно адаптувати клавіатуру під власний стиль гри.</p>    <p>Корпус виконаний із <strong>CNC алюмінію</strong>, що додає клавіатурі преміального вигляду, міцності та приємної ваги. Внутрішнє наповнення з алюмінієвою пластиною, силіконовим демпфуванням і PORON-піною покращує звук натискання та зменшує небажані вібрації. Кейкапи профілю <strong>Cherry Profile</strong> забезпечують зручну посадку пальців і комфорт під час гри або набору тексту.</p>    <p><strong>Основні характеристики:</strong></p>    <ul data-spread="false">   <li>Тип: магнітна ігрова клавіатура</li>   <li>Формат: <strong>65%</strong></li>   <li>Перемикачі: <strong>Gateron Jade Pro</strong></li>   <li>Тип перемикачів: <strong>Hall Effect / Magnetic</strong></li>   <li>Підключення: <strong>дротове USB-C</strong></li>   <li>Частота опитування: <strong>8000 Гц</strong></li>   <li>Частота сканування: <strong>256 кГц</strong></li>   <li>Rapid Trigger Range: <strong>0.005–3.3 мм</strong></li>   <li>Rapid Trigger Step: <strong>0.001 мм</strong></li>   <li>Корпус: <strong>CNC алюміній</strong></li>   <li>Плата позиціонування: <strong>алюміній</strong></li>   <li>Внутрішнє наповнення: <strong>Silicone Dampening Pad + PORON Bottom Foam</strong></li>   <li>Кейкапи: <strong>Cherry Profile</strong></li>   <li>Підтримка Hot-Swap</li>   <li>Підтримка Music Rhythm</li>   <li>Стабілізатори: попередньо змащені</li>   <li>Орієнтовний розмір: <strong>325 × 115 × 35 мм</strong></li>   <li>Орієнтовна вага: <strong>1.35 кг</strong></li>   <li>Сумісність: <strong>Windows / macOS</strong></li>  </ul></description_ua>
-        <description_ru><p><strong>ATK 68 V3 HE</strong> — флагманская магнитная игровая клавиатура в компактном формате <strong>65%</strong>, созданная для киберспорта, быстрого отклика и максимального контроля в играх. Модель использует <strong>Hall Effect магнитные переключатели Gateron Jade Pro</strong>, которые обеспечивают плавное нажатие, высокую точность и поддержку Rapid Trigger.</p>    <p>Клавиатура имеет проводное подключение через <strong>USB-C</strong>, частоту опроса <strong>8000 Гц</strong> и сверхбыструю частоту сканирования <strong>256 кГц</strong>, что позволяет мгновенно регистрировать нажатия. Диапазон Rapid Trigger <strong>0.005–3.3 мм</strong> и шаг настройки <strong>0.001 мм</strong> дают возможность очень точно адаптировать клавиатуру под собственный стиль игры.</p>    <p>Корпус выполнен из <strong>CNC алюминия</strong>, что добавляет клавиатуре премиальный внешний вид, прочность и приятный вес. Внутреннее наполнение с алюминиевой пластиной, силиконовым демпфированием и PORON-пеной улучшает звук нажатия и уменьшает лишние вибрации. Кейкапы профиля <strong>Cherry Profile</strong> обеспечивают удобную посадку пальцев и комфорт во время игры или набора текста.</p>    <p><strong>Основные характеристики:</strong></p>    <ul data-spread="false">   <li>Тип: магнитная игровая клавиатура</li>   <li>Формат: <strong>65%</strong></li>   <li>Переключатели: <strong>Gateron Jade Pro</strong></li>   <li>Тип переключателей: <strong>Hall Effect / Magnetic</strong></li>   <li>Подключение: <strong>проводное USB-C</strong></li>   <li>Частота опроса: <strong>8000 Гц</strong></li>   <li>Частота сканирования: <strong>256 кГц</strong></li>   <li>Rapid Trigger Range: <strong>0.005–3.3 мм</strong></li>   <li>Rapid Trigger Step: <strong>0.001 мм</strong></li>   <li>Корпус: <strong>CNC алюминий</strong></li>   <li>Позиционная пластина: <strong>алюминий</strong></li>   <li>Внутреннее наполнение: <strong>Silicone Dampening Pad + PORON Bottom Foam</strong></li>   <li>Кейкапы: <strong>Cherry Profile</strong></li>   <li>Поддержка Hot-Swap</li>   <li>Поддержка Music Rhythm</li>   <li>Стабилизаторы: предварительно смазанные</li>   <li>Ориентировочный размер: <strong>325 × 115 × 35 мм</strong></li>   <li>Ориентировочный вес: <strong>1.35 кг</strong></li>   <li>Совместимость: <strong>Windows / macOS</strong></li>  </ul></description_ru>
-        <price>5599</price>
-        <categoryId>1082</categoryId>
-        <vendor>ATK</vendor>
-        <picture>https://www.techgleam.com.ua/content/images/22/grova-drotova-magntna-klavatura-atk-68-v3-he-hall-effect-gateron-jade-pro-switch-8k-black-44272300036470_%2B39056b032f.jpg</picture>
-        <picture>https://www.techgleam.com.ua/content/images/22/grova-drotova-magntna-klavatura-atk-68-v3-he-hall-effect-gateron-jade-pro-switch-8k-black-40067096393507_%2B0adbebc070.jpg</picture>
-        <picture>https://www.techgleam.com.ua/content/images/22/grova-drotova-magntna-klavatura-atk-68-v3-he-hall-effect-gateron-jade-pro-switch-8k-black-61045028486231_%2B4127cd37e5.jpg</picture>
-        <param name="Гарантія">3 місяці</param>
-        <param name="Колір">Чорний</param>
-        <param name="Конструкція клавіш">Магнітна</param>
-        <param name="Підключення">Дротове</param>
-        <param name="Інтерфейс підключення">USB Type-C</param>
-        <param name="Розкладка">Eng</param>
-        <param name="Форм-фактор">Компактні</param>
-        <param name="Колір підсвічування">RGB</param>
-        <param name="Підсвічування клавіш">Є</param>
-        <param name="Матеріал корпусу">Алюміній</param>
-        <param name="Сумісність з ОС">Windows</param>
-        <param name="Сумісність з ОС">Mac OS</param>
-        <param name="Сумісність з ОС">Linux</param>
-        <param name="Стан">Новий</param>
-        <param name="Комплектація">Клавіатура</param>
-        <param name="Призначення">Для ПК</param>
-        <param name="Вид">Ігрові</param>
         <country>Китай</country>
       </offer>
       <offer id="1927" available="false">
