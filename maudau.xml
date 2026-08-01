@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<yml_catalog date="2026-08-01 16:23">
+<yml_catalog date="2026-08-01 17:23">
   <shop>
     <categories>
       <category id="1082" portal_id="1839">Клавіатури</category>
@@ -1962,8 +1962,8 @@
         <param name="Тип">Ігрові (геймерські)</param>
         <country>Китай</country>
       </offer>
-      <offer id="650" available="true">
-        <availability_status>available</availability_status>
+      <offer id="650" available="false">
+        <availability_status>temporarily_unavailable</availability_status>
         <name_ua>Ігрова бездротова миша ATTACK SHARK X11 / Сенсор PAW3311 / 22000 DPI / Док-станція в комплекті / Red</name_ua>
         <name_ru>Игровая беспроводная мышь ATTACK SHARK X11 / Сенсор PAW3311 / 22000 DPI / Док-станция в комплекте / Red</name_ru>
         <description_ua><p><strong>Ігрова мишка ATTACK SHARK X11 — ультралегка миша з магнітною зарядкою </strong></p>    <p>ATTACK SHARK X11 — це стильна та функціональна миша для геймерів, яка поєднує у собі легкість, комфорт та сучасні технології. Завдяки магнітній зарядній станції, вона завжди готова до гри.</p>    <p><strong>Основні характеристики:</strong></p>    <ul>   <li>Тип: Ігрова миша  </li>   <li>Сенсор: PixArt PAW3311  </li>   <li>DPI: До 22 000 DPI (6 рівнів чутливості)  </li>   <li>Підключення: 2.4GHz Wireless / Bluetooth 5.0 / USB-C  </li>   <li>Вага: 63 г  </li>   <li>Перемикачі: HUANO (до 20 млн кліків)  </li>   <li>Енкодер: TTC  </li>   <li>Автономність: До 65 годин роботи  </li>   <li>Час зарядки: 2–3 години  </li>   <li>Форма: Ергономічний корпус без дірок  </li>   <li>Покриття: Приємне на дотик, захист від пилу  </li>   <li>Сумісність: Windows / macOS / Android / Xbox  </li>   <li>Фірмове ПЗ: Налаштування DPI, RGB, polling rate, макроси, кнопки</li>  </ul></description_ua>
