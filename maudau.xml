@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<yml_catalog date="2026-08-03 02:23">
+<yml_catalog date="2026-08-03 04:23">
   <shop>
     <categories>
       <category id="1082" portal_id="1839">Клавіатури</category>
@@ -99,7 +99,7 @@
         <picture>https://techgleam.com.ua/content/images/20/65817139803599_%2Be30527bf9c.jpg</picture>
         <picture>https://techgleam.com.ua/content/images/20/28673482484509_%2B73dd316767.jpg</picture>
         <param name="Гарантія">3 місяці</param>
-        <param name="Колір">Сірий</param>
+        <param name="Колір">Темно-сірий</param>
         <param name="Конструкція клавіш">Магнітна</param>
         <param name="Підключення">Дротове</param>
         <param name="Інтерфейс підключення">USB Type-C</param>
@@ -111,7 +111,6 @@
         <param name="Сумісність з ОС">Windows</param>
         <param name="Сумісність з ОС">Mac OS</param>
         <param name="Сумісність з ОС">Linux</param>
-        <param name="Колір">Темно-сірий</param>
         <param name="Стан">Новий</param>
         <param name="Комплектація">Клавіатура</param>
         <param name="Призначення">Для ПК</param>
@@ -955,7 +954,7 @@
         <picture>https://techgleam.com.ua/content/images/26/igrovaja-mexanicheskaja-provodnaja-klaviatura-ajazz-ak690-68-klavish-hot-swap-rgb-melard-switch-mc-purple-71188297994233_%2B6a32f21b0e.jpg</picture>
         <picture>https://techgleam.com.ua/content/images/26/igrovaja-mexanicheskaja-provodnaja-klaviatura-ajazz-ak690-68-klavish-hot-swap-rgb-melard-switch-mc-purple-18992482868245_%2Bae8892fe75.jpg</picture>
         <param name="Гарантія">1 місяць</param>
-        <param name="Колір">Фіолетовий</param>
+        <param name="Колір">Бузковий</param>
         <param name="Конструкція клавіш">Механічна</param>
         <param name="Підключення">Дротове</param>
         <param name="Інтерфейс підключення">USB Type-C</param>
@@ -967,7 +966,6 @@
         <param name="Сумісність з ОС">Windows</param>
         <param name="Сумісність з ОС">Mac OS</param>
         <param name="Сумісність з ОС">Linux</param>
-        <param name="Колір">Бузковий</param>
         <param name="Стан">Новий</param>
         <param name="Комплектація">Клавіатура</param>
         <param name="Призначення">Для ПК</param>
@@ -1394,7 +1392,7 @@
         <picture>https://techgleam.com.ua/content/images/4/grova-bezdrotova-mishka-ipi-qi-pro-tri-rezhimi-pdkluchennja-42000-dpi-sensor-paw3950-silver-93772015909025_%2B2eb99a06df.png</picture>
         <picture>https://techgleam.com.ua/content/images/4/grova-bezdrotova-mishka-ipi-qi-pro-tri-rezhimi-pdkluchennja-42000-dpi-sensor-paw3950-silver-54723096526168_%2B6954338e50.png</picture>
         <param name="Гарантія">6 місяців</param>
-        <param name="Колір">Сріблястий</param>
+        <param name="Колір">Сірий</param>
         <param name="Підключення">Комбіноване</param>
         <param name="Сумісність з ОС">Microsoft Windows</param>
         <param name="Сумісність з ОС">Mac OS</param>
@@ -1877,7 +1875,7 @@
         <picture>https://techgleam.com.ua/content/images/9/grova-mexanchna-klavatura-kondor-moonlight-x-drotove-pdkluchennja-brown-switch-black-grey-black-51572849674678_%2Bc448826516.jpg</picture>
         <picture>https://techgleam.com.ua/content/images/9/grova-mexanchna-klavatura-kondor-moonlight-x-drotove-pdkluchennja-brown-switch-black-grey-black-62518377539247_%2B592d469feb.jpg</picture>
         <param name="Гарантія">12 місяців</param>
-        <param name="Колір">Сірий</param>
+        <param name="Колір">Темно-сірий</param>
         <param name="Конструкція клавіш">Механічна</param>
         <param name="Підключення">Дротове</param>
         <param name="Інтерфейс підключення">USB Type-C</param>
@@ -1889,7 +1887,6 @@
         <param name="Сумісність з ОС">Windows</param>
         <param name="Сумісність з ОС">Mac OS</param>
         <param name="Сумісність з ОС">Linux</param>
-        <param name="Колір">Темно-сірий</param>
         <param name="Стан">Новий</param>
         <param name="Комплектація">Клавіатура</param>
         <param name="Призначення">Для ПК</param>
@@ -2105,7 +2102,6 @@
         <picture>https://techgleam.com.ua/content/images/25/grova-mexanchna-drotova-klavatura-ajazz-ak690-68-klavsh-hot-swap-rgb-melard-switch-mc-white-blue-59702186543399_%2B6ed811e94f.jpg</picture>
         <picture>https://techgleam.com.ua/content/images/25/grova-mexanchna-drotova-klavatura-ajazz-ak690-68-klavsh-hot-swap-rgb-melard-switch-mc-white-blue-58546030690207_%2B4353e5f26d.jpg</picture>
         <param name="Гарантія">1 місяць</param>
-        <param name="Колір">Білий</param>
         <param name="Конструкція клавіш">Механічна</param>
         <param name="Підключення">Дротове</param>
         <param name="Інтерфейс підключення">USB Type-C</param>
@@ -2828,12 +2824,13 @@
         <vendor>Eweadn</vendor>
         <picture>https://techgleam.com.ua/content/images/11/grova-bezdrotova-mishka-eweadn-s9-ultra-plus-tri-rezhimi-pdkluchennja-sensor-paw3950-42000-dpi-silver-34061434715834_%2B3250ea2ba6.png</picture>
         <param name="Гарантія">3 місяці</param>
-        <param name="Колір">Сріблястий</param>
+        <param name="Колір">Сірий</param>
         <param name="Підключення">Комбіноване</param>
         <param name="Сумісність з ОС">Microsoft Windows</param>
         <param name="Сумісність з ОС">Mac OS</param>
         <param name="Сумісність з ОС">Linux</param>
         <param name="Вага">59 г</param>
+        <param name="Колір">Сріблястий</param>
         <param name="Кількість кнопок миші">6</param>
         <param name="Тип датчика">Оптичний</param>
         <param name="Інтерфейс підключення">Bluetooth</param>
@@ -3210,7 +3207,7 @@
         <picture>https://techgleam.com.ua/content/images/25/grova-bezdrotova-mexanchna-klavatura-attack-shark-x85-engukr-tri-rezhimi-pdkluchennja-white-jade-switch-purple-32564355077672_%2Bd3673c3af3.png</picture>
         <picture>https://techgleam.com.ua/content/images/25/grova-bezdrotova-mexanchna-klavatura-attack-shark-x85-engukr-tri-rezhimi-pdkluchennja-white-jade-switch-purple-98497957899462_%2B6e846df99d.png</picture>
         <param name="Гарантія">3 місяці</param>
-        <param name="Колір">Фіолетовий</param>
+        <param name="Колір">Бузковий</param>
         <param name="Конструкція клавіш">Механічна</param>
         <param name="Підключення">Комбіноване</param>
         <param name="Інтерфейс підключення">Bluetooth</param>
@@ -3225,7 +3222,6 @@
         <param name="Сумісність з ОС">Windows</param>
         <param name="Сумісність з ОС">Mac OS</param>
         <param name="Сумісність з ОС">Linux</param>
-        <param name="Колір">Бузковий</param>
         <param name="Стан">Новий</param>
         <param name="Комплектація">Клавіатура</param>
         <param name="Призначення">Для ПК</param>
@@ -3442,7 +3438,7 @@
         <vendor>ATK</vendor>
         <picture>https://techgleam.com.ua/content/images/49/grova-bezdrotova-mishka-atk-blazing-sky-x1-ultimate-2.0-tri-rezhimi-pdkluchennja-sensor-paw3950-ultra-silver-48879472838488_%2Bea7b857b9c.jpg</picture>
         <param name="Гарантія">3 місяці</param>
-        <param name="Колір">Сріблястий</param>
+        <param name="Колір">Сірий</param>
         <param name="Підключення">Комбіноване</param>
         <param name="Сумісність з ОС">Microsoft Windows</param>
         <param name="Сумісність з ОС">Mac OS</param>
@@ -4230,6 +4226,116 @@
         <param name="Вид">Ігрові</param>
         <country>Китай</country>
       </offer>
+      <offer id="2059" available="true">
+        <availability_status>available</availability_status>
+        <name_ua>Ігрова бездротова мишка ATK Dragonfly A9 Ultimate / Три режими підключення / PAW3950 Ultra / 8K / White</name_ua>
+        <name_ru>Игровая беспроводная мышка ATK Dragonfly A9 Ultimate / Три режима подключения / PAW3950 Ultra / 8K / White</name_ru>
+        <description_ua><p data-end="631" data-start="291"><strong data-end="320" data-start="291">ATK Dragonfly A9 Ultimate</strong> — флагманська ігрова миша серії A9, створена для геймерів, яким потрібні максимальна швидкість, точність і стабільність у кожному русі. Модель оснащена топовим сенсором <strong data-end="514" data-start="490">PixArt PAW3950 Ultra</strong>, оптичними перемикачами та підтримкою <strong data-end="586" data-start="553">частоти опитування до 8000 Гц</strong> як у дротовому, так і в бездротовому режимі.</p>    <p data-end="924" data-start="633">Миша забезпечує надзвичайно точне відстеження рухів, підтримує широкий діапазон налаштування DPI та підходить як для динамічних шутерів, так і для повсякденного використання. Симетрична форма, мала вага та продумана ергономіка роблять її зручною для середньої руки та тривалих ігрових сесій.</p>    <p data-end="1257" data-start="926">ATK Dragonfly A9 Ultimate отримала <strong data-end="1015" data-start="961">оптичні перемикачі ATK Customized Optical Switches</strong>, які забезпечують швидкий відгук і високу надійність. За автономність відповідає <strong data-end="1119" data-start="1097">акумулятор 800 мАг</strong>, який дозволяє миші працювати до <strong data-end="1178" data-start="1153">800 годин при 1000 Гц</strong>. Колесо прокрутки <strong data-end="1215" data-start="1197">TTC Gold Wheel</strong> забезпечує чітке та плавне прокручування.</p>    <h4 data-end="1296" data-section-id="1jwllgd" data-start="1264"><strong data-end="1296" data-start="1267">Основні характеристики </strong></h4>    <ul data-end="2213" data-start="1297">   <li data-end="1322" data-section-id="19e9jad" data-start="1297">   <div>Тип пристрою: <strong data-end="1322" data-start="1313">мишка</strong></div>   </li>   <li data-end="1348" data-section-id="yko6nf" data-start="1323">   <div>Призначення: <strong data-end="1348" data-start="1338">ігрова</strong></div>   </li>   <li data-end="1402" data-section-id="rd27ud" data-start="1349">Тип підключення: <strong data-end="1402" data-start="1368">комбіноване (радіо / провідне)</strong></li>   <li data-end="1446" data-section-id="14qakci" data-start="1403">Інтерфейс: <strong data-end="1446" data-start="1416">2.4 ГГц радіоадаптер / USB</strong></li>   <li data-end="1481" data-section-id="1hw9xat" data-start="1447">Сенсор: <strong data-end="1481" data-start="1457">PixArt PAW3950 Ultra</strong></li>   <li data-end="1509" data-section-id="1xt2qdt" data-start="1482">Тип сенсора: <strong data-end="1509" data-start="1497">оптичний</strong></li>   <li data-end="1557" data-section-id="1kefn67" data-start="1510">Роздільна здатність сенсора: <strong data-end="1557" data-start="1541">50–26000 DPI</strong></li>   <li data-end="1609" data-section-id="1cxwoha" data-start="1558">Максимальна роздільна здатність: <strong data-end="1609" data-start="1593">до 42000 DPI</strong></li>   <li data-end="1650" data-section-id="1hl7l0m" data-start="1610">Максимальна швидкість: <strong data-end="1650" data-start="1635">650–750 IPS</strong></li>   <li data-end="1686" data-section-id="gww9v8" data-start="1651">Максимальне прискорення: <strong data-end="1686" data-start="1678">50 G</strong></li>   <li data-end="1723" data-section-id="im1y88" data-start="1687">Частота опитування: <strong data-end="1723" data-start="1709">до 8000 Гц</strong></li>   <li data-end="1749" data-section-id="1yz1icl" data-start="1724">Перемикачі: <strong data-end="1749" data-start="1738">оптичні</strong></li>   <li data-end="1775" data-section-id="16k0b5q" data-start="1750">Кількість кнопок: <strong data-end="1775" data-start="1770">6</strong></li>   <li data-end="1797" data-section-id="l0asw9" data-start="1776">Бічні кнопки: <strong data-end="1797" data-start="1792">є</strong></li>   <li data-end="1850" data-section-id="1wqn0j6" data-start="1798">Кнопка зміни DPI: <strong data-end="1850" data-start="1818">є, на нижній частині корпусу</strong></li>   <li data-end="1876" data-section-id="w12ury" data-start="1851">Колесо прокрутки: <strong data-end="1876" data-start="1871">1</strong></li>   <li data-end="1905" data-section-id="1f0eapj" data-start="1877">Колесо: <strong data-end="1905" data-start="1887">TTC Gold Wheel</strong></li>   <li data-end="1935" data-section-id="18yvozv" data-start="1906">Форм-фактор: <strong data-end="1935" data-start="1921">симетрична</strong></li>   <li data-end="1962" data-section-id="115ndvw" data-start="1936">Розмір миші: <strong data-end="1962" data-start="1951">середня</strong></li>   <li data-end="1994" data-section-id="1vyzcl5" data-start="1963">Розміри: <strong data-end="1994" data-start="1974">125 × 64 × 40 мм</strong></li>   <li data-end="2015" data-section-id="1l0fkn8" data-start="1995">Вага: <strong data-end="2015" data-start="2003">53 ± 3 г</strong></li>   <li data-end="2041" data-section-id="iqyirv" data-start="2016">Акумулятор: <strong data-end="2041" data-start="2030">800 мАг</strong></li>   <li data-end="2086" data-section-id="r7o5oq" data-start="2042">Автономність: <strong data-end="2086" data-start="2058">до 800 годин при 1000 Гц</strong></li>   <li data-end="2114" data-section-id="1figcg4" data-start="2087">Довжина кабелю: <strong data-end="2114" data-start="2105">1.5 м</strong></li>   <li data-end="2141" data-section-id="1uk1chr" data-start="2115">Кнопки: <strong data-end="2141" data-start="2125">програмовані</strong></li>   <li data-end="2213" data-section-id="ag89ng" data-start="2185">Країна-виробник: <strong data-end="2213" data-start="2204">Китай</strong></li>  </ul></description_ua>
+        <description_ru><p data-end="2723" data-start="2377"><strong data-end="2406" data-start="2377">ATK Dragonfly A9 Ultimate</strong> — флагманская игровая мышь серии A9, созданная для геймеров, которым нужны максимальная скорость, точность и стабильность в каждом движении. Модель оснащена топовым сенсором <strong data-end="2605" data-start="2581">PixArt PAW3950 Ultra</strong>, оптическими переключателями и поддержкой <strong data-end="2677" data-start="2648">частоты опроса до 8000 Гц</strong> как в проводном, так и в беспроводном режиме.</p>    <p data-end="3031" data-start="2725">Мышь обеспечивает очень точное отслеживание движений, поддерживает широкий диапазон настройки DPI и отлично подходит как для динамичных шутеров, так и для повседневного использования. Симметричная форма, небольшой вес и продуманная эргономика делают её удобной для средней руки и длительных игровых сессий.</p>    <p data-end="3376" data-start="3033">ATK Dragonfly A9 Ultimate получила <strong data-end="3128" data-start="3068">оптические переключатели ATK Customized Optical Switches</strong>, которые обеспечивают быстрый отклик и высокую надежность. За автономность отвечает <strong data-end="3236" data-start="3213">аккумулятор 800 мАч</strong>, который позволяет мыши работать до <strong data-end="3298" data-start="3273">800 часов при 1000 Гц</strong>. Колесо прокрутки <strong data-end="3335" data-start="3317">TTC Gold Wheel</strong> обеспечивает чёткую и плавную прокрутку.</p>    <h4 data-end="3416" data-section-id="17osxpi" data-start="3383"><strong data-end="3416" data-start="3386">Основные характеристики</strong></h4>    <ul data-end="4339" data-start="3417">   <li data-end="3443" data-section-id="11ccki" data-start="3417">   <h4>Тип устройства: <strong data-end="3443" data-start="3435">мышь</strong></h4>   </li>   <li data-end="3469" data-section-id="gbge7" data-start="3444">Назначение: <strong data-end="3469" data-start="3458">игровая</strong></li>   <li data-end="3528" data-section-id="1a7fmz9" data-start="3470">Тип подключения: <strong data-end="3528" data-start="3489">комбинированное (радио / проводное)</strong></li>   <li data-end="3573" data-section-id="1f73d3v" data-start="3529">Интерфейс: <strong data-end="3573" data-start="3542">2.4 ГГц радиоприёмник / USB</strong></li>   <li data-end="3608" data-section-id="1hw9xat" data-start="3574">Сенсор: <strong data-end="3608" data-start="3584">PixArt PAW3950 Ultra</strong></li>   <li data-end="3638" data-section-id="1ns02ma" data-start="3609">Тип сенсора: <strong data-end="3638" data-start="3624">оптический</strong></li>   <li data-end="3677" data-section-id="1809ewk" data-start="3639">Разрешение сенсора: <strong data-end="3677" data-start="3661">50–26000 DPI</strong></li>   <li data-end="3721" data-section-id="jfrcr2" data-start="3678">Максимальное разрешение: <strong data-end="3721" data-start="3705">до 42000 DPI</strong></li>   <li data-end="3762" data-section-id="6loceg" data-start="3722">Максимальная скорость: <strong data-end="3762" data-start="3747">650–750 IPS</strong></li>   <li data-end="3797" data-section-id="1xhefld" data-start="3763">Максимальное ускорение: <strong data-end="3797" data-start="3789">50 G</strong></li>   <li data-end="3830" data-section-id="1we3fo3" data-start="3798">Частота опроса: <strong data-end="3830" data-start="3816">до 8000 Гц</strong></li>   <li data-end="3862" data-section-id="1kheum6" data-start="3831">Переключатели: <strong data-end="3862" data-start="3848">оптические</strong></li>   <li data-end="3889" data-section-id="1tg5i58" data-start="3863">Количество кнопок: <strong data-end="3889" data-start="3884">6</strong></li>   <li data-end="3916" data-section-id="8iib1n" data-start="3890">Боковые кнопки: <strong data-end="3916" data-start="3908">есть</strong></li>   <li data-end="3970" data-section-id="nmf0zl" data-start="3917">Кнопка смены DPI: <strong data-end="3970" data-start="3937">есть, на нижней части корпуса</strong></li>   <li data-end="3996" data-section-id="w12ury" data-start="3971">Колесо прокрутки: <strong data-end="3996" data-start="3991">1</strong></li>   <li data-end="4025" data-section-id="1f0eapj" data-start="3997">Колесо: <strong data-end="4025" data-start="4007">TTC Gold Wheel</strong></li>   <li data-end="4057" data-section-id="1yxpbq0" data-start="4026">Форм-фактор: <strong data-end="4057" data-start="4041">симметричная</strong></li>   <li data-end="4084" data-section-id="da1ykm" data-start="4058">Размер мыши: <strong data-end="4084" data-start="4073">средняя</strong></li>   <li data-end="4116" data-section-id="2dzzs7" data-start="4085">Размеры: <strong data-end="4116" data-start="4096">125 × 64 × 40 мм</strong></li>   <li data-end="4136" data-section-id="1wcrgjn" data-start="4117">Вес: <strong data-end="4136" data-start="4124">53 ± 3 г</strong></li>   <li data-end="4163" data-section-id="1k5toud" data-start="4137">Аккумулятор: <strong data-end="4163" data-start="4152">800 мАч</strong></li>   <li data-end="4208" data-section-id="m9qe04" data-start="4164">Автономность: <strong data-end="4208" data-start="4180">до 800 часов при 1000 Гц</strong></li>   <li data-end="4234" data-section-id="1yvvb8" data-start="4209">Длина кабеля: <strong data-end="4234" data-start="4225">1.5 м</strong></li>   <li data-end="4264" data-section-id="12d6ypk" data-start="4235">Кнопки: <strong data-end="4264" data-start="4245">программируемые</strong></li>  </ul></description_ru>
+        <price>3699</price>
+        <categoryId>1084</categoryId>
+        <vendor>ATK</vendor>
+        <picture>https://techgleam.com.ua/content/images/10/grova-bezdrotova-mishka-atk-dragonfly-a9-ultimate-tri-rezhimi-pdkluchennja-paw3950-ultra-8k-white-53336091692744_%2B3957891f05.jpg</picture>
+        <param name="Гарантія">3 місяці</param>
+        <param name="Колір">Білий</param>
+        <param name="Підключення">Комбіноване</param>
+        <param name="Сумісність з ОС">Microsoft Windows</param>
+        <param name="Сумісність з ОС">Mac OS</param>
+        <param name="Сумісність з ОС">Linux</param>
+        <param name="Вага">53 г</param>
+        <param name="Кількість кнопок миші">6</param>
+        <param name="Тип датчика">Оптичний</param>
+        <param name="Інтерфейс підключення">Bluetooth</param>
+        <param name="Інтерфейс підключення">Радіоінтерфейс</param>
+        <param name="Інтерфейс підключення">USB</param>
+        <param name="Роздільна здатність сенсора">Понад 20000 dpi</param>
+        <param name="Стан">Новий</param>
+        <param name="Тип">Ігрові (геймерські)</param>
+        <country>Китай</country>
+      </offer>
+      <offer id="2060" available="true">
+        <availability_status>available</availability_status>
+        <name_ua>Ігрова бездротова мишка Mchose G3 V2 / Три режими підключення / Сенсор PAW3311 / 12 000 DPI / Black</name_ua>
+        <name_ru>Игровая беспроводная мышка Mchose G3 V2 / Три режима подключения / Сенсор PAW3311 / 12 000 DPI / Black</name_ru>
+        <description_ua><p data-end="406" data-start="78"><strong data-end="94" data-start="78">Mchose G3 V2</strong> — це симетрична бездротова миша, створена як практичне рішення для щоденного геймінгу, роботи та універсального використання. Модель поєднує класичну ергономічну форму, стабільний сенсор, кілька режимів підключення та хорошу автономність, завдяки чому підійде як для домашнього, так і для офісного використання.</p>    <p data-end="731" data-start="408">Миша оснащена сенсором <strong data-end="442" data-start="431">PAW3311</strong> з максимальною роздільною здатністю до <strong data-end="495" data-start="482">12000 DPI</strong>, що забезпечує точне та передбачуване відстеження рухів. Основні кнопки побудовані на <strong data-end="608" data-start="582">перемикачах Omron 100M</strong>, які розраховані на тривалий ресурс натискань, а <strong data-end="686" data-start="658">енкодер TTC Silver Wheel</strong> відповідає за чітке та плавне прокручування.</p>    <p data-end="1062" data-start="733">За стабільну роботу пристрою відповідає <strong data-end="795" data-start="773">контролер FREQCHIP</strong>. Mchose G3 V2 підтримує <strong data-end="846" data-start="820">три режими підключення</strong>: <strong data-end="859" data-start="848">2.4 ГГц</strong>, <strong data-end="874" data-start="861">Bluetooth</strong> і <strong data-end="898" data-start="877">дротове через USB</strong>, що дозволяє легко використовувати мишу з різними пристроями. Частота опитування до <strong data-end="994" data-start="983">1000 Гц</strong> забезпечує швидкий відгук як у повсякденних задачах, так і в іграх.</p>    <p data-end="1441" data-start="1064">Завдяки <strong data-end="1093" data-start="1072">симетричній формі</strong> та компактним габаритам <strong data-end="1138" data-start="1118">117 × 63 × 38 мм</strong>, миша добре підходить для <strong data-end="1199" data-start="1165">кігтьового та гібридного хвату</strong>, а також для користувачів із <strong data-end="1259" data-start="1229">малими та середніми руками</strong>. Вага моделі становить близько <strong data-end="1306" data-start="1291">59 г (±3 г)</strong>, що робить її зручною для тривалого використання. Акумулятор на <strong data-end="1385" data-start="1371">800 мА·год</strong> забезпечує впевнену автономність без частих підзарядок.</p>    <p data-end="1466" data-start="1443"><strong data-end="1464" data-start="1443">Основні переваги:</strong></p>    <ul data-end="1966" data-start="1467">   <li data-end="1489" data-section-id="10eot88" data-start="1467">Сенсор <strong data-end="1487" data-start="1476">PAW3311</strong></li>   <li data-end="1542" data-section-id="s0zcs1" data-start="1490">Максимальна роздільна здатність <strong data-end="1540" data-start="1524">до 12000 DPI</strong></li>   <li data-end="1598" data-section-id="1ubqlvx" data-start="1543"><strong data-end="1569" data-start="1545">3 режими підключення</strong>: 2.4 ГГц / Bluetooth / USB</li>   <li data-end="1636" data-section-id="1431puj" data-start="1599">Частота опитування <strong data-end="1634" data-start="1620">до 1000 Гц</strong></li>   <li data-end="1666" data-section-id="6rxqf9" data-start="1637">Перемикачі <strong data-end="1664" data-start="1650">Omron 100M</strong></li>   <li data-end="1699" data-section-id="1jzatk2" data-start="1667">Енкодер <strong data-end="1697" data-start="1677">TTC Silver Wheel</strong></li>   <li data-end="1726" data-section-id="15vo1e9" data-start="1700">Контролер <strong data-end="1724" data-start="1712">FREQCHIP</strong></li>   <li data-end="1747" data-section-id="1qotg2m" data-start="1727">Симетрична форма</li>   <li data-end="1800" data-section-id="1okiav4" data-start="1748">Підходить для <strong data-end="1798" data-start="1764">кігтьового та гібридного хвату</strong></li>   <li data-end="1850" data-section-id="1i5t7zc" data-start="1801">Рекомендована для <strong data-end="1848" data-start="1821">малої та середньої руки</strong></li>   <li data-end="1880" data-section-id="12ma2uk" data-start="1851">Акумулятор <strong data-end="1878" data-start="1864">800 мА·год</strong></li>   <li data-end="1913" data-section-id="1txzll7" data-start="1881">Вага близько <strong data-end="1911" data-start="1896">59 г (±3 г)</strong></li>   <li data-end="1947" data-section-id="liakmo" data-start="1914">Розміри: <strong data-end="1945" data-start="1925">117 × 63 × 38 мм</strong></li>  </ul></description_ua>
+        <description_ru><p data-end="2400" data-start="2061"><strong data-end="2077" data-start="2061">Mchose G3 V2</strong> — это симметричная беспроводная мышь, созданная как практичное решение для повседневного гейминга, работы и универсального использования. Модель сочетает классическую эргономичную форму, стабильный сенсор, несколько режимов подключения и хорошую автономность, благодаря чему отлично подойдёт как для дома, так и для офиса.</p>    <p data-end="2718" data-start="2402">Мышь оснащена сенсором <strong data-end="2436" data-start="2425">PAW3311</strong> с максимальным разрешением до <strong data-end="2480" data-start="2467">12000 DPI</strong>, что обеспечивает точное и предсказуемое отслеживание движений. Основные кнопки построены на <strong data-end="2603" data-start="2574">переключателях Omron 100M</strong>, рассчитанных на длительный ресурс нажатий, а <strong data-end="2678" data-start="2650">энкодер TTC Silver Wheel</strong> отвечает за чёткую и плавную прокрутку.</p>    <p data-end="3057" data-start="2720">За стабильную работу устройства отвечает <strong data-end="2784" data-start="2761">контроллер FREQCHIP</strong>. Mchose G3 V2 поддерживает <strong data-end="2838" data-start="2812">три режима подключения</strong>: <strong data-end="2851" data-start="2840">2.4 ГГц</strong>, <strong data-end="2866" data-start="2853">Bluetooth</strong> и <strong data-end="2892" data-start="2869">проводное через USB</strong>, что позволяет удобно использовать мышь с разными устройствами. Частота опроса до <strong data-end="2986" data-start="2975">1000 Гц</strong> обеспечивает быстрый отклик как в повседневных задачах, так и в играх.</p>    <p data-end="3439" data-start="3059">Благодаря <strong data-end="3091" data-start="3069">симметричной форме</strong> и компактным габаритам <strong data-end="3135" data-start="3115">117 × 63 × 38 мм</strong>, мышь хорошо подходит для <strong data-end="3194" data-start="3162">когтевого и гибридного хвата</strong>, а также для пользователей с <strong data-end="3253" data-start="3224">маленькой и средней рукой</strong>. Вес модели составляет около <strong data-end="3298" data-start="3283">59 г (±3 г)</strong>, что делает её удобной для длительного использования. Аккумулятор на <strong data-end="3380" data-start="3368">800 мА·ч</strong> обеспечивает уверенную автономность без частых подзарядок.</p>    <p data-end="3469" data-start="3441"><strong data-end="3467" data-start="3441">Основные преимущества:</strong></p>    <ul data-end="3956" data-start="3470">   <li data-end="3492" data-section-id="10eot88" data-start="3470">Сенсор <strong data-end="3490" data-start="3479">PAW3311</strong></li>   <li data-end="3537" data-section-id="1lepc7l" data-start="3493">Максимальное разрешение <strong data-end="3535" data-start="3519">до 12000 DPI</strong></li>   <li data-end="3593" data-section-id="1yy62zs" data-start="3538"><strong data-end="3564" data-start="3540">3 режима подключения</strong>: 2.4 ГГц / Bluetooth / USB</li>   <li data-end="3627" data-section-id="qbvpi8" data-start="3594">Частота опроса <strong data-end="3625" data-start="3611">до 1000 Гц</strong></li>   <li data-end="3660" data-section-id="amyamu" data-start="3628">Переключатели <strong data-end="3658" data-start="3644">Omron 100M</strong></li>   <li data-end="3693" data-section-id="iypmmy" data-start="3661">Энкодер <strong data-end="3691" data-start="3671">TTC Silver Wheel</strong></li>   <li data-end="3721" data-section-id="haq5my" data-start="3694">Контроллер <strong data-end="3719" data-start="3707">FREQCHIP</strong></li>   <li data-end="3744" data-section-id="w0wclp" data-start="3722">Симметричная форма</li>   <li data-end="3794" data-section-id="613k7w" data-start="3745">Подходит для <strong data-end="3792" data-start="3760">когтевого и гибридного хвата</strong></li>   <li data-end="3845" data-section-id="1og3dce" data-start="3795">Рекомендована для <strong data-end="3843" data-start="3815">маленькой и средней руки</strong></li>   <li data-end="3874" data-section-id="kxyr8o" data-start="3846">Аккумулятор <strong data-end="3872" data-start="3860">800 мА·ч</strong></li>   <li data-end="3904" data-section-id="u6x2qm" data-start="3875">Вес около <strong data-end="3902" data-start="3887">59 г (±3 г)</strong></li>   <li data-end="3938" data-section-id="111jhbi" data-start="3905">Размеры: <strong data-end="3936" data-start="3916">117 × 63 × 38 мм</strong></li>  </ul></description_ru>
+        <price>1399</price>
+        <categoryId>1084</categoryId>
+        <vendor>Mchose</vendor>
+        <picture>https://techgleam.com.ua/content/images/11/grova-bezdrotova-mishka-mchose-g3-v2-tri-rezhimi-pdkluchennja-sensor-paw3311-12-000-dpi-black-96051456490089_%2Bf957fbacac.jpg</picture>
+        <param name="Гарантія">1 місяць</param>
+        <param name="Колір">Чорний</param>
+        <param name="Підключення">Комбіноване</param>
+        <param name="Сумісність з ОС">Microsoft Windows</param>
+        <param name="Сумісність з ОС">Mac OS</param>
+        <param name="Сумісність з ОС">Linux</param>
+        <param name="Вага">59 г</param>
+        <param name="Колір">Білий</param>
+        <param name="Тип датчика">Оптичний</param>
+        <param name="Інтерфейс підключення">Bluetooth</param>
+        <param name="Інтерфейс підключення">Радіоінтерфейс</param>
+        <param name="Інтерфейс підключення">USB</param>
+        <param name="Роздільна здатність сенсора">10001 - 12000 dpi</param>
+        <param name="Стан">Новий</param>
+        <param name="Тип">Ігрові (геймерські)</param>
+        <country>Китай</country>
+      </offer>
+      <offer id="2061" available="true">
+        <availability_status>available</availability_status>
+        <name_ua>Ігрова бездротова мишка Attack Shark X8 Plus / Три режими підключення / Сенсор PAW3395PRO / 40000 DPI / Pink</name_ua>
+        <name_ru>Игровая беспроводная мышка Attack Shark X8 Plus / Три режима подключения / Сенсор PAW3395PRO / 40000 DPI / Pink</name_ru>
+        <description_ua><p data-end="370" data-start="67"><strong>ATTACK SHARK X8 PLUS</strong> — це бездротова ігрова миша, створена для швидкого, точного й комфортного керування. Модель поєднує легку конструкцію, продуктивний сенсор нового покоління та зручний симетричний корпус, який добре підходить для користувачів із середньою та великою рукою.</p>    <p data-end="709" data-start="372">Миша оснащена флагманським сенсором PAW3395 PRO, який забезпечує високу точність позиціонування, стабільне відстеження та широкий діапазон чутливості. Максимальна роздільна здатність становить до 42000 dpi, а швидкість відстеження до 700 IPS разом із прискоренням 60G дозволяють впевнено контролювати рух навіть у швидких ігрових сценах.</p>    <p data-end="1056" data-start="711"><strong>ATTACK SHARK X8 PLUS</strong> підтримує три режими підключення: Bluetooth, 2.4 ГГц і дротове через USB. Частота опитування у дротовому та бездротовому режимі становить 1K, що забезпечує швидкий і стабільний відгук. Миша оснащена чипом BK52820 MCU, оптичними мікроперемикачами HUANO з ресурсом 100 мільйонів натискань і вбудованим акумулятором на 500 мАг.</p>    <p data-end="1403" data-start="1058">Окремо варто відзначити покриття Nano-ice, яке робить поверхню приємнішою на дотик і комфортною під час тривалого використання. Модель також підтримує хмарний драйвер для налаштування DPI, частоти опитування, кнопок, макросів та інших параметрів. Біле виконання виглядає чисто, акуратно й універсально як для ігрового, так і для робочого сетапу.</p>    <p data-end="1428" data-start="1405"><strong data-end="1426" data-start="1405">Основні переваги:</strong></p>    <ul data-end="1970" data-start="1429">   <li data-end="1481" data-section-id="n5e353" data-start="1429">Флагманський сенсор нового покоління PAW3395 PRO</li>   <li data-end="1521" data-section-id="q57dy6" data-start="1482">Максимальна чутливість до 42000 dpi</li>   <li data-end="1558" data-section-id="1qhio80" data-start="1522">Швидкість відстеження до 700 IPS</li>   <li data-end="1578" data-section-id="glinu9" data-start="1559">Прискорення 60G</li>   <li data-end="1600" data-section-id="ce7sk7" data-start="1579">Вага близько 55 г</li>   <li data-end="1652" data-section-id="z7ya1w" data-start="1601">Три режими підключення: Bluetooth, 2.4 ГГц, USB</li>   <li data-end="1713" data-section-id="wh36ek" data-start="1653">Частота опитування 1K у дротовому та бездротовому режимі</li>   <li data-end="1774" data-section-id="1qkoezi" data-start="1714">Оптичні мікроперемикачі HUANO на 100 мільйонів натискань</li>   <li data-end="1797" data-section-id="hw4gqk" data-start="1775">Акумулятор 500 мАг</li>   <li data-end="1819" data-section-id="1idbep4" data-start="1798">Покриття Nano-ice</li>   <li data-end="1839" data-section-id="127cqsn" data-start="1820">Чип BK52820 MCU</li>   <li data-end="1866" data-section-id="12i9f0e" data-start="1840">6 програмованих кнопок</li>   <li data-end="1898" data-section-id="nt8yxg" data-start="1867">Підтримка хмарного драйвера</li>   <li data-end="1942" data-section-id="sea605" data-start="1899">Підходить для середньої та великої руки</li>  </ul></description_ua>
+        <description_ru><p data-end="2288" data-start="1972"><strong>ATTACK SHARK X8 PLUS </strong> — это беспроводная игровая мышь, созданная для быстрого, точного и комфортного управления. Модель сочетает лёгкую конструкцию, производительный сенсор нового поколения и удобный симметричный корпус, который хорошо подходит для пользователей со средней и большой рукой.</p>    <p data-end="2636" data-start="2290">Мышь оснащена флагманским сенсором PAW3395 PRO, который обеспечивает высокую точность позиционирования, стабильное отслеживание и широкий диапазон чувствительности. Максимальное разрешение составляет до 42000 dpi, а скорость отслеживания до 700 IPS вместе с ускорением 60G позволяют уверенно контролировать движения даже в быстрых игровых сценах.</p>    <p data-end="2991" data-start="2638"><strong>ATTACK SHARK X8 PLUS</strong> поддерживает три режима подключения: Bluetooth, 2.4 ГГц и проводное через USB. Частота опроса в проводном и беспроводном режиме составляет 1K, что обеспечивает быстрый и стабильный отклик. Мышь оснащена чипом BK52820 MCU, оптическими микропереключателями HUANO с ресурсом 100 миллионов нажатий и встроенным аккумулятором на 500 мАч.</p>    <p data-end="3348" data-start="2993">Отдельно стоит отметить покрытие Nano-ice, которое делает поверхность более приятной на ощупь и комфортной при длительном использовании. Модель также поддерживает облачный драйвер для настройки DPI, частоты опроса, кнопок, макросов и других параметров. Белое исполнение выглядит чисто, аккуратно и универсально как для игрового, так и для рабочего сетапа.</p>    <p data-end="3378" data-start="3350"><strong data-end="3376" data-start="3350">Основные преимущества:</strong></p>    <ul data-end="3920" data-start="3379">   <li data-end="3430" data-section-id="18qglu5" data-start="3379">Флагманский сенсор нового поколения PAW3395 PRO</li>   <li data-end="3477" data-section-id="1wvj8to" data-start="3431">Максимальная чувствительность до 42000 dpi</li>   <li data-end="3514" data-section-id="xm4726" data-start="3478">Скорость отслеживания до 700 IPS</li>   <li data-end="3532" data-section-id="1e6viga" data-start="3515">Ускорение 60G</li>   <li data-end="3551" data-section-id="rh16qq" data-start="3533">Вес около 55 г</li>   <li data-end="3603" data-section-id="ujwvr5" data-start="3552">Три режима подключения: Bluetooth, 2.4 ГГц, USB</li>   <li data-end="3659" data-section-id="4zdhq1" data-start="3604">Частота опроса 1K в проводном и беспроводном режиме</li>   <li data-end="3724" data-section-id="wvg6la" data-start="3660">Оптические микропереключатели HUANO на 100 миллионов нажатий</li>   <li data-end="3748" data-section-id="tuozci" data-start="3725">Аккумулятор 500 мАч</li>   <li data-end="3770" data-section-id="oreesb" data-start="3749">Покрытие Nano-ice</li>   <li data-end="3790" data-section-id="127cqsn" data-start="3771">Чип BK52820 MCU</li>   <li data-end="3819" data-section-id="tjol1e" data-start="3791">6 программируемых кнопок</li>   <li data-end="3852" data-section-id="hbl75z" data-start="3820">Поддержка облачного драйвера</li>   <li data-end="3892" data-section-id="1sc28qf" data-start="3853">Подходит для средней и большой руки</li>  </ul></description_ru>
+        <price>2199</price>
+        <categoryId>1084</categoryId>
+        <vendor>Attack Shark</vendor>
+        <picture>https://techgleam.com.ua/content/images/12/grova-bezdrotova-mishka-attack-shark-x8-plus-tri-rezhimi-pdkluchennja-sensor-paw3395pro-40000-dpi-pink-40446212002423_%2B6bde6b23b8.jpg</picture>
+        <param name="Гарантія">3 місяці</param>
+        <param name="Колір">Рожевий</param>
+        <param name="Підключення">Комбіноване</param>
+        <param name="Сумісність з ОС">Microsoft Windows</param>
+        <param name="Сумісність з ОС">Mac OS</param>
+        <param name="Сумісність з ОС">Linux</param>
+        <param name="Вага">55 г</param>
+        <param name="Кількість кнопок миші">6</param>
+        <param name="Тип датчика">Оптичний</param>
+        <param name="Інтерфейс підключення">Bluetooth</param>
+        <param name="Інтерфейс підключення">Радіоінтерфейс</param>
+        <param name="Інтерфейс підключення">USB</param>
+        <param name="Роздільна здатність сенсора">Понад 20000 dpi</param>
+        <param name="Стан">Новий</param>
+        <param name="Тип">Ігрові (геймерські)</param>
+        <country>Китай</country>
+      </offer>
+      <offer id="2063" available="true">
+        <availability_status>available</availability_status>
+        <name_ua>Ігрова бездротова мишка ATK Dragonfly A9 Plus / Три режими підключення / Сенсор PixArt 3395 / 26000 DPI / White</name_ua>
+        <name_ru>Игровая беспроводная мышка ATK Dragonfly A9 Plus / Три режима подключения / Сенсор PixArt 3395 / 26000 DPI / White</name_ru>
+        <description_ua><p data-end="407" data-start="46"><strong>ATK A9 Plus </strong>— це ігрова миша, створена для точного керування, стабільної роботи та комфортного використання як у динамічних іграх, так і в щоденних задачах. Модель поєднує продуктивний сенсор, комбіноване підключення, ергономічну форму та хорошу автономність, що робить її практичним вибором для тих, хто шукає універсальну ігрову мишу.</p>    <p data-end="703" data-start="409">Миша оснащена оптичним сенсором PixArt PAW3395 з максимальною роздільною здатністю до 26000 DPI, що забезпечує плавне відстеження рухів і високу точність у різних сценаріях використання. Це дозволяє комфортно використовувати мишу як для шутерів і динамічних ігор, так і для повсякденної роботи.</p>    <p data-end="1034" data-start="705"><strong>ATK A9 Plus </strong>підтримує комбіноване підключення та може працювати як у дротовому, так і в бездротовому режимі. Для бездротового з’єднання використовується радіоканал NearLink, який забезпечує стабільний сигнал на відстані до 10 метрів. Якщо акумулятор розрядиться, мишу можна швидко перевести в дротовий режим через USB Type-C.</p>    <p data-end="1428" data-start="1036">Модель отримала вбудований літієвий акумулятор на 800 мАг, який забезпечує до 240 годин автономної роботи. Вага миші становить близько 57 г, а корпус розміром 125 × 64 × 40 мм добре підходить для правої руки. Додатково варто відзначити перемикачі Huano Ice Berry Pink Dot із ресурсом до 80 мільйонів натискань, 6 кнопок і можливість програмного налаштування макросів, DPI та інших параметрів.</p>    <p data-end="1453" data-start="1430"><strong data-end="1451" data-start="1430">Основні переваги:</strong></p>    <ul data-end="2009" data-start="1454">   <li data-end="1479" data-section-id="1bo4g0i" data-start="1454">Сенсор PixArt PAW3395</li>   <li data-end="1507" data-section-id="1i6rhfp" data-start="1480">Чутливість до 26000 DPI</li>   <li data-end="1535" data-section-id="l78c35" data-start="1508">Комбіноване підключення</li>   <li data-end="1582" data-section-id="fbp9r0" data-start="1536">Підтримка дротового та бездротового режиму</li>   <li data-end="1607" data-section-id="17aohrz" data-start="1583">Інтерфейс USB Type-C</li>   <li data-end="1658" data-section-id="1on2of2" data-start="1608">Бездротове з’єднання через радіоканал NearLink</li>   <li data-end="1689" data-section-id="p03y3b" data-start="1659">Радіус роботи до 10 метрів</li>   <li data-end="1712" data-section-id="meedip" data-start="1690">Акумулятор 800 мАг</li>   <li data-end="1747" data-section-id="1gb9gty" data-start="1713">До 240 годин автономної роботи</li>   <li data-end="1769" data-section-id="cfmjbp" data-start="1748">Вага близько 57 г</li>   <li data-end="1797" data-section-id="594tdn" data-start="1770">Розмір 125 × 64 × 40 мм</li>   <li data-end="1829" data-section-id="za4o75" data-start="1798">Конструкція для правої руки</li>   <li data-end="1842" data-section-id="1dsdc58" data-start="1830">6 кнопок</li>   <li data-end="1882" data-section-id="1vyq23r" data-start="1843">Перемикачі Huano Ice Berry Pink Dot</li>   <li data-end="1931" data-section-id="1y5vta8" data-start="1883">Ресурс перемикачів до 80 мільйонів натискань</li>   <li data-end="1985" data-section-id="1ow2tfx" data-start="1932">Підтримка програмного налаштування макросів і DPI</li>  </ul></description_ua>
+        <description_ru><p data-end="2393" data-start="2011"><strong>ATK A9 Plus </strong>— это игровая мышь, созданная для точного управления, стабильной работы и комфортного использования как в динамичных играх, так и в повседневных задачах. Модель сочетает производительный сенсор, комбинированное подключение, эргономичную форму и хорошую автономность, что делает её практичным выбором для тех, кто ищет универсальную игровую мышь.</p>    <p data-end="2691" data-start="2395">Мышь оснащена оптическим сенсором PixArt PAW3395 с максимальным разрешением до 26000 DPI, что обеспечивает плавное отслеживание движений и высокую точность в разных сценариях использования. Это позволяет комфортно использовать мышь как для шутеров и динамичных игр, так и для повседневной работы.</p>    <p data-end="3035" data-start="2693"><strong>ATK A9 Plus </strong>поддерживает комбинированное подключение и может работать как в проводном, так и в беспроводном режиме. Для беспроводного соединения используется радиоканал NearLink, который обеспечивает стабильный сигнал на расстоянии до 10 метров. Если аккумулятор разрядится, мышь можно быстро перевести в проводной режим через USB Type-C.</p>    <p data-end="3433" data-start="3037">Модель получила встроенный литиевый аккумулятор на 800 мАч, который обеспечивает до 240 часов автономной работы. Вес мыши составляет около 57 г, а корпус размером 125 × 64 × 40 мм хорошо подходит для правой руки. Дополнительно стоит отметить переключатели Huano Ice Berry Pink Dot с ресурсом до 80 миллионов нажатий, 6 кнопок и возможность программной настройки макросов, DPI и других параметров.</p>    <p data-end="3463" data-start="3435"><strong data-end="3461" data-start="3435">Основные преимущества:</strong></p>    <ul data-end="4031" data-start="3464">   <li data-end="3489" data-section-id="1bo4g0i" data-start="3464">Сенсор PixArt PAW3395</li>   <li data-end="3523" data-section-id="fdm6zc" data-start="3490">Чувствительность до 26000 DPI</li>   <li data-end="3555" data-section-id="1pyadsj" data-start="3524">Комбинированное подключение</li>   <li data-end="3603" data-section-id="1qvghoq" data-start="3556">Поддержка проводного и беспроводного режима</li>   <li data-end="3628" data-section-id="yvj7hd" data-start="3604">Интерфейс USB Type-C</li>   <li data-end="3682" data-section-id="1g3yl4a" data-start="3629">Беспроводное соединение через радиоканал NearLink</li>   <li data-end="3713" data-section-id="1161jd8" data-start="3683">Радиус работы до 10 метров</li>   <li data-end="3737" data-section-id="4n6awv" data-start="3714">Аккумулятор 800 мАч</li>   <li data-end="3772" data-section-id="mhgrab" data-start="3738">До 240 часов автономной работы</li>   <li data-end="3791" data-section-id="rifxi8" data-start="3773">Вес около 57 г</li>   <li data-end="3819" data-section-id="1deg0wm" data-start="3792">Размер 125 × 64 × 40 мм</li>   <li data-end="3851" data-section-id="lp1kqp" data-start="3820">Конструкция для правой руки</li>   <li data-end="3864" data-section-id="1dsdc58" data-start="3852">6 кнопок</li>   <li data-end="3907" data-section-id="18h9gdw" data-start="3865">Переключатели Huano Ice Berry Pink Dot</li>   <li data-end="3957" data-section-id="vgimkg" data-start="3908">Ресурс переключателей до 80 миллионов нажатий</li>   <li data-end="4008" data-section-id="1chgj3n" data-start="3958">Поддержка программной настройки макросов и DPI</li>  </ul></description_ru>
+        <price>1899</price>
+        <old_price>2199</old_price>
+        <categoryId>1084</categoryId>
+        <vendor>ATK</vendor>
+        <picture>https://techgleam.com.ua/content/images/14/29121795231931_%2B505849cd26.jpg</picture>
+        <picture>https://techgleam.com.ua/content/images/14/13135012702511_%2B5377ae740e.jpg</picture>
+        <picture>https://techgleam.com.ua/content/images/14/47259536506691_%2Bd8fe6d36c4.jpg</picture>
+        <param name="Гарантія">3 місяці</param>
+        <param name="Колір">Білий</param>
+        <param name="Підключення">Комбіноване</param>
+        <param name="Сумісність з ОС">Microsoft Windows</param>
+        <param name="Сумісність з ОС">Mac OS</param>
+        <param name="Сумісність з ОС">Linux</param>
+        <param name="Вага">57 г</param>
+        <param name="Тип датчика">Оптичний</param>
+        <param name="Інтерфейс підключення">Bluetooth</param>
+        <param name="Інтерфейс підключення">Радіоінтерфейс</param>
+        <param name="Інтерфейс підключення">USB</param>
+        <param name="Роздільна здатність сенсора">Понад 20000 dpi</param>
+        <param name="Стан">Новий</param>
+        <param name="Тип">Ігрові (геймерські)</param>
+        <country>Китай</country>
+      </offer>
       <offer id="512" available="false">
         <availability_status>temporarily_unavailable</availability_status>
         <name_ua>Ігрова дротова магнітна клавіатура AJAZZ AK680 MAX / RGB / Magnetic Switch / 1К / Black</name_ua>
@@ -4312,7 +4418,7 @@
         <picture>https://techgleam.com.ua/content/images/15/97163125299942_%2B27386230f7.jpg</picture>
         <picture>https://techgleam.com.ua/content/images/15/35504972482379_%2Bcd4dd7f4b3.jpg</picture>
         <param name="Гарантія">1 місяць</param>
-        <param name="Колір">Фіолетовий</param>
+        <param name="Колір">Бузковий</param>
         <param name="Конструкція клавіш">Механічна</param>
         <param name="Підключення">Дротове</param>
         <param name="Інтерфейс підключення">USB Type-C</param>
@@ -4323,7 +4429,6 @@
         <param name="Матеріал корпусу">Пластик</param>
         <param name="Сумісність з ОС">Windows</param>
         <param name="Сумісність з ОС">Mac OS</param>
-        <param name="Колір">Бузковий</param>
         <param name="Стан">Новий</param>
         <param name="Комплектація">Клавіатура</param>
         <param name="Призначення">Для ПК</param>
@@ -4506,7 +4611,7 @@
         <picture>https://techgleam.com.ua/content/images/24/88176434602802_%2B7f8ac7d57f.jpg</picture>
         <picture>https://techgleam.com.ua/content/images/24/74059355317290_%2B85aad05fe5.jpg</picture>
         <param name="Гарантія">3 місяці</param>
-        <param name="Колір">Сірий</param>
+        <param name="Колір">Темно-сірий</param>
         <param name="Конструкція клавіш">Магнітна</param>
         <param name="Підключення">Дротове</param>
         <param name="Інтерфейс підключення">USB Type-C</param>
@@ -4518,7 +4623,6 @@
         <param name="Сумісність з ОС">Windows</param>
         <param name="Сумісність з ОС">Mac OS</param>
         <param name="Сумісність з ОС">Linux</param>
-        <param name="Колір">Темно-сірий</param>
         <param name="Стан">Новий</param>
         <param name="Комплектація">Клавіатура</param>
         <param name="Призначення">Для ПК</param>
@@ -4651,7 +4755,7 @@
         <picture>https://techgleam.com.ua/content/images/28/15518705060379_%2Be8e79d5477.jpg</picture>
         <picture>https://techgleam.com.ua/content/images/28/48490368325279_%2B5982705a24.jpg</picture>
         <param name="Гарантія">3 місяці</param>
-        <param name="Колір">Фіолетовий</param>
+        <param name="Колір">Бузковий</param>
         <param name="Конструкція клавіш">Механічна</param>
         <param name="Підключення">Дротове</param>
         <param name="Інтерфейс підключення">USB Type-C</param>
@@ -4660,7 +4764,6 @@
         <param name="Сумісність з ОС">Windows</param>
         <param name="Сумісність з ОС">Mac OS</param>
         <param name="Сумісність з ОС">Linux</param>
-        <param name="Колір">Бузковий</param>
         <param name="Стан">Новий</param>
         <param name="Комплектація">Клавіатура</param>
         <param name="Призначення">Для ПК</param>
@@ -4767,7 +4870,7 @@
         <picture>https://techgleam.com.ua/content/images/37/45796916529867_%2B39549dd325.jpg</picture>
         <picture>https://techgleam.com.ua/content/images/37/95227685281811_%2B210e05415d.jpg</picture>
         <param name="Гарантія">3 місяці</param>
-        <param name="Колір">Фіолетовий</param>
+        <param name="Колір">Бузковий</param>
         <param name="Конструкція клавіш">Механічна</param>
         <param name="Підключення">Комбіноване</param>
         <param name="Інтерфейс підключення">Bluetooth</param>
@@ -4782,7 +4885,6 @@
         <param name="Сумісність з ОС">Windows</param>
         <param name="Сумісність з ОС">Mac OS</param>
         <param name="Сумісність з ОС">Linux</param>
-        <param name="Колір">Бузковий</param>
         <param name="Стан">Новий</param>
         <param name="Комплектація">Клавіатура</param>
         <param name="Призначення">Для ПК</param>
@@ -4843,7 +4945,6 @@
         <picture>https://techgleam.com.ua/content/images/42/36749919907156_%2Bb09e5a21f0.jpg</picture>
         <picture>https://techgleam.com.ua/content/images/42/37459066383748_%2B0da3d9c381.jpg</picture>
         <param name="Гарантія">1 місяць</param>
-        <param name="Колір">Білий</param>
         <param name="Конструкція клавіш">Магнітна</param>
         <param name="Підключення">Дротове</param>
         <param name="Інтерфейс підключення">USB Type-C</param>
@@ -5858,7 +5959,6 @@
         <description_ru><p><strong>Logitech G502 HERO — топовая точность и полная кастомизация</strong></p>    <p>G502 HERO сочетает в себе высокую производительность, прочную сборку и умные игровые фишки. Идеальна для тех, кто хочет максимум контроля без компромиссов.</p>    <p><strong>Основные характеристики:</strong></p>    <ul>   <li>Тип: игровая проводная мышь</li>   <li>Сенсор: PMW3366 — без ускорения, сглаживания или фильтрации</li>   <li>DPI: 200–12 000, мгновенное переключение между 5 уровнями (кнопка под большим пальцем)</li>   <li>Кнопки: 11 программируемых</li>   <li>Колесико: двухрежимное — сверхбыстрое свободное и пошаговое прокручивание</li>   <li>Вес и баланс: система сменных утяжелителей для тонкой настройки</li>   <li>Подсветка: RGB (16,8 млн цветов)</li>   <li>Переключатели: механические микропереключатели, ресурс 20 млн нажатий</li>   <li>Кабель: в прочной оплетке</li>   <li>ПЗ: Logitech Gaming Software — профили, макросы, подсветка, калибровка под поверхность</li>  </ul>    <p><strong>Что дает преимущество в игре:</strong></p>    <ul>   <li>Быстрое изменение DPI — от точного прицеливания до стремительных движений за одно мгновение</li>   <li>Дворежимное колесико для быстрого скролла и точного контроля</li>   <li>Гибкая персонализация: вес, баланс, кнопки, подсветка и профили</li>  </ul>    <p><strong>Комплектация:</strong></p>    <p>-Мышь Logitech G502 HERO</p>    <p>-Набор утяжелителей</p>    <p>-Инструкция</p>    <p>G502 HERO — это инструмент, дарящий стабильность, скорость и точность как в киберсражениях, так и в повседневной работе.</p></description_ru>
         <price>1500</price>
         <categoryId>1084</categoryId>
-        <vendor>Logitech</vendor>
         <picture>https://techgleam.com.ua/content/images/2/47373047522697_%2B4e38811923.jpg</picture>
         <picture>https://techgleam.com.ua/content/images/2/43464987113012_%2B98a4d0ddea.jpg</picture>
         <picture>https://techgleam.com.ua/content/images/2/38186701111089_%2B654898c4b3.jpg</picture>
@@ -6194,7 +6294,6 @@
         <picture>https://techgleam.com.ua/content/images/28/12212397102981_%2B1a9a2e2d05.jpg</picture>
         <picture>https://techgleam.com.ua/content/images/28/32709589654379_%2B10bc8ab783.jpg</picture>
         <param name="Гарантія">1 місяць</param>
-        <param name="Колір">Білий</param>
         <param name="Сумісність з ОС">Windows</param>
         <param name="Сумісність з ОС">Mac OS</param>
         <param name="Сумісність з ОС">Linux</param>
@@ -6510,7 +6609,6 @@
         <picture>https://techgleam.com.ua/content/images/18/29782958201586_%2Be63bb703ad.jpg</picture>
         <picture>https://techgleam.com.ua/content/images/18/47103928690866_%2B1db7fb4a12.jpg</picture>
         <param name="Гарантія">1 місяць</param>
-        <param name="Колір">Білий</param>
         <param name="Конструкція клавіш">Механічна</param>
         <param name="Підключення">Комбіноване</param>
         <param name="Інтерфейс підключення">Bluetooth</param>
@@ -6750,20 +6848,6 @@
         <param name="Комплектація">Клавіатура</param>
         <param name="Призначення">Для ПК</param>
       </offer>
-      <offer id="733" available="false">
-        <availability_status>temporarily_unavailable</availability_status>
-        <name_ua>Килимок для миші та клавіатури &quot;Japan&quot; / 90×40 см</name_ua>
-        <name_ru>Коврик для мыши и клавиатуры &quot;Japan&quot; / 90×40 см</name_ru>
-        <description_ua><p data-end="373" data-start="246"><strong data-end="373" data-start="249">&quot;Japan&quot; — мінімалістичний килимок 90×40 см із візерунком Японії, що додає стилю твоєму робочому простору.</strong></p>    <p data-end="512" data-start="375">Візуально натхненний візерунок Японії, цей килимок не просто прикрашає стіл, а й дарує комфорт під час роботи, навчання чи гри.</p>    <ul>   <li data-end="755" data-start="514">Підходить для оптичних та лазерних мишок</li>   <li data-end="755" data-start="514">Вміщає клавіатуру та мишу — ідеально для full-size сетапу</li>   <li data-end="755" data-start="514">Надійний друк, який не стирається</li>   <li data-end="755" data-start="514">Прогумована основа — не ковзає на столі</li>   <li data-end="755" data-start="514"> Водовідштовхувальне покриття — легко доглядати</li>  </ul>    <p data-end="784" data-start="762"><strong data-end="784" data-start="765">Характеристики:</strong></p>    <ul>   <li data-end="807" data-start="787"><strong>Розмір: </strong>900×400 мм</li>   <li data-end="825" data-start="810"><strong>Товщина: </strong>3 мм</li>   <li data-end="864" data-start="828"><strong>Матеріал: </strong>тканинна поверхня + гума</li>  </ul>    <p data-end="864" data-start="828"> </p></description_ua>
-        <description_ru><p><strong>&quot;Japan&quot; - минималистичный коврик 90×40 см с узором Японии, придающий стилю твоему рабочему пространству.</strong></p>    <p>Зрительно вдохновенный узор Японии, этот коврик не просто украшает стол, но и дарит комфорт во время работы, обучения или игры.</p>    <ul>   <li>Подходит для оптических и лазерных мышей</li>   <li>Вмещает клавиатуру и мышь – идеально для full-size сетапа</li>   <li>Надежная печать, которая не стирается</li>   <li>Прорезиненная основа - не скользит на столе</li>   <li>Водоотталкивающее покрытие - легко ухаживать</li>  </ul>    <p><strong>Характеристики:</strong></p>    <ul>   <li>Размер: 900×400 мм</li>   <li>Толщина: 3 мм</li>   <li>Материал: тканевая поверхность + резина</li>  </ul></description_ru>
-        <price>299</price>
-        <categoryId>1089</categoryId>
-        <picture>https://techgleam.com.ua/content/images/34/34778507341168_%2Ba6826bd408.png</picture>
-        <picture>https://techgleam.com.ua/content/images/34/95899815290362_%2Bdc78593c08.png</picture>
-        <picture>https://techgleam.com.ua/content/images/34/66815244026999_%2B5f87362865.png</picture>
-        <picture>https://techgleam.com.ua/content/images/34/55112104270267_%2B158f6fb687.png</picture>
-        <param name="Колір">Сірий</param>
-      </offer>
       <offer id="735" available="false">
         <availability_status>temporarily_unavailable</availability_status>
         <name_ua>Бездротова ігрова миша MCHOSE K7 Ultra / Три режими підключення / PAW3950 / 42 000 DPI / Black</name_ua>
@@ -6797,33 +6881,6 @@
         <param name="Стан">Новий</param>
         <param name="Тип">Ігрові (геймерські)</param>
         <country>Китай</country>
-      </offer>
-      <offer id="741" available="false">
-        <availability_status>temporarily_unavailable</availability_status>
-        <name_ua>Килимок для миші та клавіатури &quot; Black Waves&quot; 80×30 см</name_ua>
-        <name_ru>Коврик для мыши и клавиатуры &quot;Black Waves&quot; 80×30 см</name_ru>
-        <description_ua><p>Килимок поєднує чорні хвилі плавно переходячі в білі— ідеально для тих, хто цінує гармонію, естетику та комфорт у деталях.</p>    <p data-end="762" data-start="740"><strong data-end="762" data-start="743">  Характеристики:</strong></p>    <p data-end="785" data-start="765"><strong> Розмір:</strong> 800×300 мм</p>    <p data-end="847" data-start="806"><strong> Матеріал:</strong> текстиль + прогумована основа</p>    <p data-end="894" data-start="850"><strong> Колір:</strong> монохром із легким контрастом</p>    <p data-end="733" data-start="491">  Підходить для будь-якої мишки (оптична/лазерна)<br data-end="544" data-start="541" />    Вміщує клавіатуру + мишу — ідеально для ігор або роботи<br data-end="604" data-start="601" />    Якісний друк не вигоряє з часом<br data-end="641" data-start="638" />    Прогумована основа — не ковзає по столу<br data-end="686" data-start="683" />    Водовідштовхувальне покриття — легко чистити</p>    <p data-end="733" data-start="491"><strong>  Переваги покупки у TechGleam:</strong><br />     Оригінальна продукція та перевірена якість  <br />     Консультація та допомога при виборі  <br />     Швидка відправка у день замовлення  <br />     Гарантія на кожну позицію</p></description_ua>
-        <description_ru><p>Коврик сочетает черные волны, плавно переходящие в белые — идеально для тех, кто ценит гармонию, эстетику и комфорт в деталях.</p>    <p><strong>  Характеристики:</strong></p>    <p> Размер: 800×300 мм</p>    <p> Материал: текстиль + прорезиненная основа</p>    <p> Цвет: монохром с легким контрастом</p>    <p><strong>  Подходит для любой мышки (оптическая/лазерная)</strong><br />    Вмещает клавиатуру + мышь – идеально для игр или работы<br />    Качественная печать не выгорает со временем<br />    Прорезиненная основа — не скользит по столу<br />    Водоотталкивающее покрытие легко чистить</p>    <p><strong>  Преимущества покупки в TechGleam:</strong><br />     Оригинальная продукция и проверенное качество<br />     Консультация и помощь при выборе<br />     Быстрая отправка в день заказа<br />     Гарантия на каждую позицию</p></description_ru>
-        <price>250</price>
-        <categoryId>1089</categoryId>
-        <picture>https://techgleam.com.ua/content/images/42/96600545042691_%2B37c10bc6bf.jpg</picture>
-        <picture>https://techgleam.com.ua/content/images/42/47899506819800_%2B5e5e338f16.jpg</picture>
-        <picture>https://techgleam.com.ua/content/images/42/78421349945203_%2B985bd928b0.jpg</picture>
-        <param name="Колір">Чорний</param>
-      </offer>
-      <offer id="743" available="false">
-        <availability_status>temporarily_unavailable</availability_status>
-        <name_ua>Килимок для миші та клавіатури &quot;Amazing Japan &quot; 90×40 см</name_ua>
-        <name_ru>Коврик для мыши и клавиатуры &quot;Amazing Japan&quot; 90×40 см</name_ru>
-        <description_ua><p>Килимок поєднує арт дизайн візерунку Японії— ідеально для тих, хто цінує гармонію, естетику та комфорт у деталях.</p>    <p data-end="762" data-start="740"><strong data-end="762" data-start="743">  Характеристики:</strong></p>    <p data-end="785" data-start="765"><strong> Розмір:</strong> 900×400 мм</p>    <p data-end="847" data-start="806"><strong> Матеріал:</strong> текстиль + прогумована основа</p>    <p data-end="894" data-start="850"><strong> Колір:</strong> монохром із легким контрастом</p>    <p data-end="733" data-start="491">  Підходить для будь-якої мишки (оптична/лазерна)<br data-end="544" data-start="541" />    Вміщує клавіатуру + мишу — ідеально для ігор або роботи<br data-end="604" data-start="601" />    Якісний друк не вигоряє з часом<br data-end="641" data-start="638" />    Прогумована основа — не ковзає по столу<br data-end="686" data-start="683" />    Водовідштовхувальне покриття — легко чистити</p>    <p data-end="733" data-start="491"><strong>  Переваги покупки у TechGleam:</strong><br />     Оригінальна продукція та перевірена якість  <br />     Консультація та допомога при виборі  <br />     Швидка відправка у день замовлення  <br />     Гарантія на кожну позицію</p></description_ua>
-        <description_ru><p>Коврик сочетает арт-дизайн рисунка Японии— идеально для тех, кто ценит гармонию, эстетику и комфорт в деталях.</p>    <p><strong>  Характеристики:</strong></p>    <p> Размер: 900×400 мм</p>    <p> Материал: текстиль + прорезиненная основа</p>    <p> Цвет: монохром с легким контрастом</p>    <p><strong>  Подходит для любой мышки (оптическая/лазерная)</strong><br />    Вмещает клавиатуру + мышь – идеально для игр или работы<br />    Качественная печать не выгорает со временем<br />    Прорезиненная основа — не скользит по столу<br />    Водоотталкивающее покрытие легко чистить</p>    <p><strong>  Преимущества покупки в TechGleam:</strong><br />     Оригинальная продукция и проверенное качество<br />     Консультация и помощь при выборе<br />     Быстрая отправка в день заказа<br />     Гарантия на каждую позицию</p></description_ru>
-        <price>300</price>
-        <categoryId>1089</categoryId>
-        <picture>https://techgleam.com.ua/content/images/44/51849958660145_%2B1d0337e14a.jpg</picture>
-        <picture>https://techgleam.com.ua/content/images/44/31995132342349_%2B2fd8916073.jpg</picture>
-        <picture>https://techgleam.com.ua/content/images/44/29294991451917_%2B0fef043dc3.jpg</picture>
-        <picture>https://techgleam.com.ua/content/images/44/89365146237885_%2Be4f488d35f.jpg</picture>
-        <param name="Колір">Чорний</param>
       </offer>
       <offer id="745" available="false">
         <availability_status>temporarily_unavailable</availability_status>
@@ -6992,7 +7049,7 @@
         <picture>https://techgleam.com.ua/content/images/3/igrovaja-myshka-attack-shark-x3-56264147819200_%2B8aa2fc07d6.jpg</picture>
         <picture>https://techgleam.com.ua/content/images/3/igrovaja-myshka-attack-shark-x3-85496551850782_%2Bd7779a6b36.jpg</picture>
         <param name="Гарантія">3 місяці</param>
-        <param name="Колір">Фіолетовий</param>
+        <param name="Колір">Бузковий</param>
         <param name="Підключення">Комбіноване</param>
         <param name="Сумісність з ОС">Microsoft Windows</param>
         <param name="Сумісність з ОС">Mac OS</param>
@@ -7280,7 +7337,7 @@
         <picture>https://techgleam.com.ua/content/images/18/83736718682564_%2B2a2a3d5e0e.jpg</picture>
         <picture>https://techgleam.com.ua/content/images/18/78372593357705_%2B9343623ff2.jpg</picture>
         <param name="Гарантія">3 місяці</param>
-        <param name="Колір">Фіолетовий</param>
+        <param name="Колір">Бузковий</param>
         <param name="Підключення">Комбіноване</param>
         <param name="Сумісність з ОС">Microsoft Windows</param>
         <param name="Сумісність з ОС">Mac OS</param>
@@ -7320,20 +7377,6 @@
         <param name="Сумісність з ОС">Linux</param>
         <param name="Стан">Новий</param>
         <param name="Тип">Ігрові (геймерські)</param>
-      </offer>
-      <offer id="771" available="false">
-        <availability_status>temporarily_unavailable</availability_status>
-        <name_ua>Килимок для миші та клавіатури Topographic / 80×30 см / Black</name_ua>
-        <name_ru>Коврик для мыши и клавиатуры Topographic / 80×30 см / Black</name_ru>
-        <description_ua><p data-end="373" data-start="246"> <strong data-end="373" data-start="249">&quot;Topo Lines&quot; — мінімалістичний килимок 80×30 см із геотопографічним візерунком, що додає стилю твоєму робочому простору.</strong></p>    <p data-end="512" data-start="375">Візуально натхненний контурними лініями рельєфу, цей килимок не просто прикрашає стіл, а й дарує комфорт під час роботи, навчання чи гри.</p>    <ul>   <li data-end="755" data-start="514">Підходить для оптичних та лазерних мишок</li>   <li data-end="755" data-start="514">Вміщає клавіатуру та мишу — ідеально для full-size сетапу</li>   <li data-end="755" data-start="514">Надійний друк, який не стирається</li>   <li data-end="755" data-start="514">Прогумована основа — не ковзає на столі</li>   <li data-end="755" data-start="514">Водовідштовхувальне покриття — легко доглядати</li>  </ul>    <p data-end="755" data-start="514"><strong data-end="784" data-start="765">Характеристики:</strong></p>    <ul data-end="945" data-start="785">   <li data-end="807" data-start="785">   <p data-end="807" data-start="787"><strong>Розмір: </strong>800×300 мм</p>   </li>   <li data-end="825" data-start="808">   <p data-end="825" data-start="810"><strong>Товщина: </strong>3 мм</p>   </li>   <li data-end="864" data-start="826">   <p data-end="864" data-start="828"><strong>Матеріал: </strong>тканинна поверхня + гума</p>   </li>   <li data-end="910" data-start="865">   <p data-end="910" data-start="867"><strong>Візерунок:</strong> геотопографічні контурні лінії</p>   </li>  </ul></description_ua>
-        <description_ru><p data-end="373" data-start="246"><strong data-end="373" data-start="249">&quot;Topo Lines&quot; - минималистичный коврик 80×30 см с геотопографическим узором, что добавляет стиля твоему рабочему пространству.</strong></p>    <p data-end="512" data-start="375">Визуально вдохновленный контурными линиями рельефа, этот коврик не просто украшает стол, но и дарит комфорт во время работы, учебы или игры.</p>    <ul>   <li data-end="755" data-start="514">Подходит для оптических и лазерных мышек</li>   <li data-end="755" data-start="514">Вмещает клавиатуру и мышь - идеально для full-size сетапа</li>   <li data-end="755" data-start="514">Надежная печать, которая не стирается</li>   <li data-end="755" data-start="514">Прорезиненная основа - не скользит по столу</li>   <li data-end="755" data-start="514">Водоотталкивающее покрытие — легко ухаживать</li>  </ul>    <p data-end="784" data-start="762"><strong data-end="784" data-start="765">Характеристики:</strong></p>    <ul data-end="945" data-start="785">   <li data-end="807" data-start="785">   <p data-end="807" data-start="787"><strong>Размер: </strong>800×300 мм</p>   </li>   <li data-end="825" data-start="808">   <p data-end="825" data-start="810"><strong>Толщина: </strong>3 мм</p>   </li>   <li data-end="864" data-start="826">   <p data-end="864" data-start="828"><strong>Материал: </strong>тканевая поверхность + резина</p>   </li>   <li data-end="910" data-start="865">   <p data-end="910" data-start="867"><strong>Узор:</strong> геотопграфические контурные линии</p>   </li>  </ul></description_ru>
-        <price>499</price>
-        <categoryId>1089</categoryId>
-        <picture>https://techgleam.com.ua/content/images/22/34592153442373_%2B00cdae2d30.png</picture>
-        <picture>https://techgleam.com.ua/content/images/22/28637716631729_%2B3d6fb1aedc.png</picture>
-        <picture>https://techgleam.com.ua/content/images/22/11709903941584_%2Bd819bc4b8a.png</picture>
-        <param name="Гарантія">1 місяць</param>
-        <param name="Колір">Чорний</param>
       </offer>
       <offer id="775" available="false">
         <availability_status>temporarily_unavailable</availability_status>
@@ -8222,7 +8265,7 @@
         <picture>https://techgleam.com.ua/content/images/44/igrovaja-mexanicheskaja-klaviatura-mchose-g75-pro-tri-rezhima-podkluchenija-matcha-latte-switch-purple-50629740467002_%2B2f4aafbf2a.jpg</picture>
         <picture>https://techgleam.com.ua/content/images/44/igrovaja-mexanicheskaja-klaviatura-mchose-g75-pro-tri-rezhima-podkluchenija-matcha-latte-switch-purple-50846678298833_%2B62f8f667d7.jpg</picture>
         <param name="Гарантія">1 місяць</param>
-        <param name="Колір">Фіолетовий</param>
+        <param name="Колір">Бузковий</param>
         <param name="Конструкція клавіш">Механічна</param>
         <param name="Підключення">Комбіноване</param>
         <param name="Інтерфейс підключення">Bluetooth</param>
@@ -8237,7 +8280,6 @@
         <param name="Сумісність з ОС">Windows</param>
         <param name="Сумісність з ОС">Mac OS</param>
         <param name="Сумісність з ОС">Linux</param>
-        <param name="Колір">Бузковий</param>
         <param name="Стан">Новий</param>
         <param name="Комплектація">Клавіатура</param>
         <param name="Призначення">Для ПК</param>
@@ -8287,7 +8329,7 @@
         <picture>https://techgleam.com.ua/content/images/46/besprovodnaja-igrovaja-mysh-mchose-k7-ultra-tri-rezhima-podkluchenija-paw3950-42-000-dpi-white-silver-93885492300002_%2Be76988b36e.jpg</picture>
         <picture>https://techgleam.com.ua/content/images/46/besprovodnaja-igrovaja-mysh-mchose-k7-ultra-tri-rezhima-podkluchenija-paw3950-42-000-dpi-white-silver-59235488900671_%2B6bc0d8c583.jpg</picture>
         <param name="Гарантія">3 місяці</param>
-        <param name="Колір">Сріблястий</param>
+        <param name="Колір">Сірий</param>
         <param name="Підключення">Комбіноване</param>
         <param name="Сумісність з ОС">Microsoft Windows</param>
         <param name="Сумісність з ОС">Mac OS</param>
@@ -8965,7 +9007,6 @@
         <picture>https://techgleam.com.ua/content/images/27/igrovaja-mexanicheskaja-klaviatura-freewolf-f75-tri-rezhima-podkluchenija-hot-swappable-silver-moon-switch-white-blue-46814428465406_%2Bce490a7bf9.jpg</picture>
         <picture>https://techgleam.com.ua/content/images/27/igrovaja-mexanicheskaja-klaviatura-freewolf-f75-tri-rezhima-podkluchenija-hot-swappable-silver-moon-switch-white-blue-89664138159386_%2B4d967ed87c.jpg</picture>
         <param name="Гарантія">1 місяць</param>
-        <param name="Колір">Білий</param>
         <param name="Конструкція клавіш">Механічна</param>
         <param name="Підключення">Комбіноване</param>
         <param name="Інтерфейс підключення">Bluetooth</param>
@@ -9424,7 +9465,7 @@
         <picture>https://techgleam.com.ua/content/images/45/igrovaja-besprovodnaja-klaviatura-freewolf-m96-rgb-s-ekranom-dva-rezhima-podkluchenija-52788677082617_%2Bb03533c45b.jpg</picture>
         <picture>https://techgleam.com.ua/content/images/45/igrovaja-besprovodnaja-klaviatura-freewolf-m96-rgb-s-ekranom-dva-rezhima-podkluchenija-24104078097075_%2B0004680111.jpg</picture>
         <param name="Гарантія">1 місяць</param>
-        <param name="Колір">Різнокольоровий</param>
+        <param name="Колір">В асортименті</param>
         <param name="Конструкція клавіш">Мембранна</param>
         <param name="Підключення">Комбіноване</param>
         <param name="Інтерфейс підключення">Bluetooth</param>
@@ -9437,7 +9478,6 @@
         <param name="Сумісність з ОС">Windows</param>
         <param name="Сумісність з ОС">Mac OS</param>
         <param name="Сумісність з ОС">Linux</param>
-        <param name="Колір">В асортименті</param>
         <param name="Стан">Новий</param>
         <param name="Комплектація">Клавіатура</param>
         <param name="Призначення">Для ПК</param>
@@ -9487,7 +9527,7 @@
         <picture>https://techgleam.com.ua/content/images/47/igrovaja-provodnaja-mexanicheskaja-klaviatura-zifriend-za68-rgb-mechanical-switch-65-purple-57428702322244_%2B4ca14e8e5b.jpg</picture>
         <picture>https://techgleam.com.ua/content/images/47/igrovaja-provodnaja-mexanicheskaja-klaviatura-zifriend-za68-rgb-mechanical-switch-65-purple-24996412094151_%2B449ad2353a.jpg</picture>
         <param name="Гарантія">1 місяць</param>
-        <param name="Колір">Фіолетовий</param>
+        <param name="Колір">Бузковий</param>
         <param name="Конструкція клавіш">Механічна</param>
         <param name="Підключення">Дротове</param>
         <param name="Інтерфейс підключення">USB Type-C</param>
@@ -9499,7 +9539,6 @@
         <param name="Сумісність з ОС">Windows</param>
         <param name="Сумісність з ОС">Mac OS</param>
         <param name="Сумісність з ОС">Linux</param>
-        <param name="Колір">Бузковий</param>
         <param name="Стан">Новий</param>
         <param name="Комплектація">Клавіатура</param>
         <param name="Призначення">Для ПК</param>
@@ -9622,7 +9661,7 @@
         <picture>https://techgleam.com.ua/content/images/2/igrovaja-mexanicheskaja-provodnaja-klaviatura-hxsj-v500-blue-switch-60-rgb-colourful-46902090779489_%2Bf2b102f1ad.jpg</picture>
         <picture>https://techgleam.com.ua/content/images/2/igrovaja-mexanicheskaja-provodnaja-klaviatura-hxsj-v500-blue-switch-60-rgb-colourful-74772569799254_%2Bc94c693ee2.jpg</picture>
         <param name="Гарантія">1 місяць</param>
-        <param name="Колір">Різнокольоровий</param>
+        <param name="Колір">В асортименті</param>
         <param name="Конструкція клавіш">Механічна</param>
         <param name="Підключення">Дротове</param>
         <param name="Інтерфейс підключення">USB Type-C</param>
@@ -9634,7 +9673,6 @@
         <param name="Сумісність з ОС">Windows</param>
         <param name="Сумісність з ОС">Mac OS</param>
         <param name="Сумісність з ОС">Linux</param>
-        <param name="Колір">В асортименті</param>
         <param name="Стан">Новий</param>
         <param name="Комплектація">Клавіатура</param>
         <param name="Призначення">Для ПК</param>
@@ -10181,7 +10219,7 @@
         <picture>https://techgleam.com.ua/content/images/11/mexanicheskaja-klaviatura-ajazz-ak680-hot-swap-battery-mode-red-switch-purple-35071964826411_%2B1653364fb0.jpg</picture>
         <picture>https://techgleam.com.ua/content/images/11/mexanicheskaja-klaviatura-ajazz-ak680-hot-swap-battery-mode-red-switch-purple-75308866081085_%2B0ff6083e0b.jpg</picture>
         <param name="Гарантія">1 місяць</param>
-        <param name="Колір">Фіолетовий</param>
+        <param name="Колір">Бузковий</param>
         <param name="Конструкція клавіш">Механічна</param>
         <param name="Підключення">Комбіноване</param>
         <param name="Інтерфейс підключення">Радіоінтерфейс</param>
@@ -10191,7 +10229,6 @@
         <param name="Матеріал корпусу">Пластик</param>
         <param name="Сумісність з ОС">Windows</param>
         <param name="Сумісність з ОС">Mac OS</param>
-        <param name="Колір">Бузковий</param>
         <param name="Стан">Новий</param>
         <param name="Комплектація">Клавіатура</param>
         <param name="Призначення">Для ПК</param>
@@ -10309,7 +10346,7 @@
         <picture>https://techgleam.com.ua/content/images/3/igrovaja-magnitnaja-provodnaja-klaviatura-attack-shark-r85-provodnoe-podkluchenie-magnetic-switch-black-92780439429555_%2Bd093097eaf.jpg</picture>
         <picture>https://techgleam.com.ua/content/images/3/igrovaja-magnitnaja-provodnaja-klaviatura-attack-shark-r85-provodnoe-podkluchenie-magnetic-switch-black-25540494806267_%2Bab929d1c01.jpg</picture>
         <param name="Гарантія">3 місяці</param>
-        <param name="Колір">Сірий</param>
+        <param name="Колір">Темно-сірий</param>
         <param name="Конструкція клавіш">Магнітна</param>
         <param name="Підключення">Дротове</param>
         <param name="Інтерфейс підключення">USB Type-C</param>
@@ -10321,7 +10358,6 @@
         <param name="Сумісність з ОС">Windows</param>
         <param name="Сумісність з ОС">Mac OS</param>
         <param name="Сумісність з ОС">Linux</param>
-        <param name="Колір">Темно-сірий</param>
         <param name="Стан">Новий</param>
         <param name="Комплектація">Клавіатура</param>
         <param name="Призначення">Для ПК</param>
@@ -11263,7 +11299,7 @@
         <picture>https://techgleam.com.ua/content/images/11/igrovaja-provodnaja-magnitnaja-klaviatura-gravastar-mercury-v60-pro-deluxe-edition-magnetic-gravastar-ufo-switch-with-keycap-set-chrome-silver-94727437864284_%2B7f8fb76335.jpg</picture>
         <picture>https://techgleam.com.ua/content/images/11/igrovaja-provodnaja-magnitnaja-klaviatura-gravastar-mercury-v60-pro-deluxe-edition-magnetic-gravastar-ufo-switch-with-keycap-set-chrome-silver-97811102537831_%2Bc967928c24.jpg</picture>
         <param name="Гарантія">6 місяців</param>
-        <param name="Колір">Сріблястий</param>
+        <param name="Колір">Сірий</param>
         <param name="Конструкція клавіш">Магнітна</param>
         <param name="Підключення">Дротове</param>
         <param name="Інтерфейс підключення">USB Type-C</param>
@@ -11275,7 +11311,6 @@
         <param name="Сумісність з ОС">Windows</param>
         <param name="Сумісність з ОС">Mac OS</param>
         <param name="Сумісність з ОС">Linux</param>
-        <param name="Колір">Сірий</param>
         <param name="Стан">Новий</param>
         <param name="Комплектація">Клавіатура</param>
         <param name="Призначення">Для ПК</param>
@@ -11407,7 +11442,6 @@
         <picture>https://techgleam.com.ua/content/images/25/led-nochnik-lampa-nastolnaja-usb-lampa-nochnik-360-sensornaja-akkumuljatornaja-dekorativnaja-purple-16372254712215_%2B1df458fdb4.png</picture>
         <picture>https://techgleam.com.ua/content/images/25/led-nochnik-lampa-nastolnaja-usb-lampa-nochnik-360-sensornaja-akkumuljatornaja-dekorativnaja-purple-92001307083809_%2B454058fd62.png</picture>
         <picture>https://techgleam.com.ua/content/images/25/led-nochnik-lampa-nastolnaja-usb-lampa-nochnik-360-sensornaja-akkumuljatornaja-dekorativnaja-purple-35572808157268_%2B6822bb3cdf.png</picture>
-        <param name="Колір">Фіолетовий</param>
         <param name="Колір">Бузковий</param>
         <param name="Стан">Новий</param>
       </offer>
@@ -11483,7 +11517,6 @@
         <description_ru><p data-end="2351" data-start="2058"><strong data-end="2095" data-start="2058">Logitech G102 Lightsync USB Black</strong> — проводная игровая мышь с оптическим сенсором <strong data-end="2158" data-start="2143">до 8000 DPI</strong>, <strong data-end="2191" data-start="2160">6 программируемыми кнопками</strong>, RGB-подсветкой <strong data-end="2221" data-start="2208">Lightsync</strong> и быстрым откликом для игр и повседневного использования. Оснащена <strong data-end="2318" data-start="2289">32-битным ARM-процессором</strong> и удобным средним форм-фактором.</p>    <p data-end="2372" data-start="2353"><strong data-end="2400" data-start="2373">Logitech G102 Lightsync</strong> — популярная проводная мышь для тех, кто ищет надёжное решение для игр, учёбы и повседневной работы. Модель имеет классическую симметричную форму, удобно лежит в руке и подходит большинству пользователей благодаря <strong data-end="2635" data-start="2615">среднему размеру</strong> и комфортной посадке.</p>    <p data-end="2933" data-start="2659">Мышь оснащена <strong data-end="2696" data-start="2673">оптическим сенсором</strong> с чувствительностью <strong data-end="2732" data-start="2717">до 8000 DPI</strong>, что обеспечивает точный контроль в шутерах, MOBA и других динамичных играх. Диапазон чувствительности — <strong data-end="2860" data-start="2838">от 200 до 8000 DPI</strong>, поэтому можно легко подобрать удобную скорость движения под свой стиль.</p>    <p data-end="3282" data-start="2935"><strong data-end="2963" data-start="2935">6 программируемых кнопок</strong> и <strong data-end="2993" data-start="2966">32-битный ARM-процессор</strong> позволяют настраивать команды, макросы и игровые профили. Подсветка <strong data-end="3079" data-start="3062">Lightsync RGB</strong> добавляет яркости рабочему месту и помогает персонализировать внешний вид устройства.<br data-end="3168" data-start="3165" />  Подключение осуществляется через <strong data-end="3208" data-start="3201">USB</strong>, длина кабеля — <strong data-end="3234" data-start="3225">2.1 м</strong>, поддерживаются <strong data-end="3281" data-start="3251">Windows, macOS и Chrome OS</strong>.</p>    <h3 data-end="3311" data-start="3284">Основные характеристики</h3>    <ul data-end="3874" data-start="3312">   <li data-end="3349" data-start="3312">   <p data-end="3349" data-start="3314"><strong data-end="3325" data-start="3314">Модель:</strong> Logitech G102 Lightsync</p>   </li>   <li data-end="3385" data-start="3350">   <p data-end="3385" data-start="3352"><strong data-end="3374" data-start="3352">Код производителя:</strong> 910-005823</p>   </li>   <li data-end="3419" data-start="3386">   <p data-end="3419" data-start="3388"><strong data-end="3396" data-start="3388">Тип:</strong> проводная игровая мышь</p>   </li>   <li data-end="3440" data-start="3420">   <p data-end="3440" data-start="3422"><strong data-end="3436" data-start="3422">Интерфейс:</strong> USB</p>   </li>   <li data-end="3465" data-start="3441">   <p data-end="3465" data-start="3443"><strong data-end="3454" data-start="3443">Сенсор:</strong> оптический</p>   </li>   <li data-end="3498" data-start="3466">   <p data-end="3498" data-start="3468"><strong data-end="3489" data-start="3468">Максимальное DPI:</strong> <strong data-end="3498" data-start="3490">8000</strong></p>   </li>   <li data-end="3531" data-start="3499">   <p data-end="3531" data-start="3501"><strong data-end="3518" data-start="3501">Диапазон DPI:</strong> <strong data-end="3531" data-start="3519">200–8000</strong></p>   </li>   <li data-end="3562" data-start="3532">   <p data-end="3562" data-start="3534"><strong data-end="3556" data-start="3534">Количество кнопок:</strong> <strong data-end="3562" data-start="3557">6</strong></p>   </li>   <li data-end="3592" data-start="3563">   <p data-end="3592" data-start="3565"><strong data-end="3576" data-start="3565">Кнопки:</strong> программируемые</p>   </li>   <li data-end="3627" data-start="3593">   <p data-end="3627" data-start="3595"><strong data-end="3609" data-start="3595">Процессор:</strong> <strong data-end="3627" data-start="3610">32-битный ARM</strong></p>   </li>   <li data-end="3658" data-start="3628">   <p data-end="3658" data-start="3630"><strong data-end="3644" data-start="3630">Подсветка:</strong> RGB Lightsync</p>   </li>   <li data-end="3699" data-start="3659">   <p data-end="3699" data-start="3661"><strong data-end="3672" data-start="3661">Размер:</strong> <strong data-end="3699" data-start="3673">62.2 × 116.6 × 38.2 мм</strong></p>   </li>   <li data-end="3729" data-start="3700">   <p data-end="3729" data-start="3702"><strong data-end="3719" data-start="3702">Длина кабеля:</strong> <strong data-end="3729" data-start="3720">2.1 м</strong></p>   </li>   <li data-end="3748" data-start="3730">   <p data-end="3748" data-start="3732"><strong data-end="3741" data-start="3732">Цвет:</strong> чёрный</p>   </li>   <li data-end="3797" data-start="3749">   <p data-end="3797" data-start="3751"><strong data-end="3769" data-start="3751">Совместимость:</strong> Windows / macOS / Chrome OS</p>   </li>   <li data-end="3840" data-start="3798">   <p data-end="3840" data-start="3800"><strong data-end="3830" data-start="3800">Страна регистрации бренда:</strong> Швейцария</p>   </li>   <li data-end="3874" data-start="3841">   <p data-end="3874" data-start="3843"><strong data-end="3868" data-start="3843">Страна-производитель:</strong> Китай</p>   </li>  </ul></description_ru>
         <price>999</price>
         <categoryId>1084</categoryId>
-        <vendor>Logitech</vendor>
         <picture>https://techgleam.com.ua/content/images/32/igrovaja-provodnaja-myshka-logitech-g102-lightsync-8000-dpi-black-72189338144463_%2Bf932db9a2b.jpg</picture>
         <picture>https://techgleam.com.ua/content/images/32/igrovaja-provodnaja-myshka-logitech-g102-lightsync-8000-dpi-black-76216668033118_%2Bcc6bb2ee41.jpg</picture>
         <picture>https://techgleam.com.ua/content/images/32/igrovaja-provodnaja-myshka-logitech-g102-lightsync-8000-dpi-black-88222429160008_%2B4237891ce9.jpg</picture>
@@ -11669,7 +11702,6 @@
         <picture>https://techgleam.com.ua/content/images/43/mexanicheskaja-klaviatura-aula-s75-pro-75-tri-rezhima-podkluchenija-seyia-switch-white-blue-51577470258984_%2B8566ca75aa.jpg</picture>
         <picture>https://techgleam.com.ua/content/images/43/mexanicheskaja-klaviatura-aula-s75-pro-75-tri-rezhima-podkluchenija-seyia-switch-white-blue-98641693070935_%2B7ac5acc537.jpg</picture>
         <param name="Гарантія">3 місяці</param>
-        <param name="Колір">Білий</param>
         <param name="Конструкція клавіш">Механічна</param>
         <param name="Підключення">Комбіноване</param>
         <param name="Інтерфейс підключення">Bluetooth</param>
@@ -12555,7 +12587,7 @@
         <picture>https://techgleam.com.ua/content/images/3/grova-bezdrotova-mishka-ipi-qi-pro-tri-rezhimi-pdkluchennja-42000-dpi-sensor-paw3950-purple-95167377722564_%2B060b14f7a4.png</picture>
         <picture>https://techgleam.com.ua/content/images/3/grova-bezdrotova-mishka-ipi-qi-pro-tri-rezhimi-pdkluchennja-42000-dpi-sensor-paw3950-purple-82530435859139_%2Bb6d49402ab.png</picture>
         <param name="Гарантія">6 місяців</param>
-        <param name="Колір">Фіолетовий</param>
+        <param name="Колір">Бузковий</param>
         <param name="Підключення">Комбіноване</param>
         <param name="Сумісність з ОС">Microsoft Windows</param>
         <param name="Сумісність з ОС">Mac OS</param>
@@ -12746,7 +12778,6 @@
         <picture>https://techgleam.com.ua/content/images/30/grova-bezdrotova-mexanchna-klavatura-attack-shark-k86-tri-rezhimi-pdkluchennja-linear-blue-whale-switches-white-blue-48844547335317_%2B9b31d41e6b.jpg</picture>
         <picture>https://techgleam.com.ua/content/images/30/grova-bezdrotova-mexanchna-klavatura-attack-shark-k86-tri-rezhimi-pdkluchennja-linear-blue-whale-switches-white-blue-90743456618862_%2Bea1277d343.jpg</picture>
         <param name="Гарантія">3 місяці</param>
-        <param name="Колір">Білий</param>
         <param name="Конструкція клавіш">Механічна</param>
         <param name="Підключення">Комбіноване</param>
         <param name="Інтерфейс підключення">Bluetooth</param>
@@ -13020,7 +13051,7 @@
         <vendor>ATK</vendor>
         <picture>https://techgleam.com.ua/content/images/43/grova-bezdrotova-mishka-atk-blazing-sky-ghost-tri-rezhimi-pdkluchennja-sensor-paw3950-ultra-42000-dpi-silver-69947462774638_%2B3bc14e2296.jpg</picture>
         <param name="Гарантія">3 місяці</param>
-        <param name="Колір">Сріблястий</param>
+        <param name="Колір">Сірий</param>
         <param name="Підключення">Комбіноване</param>
         <param name="Сумісність з ОС">Microsoft Windows</param>
         <param name="Сумісність з ОС">Mac OS</param>
@@ -13578,7 +13609,7 @@
         <picture>https://techgleam.com.ua/content/images/42/grova-mexanchna-klavatura-akko-5075-v3-tri-rezhimi-pdkluchennja-frost-pink-switch-purple-25240406184115_%2Bf1cd6ca00b.png</picture>
         <picture>https://techgleam.com.ua/content/images/42/grova-mexanchna-klavatura-akko-5075-v3-tri-rezhimi-pdkluchennja-frost-pink-switch-purple-51100304576930_%2Bfab2fede6f.png</picture>
         <param name="Гарантія">3 місяці</param>
-        <param name="Колір">Фіолетовий</param>
+        <param name="Колір">Бузковий</param>
         <param name="Конструкція клавіш">Механічна</param>
         <param name="Підключення">Комбіноване</param>
         <param name="Інтерфейс підключення">Bluetooth</param>
@@ -13593,7 +13624,6 @@
         <param name="Сумісність з ОС">Windows</param>
         <param name="Сумісність з ОС">Mac OS</param>
         <param name="Сумісність з ОС">Linux</param>
-        <param name="Колір">Бузковий</param>
         <param name="Стан">Новий</param>
         <param name="Комплектація">Клавіатура</param>
         <param name="Призначення">Для ПК</param>
@@ -13855,7 +13885,7 @@
         <picture>https://techgleam.com.ua/content/images/4/grova-bezdrotova-mishka-attack-shark-x11-ultra-tri-rezhimi-pdkluchennja-carbon-fiber-sensor-paw3950max-42000-dpi-purple-95266018642805_%2Be5cb20f694.jpg</picture>
         <picture>https://techgleam.com.ua/content/images/4/grova-bezdrotova-mishka-attack-shark-x11-ultra-tri-rezhimi-pdkluchennja-carbon-fiber-sensor-paw3950max-42000-dpi-purple-11556664586130_%2B2d979edd17.jpg</picture>
         <param name="Гарантія">3 місяці</param>
-        <param name="Колір">Фіолетовий</param>
+        <param name="Колір">Бузковий</param>
         <param name="Підключення">Комбіноване</param>
         <param name="Сумісність з ОС">Microsoft Windows</param>
         <param name="Сумісність з ОС">Mac OS</param>
@@ -14349,7 +14379,7 @@
         <picture>https://techgleam.com.ua/content/images/43/grova-bezdrotova-mishka-aula-sc620-tri-rezhimi-pdkluchennja-sensor-paw3311-67-g-12000-dpi-purple-25313134841959_%2B8a4b7884f8.jpg</picture>
         <picture>https://techgleam.com.ua/content/images/43/grova-bezdrotova-mishka-aula-sc620-tri-rezhimi-pdkluchennja-sensor-paw3311-67-g-12000-dpi-purple-22991537221693_%2B67b692a8ff.png</picture>
         <param name="Гарантія">1 місяць</param>
-        <param name="Колір">Фіолетовий</param>
+        <param name="Колір">Бузковий</param>
         <param name="Підключення">Комбіноване</param>
         <param name="Сумісність з ОС">Microsoft Windows</param>
         <param name="Сумісність з ОС">Mac OS</param>
@@ -14786,13 +14816,12 @@
         <vendor>ATK</vendor>
         <picture>https://techgleam.com.ua/content/images/36/29418969145614_%2B4c6c12ec69.jpg</picture>
         <param name="Гарантія">3 місяці</param>
-        <param name="Колір">Сріблястий</param>
+        <param name="Колір">Сірий</param>
         <param name="Підключення">Комбіноване</param>
         <param name="Сумісність з ОС">Microsoft Windows</param>
         <param name="Сумісність з ОС">Mac OS</param>
         <param name="Сумісність з ОС">Linux</param>
         <param name="Вага">48 г</param>
-        <param name="Колір">Сірий</param>
         <param name="Тип датчика">Оптичний</param>
         <param name="Інтерфейс підключення">Bluetooth</param>
         <param name="Інтерфейс підключення">Радіоінтерфейс</param>
@@ -15283,7 +15312,6 @@
         <picture>https://techgleam.com.ua/content/images/8/13529576955488_%2Bc4232aeed2.jpg</picture>
         <picture>https://techgleam.com.ua/content/images/8/81398541083430_%2Bc372ec95d5.jpg</picture>
         <param name="Гарантія">3 місяці</param>
-        <param name="Колір">Чорний</param>
         <param name="Тип">Повнорозмірні</param>
         <param name="Тип підключення">Комбінований</param>
         <param name="Мікрофон">Зйомний</param>
@@ -15347,7 +15375,6 @@
         <picture>https://techgleam.com.ua/content/images/10/39850700293888_%2B592531ed04.jpg</picture>
         <picture>https://techgleam.com.ua/content/images/10/23942635915061_%2Bf947bb2113.jpg</picture>
         <param name="Гарантія">3 місяці</param>
-        <param name="Колір">Білий</param>
         <param name="Тип">Повнорозмірні</param>
         <param name="Тип підключення">Комбінований</param>
         <param name="Мікрофон">Зйомний</param>
@@ -15422,7 +15449,6 @@
         <picture>https://techgleam.com.ua/content/images/20/15090972903407_%2Bda899e48be.jpg</picture>
         <picture>https://techgleam.com.ua/content/images/20/20250491725495_%2B5559cf84ff.jpg</picture>
         <param name="Гарантія">1 місяць</param>
-        <param name="Колір">Фіолетовий</param>
         <param name="Колір">Бузковий</param>
         <param name="Стан">Новий</param>
         <param name="Призначення">Для клавіатур</param>
@@ -15664,8 +15690,34 @@
         <picture>https://techgleam.com.ua/content/images/8/93428353257578_%2Bbf80b6a59b.jpg</picture>
         <picture>https://techgleam.com.ua/content/images/8/28975587804992_%2B962573770d.jpg</picture>
         <param name="Гарантія">3 місяці</param>
-        <param name="Колір">Чорний</param>
         <param name="Особливості">Ігрові</param>
+      </offer>
+      <offer id="733" available="false">
+        <availability_status>temporarily_unavailable</availability_status>
+        <name_ua>Килимок для миші та клавіатури &quot;Japan&quot; / 90×40 см</name_ua>
+        <name_ru>Коврик для мыши и клавиатуры &quot;Japan&quot; / 90×40 см</name_ru>
+        <description_ua><p data-end="373" data-start="246"><strong data-end="373" data-start="249">&quot;Japan&quot; — мінімалістичний килимок 90×40 см із візерунком Японії, що додає стилю твоєму робочому простору.</strong></p>    <p data-end="512" data-start="375">Візуально натхненний візерунок Японії, цей килимок не просто прикрашає стіл, а й дарує комфорт під час роботи, навчання чи гри.</p>    <ul>   <li data-end="755" data-start="514">Підходить для оптичних та лазерних мишок</li>   <li data-end="755" data-start="514">Вміщає клавіатуру та мишу — ідеально для full-size сетапу</li>   <li data-end="755" data-start="514">Надійний друк, який не стирається</li>   <li data-end="755" data-start="514">Прогумована основа — не ковзає на столі</li>   <li data-end="755" data-start="514"> Водовідштовхувальне покриття — легко доглядати</li>  </ul>    <p data-end="784" data-start="762"><strong data-end="784" data-start="765">Характеристики:</strong></p>    <ul>   <li data-end="807" data-start="787"><strong>Розмір: </strong>900×400 мм</li>   <li data-end="825" data-start="810"><strong>Товщина: </strong>3 мм</li>   <li data-end="864" data-start="828"><strong>Матеріал: </strong>тканинна поверхня + гума</li>  </ul>    <p data-end="864" data-start="828"> </p></description_ua>
+        <description_ru><p><strong>&quot;Japan&quot; - минималистичный коврик 90×40 см с узором Японии, придающий стилю твоему рабочему пространству.</strong></p>    <p>Зрительно вдохновенный узор Японии, этот коврик не просто украшает стол, но и дарит комфорт во время работы, обучения или игры.</p>    <ul>   <li>Подходит для оптических и лазерных мышей</li>   <li>Вмещает клавиатуру и мышь – идеально для full-size сетапа</li>   <li>Надежная печать, которая не стирается</li>   <li>Прорезиненная основа - не скользит на столе</li>   <li>Водоотталкивающее покрытие - легко ухаживать</li>  </ul>    <p><strong>Характеристики:</strong></p>    <ul>   <li>Размер: 900×400 мм</li>   <li>Толщина: 3 мм</li>   <li>Материал: тканевая поверхность + резина</li>  </ul></description_ru>
+        <price>299</price>
+        <categoryId>1089</categoryId>
+        <picture>https://techgleam.com.ua/content/images/34/34778507341168_%2Ba6826bd408.png</picture>
+        <picture>https://techgleam.com.ua/content/images/34/95899815290362_%2Bdc78593c08.png</picture>
+        <picture>https://techgleam.com.ua/content/images/34/66815244026999_%2B5f87362865.png</picture>
+        <picture>https://techgleam.com.ua/content/images/34/55112104270267_%2B158f6fb687.png</picture>
+        <param name="Колір">Сірий</param>
+      </offer>
+      <offer id="741" available="false">
+        <availability_status>temporarily_unavailable</availability_status>
+        <name_ua>Килимок для миші та клавіатури &quot; Black Waves&quot; 80×30 см</name_ua>
+        <name_ru>Коврик для мыши и клавиатуры &quot;Black Waves&quot; 80×30 см</name_ru>
+        <description_ua><p>Килимок поєднує чорні хвилі плавно переходячі в білі— ідеально для тих, хто цінує гармонію, естетику та комфорт у деталях.</p>    <p data-end="762" data-start="740"><strong data-end="762" data-start="743">  Характеристики:</strong></p>    <p data-end="785" data-start="765"><strong> Розмір:</strong> 800×300 мм</p>    <p data-end="847" data-start="806"><strong> Матеріал:</strong> текстиль + прогумована основа</p>    <p data-end="894" data-start="850"><strong> Колір:</strong> монохром із легким контрастом</p>    <p data-end="733" data-start="491">  Підходить для будь-якої мишки (оптична/лазерна)<br data-end="544" data-start="541" />    Вміщує клавіатуру + мишу — ідеально для ігор або роботи<br data-end="604" data-start="601" />    Якісний друк не вигоряє з часом<br data-end="641" data-start="638" />    Прогумована основа — не ковзає по столу<br data-end="686" data-start="683" />    Водовідштовхувальне покриття — легко чистити</p>    <p data-end="733" data-start="491"><strong>  Переваги покупки у TechGleam:</strong><br />     Оригінальна продукція та перевірена якість  <br />     Консультація та допомога при виборі  <br />     Швидка відправка у день замовлення  <br />     Гарантія на кожну позицію</p></description_ua>
+        <description_ru><p>Коврик сочетает черные волны, плавно переходящие в белые — идеально для тех, кто ценит гармонию, эстетику и комфорт в деталях.</p>    <p><strong>  Характеристики:</strong></p>    <p> Размер: 800×300 мм</p>    <p> Материал: текстиль + прорезиненная основа</p>    <p> Цвет: монохром с легким контрастом</p>    <p><strong>  Подходит для любой мышки (оптическая/лазерная)</strong><br />    Вмещает клавиатуру + мышь – идеально для игр или работы<br />    Качественная печать не выгорает со временем<br />    Прорезиненная основа — не скользит по столу<br />    Водоотталкивающее покрытие легко чистить</p>    <p><strong>  Преимущества покупки в TechGleam:</strong><br />     Оригинальная продукция и проверенное качество<br />     Консультация и помощь при выборе<br />     Быстрая отправка в день заказа<br />     Гарантия на каждую позицию</p></description_ru>
+        <price>250</price>
+        <categoryId>1089</categoryId>
+        <picture>https://techgleam.com.ua/content/images/42/96600545042691_%2B37c10bc6bf.jpg</picture>
+        <picture>https://techgleam.com.ua/content/images/42/47899506819800_%2B5e5e338f16.jpg</picture>
+        <picture>https://techgleam.com.ua/content/images/42/78421349945203_%2B985bd928b0.jpg</picture>
+        <param name="Колір">Чорний</param>
       </offer>
       <offer id="742" available="false">
         <availability_status>temporarily_unavailable</availability_status>
@@ -15696,6 +15748,20 @@
         <param name="Довжина кабелю">1.2 м</param>
         <param name="Стан">Новий</param>
         <country>Китай</country>
+      </offer>
+      <offer id="743" available="false">
+        <availability_status>temporarily_unavailable</availability_status>
+        <name_ua>Килимок для миші та клавіатури &quot;Amazing Japan &quot; 90×40 см</name_ua>
+        <name_ru>Коврик для мыши и клавиатуры &quot;Amazing Japan&quot; 90×40 см</name_ru>
+        <description_ua><p>Килимок поєднує арт дизайн візерунку Японії— ідеально для тих, хто цінує гармонію, естетику та комфорт у деталях.</p>    <p data-end="762" data-start="740"><strong data-end="762" data-start="743">  Характеристики:</strong></p>    <p data-end="785" data-start="765"><strong> Розмір:</strong> 900×400 мм</p>    <p data-end="847" data-start="806"><strong> Матеріал:</strong> текстиль + прогумована основа</p>    <p data-end="894" data-start="850"><strong> Колір:</strong> монохром із легким контрастом</p>    <p data-end="733" data-start="491">  Підходить для будь-якої мишки (оптична/лазерна)<br data-end="544" data-start="541" />    Вміщує клавіатуру + мишу — ідеально для ігор або роботи<br data-end="604" data-start="601" />    Якісний друк не вигоряє з часом<br data-end="641" data-start="638" />    Прогумована основа — не ковзає по столу<br data-end="686" data-start="683" />    Водовідштовхувальне покриття — легко чистити</p>    <p data-end="733" data-start="491"><strong>  Переваги покупки у TechGleam:</strong><br />     Оригінальна продукція та перевірена якість  <br />     Консультація та допомога при виборі  <br />     Швидка відправка у день замовлення  <br />     Гарантія на кожну позицію</p></description_ua>
+        <description_ru><p>Коврик сочетает арт-дизайн рисунка Японии— идеально для тех, кто ценит гармонию, эстетику и комфорт в деталях.</p>    <p><strong>  Характеристики:</strong></p>    <p> Размер: 900×400 мм</p>    <p> Материал: текстиль + прорезиненная основа</p>    <p> Цвет: монохром с легким контрастом</p>    <p><strong>  Подходит для любой мышки (оптическая/лазерная)</strong><br />    Вмещает клавиатуру + мышь – идеально для игр или работы<br />    Качественная печать не выгорает со временем<br />    Прорезиненная основа — не скользит по столу<br />    Водоотталкивающее покрытие легко чистить</p>    <p><strong>  Преимущества покупки в TechGleam:</strong><br />     Оригинальная продукция и проверенное качество<br />     Консультация и помощь при выборе<br />     Быстрая отправка в день заказа<br />     Гарантия на каждую позицию</p></description_ru>
+        <price>300</price>
+        <categoryId>1089</categoryId>
+        <picture>https://techgleam.com.ua/content/images/44/51849958660145_%2B1d0337e14a.jpg</picture>
+        <picture>https://techgleam.com.ua/content/images/44/31995132342349_%2B2fd8916073.jpg</picture>
+        <picture>https://techgleam.com.ua/content/images/44/29294991451917_%2B0fef043dc3.jpg</picture>
+        <picture>https://techgleam.com.ua/content/images/44/89365146237885_%2Be4f488d35f.jpg</picture>
+        <param name="Колір">Чорний</param>
       </offer>
       <offer id="755" available="false">
         <availability_status>temporarily_unavailable</availability_status>
@@ -15751,6 +15817,20 @@
         <param name="Стан">Новий</param>
         <param name="Призначення">Геймерські</param>
         <country>Китай</country>
+      </offer>
+      <offer id="771" available="false">
+        <availability_status>temporarily_unavailable</availability_status>
+        <name_ua>Килимок для миші та клавіатури Topographic / 80×30 см / Black</name_ua>
+        <name_ru>Коврик для мыши и клавиатуры Topographic / 80×30 см / Black</name_ru>
+        <description_ua><p data-end="373" data-start="246"> <strong data-end="373" data-start="249">&quot;Topo Lines&quot; — мінімалістичний килимок 80×30 см із геотопографічним візерунком, що додає стилю твоєму робочому простору.</strong></p>    <p data-end="512" data-start="375">Візуально натхненний контурними лініями рельєфу, цей килимок не просто прикрашає стіл, а й дарує комфорт під час роботи, навчання чи гри.</p>    <ul>   <li data-end="755" data-start="514">Підходить для оптичних та лазерних мишок</li>   <li data-end="755" data-start="514">Вміщає клавіатуру та мишу — ідеально для full-size сетапу</li>   <li data-end="755" data-start="514">Надійний друк, який не стирається</li>   <li data-end="755" data-start="514">Прогумована основа — не ковзає на столі</li>   <li data-end="755" data-start="514">Водовідштовхувальне покриття — легко доглядати</li>  </ul>    <p data-end="755" data-start="514"><strong data-end="784" data-start="765">Характеристики:</strong></p>    <ul data-end="945" data-start="785">   <li data-end="807" data-start="785">   <p data-end="807" data-start="787"><strong>Розмір: </strong>800×300 мм</p>   </li>   <li data-end="825" data-start="808">   <p data-end="825" data-start="810"><strong>Товщина: </strong>3 мм</p>   </li>   <li data-end="864" data-start="826">   <p data-end="864" data-start="828"><strong>Матеріал: </strong>тканинна поверхня + гума</p>   </li>   <li data-end="910" data-start="865">   <p data-end="910" data-start="867"><strong>Візерунок:</strong> геотопографічні контурні лінії</p>   </li>  </ul></description_ua>
+        <description_ru><p data-end="373" data-start="246"><strong data-end="373" data-start="249">&quot;Topo Lines&quot; - минималистичный коврик 80×30 см с геотопографическим узором, что добавляет стиля твоему рабочему пространству.</strong></p>    <p data-end="512" data-start="375">Визуально вдохновленный контурными линиями рельефа, этот коврик не просто украшает стол, но и дарит комфорт во время работы, учебы или игры.</p>    <ul>   <li data-end="755" data-start="514">Подходит для оптических и лазерных мышек</li>   <li data-end="755" data-start="514">Вмещает клавиатуру и мышь - идеально для full-size сетапа</li>   <li data-end="755" data-start="514">Надежная печать, которая не стирается</li>   <li data-end="755" data-start="514">Прорезиненная основа - не скользит по столу</li>   <li data-end="755" data-start="514">Водоотталкивающее покрытие — легко ухаживать</li>  </ul>    <p data-end="784" data-start="762"><strong data-end="784" data-start="765">Характеристики:</strong></p>    <ul data-end="945" data-start="785">   <li data-end="807" data-start="785">   <p data-end="807" data-start="787"><strong>Размер: </strong>800×300 мм</p>   </li>   <li data-end="825" data-start="808">   <p data-end="825" data-start="810"><strong>Толщина: </strong>3 мм</p>   </li>   <li data-end="864" data-start="826">   <p data-end="864" data-start="828"><strong>Материал: </strong>тканевая поверхность + резина</p>   </li>   <li data-end="910" data-start="865">   <p data-end="910" data-start="867"><strong>Узор:</strong> геотопграфические контурные линии</p>   </li>  </ul></description_ru>
+        <price>499</price>
+        <categoryId>1089</categoryId>
+        <picture>https://techgleam.com.ua/content/images/22/34592153442373_%2B00cdae2d30.png</picture>
+        <picture>https://techgleam.com.ua/content/images/22/28637716631729_%2B3d6fb1aedc.png</picture>
+        <picture>https://techgleam.com.ua/content/images/22/11709903941584_%2Bd819bc4b8a.png</picture>
+        <param name="Гарантія">1 місяць</param>
+        <param name="Колір">Чорний</param>
       </offer>
       <offer id="772" available="false">
         <availability_status>temporarily_unavailable</availability_status>
@@ -16111,7 +16191,6 @@
         <categoryId>1093</categoryId>
         <picture>https://techgleam.com.ua/content/images/30/nabor-keykapov-pbt-black-purple-gradient-lines-130-oem-profil-85705492645747_%2B2fa52087ae.png</picture>
         <picture>https://techgleam.com.ua/content/images/30/nabor-keykapov-pbt-black-purple-gradient-lines-130-oem-profil-41776540533092_%2B267ca8d6f5.png</picture>
-        <param name="Колір">Фіолетовий</param>
         <param name="Колір">Бузковий</param>
         <param name="Стан">Новий</param>
         <param name="Призначення">Для клавіатур</param>
@@ -16364,7 +16443,6 @@
         <picture>https://techgleam.com.ua/content/images/9/68639122332017_%2Bbaa14d2fe0.jpg</picture>
         <picture>https://techgleam.com.ua/content/images/9/64232780441992_%2B2ab329f5e0.jpg</picture>
         <picture>https://techgleam.com.ua/content/images/9/42967210667887_%2Bec363374ba.jpg</picture>
-        <param name="Колір">Фіолетовий</param>
         <param name="Колір">Бузковий</param>
         <param name="Стан">Новий</param>
         <param name="Призначення">Для клавіатур</param>
@@ -16381,7 +16459,6 @@
         <categoryId>1093</categoryId>
         <picture>https://techgleam.com.ua/content/images/13/nabor-poluproznachnyx-keykapov-pbt-coulomi-oem-height-122-klavishi-purple-92538409829561_%2B7755184f86.jpeg</picture>
         <param name="Гарантія">3 місяці</param>
-        <param name="Колір">Фіолетовий</param>
         <param name="Колір">Бузковий</param>
         <param name="Стан">Новий</param>
         <param name="Призначення">Для клавіатур</param>
@@ -16609,7 +16686,7 @@
         <picture>https://techgleam.com.ua/content/images/18/igrovye-besprovodnye-naushniki-mchose-v9-turbo-tri-rezhima-podkluchenija-white-gold-91402698378891_%2B9945f34799.jpg</picture>
         <picture>https://techgleam.com.ua/content/images/18/igrovye-besprovodnye-naushniki-mchose-v9-turbo-tri-rezhima-podkluchenija-white-gold-94102885721287_%2B790cc10fa4.jpg</picture>
         <param name="Гарантія">6 місяців</param>
-        <param name="Колір">Біло-золотий</param>
+        <param name="Колір">Білий</param>
         <param name="Тип">Повнорозмірні</param>
         <param name="Тип підключення">Комбінований</param>
         <param name="Мікрофон">Зйомний</param>
@@ -16620,7 +16697,6 @@
         <param name="Довжина кабелю">1.6 м</param>
         <param name="Час роботи">250 годин</param>
         <param name="Вага">320 г</param>
-        <param name="Колір">Білий</param>
         <param name="Стан">Новий</param>
         <param name="Призначення">Геймерські</param>
         <country>Китай</country>
@@ -16849,7 +16925,6 @@
         <categoryId>1089</categoryId>
         <picture>https://techgleam.com.ua/content/images/14/igrovoy-kovrik-blue-white-lines-90x40-sm-white-blue-52966463671957_%2B1f0f5a73b8.jpg</picture>
         <param name="Гарантія">3 місяці</param>
-        <param name="Колір">Білий</param>
         <param name="Особливості">Ігрові</param>
       </offer>
       <offer id="1664" available="true">
@@ -17058,7 +17133,6 @@
         <picture>https://techgleam.com.ua/content/images/17/groviy-kilimok-attack-shark-cm02-4045-sm-purple-12235799068800_%2Bf2f005e251.jpg</picture>
         <picture>https://techgleam.com.ua/content/images/17/groviy-kilimok-attack-shark-cm02-4045-sm-purple-18012958307588_%2Be22a6494f8.jpg</picture>
         <param name="Гарантія">3 місяці</param>
-        <param name="Колір">Фіолетовий</param>
         <param name="Колір">Бузковий</param>
         <param name="Особливості">Ігрові</param>
       </offer>
@@ -17126,7 +17200,6 @@
         <categoryId>1089</categoryId>
         <picture>https://techgleam.com.ua/content/images/21/groviy-kilimok-astral-lines-40x45x4-dark-grey-92625080507477_%2B4550a0bc05.JPG</picture>
         <picture>https://techgleam.com.ua/content/images/21/groviy-kilimok-astral-lines-40x45x4-dark-grey-42355432633453_%2B7eff4196b6.JPG</picture>
-        <param name="Колір">Сірий</param>
         <param name="Колір">Темно-сірий</param>
         <param name="Особливості">Ігрові</param>
       </offer>
@@ -17217,7 +17290,6 @@
         <picture>https://techgleam.com.ua/content/images/31/nabr-keykapv-pbt-purple-gradient-130-side-engraved-foletoviy-oem-komplekt-dlja-ansi-iso-klavatur-18351772572817_%2Bc1e189eb03.jpeg</picture>
         <picture>https://techgleam.com.ua/content/images/31/nabr-keykapv-pbt-purple-gradient-130-side-engraved-foletoviy-oem-komplekt-dlja-ansi-iso-klavatur-89031173497032_%2Bb47b656a72.jpeg</picture>
         <param name="Гарантія">1 місяць</param>
-        <param name="Колір">Фіолетовий</param>
         <param name="Колір">Бузковий</param>
         <param name="Стан">Новий</param>
         <param name="Призначення">Для клавіатур</param>
@@ -17336,7 +17408,6 @@
         <price>620</price>
         <categoryId>1089</categoryId>
         <picture>https://techgleam.com.ua/content/images/29/groviy-kilimok-moonlight-tree-90x40-sm-4-mm-colourful-40940828898449_%2Bb8251c0eb2.jpg</picture>
-        <param name="Колір">Різнокольоровий</param>
         <param name="Колір">В асортименті</param>
         <param name="Особливості">Ігрові</param>
       </offer>
@@ -17493,7 +17564,6 @@
         <price>620</price>
         <categoryId>1089</categoryId>
         <picture>https://techgleam.com.ua/content/images/42/groviy-kilimok-sunset-shore-girl-9040-sm-4-mm-purple-94294903289299_%2Bd63071916b.jpg</picture>
-        <param name="Колір">Фіолетовий</param>
         <param name="Колір">Бузковий</param>
         <param name="Особливості">Ігрові</param>
       </offer>
@@ -17530,7 +17600,6 @@
         <price>620</price>
         <categoryId>1089</categoryId>
         <picture>https://techgleam.com.ua/content/images/45/groviy-kilimok-cosmic-dusk-9040-sm-4-mm-dark-purple-15221882287530_%2B577a453b07.jpg</picture>
-        <param name="Колір">Фіолетовий</param>
         <param name="Колір">Бузковий</param>
         <param name="Особливості">Ігрові</param>
       </offer>
@@ -17603,7 +17672,6 @@
         <price>620</price>
         <categoryId>1089</categoryId>
         <picture>https://techgleam.com.ua/content/images/1/groviy-kilimok-cyber-rail-9040-sm-4-mm-purple-73096758671631_%2B45a89e244e.jpg</picture>
-        <param name="Колір">Фіолетовий</param>
         <param name="Колір">Бузковий</param>
         <param name="Особливості">Ігрові</param>
       </offer>
@@ -17616,7 +17684,6 @@
         <price>620</price>
         <categoryId>1089</categoryId>
         <picture>https://techgleam.com.ua/content/images/2/groviy-kilimok-neon-sky-9040-sm-4-mm-multicolor-92796104376934_%2B0cf7427bfd.jpg</picture>
-        <param name="Колір">Різнокольоровий</param>
         <param name="Колір">В асортименті</param>
         <param name="Особливості">Ігрові</param>
       </offer>
@@ -17719,7 +17786,6 @@
         <price>450</price>
         <categoryId>1089</categoryId>
         <picture>https://techgleam.com.ua/content/images/10/groviy-kilimok-z-anme-titani-epchna-bitva-9040-sm-3-mm-multicolor-81004006678614_%2B5a4c94715c.jpg</picture>
-        <param name="Колір">Різнокольоровий</param>
         <param name="Колір">В асортименті</param>
         <param name="Особливості">Ігрові</param>
       </offer>
@@ -17984,7 +18050,6 @@
         <price>899</price>
         <categoryId>1093</categoryId>
         <picture>https://techgleam.com.ua/content/images/9/kastomn-pbt-keykapi-gengar-pokemon-125-sht.-dlja-mexanchnix-ta-magntnix-klavatur-purple-57559398879275_%2B0be0ebe298.jpg</picture>
-        <param name="Колір">Фіолетовий</param>
         <param name="Колір">Бузковий</param>
         <param name="Стан">Новий</param>
         <param name="Призначення">Для клавіатур</param>
@@ -18015,7 +18080,6 @@
         <price>899</price>
         <categoryId>1093</categoryId>
         <picture>https://techgleam.com.ua/content/images/11/kastomn-pbt-keykapi-cyberpunk--125-sht.-dlja-mexanchnix-ta-magntnix-klavatur-yellow-45958661452637_%2B1ae3c8bd65.png</picture>
-        <param name="Колір">Жовтий</param>
         <param name="Колір">Жёлтый</param>
         <param name="Стан">Новий</param>
         <param name="Призначення">Для клавіатур</param>
@@ -18046,7 +18110,6 @@
         <price>899</price>
         <categoryId>1093</categoryId>
         <picture>https://techgleam.com.ua/content/images/13/kastomn-pbt-keykapi-cyberpunk-125-sht.-english-russian-layout-dlja-mexanchnix-ta-magntnix-klavatur-yellow-59125887780504_%2B551e3bd205.png</picture>
-        <param name="Колір">Жовтий</param>
         <param name="Колір">Жёлтый</param>
         <param name="Стан">Новий</param>
         <param name="Призначення">Для клавіатур</param>
@@ -18608,7 +18671,6 @@
         <picture>https://techgleam.com.ua/content/images/12/kastomn-matov-keykapi-frosted-flowing-rainbow-rhyme-120-klavsh-rayduzhniy-gradent-dlja-mexanchnix-magntnix-klavatur-rainbow-25315482703499_%2Be794dabec0.png</picture>
         <picture>https://techgleam.com.ua/content/images/12/kastomn-matov-keykapi-frosted-flowing-rainbow-rhyme-120-klavsh-rayduzhniy-gradent-dlja-mexanchnix-magntnix-klavatur-rainbow-51938136551781_%2B4a58b189ad.png</picture>
         <picture>https://techgleam.com.ua/content/images/12/kastomn-matov-keykapi-frosted-flowing-rainbow-rhyme-120-klavsh-rayduzhniy-gradent-dlja-mexanchnix-magntnix-klavatur-rainbow-28955752958624_%2Bda8c153c1f.png</picture>
-        <param name="Колір">Різнокольоровий</param>
         <param name="Колір">В асортименті</param>
         <param name="Стан">Новий</param>
         <param name="Призначення">Для клавіатур</param>
@@ -18623,7 +18685,6 @@
         <price>899</price>
         <categoryId>1093</categoryId>
         <picture>https://techgleam.com.ua/content/images/13/kastomn-keykapi-mystery-realm-neon-abyss-129-klavsh-neonovo-foletoviy-dizayn-dlja-mexanchnix-magntnix-klavatur-purple-98350424461723_%2Bde8249e4d9.jpg</picture>
-        <param name="Колір">Фіолетовий</param>
         <param name="Колір">Бузковий</param>
         <param name="Стан">Новий</param>
         <param name="Призначення">Для клавіатур</param>
@@ -18824,7 +18885,6 @@
         <price>539</price>
         <categoryId>1089</categoryId>
         <picture>https://techgleam.com.ua/content/images/28/velikiy-groviy-kilimok-dlja-mish-chainsaw-man-makima-crimson-chaos-9004003-mm-anme-dizayn-dlja-mish-ta-klavaturi-red-black-79327153859828_%2B2a4769ed67.png</picture>
-        <param name="Колір">Чорний</param>
         <param name="Особливості">Ігрові</param>
       </offer>
       <offer id="2035" available="true">
