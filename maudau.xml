@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<yml_catalog date="2026-08-03 23:23">
+<yml_catalog date="2026-08-04 01:23">
   <shop>
     <categories>
       <category id="1082" portal_id="1839">Клавіатури</category>
@@ -439,39 +439,6 @@
         <param name="Комплектація">Клавіатура</param>
         <param name="Призначення">Для ПК</param>
         <param name="Вид">Ігрові</param>
-        <country>Китай</country>
-      </offer>
-      <offer id="706" available="true">
-        <availability_status>available</availability_status>
-        <name_ua>Ігрова бездротова миша Ajazz Aj179 Pro / Три режими підключення / Сенсор PixArt PAW3395 / 26000 DPI / White</name_ua>
-        <name_ru>Ігрова бездротова миша Ajazz Aj179 Pro / Три режими підключення / Сенсор PixArt PAW3395 / 26000 DPI / White</name_ru>
-        <description_ua><p><strong>AJAZZ AJ179 PRO Wireless 8K — ергономічна миша з RGB-доком та сенсором PAW3395! </strong></p>    <p>Ультракомфорт, точність і заряд без кабелів — усе для перемоги!</p>    <p><strong>Основні характеристики:  </strong></p>    <ul>   <li>Сенсор: PixArt PAW3395 — до 26 000 DPI  </li>   <li>Підключення: Bluetooth / 2.4G / USB Type-C  </li>   <li>Вага: лише 58 г — надлегка та ергономічна  </li>   <li>Акумулятор: 400 мАг — до 2 тижнів без підзарядки  </li>   <li>Док-станція: з RGB-підсвіткою та магнітною зарядкою  </li>   <li>Кнопки: 6 кнопок, 5 з них програмовані  </li>   <li>Сумісність: Windows / macOS / Linux / Android / iOS  </li>   <li> </li>  </ul></description_ua>
-        <description_ru><p><strong>AJAZZ AJ179 PRO Wireless 8K — эргономичная мышь с RGB-доком и сенсором PAW3395! </strong></p>    <p>Ультракомфорт, точность и заряд без кабелей — все для победы!</p>    <p><strong>Основные характеристики:</strong></p>    <ul>   <li>Сенсор: PixArt PAW3395 — до 26 000 DPI</li>   <li>Подключение: Bluetooth / 2.4G / USB Type-C</li>   <li>Вес: всего 58 г — сверхлегкая и эргономичная</li>   <li>Аккумулятор: 400 мАч — до 2 недель без подзарядки</li>   <li>Док-станция: с RGB-подсветкой и магнитной зарядкой</li>   <li>Кнопки: 6 кнопок, 5 из них программируемые</li>   <li>Совместимость: Windows / macOS / Linux / Android / iOs</li>  </ul></description_ru>
-        <price>1600</price>
-        <old_price>1799</old_price>
-        <categoryId>1084</categoryId>
-        <vendor>Ajazz</vendor>
-        <picture>https://techgleam.com.ua/content/images/7/46057566227796_%2B3defdeff8c.jpg</picture>
-        <picture>https://techgleam.com.ua/content/images/7/73925845648370_%2Bac9ed7a42f.jpg</picture>
-        <picture>https://techgleam.com.ua/content/images/7/86336512030070_%2B95a62757d9.jpg</picture>
-        <picture>https://techgleam.com.ua/content/images/7/92522120470545_%2B032a21e8dc.jpg</picture>
-        <picture>https://techgleam.com.ua/content/images/7/78087585348884_%2B3a745471f5.jpg</picture>
-        <picture>https://techgleam.com.ua/content/images/7/43658566337481_%2Bdb71c0a578.jpg</picture>
-        <picture>https://techgleam.com.ua/content/images/7/59596635506596_%2Bdb0a88bd5b.jpg</picture>
-        <param name="Гарантія">1 місяць</param>
-        <param name="Колір">Білий</param>
-        <param name="Підключення">Комбіноване</param>
-        <param name="Сумісність з ОС">Microsoft Windows</param>
-        <param name="Сумісність з ОС">Mac OS</param>
-        <param name="Сумісність з ОС">Linux</param>
-        <param name="Вага">58 г</param>
-        <param name="Тип датчика">Оптичний</param>
-        <param name="Інтерфейс підключення">Bluetooth</param>
-        <param name="Інтерфейс підключення">Радіоінтерфейс</param>
-        <param name="Інтерфейс підключення">USB</param>
-        <param name="Роздільна здатність сенсора">Понад 20000 dpi</param>
-        <param name="Стан">Новий</param>
-        <param name="Тип">Ігрові (геймерські)</param>
         <country>Китай</country>
       </offer>
       <offer id="711" available="true">
@@ -6408,6 +6375,39 @@
         <picture>https://techgleam.com.ua/content/images/49/78684394182955_%2Bb1a4fd0179.png</picture>
         <picture>https://techgleam.com.ua/content/images/49/38782148374136_%2Bec6b82ae37.png</picture>
         <param name="Колір">Сірий</param>
+      </offer>
+      <offer id="706" available="false">
+        <availability_status>temporarily_unavailable</availability_status>
+        <name_ua>Ігрова бездротова миша Ajazz Aj179 Pro / Три режими підключення / Сенсор PixArt PAW3395 / 26000 DPI / White</name_ua>
+        <name_ru>Ігрова бездротова миша Ajazz Aj179 Pro / Три режими підключення / Сенсор PixArt PAW3395 / 26000 DPI / White</name_ru>
+        <description_ua><p><strong>AJAZZ AJ179 PRO Wireless 8K — ергономічна миша з RGB-доком та сенсором PAW3395! </strong></p>    <p>Ультракомфорт, точність і заряд без кабелів — усе для перемоги!</p>    <p><strong>Основні характеристики:  </strong></p>    <ul>   <li>Сенсор: PixArt PAW3395 — до 26 000 DPI  </li>   <li>Підключення: Bluetooth / 2.4G / USB Type-C  </li>   <li>Вага: лише 58 г — надлегка та ергономічна  </li>   <li>Акумулятор: 400 мАг — до 2 тижнів без підзарядки  </li>   <li>Док-станція: з RGB-підсвіткою та магнітною зарядкою  </li>   <li>Кнопки: 6 кнопок, 5 з них програмовані  </li>   <li>Сумісність: Windows / macOS / Linux / Android / iOS  </li>   <li> </li>  </ul></description_ua>
+        <description_ru><p><strong>AJAZZ AJ179 PRO Wireless 8K — эргономичная мышь с RGB-доком и сенсором PAW3395! </strong></p>    <p>Ультракомфорт, точность и заряд без кабелей — все для победы!</p>    <p><strong>Основные характеристики:</strong></p>    <ul>   <li>Сенсор: PixArt PAW3395 — до 26 000 DPI</li>   <li>Подключение: Bluetooth / 2.4G / USB Type-C</li>   <li>Вес: всего 58 г — сверхлегкая и эргономичная</li>   <li>Аккумулятор: 400 мАч — до 2 недель без подзарядки</li>   <li>Док-станция: с RGB-подсветкой и магнитной зарядкой</li>   <li>Кнопки: 6 кнопок, 5 из них программируемые</li>   <li>Совместимость: Windows / macOS / Linux / Android / iOs</li>  </ul></description_ru>
+        <price>1600</price>
+        <old_price>1799</old_price>
+        <categoryId>1084</categoryId>
+        <vendor>Ajazz</vendor>
+        <picture>https://techgleam.com.ua/content/images/7/46057566227796_%2B3defdeff8c.jpg</picture>
+        <picture>https://techgleam.com.ua/content/images/7/73925845648370_%2Bac9ed7a42f.jpg</picture>
+        <picture>https://techgleam.com.ua/content/images/7/86336512030070_%2B95a62757d9.jpg</picture>
+        <picture>https://techgleam.com.ua/content/images/7/92522120470545_%2B032a21e8dc.jpg</picture>
+        <picture>https://techgleam.com.ua/content/images/7/78087585348884_%2B3a745471f5.jpg</picture>
+        <picture>https://techgleam.com.ua/content/images/7/43658566337481_%2Bdb71c0a578.jpg</picture>
+        <picture>https://techgleam.com.ua/content/images/7/59596635506596_%2Bdb0a88bd5b.jpg</picture>
+        <param name="Гарантія">1 місяць</param>
+        <param name="Колір">Білий</param>
+        <param name="Підключення">Комбіноване</param>
+        <param name="Сумісність з ОС">Microsoft Windows</param>
+        <param name="Сумісність з ОС">Mac OS</param>
+        <param name="Сумісність з ОС">Linux</param>
+        <param name="Вага">58 г</param>
+        <param name="Тип датчика">Оптичний</param>
+        <param name="Інтерфейс підключення">Bluetooth</param>
+        <param name="Інтерфейс підключення">Радіоінтерфейс</param>
+        <param name="Інтерфейс підключення">USB</param>
+        <param name="Роздільна здатність сенсора">Понад 20000 dpi</param>
+        <param name="Стан">Новий</param>
+        <param name="Тип">Ігрові (геймерські)</param>
+        <country>Китай</country>
       </offer>
       <offer id="712" available="false">
         <availability_status>temporarily_unavailable</availability_status>
