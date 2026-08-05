@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<yml_catalog date="2026-08-05 02:23">
+<yml_catalog date="2026-08-05 04:23">
   <shop>
     <categories>
       <category id="1082" portal_id="1839">Клавіатури</category>
@@ -726,6 +726,34 @@
         <picture>https://techgleam.com.ua/content/images/3/igrovaja-besprovodnaja-myshka-mchose-a7-v2-ultra-tri-rezhima-podkluchenija-sensor-pmw3950-ti-42000-dpi-white-67440162793077_%2Bc6b4aba853.jpg</picture>
         <param name="Гарантія">1 місяць</param>
         <param name="Колір">Білий</param>
+        <param name="Підключення">Комбіноване</param>
+        <param name="Сумісність з ОС">Microsoft Windows</param>
+        <param name="Сумісність з ОС">Mac OS</param>
+        <param name="Сумісність з ОС">Linux</param>
+        <param name="Вага">59 г</param>
+        <param name="Тип датчика">Оптичний</param>
+        <param name="Інтерфейс підключення">Bluetooth</param>
+        <param name="Інтерфейс підключення">Радіоінтерфейс</param>
+        <param name="Інтерфейс підключення">USB</param>
+        <param name="Роздільна здатність сенсора">Понад 20000 dpi</param>
+        <param name="Стан">Новий</param>
+        <param name="Тип">Ігрові (геймерські)</param>
+        <country>Китай</country>
+      </offer>
+      <offer id="1403" available="true">
+        <availability_status>available</availability_status>
+        <name_ua>Ігрова бездротова мишка Mchose A7 V2 Ultra / Три режими підключення / Сенсор PMW3950 TI / 42000 DPI / Black</name_ua>
+        <name_ru>Игровая беспроводная мышка Mchose A7 V2 Ultra / Три режима подключения / Сенсор PMW3950 TI / 42000 DPI / Black</name_ru>
+        <description_ua><p data-end="1835" data-start="1552"><strong data-end="1574" data-start="1552">MCHOSE A7 V2 Ultra</strong> — це професійна ігрова миша для кіберспорту та максимальної продуктивності. Вона оснащена флагманським сенсором <strong data-end="1708" data-start="1687">PixArt PMW3950 TI</strong>, який забезпечує надточне відстеження, швидкість до <strong data-end="1772" data-start="1761">750 IPS</strong>, прискорення <strong data-end="1793" data-start="1786">50G</strong> та роздільну здатність до <strong data-end="1834" data-start="1820">42 000 DPI</strong>.</p>    <p data-end="1945" data-start="1837">Підтримується <strong data-end="1875" data-start="1851">Tri-mode підключення</strong>:</p>    <ul>   <li data-end="1945" data-start="1837">Bluetooth</li>   <li data-end="1945" data-start="1837">2.4 ГГц бездротовий режим</li>   <li data-end="1945" data-start="1837">Дротове USB Type-C</li>  </ul>    <p data-end="2130" data-start="1947">Завдяки <strong data-end="1988" data-start="1955">частоті опитування до 8000 Гц</strong> затримка мінімізується до кіберспортивного рівня. Вага лише <strong data-end="2057" data-start="2049">59 г</strong> дозволяє виконувати швидкі рухи без втоми навіть під час тривалих сесій.</p>    <p data-end="2411" data-start="2132">Перемикачі <strong data-end="2167" data-start="2143">Omron Light Fretting</strong> гарантують ресурс до <strong data-end="2206" data-start="2189">70 млн кліків</strong>, а <strong data-end="2230" data-start="2210">TTC Gold енкодер</strong> забезпечує точну прокрутку. Вбудований акумулятор <strong data-end="2292" data-start="2281">500 mAh</strong> дає тривалу автономність, а вбудована памʼять зберігає всі налаштування без необхідності постійного підключення до ПЗ.</p>    <p data-end="2487" data-start="2413"><strong data-end="2435" data-start="2413">MCHOSE A7 V2 Ultra</strong> — ідеальний вибір для FPS, MOBA та змагальних ігор.</p></description_ua>
+        <description_ru><p data-end="2717" data-start="2517"><strong data-end="2539" data-start="2517">MCHOSE A7 V2 Ultra</strong> — профессиональная игровая мышь для киберспорта. Оснащена флагманским сенсором <strong data-end="2640" data-start="2619">PixArt PMW3950 TI</strong> с разрешением до <strong data-end="2672" data-start="2658">42 000 DPI</strong>, скоростью <strong data-end="2695" data-start="2684">750 IPS</strong> и ускорением <strong data-end="2716" data-start="2709">50G</strong>.</p>    <p data-end="2917" data-start="2719">Поддерживает <strong data-end="2756" data-start="2732">Tri-mode подключение</strong>: Bluetooth, 2.4 ГГц и USB Type-C.<br data-end="2793" data-start="2790" />  <strong data-end="2820" data-start="2793">Polling rate до 8000 Гц</strong> обеспечивает минимальную задержку. Вес всего <strong data-end="2874" data-start="2866">59 г</strong> делает мышь идеальной для динамичной игры.</p>    <p data-end="3140" data-start="2919">Переключатели <strong data-end="2976" data-start="2933">Omron Light Fretting (до 70 млн кликов)</strong> и энкодер <strong data-end="2999" data-start="2987">TTC Gold</strong> гарантируют долговечность и точность. Аккумулятор <strong data-end="3061" data-start="3050">500 mAh</strong> обеспечивает длительную автономность, а встроенная память сохраняет настройки.</p></description_ru>
+        <price>3199</price>
+        <categoryId>1084</categoryId>
+        <vendor>Mchose</vendor>
+        <picture>https://techgleam.com.ua/content/images/4/igrovaja-besprovodnaja-myshka-mchose-a7-v2-ultra-tri-rezhima-podkluchenija-sensor-pmw3950-ti-42000-dpi-black-88837380994904_%2Be488b65a1a.jpg</picture>
+        <picture>https://techgleam.com.ua/content/images/4/igrovaja-besprovodnaja-myshka-mchose-a7-v2-ultra-tri-rezhima-podkluchenija-sensor-pmw3950-ti-42000-dpi-black-48178936691761_%2Ba34270227e.jpg</picture>
+        <picture>https://techgleam.com.ua/content/images/4/igrovaja-besprovodnaja-myshka-mchose-a7-v2-ultra-tri-rezhima-podkluchenija-sensor-pmw3950-ti-42000-dpi-black-34173071380269_%2Bed43b7ef4d.jpg</picture>
+        <param name="Гарантія">1 місяць</param>
+        <param name="Колір">Чорний</param>
         <param name="Підключення">Комбіноване</param>
         <param name="Сумісність з ОС">Microsoft Windows</param>
         <param name="Сумісність з ОС">Mac OS</param>
@@ -10070,34 +10098,6 @@
         <param name="Тип">Ігрові (геймерські)</param>
         <country>Китай</country>
       </offer>
-      <offer id="1403" available="false">
-        <availability_status>temporarily_unavailable</availability_status>
-        <name_ua>Ігрова бездротова мишка Mchose A7 V2 Ultra / Три режими підключення / Сенсор PMW3950 TI / 42000 DPI / Black</name_ua>
-        <name_ru>Игровая беспроводная мышка Mchose A7 V2 Ultra / Три режима подключения / Сенсор PMW3950 TI / 42000 DPI / Black</name_ru>
-        <description_ua><p data-end="1835" data-start="1552"><strong data-end="1574" data-start="1552">MCHOSE A7 V2 Ultra</strong> — це професійна ігрова миша для кіберспорту та максимальної продуктивності. Вона оснащена флагманським сенсором <strong data-end="1708" data-start="1687">PixArt PMW3950 TI</strong>, який забезпечує надточне відстеження, швидкість до <strong data-end="1772" data-start="1761">750 IPS</strong>, прискорення <strong data-end="1793" data-start="1786">50G</strong> та роздільну здатність до <strong data-end="1834" data-start="1820">42 000 DPI</strong>.</p>    <p data-end="1945" data-start="1837">Підтримується <strong data-end="1875" data-start="1851">Tri-mode підключення</strong>:</p>    <ul>   <li data-end="1945" data-start="1837">Bluetooth</li>   <li data-end="1945" data-start="1837">2.4 ГГц бездротовий режим</li>   <li data-end="1945" data-start="1837">Дротове USB Type-C</li>  </ul>    <p data-end="2130" data-start="1947">Завдяки <strong data-end="1988" data-start="1955">частоті опитування до 8000 Гц</strong> затримка мінімізується до кіберспортивного рівня. Вага лише <strong data-end="2057" data-start="2049">59 г</strong> дозволяє виконувати швидкі рухи без втоми навіть під час тривалих сесій.</p>    <p data-end="2411" data-start="2132">Перемикачі <strong data-end="2167" data-start="2143">Omron Light Fretting</strong> гарантують ресурс до <strong data-end="2206" data-start="2189">70 млн кліків</strong>, а <strong data-end="2230" data-start="2210">TTC Gold енкодер</strong> забезпечує точну прокрутку. Вбудований акумулятор <strong data-end="2292" data-start="2281">500 mAh</strong> дає тривалу автономність, а вбудована памʼять зберігає всі налаштування без необхідності постійного підключення до ПЗ.</p>    <p data-end="2487" data-start="2413"><strong data-end="2435" data-start="2413">MCHOSE A7 V2 Ultra</strong> — ідеальний вибір для FPS, MOBA та змагальних ігор.</p></description_ua>
-        <description_ru><p data-end="2717" data-start="2517"><strong data-end="2539" data-start="2517">MCHOSE A7 V2 Ultra</strong> — профессиональная игровая мышь для киберспорта. Оснащена флагманским сенсором <strong data-end="2640" data-start="2619">PixArt PMW3950 TI</strong> с разрешением до <strong data-end="2672" data-start="2658">42 000 DPI</strong>, скоростью <strong data-end="2695" data-start="2684">750 IPS</strong> и ускорением <strong data-end="2716" data-start="2709">50G</strong>.</p>    <p data-end="2917" data-start="2719">Поддерживает <strong data-end="2756" data-start="2732">Tri-mode подключение</strong>: Bluetooth, 2.4 ГГц и USB Type-C.<br data-end="2793" data-start="2790" />  <strong data-end="2820" data-start="2793">Polling rate до 8000 Гц</strong> обеспечивает минимальную задержку. Вес всего <strong data-end="2874" data-start="2866">59 г</strong> делает мышь идеальной для динамичной игры.</p>    <p data-end="3140" data-start="2919">Переключатели <strong data-end="2976" data-start="2933">Omron Light Fretting (до 70 млн кликов)</strong> и энкодер <strong data-end="2999" data-start="2987">TTC Gold</strong> гарантируют долговечность и точность. Аккумулятор <strong data-end="3061" data-start="3050">500 mAh</strong> обеспечивает длительную автономность, а встроенная память сохраняет настройки.</p></description_ru>
-        <price>3199</price>
-        <categoryId>1084</categoryId>
-        <vendor>Mchose</vendor>
-        <picture>https://techgleam.com.ua/content/images/4/igrovaja-besprovodnaja-myshka-mchose-a7-v2-ultra-tri-rezhima-podkluchenija-sensor-pmw3950-ti-42000-dpi-black-88837380994904_%2Be488b65a1a.jpg</picture>
-        <picture>https://techgleam.com.ua/content/images/4/igrovaja-besprovodnaja-myshka-mchose-a7-v2-ultra-tri-rezhima-podkluchenija-sensor-pmw3950-ti-42000-dpi-black-48178936691761_%2Ba34270227e.jpg</picture>
-        <picture>https://techgleam.com.ua/content/images/4/igrovaja-besprovodnaja-myshka-mchose-a7-v2-ultra-tri-rezhima-podkluchenija-sensor-pmw3950-ti-42000-dpi-black-34173071380269_%2Bed43b7ef4d.jpg</picture>
-        <param name="Гарантія">1 місяць</param>
-        <param name="Колір">Чорний</param>
-        <param name="Підключення">Комбіноване</param>
-        <param name="Сумісність з ОС">Microsoft Windows</param>
-        <param name="Сумісність з ОС">Mac OS</param>
-        <param name="Сумісність з ОС">Linux</param>
-        <param name="Вага">59 г</param>
-        <param name="Тип датчика">Оптичний</param>
-        <param name="Інтерфейс підключення">Bluetooth</param>
-        <param name="Інтерфейс підключення">Радіоінтерфейс</param>
-        <param name="Інтерфейс підключення">USB</param>
-        <param name="Роздільна здатність сенсора">Понад 20000 dpi</param>
-        <param name="Стан">Новий</param>
-        <param name="Тип">Ігрові (геймерські)</param>
-        <country>Китай</country>
-      </offer>
       <offer id="1404" available="false">
         <availability_status>temporarily_unavailable</availability_status>
         <name_ua>Механічна дротова клавіатура AJAZZ AK680 / Hot-Swap / Brown Switch / Red</name_ua>
@@ -15168,8 +15168,8 @@
         <param name="Призначення">Геймерські</param>
         <country>Китай</country>
       </offer>
-      <offer id="617" available="false">
-        <availability_status>temporarily_unavailable</availability_status>
+      <offer id="617" available="true">
+        <availability_status>available</availability_status>
         <name_ua>Бездротові ігрові навушники Onikuma B2 / 2.4G / Bluetooth 5.3 / AUX / Black</name_ua>
         <name_ru>Беспроводные игровые наушники Onikuma B2 / 2.4G / Bluetooth 5.3 / AUX / Black</name_ru>
         <description_ua><p><strong>Onikuma B2 — без проводів, без затримок, без компромісів </strong></p>    <p>Гарнітура, яка поєднує стиль, комфорт і багатофункціональність. Потужний звук, мікрофон з шумозаглушенням і 3 режими підключення — усе для твоєї гри та роботи.</p>    <p><strong>Основні характеристики:  </strong></p>    <ul>   <li>Динаміки: 50 мм — глибокий, насичений звук  </li>   <li>Мікрофон: з шумозаглушенням та гнучким тримачем  </li>   <li>Режими підключення: 2.4G / Bluetooth 5.3 / AUX  </li>   <li>Акумулятор: 500 мА·год — до 35 годин роботи  </li>   <li>Зарядка: повна зарядка за 1.5 години  </li>   <li>Сумісність: PS5, PS4, ПК, Mac, Xbox (через кабель), Nintendo Switch, iOS, Android  </li>   <li>Комфорт: мʼякі амбушури, регульоване оголов’я  </li>   <li>Матеріали: посилений кабель, зносостійкі деталі</li>  </ul>    <p><strong>Комплектація:  </strong></p>    <ul>   <li>Навушники Onikuma B2 Black  </li>   <li>USB-ресівер 2.4G  </li>   <li>Кабель зарядки / аудіо  </li>   <li>Інструкція</li>  </ul></description_ua>
