@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<yml_catalog date="2026-08-09 03:23">
+<yml_catalog date="2026-08-09 04:23">
   <shop>
     <categories>
       <category id="1082" portal_id="1839">Клавіатури</category>
@@ -488,6 +488,40 @@
         <picture>https://techgleam.com.ua/content/images/2/41140215569378_%2Bacaad4ac81.jpg</picture>
         <picture>https://techgleam.com.ua/content/images/2/60101630682558_%2B701ed0f6c4.jpg</picture>
         <param name="Гарантія">3 місяці</param>
+        <param name="Колір">Білий</param>
+        <param name="Конструкція клавіш">Магнітна</param>
+        <param name="Підключення">Дротове</param>
+        <param name="Інтерфейс підключення">USB Type-C</param>
+        <param name="Розкладка">Eng</param>
+        <param name="Форм-фактор">Компактні</param>
+        <param name="Колір підсвічування">RGB</param>
+        <param name="Підсвічування клавіш">Є</param>
+        <param name="Матеріал корпусу">Пластик</param>
+        <param name="Сумісність з ОС">Windows</param>
+        <param name="Сумісність з ОС">Mac OS</param>
+        <param name="Сумісність з ОС">Linux</param>
+        <param name="Стан">Новий</param>
+        <param name="Комплектація">Клавіатура</param>
+        <param name="Призначення">Для ПК</param>
+        <param name="Вид">Ігрові</param>
+        <country>Китай</country>
+      </offer>
+      <offer id="1002" available="true">
+        <availability_status>available</availability_status>
+        <name_ua>Ігрова магнітна клавіатура Akko TAC75 / 8К / Дротове підключення / Akko AstroAim Magnetic Switch / White</name_ua>
+        <name_ru>Игровая магнитная клавиатура Akko TAC75 / 8К / Проводное подключение / Akko AstroAim Magnetic Switch / White</name_ru>
+        <description_ua><p data-end="627" data-start="273"><strong data-end="295" data-start="273">Akko TAC75 HE (8K)</strong> — це високопродуктивна <strong data-end="373" data-start="319">75% механічна клавіатура з магнітними перемикачами</strong>, створена для максимальної швидкості, точності та контролю. В основі моделі — <strong data-end="498" data-start="452">магнітні перемикачі Akko AstroAim Magnetic</strong>, які дозволяють тонко налаштовувати точку спрацьовування клавіш із точністю <strong data-end="589" data-start="575">до 0,01 мм</strong> завдяки технології <strong data-end="626" data-start="609">Rapid Trigger</strong>.</p>    <p data-end="954" data-start="629">Клавіатура підтримує <strong data-end="680" data-start="650">частоту опитування 8000 Гц</strong> та <strong data-end="715" data-start="684">частоту сканування 16000 Гц</strong>, що забезпечує миттєвий відгук без затримок — критично важливо для FPS-ігор, таких як CS2, Valorant чи Apex Legends.<br data-end="835" data-start="832" />  Компактний формат <strong data-end="860" data-start="853">75%</strong> поєднує зручність повнорозмірних функціональних клавіш і економію простору на робочому столі.</p>    <p data-end="1252" data-start="956"><strong data-end="973" data-start="956">Akko TAC75 HE</strong> підтримує <strong data-end="996" data-start="984">Hot-Swap</strong>, оснащена яскравою <strong data-end="1054" data-start="1016">RGB-підсвіткою з десятками режимів</strong> та можливістю індивідуального налаштування кожної клавіші. Продумана ергономіка, сучасний дизайн і передові технології роблять цю клавіатуру універсальним інструментом як для гри, так і для роботи.<br />  <br />  <strong>Основні характеристики:</strong></p>    <ul>   <li data-end="2225" data-start="2206">   <p data-end="2225" data-start="2208"><strong data-end="2218" data-start="2208">Бренд:</strong> Akko</p>   </li>   <li data-end="2261" data-start="2226">   <p data-end="2261" data-start="2228"><strong data-end="2239" data-start="2228">Модель:</strong> TAC75 HE </p>   </li>   <li data-end="2281" data-start="2262">   <p data-end="2281" data-start="2264"><strong data-end="2275" data-start="2264">Формат:</strong> 75%</p>   </li>   <li data-end="2324" data-start="2282">   <p data-end="2324" data-start="2284"><strong data-end="2292" data-start="2284">Тип:</strong> магнітна клавіатура</p>   </li>   <li data-end="2367" data-start="2325">   <p data-end="2367" data-start="2327"><strong data-end="2342" data-start="2327">Перемикачі:</strong> Akko AstroAim Magnetic</p>   </li>   <li data-end="2407" data-start="2368">   <p data-end="2407" data-start="2370"><strong data-end="2400" data-start="2370">Початкова сила натискання:</strong> 35 г</p>   </li>   <li data-end="2434" data-start="2408">   <p data-end="2434" data-start="2410"><strong data-end="2427" data-start="2410">Кінцева сила:</strong> 55 г</p>   </li>   <li data-end="2470" data-start="2435">   <p data-end="2470" data-start="2437"><strong data-end="2455" data-start="2437">Загальний хід:</strong> 3,5 ± 0,1 мм</p>   </li>   <li data-end="2514" data-start="2471">   <p data-end="2514" data-start="2473"><strong data-end="2491" data-start="2473">Термін служби:</strong> до 100 млн натискань</p>   </li>   <li data-end="2563" data-start="2515">   <p data-end="2563" data-start="2517"><strong data-end="2535" data-start="2517">Rapid Trigger:</strong> так (точність до 0,01 мм)</p>   </li>   <li data-end="2599" data-start="2564">   <p data-end="2599" data-start="2566"><strong data-end="2589" data-start="2566">Частота опитування:</strong> 8000 Гц</p>   </li>   <li data-end="2636" data-start="2600">   <p data-end="2636" data-start="2602"><strong data-end="2625" data-start="2602">Частота сканування:</strong> 16000 Гц</p>   </li>   <li data-end="2658" data-start="2637">   <p data-end="2658" data-start="2639"><strong data-end="2652" data-start="2639">Hot-Swap:</strong> так</p>   </li>   <li data-end="2715" data-start="2659">   <p data-end="2715" data-start="2661"><strong data-end="2675" data-start="2661">Підсвітка:</strong> RGB, індивідуальна для кожної клавіші</p>   </li>   <li data-end="2756" data-start="2716">   <p data-end="2756" data-start="2718"><strong data-end="2734" data-start="2718">Призначення:</strong> ігрова / кіберспорт</p>   </li>  </ul>    <p data-end="1645" data-start="1544"><strong data-end="1561" data-start="1544">Akko TAC75 HE</strong> — це новий рівень контролю, швидкості та кастомізації у світі механічних клавіатур.</p></description_ua>
+        <description_ru><p><strong>Akko TAC75 HE (8K)</strong> – это высокопроизводительная 75% механическая клавиатура с магнитными переключателями, созданная для максимальной скорости, точности и контроля. В основе модели – магнитные переключатели Akko AstroAim Magnetic, которые позволяют тонко настраивать точку срабатывания клавиш с точностью до 0,01 мм благодаря технологии Rapid Trigger.</p>    <p>Клавиатура поддерживает частоту опроса 8000 Гц и частоту сканирования 16000 Гц, что обеспечивает мгновенный отклик без задержек – критически важно для FPS-игр, таких как CS2, Valorant или Apex Legends.<br />  Компактный формат 75% совмещает удобство полноразмерных функциональных клавиш и экономию пространства на рабочем столе.</p>    <p><strong>Akko TAC75 HE</strong> поддерживает Hot-Swap, оснащена яркой RGB-подсветкой с десятками режимов и возможностью индивидуальной настройки каждой клавиши. Продуманная эргономика, современный дизайн и передовые технологии делают эту клавиатуру универсальным инструментом, как для игры, так и для работы.</p>    <p><strong>Основные характеристики:</strong></p>    <ul>   <li>Бренд: Akko</li>   <li>Модель: TAC75 HE</li>   <li>Формат: 75%</li>   <li>Тип: магнитная клавиатура</li>   <li>Переключатели: Akko AstroAim Magnetic</li>   <li>Начальная сила нажатия: 35 г</li>   <li>Конечная сила: 55 г</li>   <li>Общий ход: 3,5±0,1 мм</li>   <li>Срок службы: до 100 млн нажатий</li>   <li>Rapid Trigger: да (точность до 0,01 мм)</li>   <li>Частота опроса: 8000 Гц</li>   <li>Частота сканирования: 16000 Гц</li>   <li>Hot-Swap: да</li>   <li>Подсветка: RGB, индивидуальная для каждой клавиши</li>   <li>Назначение: игровая/киберспорт</li>  </ul>    <p>Akko TAC75 HE – это новый уровень контроля, скорости и кастомизации в мире механических клавиатур.</p></description_ru>
+        <price>2799</price>
+        <categoryId>1082</categoryId>
+        <vendor>Akko</vendor>
+        <picture>https://techgleam.com.ua/content/images/3/igrovaja-magnitnaja-klaviatura-akko-tac75-8k-provodnoe-podkluchenie-akko-astroaim-magnetic-switch-white-58834887462358_%2Baf3c5a22bf.jpg</picture>
+        <picture>https://techgleam.com.ua/content/images/3/igrovaja-magnitnaja-klaviatura-akko-tac75-8k-provodnoe-podkluchenie-akko-astroaim-magnetic-switch-white-87663919453130_%2Bd745d31a47.jpg</picture>
+        <picture>https://techgleam.com.ua/content/images/3/igrovaja-magnitnaja-klaviatura-akko-tac75-8k-provodnoe-podkluchenie-akko-astroaim-magnetic-switch-white-40558926487428_%2Bba61605a18.jpg</picture>
+        <picture>https://techgleam.com.ua/content/images/3/igrovaja-magnitnaja-klaviatura-akko-tac75-8k-provodnoe-podkluchenie-akko-astroaim-magnetic-switch-white-17283840390357_%2B13ea691929.jpg</picture>
+        <picture>https://techgleam.com.ua/content/images/3/igrovaja-magnitnaja-klaviatura-akko-tac75-8k-provodnoe-podkluchenie-akko-astroaim-magnetic-switch-white-26974373434782_%2B152e131f1e.jpg</picture>
+        <picture>https://techgleam.com.ua/content/images/3/igrovaja-magnitnaja-klaviatura-akko-tac75-8k-provodnoe-podkluchenie-akko-astroaim-magnetic-switch-white-90747766648559_%2B30424646f5.jpg</picture>
+        <param name="Гарантія">1 місяць</param>
         <param name="Колір">Білий</param>
         <param name="Конструкція клавіш">Магнітна</param>
         <param name="Підключення">Дротове</param>
@@ -1411,35 +1445,6 @@
         <param name="Стан">Новий</param>
         <param name="Тип">Ігрові (геймерські)</param>
         <param name="Тип датчика">Оптичний</param>
-        <country>Китай</country>
-      </offer>
-      <offer id="1744" available="true">
-        <availability_status>available</availability_status>
-        <name_ua>Ігрова бездротова мишка ATK Dragonfly A9 Plus 2.0 / Три режими підключення / Сенсор PixArt 3395 / 26000 DPI / White</name_ua>
-        <name_ru>Игровая беспроводная мышка ATK Dragonfly A9 Plus 2.0 / Три режима подключения / Сенсор PixArt 3395 / 26000 DPI / White</name_ru>
-        <description_ua><p data-end="407" data-start="46"><strong>ATK A9 Plus 2.0 </strong>— це ігрова миша, створена для точного керування, стабільної роботи та комфортного використання як у динамічних іграх, так і в щоденних задачах. Модель поєднує продуктивний сенсор, комбіноване підключення, ергономічну форму та хорошу автономність, що робить її практичним вибором для тих, хто шукає універсальну ігрову мишу.</p>    <p data-end="703" data-start="409">Миша оснащена оптичним сенсором PixArt PAW3395 з максимальною роздільною здатністю до 26000 DPI, що забезпечує плавне відстеження рухів і високу точність у різних сценаріях використання. Це дозволяє комфортно використовувати мишу як для шутерів і динамічних ігор, так і для повсякденної роботи.</p>    <p data-end="1034" data-start="705"><strong>ATK A9 Plus 2.0 </strong>підтримує комбіноване підключення та може працювати як у дротовому, так і в бездротовому режимі. Для бездротового з’єднання використовується радіоканал NearLink, який забезпечує стабільний сигнал на відстані до 10 метрів. Якщо акумулятор розрядиться, мишу можна швидко перевести в дротовий режим через USB Type-C.</p>    <p data-end="1428" data-start="1036">Модель отримала вбудований літієвий акумулятор на 800 мАг, який забезпечує до 240 годин автономної роботи. Вага миші становить близько 57 г, а корпус розміром 125 × 64 × 40 мм добре підходить для правої руки. Додатково варто відзначити перемикачі Huano Ice Berry Pink Dot із ресурсом до 80 мільйонів натискань, 6 кнопок і можливість програмного налаштування макросів, DPI та інших параметрів.</p>    <p data-end="1453" data-start="1430"><strong data-end="1451" data-start="1430">Основні переваги:</strong></p>    <ul data-end="2009" data-start="1454">   <li data-end="1479" data-section-id="1bo4g0i" data-start="1454">Сенсор PixArt PAW3395</li>   <li data-end="1507" data-section-id="1i6rhfp" data-start="1480">Чутливість до 26000 DPI</li>   <li data-end="1535" data-section-id="l78c35" data-start="1508">Комбіноване підключення</li>   <li data-end="1582" data-section-id="fbp9r0" data-start="1536">Підтримка дротового та бездротового режиму</li>   <li data-end="1607" data-section-id="17aohrz" data-start="1583">Інтерфейс USB Type-C</li>   <li data-end="1658" data-section-id="1on2of2" data-start="1608">Бездротове з’єднання через радіоканал NearLink</li>   <li data-end="1689" data-section-id="p03y3b" data-start="1659">Радіус роботи до 10 метрів</li>   <li data-end="1712" data-section-id="meedip" data-start="1690">Акумулятор 800 мАг</li>   <li data-end="1747" data-section-id="1gb9gty" data-start="1713">До 240 годин автономної роботи</li>   <li data-end="1769" data-section-id="cfmjbp" data-start="1748">Вага близько 57 г</li>   <li data-end="1797" data-section-id="594tdn" data-start="1770">Розмір 125 × 64 × 40 мм</li>   <li data-end="1829" data-section-id="za4o75" data-start="1798">Конструкція для правої руки</li>   <li data-end="1842" data-section-id="1dsdc58" data-start="1830">6 кнопок</li>   <li data-end="1882" data-section-id="1vyq23r" data-start="1843">Перемикачі Huano Ice Berry Pink Dot</li>   <li data-end="1931" data-section-id="1y5vta8" data-start="1883">Ресурс перемикачів до 80 мільйонів натискань</li>   <li data-end="1985" data-section-id="1ow2tfx" data-start="1932">Підтримка програмного налаштування макросів і DPI</li>  </ul></description_ua>
-        <description_ru><p data-end="2393" data-start="2011"><strong>ATK A9 Plus 2.0 </strong>— это игровая мышь, созданная для точного управления, стабильной работы и комфортного использования как в динамичных играх, так и в повседневных задачах. Модель сочетает производительный сенсор, комбинированное подключение, эргономичную форму и хорошую автономность, что делает её практичным выбором для тех, кто ищет универсальную игровую мышь.</p>    <p data-end="2691" data-start="2395">Мышь оснащена оптическим сенсором PixArt PAW3395 с максимальным разрешением до 26000 DPI, что обеспечивает плавное отслеживание движений и высокую точность в разных сценариях использования. Это позволяет комфортно использовать мышь как для шутеров и динамичных игр, так и для повседневной работы.</p>    <p data-end="3035" data-start="2693"><strong>ATK A9 Plus 2.0 </strong>поддерживает комбинированное подключение и может работать как в проводном, так и в беспроводном режиме. Для беспроводного соединения используется радиоканал NearLink, который обеспечивает стабильный сигнал на расстоянии до 10 метров. Если аккумулятор разрядится, мышь можно быстро перевести в проводной режим через USB Type-C.</p>    <p data-end="3433" data-start="3037">Модель получила встроенный литиевый аккумулятор на 800 мАч, который обеспечивает до 240 часов автономной работы. Вес мыши составляет около 57 г, а корпус размером 125 × 64 × 40 мм хорошо подходит для правой руки. Дополнительно стоит отметить переключатели Huano Ice Berry Pink Dot с ресурсом до 80 миллионов нажатий, 6 кнопок и возможность программной настройки макросов, DPI и других параметров.</p>    <p data-end="3463" data-start="3435"><strong data-end="3461" data-start="3435">Основные преимущества:</strong></p>    <ul data-end="4031" data-start="3464">   <li data-end="3489" data-section-id="1bo4g0i" data-start="3464">Сенсор PixArt PAW3395</li>   <li data-end="3523" data-section-id="fdm6zc" data-start="3490">Чувствительность до 26000 DPI</li>   <li data-end="3555" data-section-id="1pyadsj" data-start="3524">Комбинированное подключение</li>   <li data-end="3603" data-section-id="1qvghoq" data-start="3556">Поддержка проводного и беспроводного режима</li>   <li data-end="3628" data-section-id="yvj7hd" data-start="3604">Интерфейс USB Type-C</li>   <li data-end="3682" data-section-id="1g3yl4a" data-start="3629">Беспроводное соединение через радиоканал NearLink</li>   <li data-end="3713" data-section-id="1161jd8" data-start="3683">Радиус работы до 10 метров</li>   <li data-end="3737" data-section-id="4n6awv" data-start="3714">Аккумулятор 800 мАч</li>   <li data-end="3772" data-section-id="mhgrab" data-start="3738">До 240 часов автономной работы</li>   <li data-end="3791" data-section-id="rifxi8" data-start="3773">Вес около 57 г</li>   <li data-end="3819" data-section-id="1deg0wm" data-start="3792">Размер 125 × 64 × 40 мм</li>   <li data-end="3851" data-section-id="lp1kqp" data-start="3820">Конструкция для правой руки</li>   <li data-end="3864" data-section-id="1dsdc58" data-start="3852">6 кнопок</li>   <li data-end="3907" data-section-id="18h9gdw" data-start="3865">Переключатели Huano Ice Berry Pink Dot</li>   <li data-end="3957" data-section-id="vgimkg" data-start="3908">Ресурс переключателей до 80 миллионов нажатий</li>   <li data-end="4008" data-section-id="1chgj3n" data-start="3958">Поддержка программной настройки макросов и DPI</li>  </ul></description_ru>
-        <price>1899</price>
-        <old_price>2199</old_price>
-        <categoryId>1084</categoryId>
-        <vendor>ATK</vendor>
-        <picture>https://techgleam.com.ua/content/images/45/grova-bezdrotova-mishka-atk-dragonfly-a9-plus-2.0-tri-rezhimi-pdkluchennja-sensor-pixart-3395-26000-dpi-white-62073377988587_%2B589776460a.jpg</picture>
-        <picture>https://techgleam.com.ua/content/images/45/grova-bezdrotova-mishka-atk-dragonfly-a9-plus-2.0-tri-rezhimi-pdkluchennja-sensor-pixart-3395-26000-dpi-white-14595747613932_%2Baec483179c.jpg</picture>
-        <picture>https://techgleam.com.ua/content/images/45/grova-bezdrotova-mishka-atk-dragonfly-a9-plus-2.0-tri-rezhimi-pdkluchennja-sensor-pixart-3395-26000-dpi-white-69621567048974_%2B5b59d32c01.jpg</picture>
-        <param name="Гарантія">3 місяці</param>
-        <param name="Колір">Білий</param>
-        <param name="Підключення">Комбіноване</param>
-        <param name="Сумісність з ОС">Microsoft Windows</param>
-        <param name="Сумісність з ОС">Mac OS</param>
-        <param name="Сумісність з ОС">Linux</param>
-        <param name="Вага">57 г</param>
-        <param name="Тип датчика">Оптичний</param>
-        <param name="Інтерфейс підключення">Bluetooth</param>
-        <param name="Інтерфейс підключення">Радіоінтерфейс</param>
-        <param name="Інтерфейс підключення">USB</param>
-        <param name="Роздільна здатність сенсора">Понад 20000 dpi</param>
-        <param name="Стан">Новий</param>
-        <param name="Тип">Ігрові (геймерські)</param>
         <country>Китай</country>
       </offer>
       <offer id="1746" available="true">
@@ -2407,44 +2412,6 @@
         <param name="Вид">Ігрові</param>
         <country>Китай</country>
       </offer>
-      <offer id="1824" available="true">
-        <availability_status>available</availability_status>
-        <name_ua>Ігрова механічна клавіатура AULA F75 / Три режими підключення / Dream Sakura Switch / Pink</name_ua>
-        <name_ru>Игровая механическая клавиатура AULA F75 / Три режима подключения / Dream Sakura Switch / Pink</name_ru>
-        <description_ua><p><strong>Механічна клавіатура AULA F75 </strong></p>    <p>AULA F75 — це універсальна клавіатура для роботи, навчання та ігор, що поєднує компактність, ергономіку та сучасні функції.</p>    <p><strong>Основні характеристики:</strong></p>    <ul>   <li>Тип: Механічна клавіатура, 75% форм-фактор </li>   <li>Розкладка: англійська</li>   <li>Підключення: Bluetooth 5.0 / 2.4 ГГц / USB Type-C  </li>   <li>Сумісність: Windows, Mac, iOS, Android, PS, Xbox  </li>   <li>5-шарова система шумопоглинання для комфортного набору тексту  </li>   <li>Мультимедійне колесо для зручного керування гучністю та підсвіткою</li>   <li>Акумулятор: 4000 мА·год, забезпечує тривалий час автономної роботи.</li>  </ul>    <p><strong>RGB-підсвітка:</strong><br />  • 15 режимів  <br />  • 16.8 млн кольорів  <br />  • Музичний режим реагує на ритм відтворюваної музики</p>    <p><strong>Комплектація:</strong></p>    <ul>   <li>Клавіатура AULA F75  </li>   <li>Кабель USB Type-C  </li>   <li>USB-адаптер 2.4 ГГц  </li>   <li>Захисна накладка від пилу  </li>   <li>4 запасні перемикачі  </li>   <li>Пуллер  </li>   <li>Інструкція користувача</li>  </ul></description_ua>
-        <description_ru><p><strong>Механическая клавиатура AULA F75</strong></p>    <p>AULA F75 – это универсальная клавиатура для работы, обучения и игр, сочетающая компактность, эргономику и современные функции.</p>    <p><strong>Основные характеристики:</strong></p>    <ul>   <li>Тип: Механическая клавиатура, 75% форм-фактор</li>   <li>Раскладка: английская</li>   <li>Подключение: Bluetooth 5.0/2.4 ГГц/USB Type-C</li>   <li>Совместимость: Windows, Mac, iOS, Android, PS, Xbox</li>   <li>5-слойная система шумопоглощения для комфортного набора текста</li>   <li>Мультимедийное колесо для удобного управления громкостью и подсветкой</li>   <li>Аккумулятор: 4000 мАч, обеспечивает длительное время автономной работы.</li>  </ul>    <p><strong>RGB-подсветка:</strong><br />  • 15 режимов<br />  • 16.8 млн цветов<br />  • Музыкальный режим реагирует на ритм воспроизводимой музыки.</p>    <p><strong>Комплектация:</strong></p>    <ul>   <li>Клавиатура AULA F75</li>   <li>Кабель USB Type-C</li>   <li>USB-адаптер 2.4 ГГц</li>   <li>Защитная накладка от пыли</li>   <li>4 запасные переключатели</li>   <li>Пуллер</li>   <li>Руководство пользователя</li>  </ul></description_ru>
-        <price>2699</price>
-        <categoryId>1082</categoryId>
-        <vendor>Aula</vendor>
-        <picture>https://techgleam.com.ua/content/images/25/grova-mexanchna-klavatura-aula-f75-tri-rezhimi-pdkluchennja-dream-sakura-switch-pink-96667522895456_%2Bcb11343413.png</picture>
-        <picture>https://techgleam.com.ua/content/images/25/grova-mexanchna-klavatura-aula-f75-tri-rezhimi-pdkluchennja-dream-sakura-switch-pink-16817737078058_%2B5f8785cce8.jpg</picture>
-        <picture>https://techgleam.com.ua/content/images/25/grova-mexanchna-klavatura-aula-f75-tri-rezhimi-pdkluchennja-dream-sakura-switch-pink-42678713894877_%2Bb4bc19793a.jpg</picture>
-        <picture>https://techgleam.com.ua/content/images/25/grova-mexanchna-klavatura-aula-f75-tri-rezhimi-pdkluchennja-dream-sakura-switch-pink-81645874692093_%2B141864a7e9.jpg</picture>
-        <picture>https://techgleam.com.ua/content/images/25/grova-mexanchna-klavatura-aula-f75-tri-rezhimi-pdkluchennja-dream-sakura-switch-pink-77074641889728_%2Bb3d825fdb4.jpg</picture>
-        <picture>https://techgleam.com.ua/content/images/25/grova-mexanchna-klavatura-aula-f75-tri-rezhimi-pdkluchennja-dream-sakura-switch-pink-99222047729124_%2B98bad83ff5.jpg</picture>
-        <picture>https://techgleam.com.ua/content/images/25/grova-mexanchna-klavatura-aula-f75-tri-rezhimi-pdkluchennja-dream-sakura-switch-pink-80121200562451_%2B9bb0a76d47.jpg</picture>
-        <param name="Гарантія">1 місяць</param>
-        <param name="Колір">Рожевий</param>
-        <param name="Конструкція клавіш">Механічна</param>
-        <param name="Підключення">Комбіноване</param>
-        <param name="Інтерфейс підключення">Bluetooth</param>
-        <param name="Інтерфейс підключення">Радіоінтерфейс</param>
-        <param name="Інтерфейс підключення">USB</param>
-        <param name="Розкладка">Eng</param>
-        <param name="Форм-фактор">Компактні</param>
-        <param name="Колір підсвічування">RGB</param>
-        <param name="Підсвічування клавіш">Є</param>
-        <param name="Матеріал корпусу">Пластик</param>
-        <param name="Живлення">Акумулятор</param>
-        <param name="Сумісність з ОС">Windows</param>
-        <param name="Сумісність з ОС">Mac OS</param>
-        <param name="Сумісність з ОС">Chrome OS</param>
-        <param name="Стан">Новий</param>
-        <param name="Комплектація">Клавіатура</param>
-        <param name="Призначення">Для ПК</param>
-        <param name="Вид">Ігрові</param>
-        <country>Китай</country>
-      </offer>
       <offer id="1837" available="true">
         <availability_status>available</availability_status>
         <name_ua>Ігрова механічна клавіатура AULA F75 / ENG + RUS / Leobog Axis Reaper Switch / Black</name_ua>
@@ -2891,39 +2858,6 @@
         <param name="Інтерфейс підключення">USB</param>
         <param name="Розкладка">Eng</param>
         <param name="Форм-фактор">Без цифрового блоку</param>
-        <param name="Колір підсвічування">RGB</param>
-        <param name="Підсвічування клавіш">Є</param>
-        <param name="Матеріал корпусу">Пластик</param>
-        <param name="Живлення">Акумулятор</param>
-        <param name="Сумісність з ОС">Windows</param>
-        <param name="Сумісність з ОС">Mac OS</param>
-        <param name="Сумісність з ОС">Linux</param>
-        <param name="Стан">Новий</param>
-        <param name="Комплектація">Клавіатура</param>
-        <param name="Призначення">Для ПК</param>
-        <param name="Вид">Ігрові</param>
-        <country>Китай</country>
-      </offer>
-      <offer id="1920" available="true">
-        <availability_status>available</availability_status>
-        <name_ua>Ігрова магнітна клавіатура Aula Mini 60 Pro / Yanyun Magnetic Switch / Три режими підключення / Pink</name_ua>
-        <name_ru>Игровая магнитная клавиатура Aula Mini 60 Pro / Yanyun Magnetic Switch / Три режима подключения / Pink</name_ru>
-        <description_ua><p data-end="499" data-start="161">AULA MINI60 HE Pro — це компактна <strong data-end="229" data-start="195">60% магнітна ігрова клавіатура</strong>, створена для максимальної швидкості, точності та контролю. Завдяки <strong data-end="335" data-start="298">магнітним Hall Effect перемикачам</strong>, надвисокій частоті опитування <strong data-end="373" data-start="367">8K</strong>, а також підтримці дротового й бездротового підключення, вона ідеально підходить для кіберспорту, шутерів та динамічних ігор.</p>    <p data-end="719" data-start="501">Клавіатура оснащена <strong data-end="536" data-start="521">61 клавішею</strong>, має мінімалістичний дизайн, яскраве <strong data-end="595" data-start="574">RGB-підсвічування</strong> та міцні <strong data-end="620" data-start="605">PBT кейкапи</strong>, що забезпечують довговічність і приємні тактильні відчуття навіть під час тривалих ігрових сесій.<br />  <strong>Основні характеристики:</strong></p>    <ul data-end="2044" data-start="1368">   <li data-end="719" data-start="501"><strong data-end="1436" data-start="1420">Форм-фактор:</strong> 60%</li>   <li data-end="1471" data-start="1443">   <p data-end="1471" data-start="1445"><strong data-end="1466" data-start="1445">Кількість клавіш:</strong> 61</p>   </li>   <li data-end="1506" data-start="1472">   <p data-end="1506" data-start="1474"><strong data-end="1529" data-start="1509">Тип перемикачів:</strong> Магнітні (Hall Effect, Stormrise Magnetic Switch)</p>   </li>   <li data-end="1668" data-start="1582">   <p data-end="1602" data-start="1584"><strong data-end="1600" data-start="1584">Підключення:</strong></p>     <ul data-end="1668" data-start="1605">    <li data-end="1625" data-start="1605">    <p data-end="1625" data-start="1607">2.4 GHz Wireless</p>    </li>    <li data-end="1641" data-start="1628">    <p data-end="1641" data-start="1630">Bluetooth</p>    </li>    <li data-end="1668" data-start="1644">    <p data-end="1668" data-start="1646">USB Type-C (дротове)</p>    </li>   </ul>   </li>   <li data-end="1707" data-start="1669">   <p data-end="1707" data-start="1671"><strong data-end="1694" data-start="1671">Частота опитування:</strong> до 8000 Гц</p>   </li>   <li data-end="1738" data-start="1708">   <p data-end="1738" data-start="1710"><strong data-end="1728" data-start="1710">Scanning Rate:</strong> 128 кГц</p>   </li>   <li data-end="1765" data-start="1739">   <p data-end="1765" data-start="1741"><strong data-end="1759" data-start="1741">Підсвічування:</strong> RGB</p>   </li>   <li data-end="1804" data-start="1766">   <p data-end="1804" data-start="1768"><strong data-end="1780" data-start="1768">Кейкапи:</strong> PBT, з підсвічуванням</p>   </li>   <li data-end="1852" data-start="1805">   <p data-end="1852" data-start="1807"><strong data-end="1822" data-start="1807">Акумулятор:</strong> 4000 мАг (перезаряджуваний)</p>   </li>   <li data-end="1898" data-start="1853">   <p data-end="1898" data-start="1855"><strong data-end="1870" data-start="1855">Сумісність:</strong> Windows / macOS / Android</p>   </li>  </ul></description_ua>
-        <description_ru><p><strong>AULA MINI60 HE Pro –</strong> это компактная 60% магнитная игровая клавиатура, созданная для максимальной скорости, точности и контроля. Благодаря магнитным Hall Effect переключателям, сверхвысокой частоте опроса 8K, а также поддержке проводного и беспроводного подключения она идеально подходит для киберспорта, шутеров и динамических игр.</p>    <p>Клавиатура оснащена 61 клавишей, имеет минималистичный дизайн, яркую RGB подсветку и прочные PBT кейкапы, обеспечивающие долговечность и приятные тактильные ощущения даже во время длительных игровых сессий.<br />  <strong>Основные характеристики:</strong></p>    <ul>   <li>Форм-фактор: 60%</li>   <li>Количество клавиш: 61</li>   <li>Раскладка: US ANSI, QWERTY</li>   <li>Тип переключателей: Магнитные (Hall Effect, Stormrise Magnetic Switch)</li>   <li>Подключение:</li>   <li>2.4 GHz Wireless</li>   <li>Bluetooth</li>   <li>USB Type-C (проводное)</li>   <li>Частота опроса: до 8000 Гц</li>   <li>Scanning Rate: 128 кГц</li>   <li>Подсветка: RGB</li>   <li>Кейкапы: PBT, с подсветкой</li>   <li>Аккумулятор: 4000 мАч (перезаряжаемый)</li>   <li>Совместимость: Windows/macOS/Android</li>  </ul></description_ru>
-        <price>2499</price>
-        <categoryId>1082</categoryId>
-        <vendor>Aula</vendor>
-        <picture>https://techgleam.com.ua/content/images/21/grova-magntna-klavatura-aula-mini-60-pro-yanyun-magnetic-switch-tri-rezhimi-pdkluchennja-pink-49720627491980_%2Bda1055a519.png</picture>
-        <picture>https://techgleam.com.ua/content/images/21/grova-magntna-klavatura-aula-mini-60-pro-yanyun-magnetic-switch-tri-rezhimi-pdkluchennja-pink-89820100483785_%2B1295c3132d.png</picture>
-        <param name="Гарантія">1 місяць</param>
-        <param name="Колір">Рожевий</param>
-        <param name="Конструкція клавіш">Магнітна</param>
-        <param name="Підключення">Комбіноване</param>
-        <param name="Інтерфейс підключення">Bluetooth</param>
-        <param name="Інтерфейс підключення">Радіоінтерфейс</param>
-        <param name="Інтерфейс підключення">USB</param>
-        <param name="Розкладка">Eng</param>
-        <param name="Форм-фактор">Компактні</param>
         <param name="Колір підсвічування">RGB</param>
         <param name="Підсвічування клавіш">Є</param>
         <param name="Матеріал корпусу">Пластик</param>
@@ -8306,40 +8240,6 @@
         <param name="Колір">Чорний</param>
         <param name="Стан">Новий</param>
       </offer>
-      <offer id="1002" available="false">
-        <availability_status>temporarily_unavailable</availability_status>
-        <name_ua>Ігрова магнітна клавіатура Akko TAC75 / 8К / Дротове підключення / Akko AstroAim Magnetic Switch / White</name_ua>
-        <name_ru>Игровая магнитная клавиатура Akko TAC75 / 8К / Проводное подключение / Akko AstroAim Magnetic Switch / White</name_ru>
-        <description_ua><p data-end="627" data-start="273"><strong data-end="295" data-start="273">Akko TAC75 HE (8K)</strong> — це високопродуктивна <strong data-end="373" data-start="319">75% механічна клавіатура з магнітними перемикачами</strong>, створена для максимальної швидкості, точності та контролю. В основі моделі — <strong data-end="498" data-start="452">магнітні перемикачі Akko AstroAim Magnetic</strong>, які дозволяють тонко налаштовувати точку спрацьовування клавіш із точністю <strong data-end="589" data-start="575">до 0,01 мм</strong> завдяки технології <strong data-end="626" data-start="609">Rapid Trigger</strong>.</p>    <p data-end="954" data-start="629">Клавіатура підтримує <strong data-end="680" data-start="650">частоту опитування 8000 Гц</strong> та <strong data-end="715" data-start="684">частоту сканування 16000 Гц</strong>, що забезпечує миттєвий відгук без затримок — критично важливо для FPS-ігор, таких як CS2, Valorant чи Apex Legends.<br data-end="835" data-start="832" />  Компактний формат <strong data-end="860" data-start="853">75%</strong> поєднує зручність повнорозмірних функціональних клавіш і економію простору на робочому столі.</p>    <p data-end="1252" data-start="956"><strong data-end="973" data-start="956">Akko TAC75 HE</strong> підтримує <strong data-end="996" data-start="984">Hot-Swap</strong>, оснащена яскравою <strong data-end="1054" data-start="1016">RGB-підсвіткою з десятками режимів</strong> та можливістю індивідуального налаштування кожної клавіші. Продумана ергономіка, сучасний дизайн і передові технології роблять цю клавіатуру універсальним інструментом як для гри, так і для роботи.<br />  <br />  <strong>Основні характеристики:</strong></p>    <ul>   <li data-end="2225" data-start="2206">   <p data-end="2225" data-start="2208"><strong data-end="2218" data-start="2208">Бренд:</strong> Akko</p>   </li>   <li data-end="2261" data-start="2226">   <p data-end="2261" data-start="2228"><strong data-end="2239" data-start="2228">Модель:</strong> TAC75 HE </p>   </li>   <li data-end="2281" data-start="2262">   <p data-end="2281" data-start="2264"><strong data-end="2275" data-start="2264">Формат:</strong> 75%</p>   </li>   <li data-end="2324" data-start="2282">   <p data-end="2324" data-start="2284"><strong data-end="2292" data-start="2284">Тип:</strong> магнітна клавіатура</p>   </li>   <li data-end="2367" data-start="2325">   <p data-end="2367" data-start="2327"><strong data-end="2342" data-start="2327">Перемикачі:</strong> Akko AstroAim Magnetic</p>   </li>   <li data-end="2407" data-start="2368">   <p data-end="2407" data-start="2370"><strong data-end="2400" data-start="2370">Початкова сила натискання:</strong> 35 г</p>   </li>   <li data-end="2434" data-start="2408">   <p data-end="2434" data-start="2410"><strong data-end="2427" data-start="2410">Кінцева сила:</strong> 55 г</p>   </li>   <li data-end="2470" data-start="2435">   <p data-end="2470" data-start="2437"><strong data-end="2455" data-start="2437">Загальний хід:</strong> 3,5 ± 0,1 мм</p>   </li>   <li data-end="2514" data-start="2471">   <p data-end="2514" data-start="2473"><strong data-end="2491" data-start="2473">Термін служби:</strong> до 100 млн натискань</p>   </li>   <li data-end="2563" data-start="2515">   <p data-end="2563" data-start="2517"><strong data-end="2535" data-start="2517">Rapid Trigger:</strong> так (точність до 0,01 мм)</p>   </li>   <li data-end="2599" data-start="2564">   <p data-end="2599" data-start="2566"><strong data-end="2589" data-start="2566">Частота опитування:</strong> 8000 Гц</p>   </li>   <li data-end="2636" data-start="2600">   <p data-end="2636" data-start="2602"><strong data-end="2625" data-start="2602">Частота сканування:</strong> 16000 Гц</p>   </li>   <li data-end="2658" data-start="2637">   <p data-end="2658" data-start="2639"><strong data-end="2652" data-start="2639">Hot-Swap:</strong> так</p>   </li>   <li data-end="2715" data-start="2659">   <p data-end="2715" data-start="2661"><strong data-end="2675" data-start="2661">Підсвітка:</strong> RGB, індивідуальна для кожної клавіші</p>   </li>   <li data-end="2756" data-start="2716">   <p data-end="2756" data-start="2718"><strong data-end="2734" data-start="2718">Призначення:</strong> ігрова / кіберспорт</p>   </li>  </ul>    <p data-end="1645" data-start="1544"><strong data-end="1561" data-start="1544">Akko TAC75 HE</strong> — це новий рівень контролю, швидкості та кастомізації у світі механічних клавіатур.</p></description_ua>
-        <description_ru><p><strong>Akko TAC75 HE (8K)</strong> – это высокопроизводительная 75% механическая клавиатура с магнитными переключателями, созданная для максимальной скорости, точности и контроля. В основе модели – магнитные переключатели Akko AstroAim Magnetic, которые позволяют тонко настраивать точку срабатывания клавиш с точностью до 0,01 мм благодаря технологии Rapid Trigger.</p>    <p>Клавиатура поддерживает частоту опроса 8000 Гц и частоту сканирования 16000 Гц, что обеспечивает мгновенный отклик без задержек – критически важно для FPS-игр, таких как CS2, Valorant или Apex Legends.<br />  Компактный формат 75% совмещает удобство полноразмерных функциональных клавиш и экономию пространства на рабочем столе.</p>    <p><strong>Akko TAC75 HE</strong> поддерживает Hot-Swap, оснащена яркой RGB-подсветкой с десятками режимов и возможностью индивидуальной настройки каждой клавиши. Продуманная эргономика, современный дизайн и передовые технологии делают эту клавиатуру универсальным инструментом, как для игры, так и для работы.</p>    <p><strong>Основные характеристики:</strong></p>    <ul>   <li>Бренд: Akko</li>   <li>Модель: TAC75 HE</li>   <li>Формат: 75%</li>   <li>Тип: магнитная клавиатура</li>   <li>Переключатели: Akko AstroAim Magnetic</li>   <li>Начальная сила нажатия: 35 г</li>   <li>Конечная сила: 55 г</li>   <li>Общий ход: 3,5±0,1 мм</li>   <li>Срок службы: до 100 млн нажатий</li>   <li>Rapid Trigger: да (точность до 0,01 мм)</li>   <li>Частота опроса: 8000 Гц</li>   <li>Частота сканирования: 16000 Гц</li>   <li>Hot-Swap: да</li>   <li>Подсветка: RGB, индивидуальная для каждой клавиши</li>   <li>Назначение: игровая/киберспорт</li>  </ul>    <p>Akko TAC75 HE – это новый уровень контроля, скорости и кастомизации в мире механических клавиатур.</p></description_ru>
-        <price>2799</price>
-        <categoryId>1082</categoryId>
-        <vendor>Akko</vendor>
-        <picture>https://techgleam.com.ua/content/images/3/igrovaja-magnitnaja-klaviatura-akko-tac75-8k-provodnoe-podkluchenie-akko-astroaim-magnetic-switch-white-58834887462358_%2Baf3c5a22bf.jpg</picture>
-        <picture>https://techgleam.com.ua/content/images/3/igrovaja-magnitnaja-klaviatura-akko-tac75-8k-provodnoe-podkluchenie-akko-astroaim-magnetic-switch-white-87663919453130_%2Bd745d31a47.jpg</picture>
-        <picture>https://techgleam.com.ua/content/images/3/igrovaja-magnitnaja-klaviatura-akko-tac75-8k-provodnoe-podkluchenie-akko-astroaim-magnetic-switch-white-40558926487428_%2Bba61605a18.jpg</picture>
-        <picture>https://techgleam.com.ua/content/images/3/igrovaja-magnitnaja-klaviatura-akko-tac75-8k-provodnoe-podkluchenie-akko-astroaim-magnetic-switch-white-17283840390357_%2B13ea691929.jpg</picture>
-        <picture>https://techgleam.com.ua/content/images/3/igrovaja-magnitnaja-klaviatura-akko-tac75-8k-provodnoe-podkluchenie-akko-astroaim-magnetic-switch-white-26974373434782_%2B152e131f1e.jpg</picture>
-        <picture>https://techgleam.com.ua/content/images/3/igrovaja-magnitnaja-klaviatura-akko-tac75-8k-provodnoe-podkluchenie-akko-astroaim-magnetic-switch-white-90747766648559_%2B30424646f5.jpg</picture>
-        <param name="Гарантія">1 місяць</param>
-        <param name="Колір">Білий</param>
-        <param name="Конструкція клавіш">Магнітна</param>
-        <param name="Підключення">Дротове</param>
-        <param name="Інтерфейс підключення">USB Type-C</param>
-        <param name="Розкладка">Eng</param>
-        <param name="Форм-фактор">Компактні</param>
-        <param name="Колір підсвічування">RGB</param>
-        <param name="Підсвічування клавіш">Є</param>
-        <param name="Матеріал корпусу">Пластик</param>
-        <param name="Сумісність з ОС">Windows</param>
-        <param name="Сумісність з ОС">Mac OS</param>
-        <param name="Сумісність з ОС">Linux</param>
-        <param name="Стан">Новий</param>
-        <param name="Комплектація">Клавіатура</param>
-        <param name="Призначення">Для ПК</param>
-        <param name="Вид">Ігрові</param>
-        <country>Китай</country>
-      </offer>
       <offer id="1003" available="false">
         <availability_status>temporarily_unavailable</availability_status>
         <name_ua>Ігрова бездротова мишка Madlions Mad G Pro / Сенсор PAW3395 / 26000 DPI / White</name_ua>
@@ -12979,6 +12879,35 @@
         <param name="Тип">Ігрові (геймерські)</param>
         <country>Китай</country>
       </offer>
+      <offer id="1744" available="false">
+        <availability_status>temporarily_unavailable</availability_status>
+        <name_ua>Ігрова бездротова мишка ATK Dragonfly A9 Plus 2.0 / Три режими підключення / Сенсор PixArt 3395 / 26000 DPI / White</name_ua>
+        <name_ru>Игровая беспроводная мышка ATK Dragonfly A9 Plus 2.0 / Три режима подключения / Сенсор PixArt 3395 / 26000 DPI / White</name_ru>
+        <description_ua><p data-end="407" data-start="46"><strong>ATK A9 Plus 2.0 </strong>— це ігрова миша, створена для точного керування, стабільної роботи та комфортного використання як у динамічних іграх, так і в щоденних задачах. Модель поєднує продуктивний сенсор, комбіноване підключення, ергономічну форму та хорошу автономність, що робить її практичним вибором для тих, хто шукає універсальну ігрову мишу.</p>    <p data-end="703" data-start="409">Миша оснащена оптичним сенсором PixArt PAW3395 з максимальною роздільною здатністю до 26000 DPI, що забезпечує плавне відстеження рухів і високу точність у різних сценаріях використання. Це дозволяє комфортно використовувати мишу як для шутерів і динамічних ігор, так і для повсякденної роботи.</p>    <p data-end="1034" data-start="705"><strong>ATK A9 Plus 2.0 </strong>підтримує комбіноване підключення та може працювати як у дротовому, так і в бездротовому режимі. Для бездротового з’єднання використовується радіоканал NearLink, який забезпечує стабільний сигнал на відстані до 10 метрів. Якщо акумулятор розрядиться, мишу можна швидко перевести в дротовий режим через USB Type-C.</p>    <p data-end="1428" data-start="1036">Модель отримала вбудований літієвий акумулятор на 800 мАг, який забезпечує до 240 годин автономної роботи. Вага миші становить близько 57 г, а корпус розміром 125 × 64 × 40 мм добре підходить для правої руки. Додатково варто відзначити перемикачі Huano Ice Berry Pink Dot із ресурсом до 80 мільйонів натискань, 6 кнопок і можливість програмного налаштування макросів, DPI та інших параметрів.</p>    <p data-end="1453" data-start="1430"><strong data-end="1451" data-start="1430">Основні переваги:</strong></p>    <ul data-end="2009" data-start="1454">   <li data-end="1479" data-section-id="1bo4g0i" data-start="1454">Сенсор PixArt PAW3395</li>   <li data-end="1507" data-section-id="1i6rhfp" data-start="1480">Чутливість до 26000 DPI</li>   <li data-end="1535" data-section-id="l78c35" data-start="1508">Комбіноване підключення</li>   <li data-end="1582" data-section-id="fbp9r0" data-start="1536">Підтримка дротового та бездротового режиму</li>   <li data-end="1607" data-section-id="17aohrz" data-start="1583">Інтерфейс USB Type-C</li>   <li data-end="1658" data-section-id="1on2of2" data-start="1608">Бездротове з’єднання через радіоканал NearLink</li>   <li data-end="1689" data-section-id="p03y3b" data-start="1659">Радіус роботи до 10 метрів</li>   <li data-end="1712" data-section-id="meedip" data-start="1690">Акумулятор 800 мАг</li>   <li data-end="1747" data-section-id="1gb9gty" data-start="1713">До 240 годин автономної роботи</li>   <li data-end="1769" data-section-id="cfmjbp" data-start="1748">Вага близько 57 г</li>   <li data-end="1797" data-section-id="594tdn" data-start="1770">Розмір 125 × 64 × 40 мм</li>   <li data-end="1829" data-section-id="za4o75" data-start="1798">Конструкція для правої руки</li>   <li data-end="1842" data-section-id="1dsdc58" data-start="1830">6 кнопок</li>   <li data-end="1882" data-section-id="1vyq23r" data-start="1843">Перемикачі Huano Ice Berry Pink Dot</li>   <li data-end="1931" data-section-id="1y5vta8" data-start="1883">Ресурс перемикачів до 80 мільйонів натискань</li>   <li data-end="1985" data-section-id="1ow2tfx" data-start="1932">Підтримка програмного налаштування макросів і DPI</li>  </ul></description_ua>
+        <description_ru><p data-end="2393" data-start="2011"><strong>ATK A9 Plus 2.0 </strong>— это игровая мышь, созданная для точного управления, стабильной работы и комфортного использования как в динамичных играх, так и в повседневных задачах. Модель сочетает производительный сенсор, комбинированное подключение, эргономичную форму и хорошую автономность, что делает её практичным выбором для тех, кто ищет универсальную игровую мышь.</p>    <p data-end="2691" data-start="2395">Мышь оснащена оптическим сенсором PixArt PAW3395 с максимальным разрешением до 26000 DPI, что обеспечивает плавное отслеживание движений и высокую точность в разных сценариях использования. Это позволяет комфортно использовать мышь как для шутеров и динамичных игр, так и для повседневной работы.</p>    <p data-end="3035" data-start="2693"><strong>ATK A9 Plus 2.0 </strong>поддерживает комбинированное подключение и может работать как в проводном, так и в беспроводном режиме. Для беспроводного соединения используется радиоканал NearLink, который обеспечивает стабильный сигнал на расстоянии до 10 метров. Если аккумулятор разрядится, мышь можно быстро перевести в проводной режим через USB Type-C.</p>    <p data-end="3433" data-start="3037">Модель получила встроенный литиевый аккумулятор на 800 мАч, который обеспечивает до 240 часов автономной работы. Вес мыши составляет около 57 г, а корпус размером 125 × 64 × 40 мм хорошо подходит для правой руки. Дополнительно стоит отметить переключатели Huano Ice Berry Pink Dot с ресурсом до 80 миллионов нажатий, 6 кнопок и возможность программной настройки макросов, DPI и других параметров.</p>    <p data-end="3463" data-start="3435"><strong data-end="3461" data-start="3435">Основные преимущества:</strong></p>    <ul data-end="4031" data-start="3464">   <li data-end="3489" data-section-id="1bo4g0i" data-start="3464">Сенсор PixArt PAW3395</li>   <li data-end="3523" data-section-id="fdm6zc" data-start="3490">Чувствительность до 26000 DPI</li>   <li data-end="3555" data-section-id="1pyadsj" data-start="3524">Комбинированное подключение</li>   <li data-end="3603" data-section-id="1qvghoq" data-start="3556">Поддержка проводного и беспроводного режима</li>   <li data-end="3628" data-section-id="yvj7hd" data-start="3604">Интерфейс USB Type-C</li>   <li data-end="3682" data-section-id="1g3yl4a" data-start="3629">Беспроводное соединение через радиоканал NearLink</li>   <li data-end="3713" data-section-id="1161jd8" data-start="3683">Радиус работы до 10 метров</li>   <li data-end="3737" data-section-id="4n6awv" data-start="3714">Аккумулятор 800 мАч</li>   <li data-end="3772" data-section-id="mhgrab" data-start="3738">До 240 часов автономной работы</li>   <li data-end="3791" data-section-id="rifxi8" data-start="3773">Вес около 57 г</li>   <li data-end="3819" data-section-id="1deg0wm" data-start="3792">Размер 125 × 64 × 40 мм</li>   <li data-end="3851" data-section-id="lp1kqp" data-start="3820">Конструкция для правой руки</li>   <li data-end="3864" data-section-id="1dsdc58" data-start="3852">6 кнопок</li>   <li data-end="3907" data-section-id="18h9gdw" data-start="3865">Переключатели Huano Ice Berry Pink Dot</li>   <li data-end="3957" data-section-id="vgimkg" data-start="3908">Ресурс переключателей до 80 миллионов нажатий</li>   <li data-end="4008" data-section-id="1chgj3n" data-start="3958">Поддержка программной настройки макросов и DPI</li>  </ul></description_ru>
+        <price>1899</price>
+        <old_price>2199</old_price>
+        <categoryId>1084</categoryId>
+        <vendor>ATK</vendor>
+        <picture>https://techgleam.com.ua/content/images/45/grova-bezdrotova-mishka-atk-dragonfly-a9-plus-2.0-tri-rezhimi-pdkluchennja-sensor-pixart-3395-26000-dpi-white-62073377988587_%2B589776460a.jpg</picture>
+        <picture>https://techgleam.com.ua/content/images/45/grova-bezdrotova-mishka-atk-dragonfly-a9-plus-2.0-tri-rezhimi-pdkluchennja-sensor-pixart-3395-26000-dpi-white-14595747613932_%2Baec483179c.jpg</picture>
+        <picture>https://techgleam.com.ua/content/images/45/grova-bezdrotova-mishka-atk-dragonfly-a9-plus-2.0-tri-rezhimi-pdkluchennja-sensor-pixart-3395-26000-dpi-white-69621567048974_%2B5b59d32c01.jpg</picture>
+        <param name="Гарантія">3 місяці</param>
+        <param name="Колір">Білий</param>
+        <param name="Підключення">Комбіноване</param>
+        <param name="Сумісність з ОС">Microsoft Windows</param>
+        <param name="Сумісність з ОС">Mac OS</param>
+        <param name="Сумісність з ОС">Linux</param>
+        <param name="Вага">57 г</param>
+        <param name="Тип датчика">Оптичний</param>
+        <param name="Інтерфейс підключення">Bluetooth</param>
+        <param name="Інтерфейс підключення">Радіоінтерфейс</param>
+        <param name="Інтерфейс підключення">USB</param>
+        <param name="Роздільна здатність сенсора">Понад 20000 dpi</param>
+        <param name="Стан">Новий</param>
+        <param name="Тип">Ігрові (геймерські)</param>
+        <country>Китай</country>
+      </offer>
       <offer id="1745" available="false">
         <availability_status>temporarily_unavailable</availability_status>
         <name_ua>Ігрова бездротова мишка ATK Dragonfly A9 Plus 2.0 / Три режими підключення / Сенсор PixArt 3395 / 26000 DPI / Pink</name_ua>
@@ -14088,6 +14017,44 @@
         <param name="Вид">Ігрові</param>
         <country>Китай</country>
       </offer>
+      <offer id="1824" available="false">
+        <availability_status>temporarily_unavailable</availability_status>
+        <name_ua>Ігрова механічна клавіатура AULA F75 / Три режими підключення / Dream Sakura Switch / Pink</name_ua>
+        <name_ru>Игровая механическая клавиатура AULA F75 / Три режима подключения / Dream Sakura Switch / Pink</name_ru>
+        <description_ua><p><strong>Механічна клавіатура AULA F75 </strong></p>    <p>AULA F75 — це універсальна клавіатура для роботи, навчання та ігор, що поєднує компактність, ергономіку та сучасні функції.</p>    <p><strong>Основні характеристики:</strong></p>    <ul>   <li>Тип: Механічна клавіатура, 75% форм-фактор </li>   <li>Розкладка: англійська</li>   <li>Підключення: Bluetooth 5.0 / 2.4 ГГц / USB Type-C  </li>   <li>Сумісність: Windows, Mac, iOS, Android, PS, Xbox  </li>   <li>5-шарова система шумопоглинання для комфортного набору тексту  </li>   <li>Мультимедійне колесо для зручного керування гучністю та підсвіткою</li>   <li>Акумулятор: 4000 мА·год, забезпечує тривалий час автономної роботи.</li>  </ul>    <p><strong>RGB-підсвітка:</strong><br />  • 15 режимів  <br />  • 16.8 млн кольорів  <br />  • Музичний режим реагує на ритм відтворюваної музики</p>    <p><strong>Комплектація:</strong></p>    <ul>   <li>Клавіатура AULA F75  </li>   <li>Кабель USB Type-C  </li>   <li>USB-адаптер 2.4 ГГц  </li>   <li>Захисна накладка від пилу  </li>   <li>4 запасні перемикачі  </li>   <li>Пуллер  </li>   <li>Інструкція користувача</li>  </ul></description_ua>
+        <description_ru><p><strong>Механическая клавиатура AULA F75</strong></p>    <p>AULA F75 – это универсальная клавиатура для работы, обучения и игр, сочетающая компактность, эргономику и современные функции.</p>    <p><strong>Основные характеристики:</strong></p>    <ul>   <li>Тип: Механическая клавиатура, 75% форм-фактор</li>   <li>Раскладка: английская</li>   <li>Подключение: Bluetooth 5.0/2.4 ГГц/USB Type-C</li>   <li>Совместимость: Windows, Mac, iOS, Android, PS, Xbox</li>   <li>5-слойная система шумопоглощения для комфортного набора текста</li>   <li>Мультимедийное колесо для удобного управления громкостью и подсветкой</li>   <li>Аккумулятор: 4000 мАч, обеспечивает длительное время автономной работы.</li>  </ul>    <p><strong>RGB-подсветка:</strong><br />  • 15 режимов<br />  • 16.8 млн цветов<br />  • Музыкальный режим реагирует на ритм воспроизводимой музыки.</p>    <p><strong>Комплектация:</strong></p>    <ul>   <li>Клавиатура AULA F75</li>   <li>Кабель USB Type-C</li>   <li>USB-адаптер 2.4 ГГц</li>   <li>Защитная накладка от пыли</li>   <li>4 запасные переключатели</li>   <li>Пуллер</li>   <li>Руководство пользователя</li>  </ul></description_ru>
+        <price>2699</price>
+        <categoryId>1082</categoryId>
+        <vendor>Aula</vendor>
+        <picture>https://techgleam.com.ua/content/images/25/grova-mexanchna-klavatura-aula-f75-tri-rezhimi-pdkluchennja-dream-sakura-switch-pink-96667522895456_%2Bcb11343413.png</picture>
+        <picture>https://techgleam.com.ua/content/images/25/grova-mexanchna-klavatura-aula-f75-tri-rezhimi-pdkluchennja-dream-sakura-switch-pink-16817737078058_%2B5f8785cce8.jpg</picture>
+        <picture>https://techgleam.com.ua/content/images/25/grova-mexanchna-klavatura-aula-f75-tri-rezhimi-pdkluchennja-dream-sakura-switch-pink-42678713894877_%2Bb4bc19793a.jpg</picture>
+        <picture>https://techgleam.com.ua/content/images/25/grova-mexanchna-klavatura-aula-f75-tri-rezhimi-pdkluchennja-dream-sakura-switch-pink-81645874692093_%2B141864a7e9.jpg</picture>
+        <picture>https://techgleam.com.ua/content/images/25/grova-mexanchna-klavatura-aula-f75-tri-rezhimi-pdkluchennja-dream-sakura-switch-pink-77074641889728_%2Bb3d825fdb4.jpg</picture>
+        <picture>https://techgleam.com.ua/content/images/25/grova-mexanchna-klavatura-aula-f75-tri-rezhimi-pdkluchennja-dream-sakura-switch-pink-99222047729124_%2B98bad83ff5.jpg</picture>
+        <picture>https://techgleam.com.ua/content/images/25/grova-mexanchna-klavatura-aula-f75-tri-rezhimi-pdkluchennja-dream-sakura-switch-pink-80121200562451_%2B9bb0a76d47.jpg</picture>
+        <param name="Гарантія">1 місяць</param>
+        <param name="Колір">Рожевий</param>
+        <param name="Конструкція клавіш">Механічна</param>
+        <param name="Підключення">Комбіноване</param>
+        <param name="Інтерфейс підключення">Bluetooth</param>
+        <param name="Інтерфейс підключення">Радіоінтерфейс</param>
+        <param name="Інтерфейс підключення">USB</param>
+        <param name="Розкладка">Eng</param>
+        <param name="Форм-фактор">Компактні</param>
+        <param name="Колір підсвічування">RGB</param>
+        <param name="Підсвічування клавіш">Є</param>
+        <param name="Матеріал корпусу">Пластик</param>
+        <param name="Живлення">Акумулятор</param>
+        <param name="Сумісність з ОС">Windows</param>
+        <param name="Сумісність з ОС">Mac OS</param>
+        <param name="Сумісність з ОС">Chrome OS</param>
+        <param name="Стан">Новий</param>
+        <param name="Комплектація">Клавіатура</param>
+        <param name="Призначення">Для ПК</param>
+        <param name="Вид">Ігрові</param>
+        <country>Китай</country>
+      </offer>
       <offer id="1834" available="false">
         <availability_status>temporarily_unavailable</availability_status>
         <name_ua>Ігрова бездротова механічна клавіатура YUNZII B75 Pro / Три режими підключення / Cocoa Cream V2 Switch / Pink</name_ua>
@@ -14614,6 +14581,39 @@
         <param name="Роздільна здатність сенсора">Понад 20000 dpi</param>
         <param name="Стан">Новий</param>
         <param name="Тип">Ігрові (геймерські)</param>
+        <country>Китай</country>
+      </offer>
+      <offer id="1920" available="false">
+        <availability_status>temporarily_unavailable</availability_status>
+        <name_ua>Ігрова магнітна клавіатура Aula Mini 60 Pro / Yanyun Magnetic Switch / Три режими підключення / Pink</name_ua>
+        <name_ru>Игровая магнитная клавиатура Aula Mini 60 Pro / Yanyun Magnetic Switch / Три режима подключения / Pink</name_ru>
+        <description_ua><p data-end="499" data-start="161">AULA MINI60 HE Pro — це компактна <strong data-end="229" data-start="195">60% магнітна ігрова клавіатура</strong>, створена для максимальної швидкості, точності та контролю. Завдяки <strong data-end="335" data-start="298">магнітним Hall Effect перемикачам</strong>, надвисокій частоті опитування <strong data-end="373" data-start="367">8K</strong>, а також підтримці дротового й бездротового підключення, вона ідеально підходить для кіберспорту, шутерів та динамічних ігор.</p>    <p data-end="719" data-start="501">Клавіатура оснащена <strong data-end="536" data-start="521">61 клавішею</strong>, має мінімалістичний дизайн, яскраве <strong data-end="595" data-start="574">RGB-підсвічування</strong> та міцні <strong data-end="620" data-start="605">PBT кейкапи</strong>, що забезпечують довговічність і приємні тактильні відчуття навіть під час тривалих ігрових сесій.<br />  <strong>Основні характеристики:</strong></p>    <ul data-end="2044" data-start="1368">   <li data-end="719" data-start="501"><strong data-end="1436" data-start="1420">Форм-фактор:</strong> 60%</li>   <li data-end="1471" data-start="1443">   <p data-end="1471" data-start="1445"><strong data-end="1466" data-start="1445">Кількість клавіш:</strong> 61</p>   </li>   <li data-end="1506" data-start="1472">   <p data-end="1506" data-start="1474"><strong data-end="1529" data-start="1509">Тип перемикачів:</strong> Магнітні (Hall Effect, Stormrise Magnetic Switch)</p>   </li>   <li data-end="1668" data-start="1582">   <p data-end="1602" data-start="1584"><strong data-end="1600" data-start="1584">Підключення:</strong></p>     <ul data-end="1668" data-start="1605">    <li data-end="1625" data-start="1605">    <p data-end="1625" data-start="1607">2.4 GHz Wireless</p>    </li>    <li data-end="1641" data-start="1628">    <p data-end="1641" data-start="1630">Bluetooth</p>    </li>    <li data-end="1668" data-start="1644">    <p data-end="1668" data-start="1646">USB Type-C (дротове)</p>    </li>   </ul>   </li>   <li data-end="1707" data-start="1669">   <p data-end="1707" data-start="1671"><strong data-end="1694" data-start="1671">Частота опитування:</strong> до 8000 Гц</p>   </li>   <li data-end="1738" data-start="1708">   <p data-end="1738" data-start="1710"><strong data-end="1728" data-start="1710">Scanning Rate:</strong> 128 кГц</p>   </li>   <li data-end="1765" data-start="1739">   <p data-end="1765" data-start="1741"><strong data-end="1759" data-start="1741">Підсвічування:</strong> RGB</p>   </li>   <li data-end="1804" data-start="1766">   <p data-end="1804" data-start="1768"><strong data-end="1780" data-start="1768">Кейкапи:</strong> PBT, з підсвічуванням</p>   </li>   <li data-end="1852" data-start="1805">   <p data-end="1852" data-start="1807"><strong data-end="1822" data-start="1807">Акумулятор:</strong> 4000 мАг (перезаряджуваний)</p>   </li>   <li data-end="1898" data-start="1853">   <p data-end="1898" data-start="1855"><strong data-end="1870" data-start="1855">Сумісність:</strong> Windows / macOS / Android</p>   </li>  </ul></description_ua>
+        <description_ru><p><strong>AULA MINI60 HE Pro –</strong> это компактная 60% магнитная игровая клавиатура, созданная для максимальной скорости, точности и контроля. Благодаря магнитным Hall Effect переключателям, сверхвысокой частоте опроса 8K, а также поддержке проводного и беспроводного подключения она идеально подходит для киберспорта, шутеров и динамических игр.</p>    <p>Клавиатура оснащена 61 клавишей, имеет минималистичный дизайн, яркую RGB подсветку и прочные PBT кейкапы, обеспечивающие долговечность и приятные тактильные ощущения даже во время длительных игровых сессий.<br />  <strong>Основные характеристики:</strong></p>    <ul>   <li>Форм-фактор: 60%</li>   <li>Количество клавиш: 61</li>   <li>Раскладка: US ANSI, QWERTY</li>   <li>Тип переключателей: Магнитные (Hall Effect, Stormrise Magnetic Switch)</li>   <li>Подключение:</li>   <li>2.4 GHz Wireless</li>   <li>Bluetooth</li>   <li>USB Type-C (проводное)</li>   <li>Частота опроса: до 8000 Гц</li>   <li>Scanning Rate: 128 кГц</li>   <li>Подсветка: RGB</li>   <li>Кейкапы: PBT, с подсветкой</li>   <li>Аккумулятор: 4000 мАч (перезаряжаемый)</li>   <li>Совместимость: Windows/macOS/Android</li>  </ul></description_ru>
+        <price>2499</price>
+        <categoryId>1082</categoryId>
+        <vendor>Aula</vendor>
+        <picture>https://techgleam.com.ua/content/images/21/grova-magntna-klavatura-aula-mini-60-pro-yanyun-magnetic-switch-tri-rezhimi-pdkluchennja-pink-49720627491980_%2Bda1055a519.png</picture>
+        <picture>https://techgleam.com.ua/content/images/21/grova-magntna-klavatura-aula-mini-60-pro-yanyun-magnetic-switch-tri-rezhimi-pdkluchennja-pink-89820100483785_%2B1295c3132d.png</picture>
+        <param name="Гарантія">1 місяць</param>
+        <param name="Колір">Рожевий</param>
+        <param name="Конструкція клавіш">Магнітна</param>
+        <param name="Підключення">Комбіноване</param>
+        <param name="Інтерфейс підключення">Bluetooth</param>
+        <param name="Інтерфейс підключення">Радіоінтерфейс</param>
+        <param name="Інтерфейс підключення">USB</param>
+        <param name="Розкладка">Eng</param>
+        <param name="Форм-фактор">Компактні</param>
+        <param name="Колір підсвічування">RGB</param>
+        <param name="Підсвічування клавіш">Є</param>
+        <param name="Матеріал корпусу">Пластик</param>
+        <param name="Живлення">Акумулятор</param>
+        <param name="Сумісність з ОС">Windows</param>
+        <param name="Сумісність з ОС">Mac OS</param>
+        <param name="Сумісність з ОС">Linux</param>
+        <param name="Стан">Новий</param>
+        <param name="Комплектація">Клавіатура</param>
+        <param name="Призначення">Для ПК</param>
+        <param name="Вид">Ігрові</param>
         <country>Китай</country>
       </offer>
       <offer id="1921" available="false">
@@ -18446,8 +18446,8 @@
         <param name="Призначення">Для клавіатур</param>
         <param name="Тип">Кейкапи</param>
       </offer>
-      <offer id="1996" available="true">
-        <availability_status>available</availability_status>
+      <offer id="1996" available="false">
+        <availability_status>temporarily_unavailable</availability_status>
         <name_ua>Кастомні кейкапи Black Carbon Fiber / 136 клавіш / English and Russian Layout / карбонова текстура / для механічних і магнітних клавіатур / Black</name_ua>
         <name_ru>Кастомные кейкапы Black Carbon Fiber / 136 клавиш / English and Russian Layout / карбоновая текстура / для механических и магнитных клавиатур / Black</name_ru>
         <description_ua><p data-end="629" data-start="359"><strong data-end="406" data-start="359">Кастомні кейкапи Black Carbon Fiber 136 шт.</strong> — розширений набір клавіш із розкладкою English and Russian Layout для механічних і магнітних клавіатур. Чорна основа, контрастні символи та графічні елементи з карбоновою текстурою створюють сучасний технологічний дизайн.</p>    <p data-end="813" data-start="631">Кейкапи виготовлені з міцного PBT-пластику, стійкого до стирання та появи блиску. Комплект із 136 клавіш містить основні й додаткові кейкапи для клавіатур різних популярних форматів.</p>    <p data-end="908" data-start="815">Набір Black Carbon Fiber підійде для геймінгу, роботи та оформлення стильного темного сетапу.</p>    <p data-end="987" data-start="910"><strong>Важливо: у комплект входять тільки кейкапи. Клавіатура не входить у комплект.</strong></p>    <p data-end="1008" data-start="989"><strong data-end="1008" data-start="989">Характеристики:</strong></p>    <ul>   <li data-end="1038" data-start="1010">Тип товару: кастомні кейкапи</li>   <li data-end="1073" data-start="1040">Назва дизайну: Black Carbon Fiber</li>   <li data-end="1102" data-start="1075">Кількість кейкапів: 136 шт.</li>   <li data-end="1141" data-start="1104">Розкладка: English and Russian Layout</li>   <li data-end="1164" data-start="1143">Матеріал: PBT-пластик</li>   <li data-end="1178" data-start="1166">Колір: Black</li>   <li data-end="1201" data-start="1180">Колір символів: White</li>   <li data-end="1248" data-start="1203">Дизайн: карбонова текстура та графічний принт</li>   <li data-end="1294" data-start="1250">Сумісність: механічні та магнітні клавіатури</li>   <li data-end="1352" data-start="1296">Тип сумісних перемикачів: MX-style / хрестоподібний шток</li>   <li data-end="1426" data-start="1354">Призначення: кастомізація клавіатури, геймінг, робота, оформлення сетапу</li>   <li data-end="1537" data-start="1428">Підтримувані формати клавіатур: 61 / 64 / 67 / 68 / 75 / 81 / 82 / 84 / 87 / 96 / 98 / 100 / 104 / 108 клавіш</li>   <li data-end="1679" data-start="1539">Особливості: 136 кейкапів, PBT-пластик, English and Russian Layout, карбонова текстура, сумісність із механічними та магнітними клавіатурами</li>   <li data-end="1703" data-start="1681">Країна-виробник: Китай</li>  </ul></description_ua>
