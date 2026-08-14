@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<yml_catalog date="2026-08-14 02:23">
+<yml_catalog date="2026-08-14 04:23">
   <shop>
     <categories>
       <category id="1082" portal_id="1839">Клавіатури</category>
@@ -158,6 +158,64 @@
         <param name="Вид">Ігрові</param>
         <country>Китай</country>
       </offer>
+      <offer id="548" available="true">
+        <availability_status>available</availability_status>
+        <name_ua>Ігрова механічна клавіатура AULA F75 / Три режими підключення / Leobog Axis Reaper Switch / Black</name_ua>
+        <name_ru>Игровая механическая клавиатура AULA F75 / Три режима подключения / Leobog Axis Reaper Switch / Black</name_ru>
+        <description_ua><p><strong>Механічна клавіатура AULA F75 </strong></p>    <p>AULA F75 — це універсальна клавіатура для роботи, навчання та ігор, що поєднує компактність, ергономіку та сучасні функції.</p>    <p><strong>Основні характеристики:</strong></p>    <ul>   <li>Тип: Механічна клавіатура, 75% форм-фактор </li>   <li>Розкладка: англійська</li>   <li>Підключення: Bluetooth 5.0 / 2.4 ГГц / USB Type-C  </li>   <li>Сумісність: Windows, Mac, iOS, Android, PS, Xbox  </li>   <li>5-шарова система шумопоглинання для комфортного набору тексту  </li>   <li>Мультимедійне колесо для зручного керування гучністю та підсвіткою</li>   <li>Акумулятор: 4000 мА·год, забезпечує тривалий час автономної роботи.</li>  </ul>    <p><strong>RGB-підсвітка:</strong><br />  • 15 режимів  <br />  • 16.8 млн кольорів  <br />  • Музичний режим реагує на ритм відтворюваної музики</p>    <p><strong>Комплектація:</strong></p>    <ul>   <li>Клавіатура AULA F75  </li>   <li>Кабель USB Type-C  </li>   <li>USB-адаптер 2.4 ГГц  </li>   <li>Захисна накладка від пилу  </li>   <li>4 запасні перемикачі  </li>   <li>Пуллер  </li>   <li>Інструкція користувача</li>  </ul></description_ua>
+        <description_ru><p><strong>Механическая клавиатура AULA F75</strong></p>    <p>AULA F75 – это универсальная клавиатура для работы, обучения и игр, сочетающая компактность, эргономику и современные функции.</p>    <p><strong>Основные характеристики:</strong></p>    <ul>   <li>Тип: Механическая клавиатура, 75% форм-фактор</li>   <li>Раскладка: английская</li>   <li>Подключение: Bluetooth 5.0/2.4 ГГц/USB Type-C</li>   <li>Совместимость: Windows, Mac, iOS, Android, PS, Xbox</li>   <li>5-слойная система шумопоглощения для комфортного набора текста</li>   <li>Мультимедийное колесо для удобного управления громкостью и подсветкой</li>   <li>Аккумулятор: 4000 мАч, обеспечивает длительное время автономной работы.</li>  </ul>    <p><strong>RGB-подсветка:</strong><br />  • 15 режимов<br />  • 16.8 млн цветов<br />  • Музыкальный режим реагирует на ритм воспроизводимой музыки.</p>    <p><strong>Комплектация:</strong></p>    <ul>   <li>Клавиатура AULA F75</li>   <li>Кабель USB Type-C</li>   <li>USB-адаптер 2.4 ГГц</li>   <li>Защитная накладка от пыли</li>   <li>4 запасные переключатели</li>   <li>Пуллер</li>   <li>Руководство пользователя</li>  </ul></description_ru>
+        <price>2499</price>
+        <old_price>2999</old_price>
+        <categoryId>1082</categoryId>
+        <vendor>Aula</vendor>
+        <picture>https://techgleam.com.ua/content/images/49/44337146199859_%2Bbefe5a775f.jpg</picture>
+        <picture>https://techgleam.com.ua/content/images/49/78804693792588_%2Bd742f6aeab.jpg</picture>
+        <picture>https://techgleam.com.ua/content/images/49/16464383853408_%2Be71dfa966f.jpg</picture>
+        <picture>https://techgleam.com.ua/content/images/49/71452308036394_%2B4821f7a900.jpg</picture>
+        <picture>https://techgleam.com.ua/content/images/49/69657512791817_%2B568df8cff9.jpg</picture>
+        <picture>https://techgleam.com.ua/content/images/49/75318826656477_%2B3331d4c738.jpg</picture>
+        <picture>https://techgleam.com.ua/content/images/49/74611659852295_%2Bccb45ca8fe.jpg</picture>
+        <picture>https://techgleam.com.ua/content/images/49/19479032401262_%2B3edb7ac297.jpg</picture>
+        <picture>https://techgleam.com.ua/content/images/49/15218519374601_%2B5c582c3b0b.jpg</picture>
+        <param name="Гарантія">1 місяць</param>
+        <param name="Колір">Чорний</param>
+        <param name="Конструкція клавіш">Механічна</param>
+        <param name="Підключення">Комбіноване</param>
+        <param name="Інтерфейс підключення">Bluetooth</param>
+        <param name="Інтерфейс підключення">Радіоінтерфейс</param>
+        <param name="Інтерфейс підключення">USB</param>
+        <param name="Розкладка">Eng</param>
+        <param name="Форм-фактор">Компактні</param>
+        <param name="Колір підсвічування">RGB</param>
+        <param name="Підсвічування клавіш">Є</param>
+        <param name="Матеріал корпусу">Пластик</param>
+        <param name="Живлення">Акумулятор</param>
+        <param name="Сумісність з ОС">Windows</param>
+        <param name="Сумісність з ОС">Mac OS</param>
+        <param name="Сумісність з ОС">Chrome OS</param>
+        <param name="Стан">Новий</param>
+        <param name="Комплектація">Клавіатура</param>
+        <param name="Призначення">Для ПК</param>
+        <param name="Вид">Ігрові</param>
+        <country>Китай</country>
+      </offer>
+      <offer id="595" available="true">
+        <availability_status>available</availability_status>
+        <name_ua>Металевий USB HUB 8-в-1 - Type-C, USB 3.0, SD/TF, PD, AUX, Сірий</name_ua>
+        <name_ru>Металлический USB HUB 8-в-1 - Type-C, USB 3.0, SD/TF, PD, AUX, Серый</name_ru>
+        <description_ua><p><strong>  Універсальний металевий USB-хаб 8-в-1 з підтримкою Type-C та USB-A    </strong></p>    <p><strong>Цей USB-хаб — </strong>ідеальне рішення для розширення можливостей ноутбука чи ПК. Завдяки комбінованому підключенню Type-C + USB-A він сумісний майже з будь-яким пристроєм.</p>    <p><strong>Інтерфейси:</strong></p>    <ul>   <li>  USB Type-C  </li>   <li>  USB Type-A  </li>   <li>  4x USB 3.0  </li>   <li>  microSD (TF)  </li>   <li>  SD  </li>   <li>  AUX 3.5 мм  </li>   <li>  Type-C PD</li>  </ul></description_ua>
+        <description_ru><p><strong>  Универсальный металлический USB-хаб 8-в-1 с поддержкой Type-C и USB-A    </strong></p>    <p><strong>Данный USB хаб — </strong>идеальное решение для расширения возможностей ноутбука или ПК. Благодаря комбинированному подключению Type-C + USB-A он совместим практически с любым устройством.</p>    <p><strong>Интерфейсы:</strong></p>    <ul>   <li>  USB Type-C  </li>   <li>  USB Type-A  </li>   <li>  4x USB 3.0  </li>   <li>  microSD (TF)  </li>   <li>  SD  </li>   <li>  AUX 3.5 мм  </li>   <li>  Type-C PD</li>  </ul></description_ru>
+        <price>399</price>
+        <categoryId>1090</categoryId>
+        <vendor>Без бренда</vendor>
+        <picture>https://techgleam.com.ua/content/images/46/55154165704913_%2B3040a9dc33.jpg</picture>
+        <picture>https://techgleam.com.ua/content/images/46/75858116416121_%2B24ac1e59be.jpg</picture>
+        <picture>https://techgleam.com.ua/content/images/46/76915968906839_%2Bd5e97d80e8.jpg</picture>
+        <picture>https://techgleam.com.ua/content/images/46/44482821775283_%2Bcda1650f10.jpg</picture>
+        <param name="Гарантія">1 місяць</param>
+        <param name="Колір">Сірий</param>
+        <param name="Стан">Новий</param>
+      </offer>
       <offer id="639" available="true">
         <availability_status>available</availability_status>
         <name_ua>Ігрова мишка ATTACK SHARK R5 Ultra / Три режими підключення / PAW3950MAX / Carbon Fiber / 39 г / Black</name_ua>
@@ -218,6 +276,36 @@
         <param name="Сумісність з ОС">Mac OS</param>
         <param name="Сумісність з ОС">Linux</param>
         <param name="Вага">39 г</param>
+        <param name="Тип датчика">Оптичний</param>
+        <param name="Інтерфейс підключення">Bluetooth</param>
+        <param name="Інтерфейс підключення">Радіоінтерфейс</param>
+        <param name="Інтерфейс підключення">USB</param>
+        <param name="Роздільна здатність сенсора">Понад 20000 dpi</param>
+        <param name="Стан">Новий</param>
+        <param name="Тип">Ігрові (геймерські)</param>
+        <country>Китай</country>
+      </offer>
+      <offer id="647" available="true">
+        <availability_status>available</availability_status>
+        <name_ua>Бездротова ігрова мишка AJAZZ AJ159 PRO / Три режими підключення / Док-станція / Сенсор PAW3395 / 26000 DPI  / Black</name_ua>
+        <name_ru>Беспроводная игровая мышка AJAZZ AJ159 PRO / Три режима подключения / Док-станция / Сенсор PAW3395 / 26000 DPI / Black</name_ru>
+        <description_ua><p><strong>AJAZZ AJ159 PRO Wireless 8K — миша, що грає на максимумі!</strong></p>    <p>Ідеальна для кіберспортсменів, стрімерів і всіх, хто прагне абсолютної точності та швидкості </p>    <p><strong>Основні характеристики:  </strong></p>    <ul>   <li>Сенсор: PixArt PAW3395 — до 26 000 DPI  </li>   <li>Підключення: 2.4GHz / Bluetooth / USB Type-C  </li>   <li>Частота опитування: до 8000 Гц (0.125 мс)  </li>   <li>Вага: лише 56 г — для блискавичної реакції  </li>   <li>Акумулятор: 400 мАг — автономність і магнітна зарядка  </li>   <li>Перемикачі: Huano — до 100 млн натискань  </li>   <li>RGB-док: з підсвіткою  </li>  </ul></description_ua>
+        <description_ru><p><strong>AJAZZ AJ159 PRO Wireless 8K — мышь, которая играет на максимуме! </strong></p>    <p>Идеальна для киберспортсменов, стримеров и всех, кто стремится к абсолютной точности и скорости </p>    <p><strong>Основные характеристики:</strong></p>    <ul>   <li>Сенсор: PixArt PAW3395 — до 26 000 DPI</li>   <li>Подключение: 2.4GHz / Bluetooth / USB Type-C</li>   <li>Частота опроса: до 8000 Гц (0.125 мс)</li>   <li>Вес: всего 56 г — для молниеносной реакции</li>   <li>Аккумулятор: 400 мАч — автономность и магнитная зарядка</li>   <li>Переключатели: Huano — до 100 млн нажатий</li>   <li>RGB-док: с подсветкой</li>  </ul></description_ru>
+        <price>1699</price>
+        <old_price>2199</old_price>
+        <categoryId>1084</categoryId>
+        <vendor>Ajazz</vendor>
+        <picture>https://techgleam.com.ua/content/images/48/37307820363647_%2Bf9f6bbd962.jpg</picture>
+        <picture>https://techgleam.com.ua/content/images/48/83170396883623_%2B3688077297.jpg</picture>
+        <picture>https://techgleam.com.ua/content/images/48/83670317872940_%2B21366b1a31.jpg</picture>
+        <picture>https://techgleam.com.ua/content/images/48/16388289508026_%2Bf28c4e6e23.jpg</picture>
+        <param name="Гарантія">3 місяці</param>
+        <param name="Колір">Чорний</param>
+        <param name="Підключення">Комбіноване</param>
+        <param name="Сумісність з ОС">Microsoft Windows</param>
+        <param name="Сумісність з ОС">Mac OS</param>
+        <param name="Сумісність з ОС">Linux</param>
+        <param name="Вага">56 г</param>
         <param name="Тип датчика">Оптичний</param>
         <param name="Інтерфейс підключення">Bluetooth</param>
         <param name="Інтерфейс підключення">Радіоінтерфейс</param>
@@ -668,6 +756,43 @@
         <param name="Підсвічування клавіш">Є</param>
         <param name="Матеріал корпусу">Пластик</param>
         <param name="Живлення">Акумулятор</param>
+        <param name="Сумісність з ОС">Windows</param>
+        <param name="Сумісність з ОС">Mac OS</param>
+        <param name="Сумісність з ОС">Linux</param>
+        <param name="Стан">Новий</param>
+        <param name="Комплектація">Клавіатура</param>
+        <param name="Призначення">Для ПК</param>
+        <param name="Вид">Ігрові</param>
+        <country>Китай</country>
+      </offer>
+      <offer id="1502" available="true">
+        <availability_status>available</availability_status>
+        <name_ua>Ігрова магнітна дротова клавіатура Attack Shark R85 / Дротове підключення / Magnetic Switch / Black Gradient</name_ua>
+        <name_ru>Игровая магнитная проводная клавиатура Attack Shark R85 / Проводное подключение / Magnetic Switch / Black Gradient</name_ru>
+        <description_ua><p data-end="1946" data-start="1653"><strong data-end="1676" data-start="1653">Attack Shark R85 HE</strong> — флагманська <strong data-end="1735" data-start="1691">магнітна ігрова клавіатура преміум-класу</strong>, створена для кіберспорту та максимальної продуктивності. Вона використовує <strong data-end="1847" data-start="1812">Hall Effect магнітні перемикачі</strong>, які працюють без фізичного контакту, не зношуються та забезпечують ідеальну стабільність сигналу.</p>    <p data-end="2268" data-start="1948">Технологія <strong data-end="1976" data-start="1959">Rapid Trigger</strong> миттєво фіксує як натискання, так і відпускання клавіш, даючи абсолютну перевагу у FPS-іграх. <strong data-end="2142" data-start="2071">Регульована точка спрацювання від 0,1 до 3,3 мм з точністю 0,005 мм</strong> дозволяє налаштувати клавіатуру під власний стиль — від ультрачутливого шутерного режиму до комфортного повсякденного набору.</p>    <p data-end="2457" data-start="2270">Завдяки <strong data-end="2308" data-start="2278">частоті опитування 8000 Гц</strong> затримка становить лише <strong data-end="2343" data-start="2333">0,1 мс</strong>, що робить відгук практично миттєвим. Форм-фактор <strong data-end="2401" data-start="2394">75%</strong> зберігає всі необхідні клавіші, залишаючись компактним.</p>    <p data-end="2639" data-start="2459">Клавіатура оснащена <strong data-end="2501" data-start="2479">RGB-підсвічуванням</strong>, преміальними <strong data-end="2545" data-start="2516">PBT Double-Shot кейкапами</strong>, зручним <strong data-end="2576" data-start="2555">колесом прокрутки</strong>, підтримує <strong data-end="2600" data-start="2588">Hot-Swap</strong> та підключається через <strong data-end="2638" data-start="2624">USB Type-C</strong>.</p>    <p data-end="2729" data-start="2641"><strong data-end="2664" data-start="2641">Attack Shark R85 HE</strong> — вибір професійних геймерів, де кожна мілісекунда має значення.</p>    <p data-end="2729" data-start="2641"><strong>Основні характеристики:</strong></p>    <ul>   <li data-end="3637" data-start="3588">   <p data-end="3637" data-start="3590">Тип: магнітна ігрова клавіатура (Hall Effect)</p>   </li>   <li data-end="3674" data-start="3638">   <p data-end="3674" data-start="3640">Підключення: дротове, USB Type-C</p>   </li>   <li data-end="3695" data-start="3675">   <p data-end="3695" data-start="3677">Форм-фактор: 75%</p>   </li>   <li data-end="3741" data-start="3696">   <p data-end="3741" data-start="3698">Перемикачі: Magnetic Switch (Hall Sensor)</p>   </li>   <li data-end="3764" data-start="3742">   <p data-end="3764" data-start="3744">Rapid Trigger: так</p>   </li>   <li data-end="3782" data-start="3765">   <p data-end="3782" data-start="3767">Hot-Swap: так</p>   </li>   <li data-end="3803" data-start="3783">   <p data-end="3803" data-start="3785">Gasket-mount: ні</p>   </li>   <li data-end="3826" data-start="3804">   <p data-end="3826" data-start="3806">Підсвічування: RGB</p>   </li>   <li data-end="3865" data-start="3827">   <p data-end="3865" data-start="3829">Матеріал кейкапів: PBT Double-Shot</p>   </li>   <li data-end="3897" data-start="3866">   <p data-end="3897" data-start="3868">Керування: колесо прокрутки</p>   </li>   <li data-end="3929" data-start="3898">   <p data-end="3929" data-start="3900">Частота опитування: 8000 Гц</p>   </li>   <li data-end="3950" data-start="3930">   <p data-end="3950" data-start="3932">Затримка: 0.1 мс</p>   </li>   <li data-end="4012" data-start="3951">   <p data-end="4012" data-start="3953">Регулювання точки спрацювання: 0.1–3.3 мм (крок 0.005 мм)</p>   </li>   <li data-end="4044" data-start="4013">   <p data-end="4044" data-start="4015">Габарити: 320 × 145 × 35 мм</p>   </li>   <li data-end="4060" data-start="4045">   <p data-end="4060" data-start="4047">Вага: 730 г</p>   </li>   <li data-end="4076" data-start="4061">   <p data-end="4076" data-start="4063">Стан: новий</p>   </li>   <li data-end="4105" data-start="4077">   <p data-end="4105" data-start="4079">Сумісність: Windows / ПК</p>   </li>  </ul></description_ua>
+        <description_ru><p data-end="2993" data-start="2759"><strong data-end="2782" data-start="2759">Attack Shark R85 HE</strong> — флагманская <strong data-end="2844" data-start="2797">магнитная игровая клавиатура премиум-класса</strong> для киберспорта. Использует <strong data-end="2912" data-start="2873">Hall Effect магнитные переключатели</strong>, работающие без физического контакта и обладающие максимальной износостойкостью.</p>    <p data-end="3198" data-start="2995">Технология <strong data-end="3023" data-start="3006">Rapid Trigger</strong> мгновенно фиксирует нажатие и отпускание клавиш. <strong data-end="3142" data-start="3073">Регулируемая точка срабатывания от 0,1 до 3,3 мм с шагом 0,005 мм</strong> позволяет идеально настроить клавиатуру под стиль игры.</p>    <p data-end="3324" data-start="3200"><strong data-end="3226" data-start="3200">Частота опроса 8000 Гц</strong> обеспечивает задержку всего <strong data-end="3265" data-start="3255">0,1 мс</strong>. Формат <strong data-end="3281" data-start="3274">75%</strong> сохраняет функциональность и компактность.</p>    <p data-end="3495" data-start="3326">RGB-подсветка, <strong data-end="3368" data-start="3341">PBT Double-Shot кейкапы</strong>, колесо прокрутки, <strong data-end="3400" data-start="3388">Hot-Swap</strong> и подключение <strong data-end="3429" data-start="3415">USB Type-C</strong> делают R85 HE полноценным инструментом для профессиональной игры.</p>    <p>Основные характеристики:</p>    <ul>   <li>Тип: магнитная игровая клавиатура (Hall Effect)</li>   <li>Подключение: проводное, USB Type-C</li>   <li>Форм-фактор: 75%</li>   <li>Переключатели: Magnetic Switch (Hall Sensor)</li>   <li>Rapid Trigger: да</li>   <li>Hot-Swap: да</li>   <li>Gasket-mount: нет</li>   <li>Подсветка: RGB</li>   <li>Материал кейкапов: PBT Double-Shot</li>   <li>Управление: колесо прокрутки</li>   <li>Частота опроса: 8000 Гц</li>   <li>Задержка: 0.1 мс</li>   <li>Регулировка точки срабатывания: 0.1–3.3 мм (шаг 0.005 мм)</li>   <li>Габариты: 320×145×35 мм</li>   <li>Вес: 730 г</li>   <li>Состояние: новое</li>   <li>Совместимость: Windows/ПК</li>  </ul></description_ru>
+        <price>3000</price>
+        <old_price>4399</old_price>
+        <categoryId>1082</categoryId>
+        <vendor>Attack Shark</vendor>
+        <picture>https://techgleam.com.ua/content/images/3/igrovaja-magnitnaja-provodnaja-klaviatura-attack-shark-r85-provodnoe-podkluchenie-magnetic-switch-black-75548980167360_%2Bfb847f3eb9.jpg</picture>
+        <picture>https://techgleam.com.ua/content/images/3/igrovaja-magnitnaja-provodnaja-klaviatura-attack-shark-r85-provodnoe-podkluchenie-magnetic-switch-black-46007029611743_%2Bff0380e323.jpg</picture>
+        <picture>https://techgleam.com.ua/content/images/3/igrovaja-magnitnaja-provodnaja-klaviatura-attack-shark-r85-provodnoe-podkluchenie-magnetic-switch-black-67942794498403_%2Bf59bc9e709.jpg</picture>
+        <picture>https://techgleam.com.ua/content/images/3/igrovaja-magnitnaja-provodnaja-klaviatura-attack-shark-r85-provodnoe-podkluchenie-magnetic-switch-black-13567772091410_%2B084af1c4ce.jpg</picture>
+        <picture>https://techgleam.com.ua/content/images/3/igrovaja-magnitnaja-provodnaja-klaviatura-attack-shark-r85-provodnoe-podkluchenie-magnetic-switch-black-31615710101193_%2B642e8bfdb1.jpg</picture>
+        <picture>https://techgleam.com.ua/content/images/3/igrovaja-magnitnaja-provodnaja-klaviatura-attack-shark-r85-provodnoe-podkluchenie-magnetic-switch-black-55570551473597_%2Ba43adc7157.jpg</picture>
+        <picture>https://techgleam.com.ua/content/images/3/igrovaja-magnitnaja-provodnaja-klaviatura-attack-shark-r85-provodnoe-podkluchenie-magnetic-switch-black-92780439429555_%2Bd093097eaf.jpg</picture>
+        <picture>https://techgleam.com.ua/content/images/3/igrovaja-magnitnaja-provodnaja-klaviatura-attack-shark-r85-provodnoe-podkluchenie-magnetic-switch-black-25540494806267_%2Bab929d1c01.jpg</picture>
+        <param name="Гарантія">3 місяці</param>
+        <param name="Колір">Темно-сірий</param>
+        <param name="Конструкція клавіш">Магнітна</param>
+        <param name="Підключення">Дротове</param>
+        <param name="Інтерфейс підключення">USB Type-C</param>
+        <param name="Розкладка">Eng</param>
+        <param name="Форм-фактор">Компактні</param>
+        <param name="Колір підсвічування">RGB</param>
+        <param name="Підсвічування клавіш">Є</param>
+        <param name="Матеріал корпусу">Пластик</param>
         <param name="Сумісність з ОС">Windows</param>
         <param name="Сумісність з ОС">Mac OS</param>
         <param name="Сумісність з ОС">Linux</param>
@@ -1382,6 +1507,35 @@
         <param name="Стан">Новий</param>
         <param name="Тип">Ігрові (геймерські)</param>
         <param name="Тип датчика">Оптичний</param>
+        <country>Китай</country>
+      </offer>
+      <offer id="1745" available="true">
+        <availability_status>available</availability_status>
+        <name_ua>Ігрова бездротова мишка ATK Dragonfly A9 Plus 2.0 / Три режими підключення / Сенсор PixArt 3395 / 26000 DPI / Pink</name_ua>
+        <name_ru>Игровая беспроводная мышка ATK Dragonfly A9 Plus 2.0 / Три режима подключения / Сенсор PixArt 3395 / 26000 DPI / Pink</name_ru>
+        <description_ua><p data-end="407" data-start="46"><strong>ATK A9 Plus 2.0 </strong>— це ігрова миша, створена для точного керування, стабільної роботи та комфортного використання як у динамічних іграх, так і в щоденних задачах. Модель поєднує продуктивний сенсор, комбіноване підключення, ергономічну форму та хорошу автономність, що робить її практичним вибором для тих, хто шукає універсальну ігрову мишу.</p>    <p data-end="703" data-start="409">Миша оснащена оптичним сенсором PixArt PAW3395 з максимальною роздільною здатністю до 26000 DPI, що забезпечує плавне відстеження рухів і високу точність у різних сценаріях використання. Це дозволяє комфортно використовувати мишу як для шутерів і динамічних ігор, так і для повсякденної роботи.</p>    <p data-end="1034" data-start="705"><strong>ATK A9 Plus 2.0 </strong>підтримує комбіноване підключення та може працювати як у дротовому, так і в бездротовому режимі. Для бездротового з’єднання використовується радіоканал NearLink, який забезпечує стабільний сигнал на відстані до 10 метрів. Якщо акумулятор розрядиться, мишу можна швидко перевести в дротовий режим через USB Type-C.</p>    <p data-end="1428" data-start="1036">Модель отримала вбудований літієвий акумулятор на 800 мАг, який забезпечує до 240 годин автономної роботи. Вага миші становить близько 57 г, а корпус розміром 125 × 64 × 40 мм добре підходить для правої руки. Додатково варто відзначити перемикачі Huano Ice Berry Pink Dot із ресурсом до 80 мільйонів натискань, 6 кнопок і можливість програмного налаштування макросів, DPI та інших параметрів.</p>    <p data-end="1453" data-start="1430"><strong data-end="1451" data-start="1430">Основні переваги:</strong></p>    <ul data-end="2009" data-start="1454">   <li data-end="1479" data-section-id="1bo4g0i" data-start="1454">Сенсор PixArt PAW3395</li>   <li data-end="1507" data-section-id="1i6rhfp" data-start="1480">Чутливість до 26000 DPI</li>   <li data-end="1535" data-section-id="l78c35" data-start="1508">Комбіноване підключення</li>   <li data-end="1582" data-section-id="fbp9r0" data-start="1536">Підтримка дротового та бездротового режиму</li>   <li data-end="1607" data-section-id="17aohrz" data-start="1583">Інтерфейс USB Type-C</li>   <li data-end="1658" data-section-id="1on2of2" data-start="1608">Бездротове з’єднання через радіоканал NearLink</li>   <li data-end="1689" data-section-id="p03y3b" data-start="1659">Радіус роботи до 10 метрів</li>   <li data-end="1712" data-section-id="meedip" data-start="1690">Акумулятор 800 мАг</li>   <li data-end="1747" data-section-id="1gb9gty" data-start="1713">До 240 годин автономної роботи</li>   <li data-end="1769" data-section-id="cfmjbp" data-start="1748">Вага близько 57 г</li>   <li data-end="1797" data-section-id="594tdn" data-start="1770">Розмір 125 × 64 × 40 мм</li>   <li data-end="1829" data-section-id="za4o75" data-start="1798">Конструкція для правої руки</li>   <li data-end="1842" data-section-id="1dsdc58" data-start="1830">6 кнопок</li>   <li data-end="1882" data-section-id="1vyq23r" data-start="1843">Перемикачі Huano Ice Berry Pink Dot</li>   <li data-end="1931" data-section-id="1y5vta8" data-start="1883">Ресурс перемикачів до 80 мільйонів натискань</li>   <li data-end="1985" data-section-id="1ow2tfx" data-start="1932">Підтримка програмного налаштування макросів і DPI</li>  </ul></description_ua>
+        <description_ru><p data-end="2393" data-start="2011"><strong>ATK A9 Plus 2.0 </strong>— это игровая мышь, созданная для точного управления, стабильной работы и комфортного использования как в динамичных играх, так и в повседневных задачах. Модель сочетает производительный сенсор, комбинированное подключение, эргономичную форму и хорошую автономность, что делает её практичным выбором для тех, кто ищет универсальную игровую мышь.</p>    <p data-end="2691" data-start="2395">Мышь оснащена оптическим сенсором PixArt PAW3395 с максимальным разрешением до 26000 DPI, что обеспечивает плавное отслеживание движений и высокую точность в разных сценариях использования. Это позволяет комфортно использовать мышь как для шутеров и динамичных игр, так и для повседневной работы.</p>    <p data-end="3035" data-start="2693"><strong>ATK A9 Plus 2.0 </strong>поддерживает комбинированное подключение и может работать как в проводном, так и в беспроводном режиме. Для беспроводного соединения используется радиоканал NearLink, который обеспечивает стабильный сигнал на расстоянии до 10 метров. Если аккумулятор разрядится, мышь можно быстро перевести в проводной режим через USB Type-C.</p>    <p data-end="3433" data-start="3037">Модель получила встроенный литиевый аккумулятор на 800 мАч, который обеспечивает до 240 часов автономной работы. Вес мыши составляет около 57 г, а корпус размером 125 × 64 × 40 мм хорошо подходит для правой руки. Дополнительно стоит отметить переключатели Huano Ice Berry Pink Dot с ресурсом до 80 миллионов нажатий, 6 кнопок и возможность программной настройки макросов, DPI и других параметров.</p>    <p data-end="3463" data-start="3435"><strong data-end="3461" data-start="3435">Основные преимущества:</strong></p>    <ul data-end="4031" data-start="3464">   <li data-end="3489" data-section-id="1bo4g0i" data-start="3464">Сенсор PixArt PAW3395</li>   <li data-end="3523" data-section-id="fdm6zc" data-start="3490">Чувствительность до 26000 DPI</li>   <li data-end="3555" data-section-id="1pyadsj" data-start="3524">Комбинированное подключение</li>   <li data-end="3603" data-section-id="1qvghoq" data-start="3556">Поддержка проводного и беспроводного режима</li>   <li data-end="3628" data-section-id="yvj7hd" data-start="3604">Интерфейс USB Type-C</li>   <li data-end="3682" data-section-id="1g3yl4a" data-start="3629">Беспроводное соединение через радиоканал NearLink</li>   <li data-end="3713" data-section-id="1161jd8" data-start="3683">Радиус работы до 10 метров</li>   <li data-end="3737" data-section-id="4n6awv" data-start="3714">Аккумулятор 800 мАч</li>   <li data-end="3772" data-section-id="mhgrab" data-start="3738">До 240 часов автономной работы</li>   <li data-end="3791" data-section-id="rifxi8" data-start="3773">Вес около 57 г</li>   <li data-end="3819" data-section-id="1deg0wm" data-start="3792">Размер 125 × 64 × 40 мм</li>   <li data-end="3851" data-section-id="lp1kqp" data-start="3820">Конструкция для правой руки</li>   <li data-end="3864" data-section-id="1dsdc58" data-start="3852">6 кнопок</li>   <li data-end="3907" data-section-id="18h9gdw" data-start="3865">Переключатели Huano Ice Berry Pink Dot</li>   <li data-end="3957" data-section-id="vgimkg" data-start="3908">Ресурс переключателей до 80 миллионов нажатий</li>   <li data-end="4008" data-section-id="1chgj3n" data-start="3958">Поддержка программной настройки макросов и DPI</li>  </ul></description_ru>
+        <price>1899</price>
+        <old_price>2199</old_price>
+        <categoryId>1084</categoryId>
+        <vendor>ATK</vendor>
+        <picture>https://techgleam.com.ua/content/images/46/grova-bezdrotova-mishka-atk-dragonfly-a9-plus-2.0-tri-rezhimi-pdkluchennja-sensor-pixart-3395-26000-dpi-pink-49449522485377_%2Bc6c704ebf1.jpg</picture>
+        <picture>https://techgleam.com.ua/content/images/46/grova-bezdrotova-mishka-atk-dragonfly-a9-plus-2.0-tri-rezhimi-pdkluchennja-sensor-pixart-3395-26000-dpi-pink-67575034218103_%2B8a53d11b4c.jpg</picture>
+        <picture>https://techgleam.com.ua/content/images/46/grova-bezdrotova-mishka-atk-dragonfly-a9-plus-2.0-tri-rezhimi-pdkluchennja-sensor-pixart-3395-26000-dpi-pink-72956104989283_%2B678ff0b38f.jpg</picture>
+        <param name="Гарантія">3 місяці</param>
+        <param name="Колір">Рожевий</param>
+        <param name="Підключення">Комбіноване</param>
+        <param name="Сумісність з ОС">Microsoft Windows</param>
+        <param name="Сумісність з ОС">Mac OS</param>
+        <param name="Сумісність з ОС">Linux</param>
+        <param name="Вага">57 г</param>
+        <param name="Тип датчика">Оптичний</param>
+        <param name="Інтерфейс підключення">Bluetooth</param>
+        <param name="Інтерфейс підключення">Радіоінтерфейс</param>
+        <param name="Інтерфейс підключення">USB</param>
+        <param name="Роздільна здатність сенсора">Понад 20000 dpi</param>
+        <param name="Стан">Новий</param>
+        <param name="Тип">Ігрові (геймерські)</param>
         <country>Китай</country>
       </offer>
       <offer id="1746" available="true">
@@ -4744,47 +4898,6 @@
         <param name="Вид">Ігрові</param>
         <country>Китай</country>
       </offer>
-      <offer id="548" available="false">
-        <availability_status>temporarily_unavailable</availability_status>
-        <name_ua>Ігрова механічна клавіатура AULA F75 / Три режими підключення / Leobog Axis Reaper Switch / Black</name_ua>
-        <name_ru>Игровая механическая клавиатура AULA F75 / Три режима подключения / Leobog Axis Reaper Switch / Black</name_ru>
-        <description_ua><p><strong>Механічна клавіатура AULA F75 </strong></p>    <p>AULA F75 — це універсальна клавіатура для роботи, навчання та ігор, що поєднує компактність, ергономіку та сучасні функції.</p>    <p><strong>Основні характеристики:</strong></p>    <ul>   <li>Тип: Механічна клавіатура, 75% форм-фактор </li>   <li>Розкладка: англійська</li>   <li>Підключення: Bluetooth 5.0 / 2.4 ГГц / USB Type-C  </li>   <li>Сумісність: Windows, Mac, iOS, Android, PS, Xbox  </li>   <li>5-шарова система шумопоглинання для комфортного набору тексту  </li>   <li>Мультимедійне колесо для зручного керування гучністю та підсвіткою</li>   <li>Акумулятор: 4000 мА·год, забезпечує тривалий час автономної роботи.</li>  </ul>    <p><strong>RGB-підсвітка:</strong><br />  • 15 режимів  <br />  • 16.8 млн кольорів  <br />  • Музичний режим реагує на ритм відтворюваної музики</p>    <p><strong>Комплектація:</strong></p>    <ul>   <li>Клавіатура AULA F75  </li>   <li>Кабель USB Type-C  </li>   <li>USB-адаптер 2.4 ГГц  </li>   <li>Захисна накладка від пилу  </li>   <li>4 запасні перемикачі  </li>   <li>Пуллер  </li>   <li>Інструкція користувача</li>  </ul></description_ua>
-        <description_ru><p><strong>Механическая клавиатура AULA F75</strong></p>    <p>AULA F75 – это универсальная клавиатура для работы, обучения и игр, сочетающая компактность, эргономику и современные функции.</p>    <p><strong>Основные характеристики:</strong></p>    <ul>   <li>Тип: Механическая клавиатура, 75% форм-фактор</li>   <li>Раскладка: английская</li>   <li>Подключение: Bluetooth 5.0/2.4 ГГц/USB Type-C</li>   <li>Совместимость: Windows, Mac, iOS, Android, PS, Xbox</li>   <li>5-слойная система шумопоглощения для комфортного набора текста</li>   <li>Мультимедийное колесо для удобного управления громкостью и подсветкой</li>   <li>Аккумулятор: 4000 мАч, обеспечивает длительное время автономной работы.</li>  </ul>    <p><strong>RGB-подсветка:</strong><br />  • 15 режимов<br />  • 16.8 млн цветов<br />  • Музыкальный режим реагирует на ритм воспроизводимой музыки.</p>    <p><strong>Комплектация:</strong></p>    <ul>   <li>Клавиатура AULA F75</li>   <li>Кабель USB Type-C</li>   <li>USB-адаптер 2.4 ГГц</li>   <li>Защитная накладка от пыли</li>   <li>4 запасные переключатели</li>   <li>Пуллер</li>   <li>Руководство пользователя</li>  </ul></description_ru>
-        <price>2499</price>
-        <old_price>2999</old_price>
-        <categoryId>1082</categoryId>
-        <vendor>Aula</vendor>
-        <picture>https://techgleam.com.ua/content/images/49/44337146199859_%2Bbefe5a775f.jpg</picture>
-        <picture>https://techgleam.com.ua/content/images/49/78804693792588_%2Bd742f6aeab.jpg</picture>
-        <picture>https://techgleam.com.ua/content/images/49/16464383853408_%2Be71dfa966f.jpg</picture>
-        <picture>https://techgleam.com.ua/content/images/49/71452308036394_%2B4821f7a900.jpg</picture>
-        <picture>https://techgleam.com.ua/content/images/49/69657512791817_%2B568df8cff9.jpg</picture>
-        <picture>https://techgleam.com.ua/content/images/49/75318826656477_%2B3331d4c738.jpg</picture>
-        <picture>https://techgleam.com.ua/content/images/49/74611659852295_%2Bccb45ca8fe.jpg</picture>
-        <picture>https://techgleam.com.ua/content/images/49/19479032401262_%2B3edb7ac297.jpg</picture>
-        <picture>https://techgleam.com.ua/content/images/49/15218519374601_%2B5c582c3b0b.jpg</picture>
-        <param name="Гарантія">1 місяць</param>
-        <param name="Колір">Чорний</param>
-        <param name="Конструкція клавіш">Механічна</param>
-        <param name="Підключення">Комбіноване</param>
-        <param name="Інтерфейс підключення">Bluetooth</param>
-        <param name="Інтерфейс підключення">Радіоінтерфейс</param>
-        <param name="Інтерфейс підключення">USB</param>
-        <param name="Розкладка">Eng</param>
-        <param name="Форм-фактор">Компактні</param>
-        <param name="Колір підсвічування">RGB</param>
-        <param name="Підсвічування клавіш">Є</param>
-        <param name="Матеріал корпусу">Пластик</param>
-        <param name="Живлення">Акумулятор</param>
-        <param name="Сумісність з ОС">Windows</param>
-        <param name="Сумісність з ОС">Mac OS</param>
-        <param name="Сумісність з ОС">Chrome OS</param>
-        <param name="Стан">Новий</param>
-        <param name="Комплектація">Клавіатура</param>
-        <param name="Призначення">Для ПК</param>
-        <param name="Вид">Ігрові</param>
-        <country>Китай</country>
-      </offer>
       <offer id="549" available="false">
         <availability_status>temporarily_unavailable</availability_status>
         <name_ua>Клавіатура AULA F99 Stars Fall , Білий</name_ua>
@@ -5153,23 +5266,6 @@
         <categoryId>1090</categoryId>
         <picture>https://techgleam.com.ua/content/images/45/58036658502214_%2B2dfa27b453.jpeg</picture>
         <param name="Колір">Чорний</param>
-        <param name="Стан">Новий</param>
-      </offer>
-      <offer id="595" available="false">
-        <availability_status>temporarily_unavailable</availability_status>
-        <name_ua>Металевий USB HUB 8-в-1 - Type-C, USB 3.0, SD/TF, PD, AUX, Сірий</name_ua>
-        <name_ru>Металлический USB HUB 8-в-1 - Type-C, USB 3.0, SD/TF, PD, AUX, Серый</name_ru>
-        <description_ua><p><strong>  Універсальний металевий USB-хаб 8-в-1 з підтримкою Type-C та USB-A    </strong></p>    <p><strong>Цей USB-хаб — </strong>ідеальне рішення для розширення можливостей ноутбука чи ПК. Завдяки комбінованому підключенню Type-C + USB-A він сумісний майже з будь-яким пристроєм.</p>    <p><strong>Інтерфейси:</strong></p>    <ul>   <li>  USB Type-C  </li>   <li>  USB Type-A  </li>   <li>  4x USB 3.0  </li>   <li>  microSD (TF)  </li>   <li>  SD  </li>   <li>  AUX 3.5 мм  </li>   <li>  Type-C PD</li>  </ul></description_ua>
-        <description_ru><p><strong>  Универсальный металлический USB-хаб 8-в-1 с поддержкой Type-C и USB-A    </strong></p>    <p><strong>Данный USB хаб — </strong>идеальное решение для расширения возможностей ноутбука или ПК. Благодаря комбинированному подключению Type-C + USB-A он совместим практически с любым устройством.</p>    <p><strong>Интерфейсы:</strong></p>    <ul>   <li>  USB Type-C  </li>   <li>  USB Type-A  </li>   <li>  4x USB 3.0  </li>   <li>  microSD (TF)  </li>   <li>  SD  </li>   <li>  AUX 3.5 мм  </li>   <li>  Type-C PD</li>  </ul></description_ru>
-        <price>399</price>
-        <categoryId>1090</categoryId>
-        <vendor>Без бренда</vendor>
-        <picture>https://techgleam.com.ua/content/images/46/55154165704913_%2B3040a9dc33.jpg</picture>
-        <picture>https://techgleam.com.ua/content/images/46/75858116416121_%2B24ac1e59be.jpg</picture>
-        <picture>https://techgleam.com.ua/content/images/46/76915968906839_%2Bd5e97d80e8.jpg</picture>
-        <picture>https://techgleam.com.ua/content/images/46/44482821775283_%2Bcda1650f10.jpg</picture>
-        <param name="Гарантія">1 місяць</param>
-        <param name="Колір">Сірий</param>
         <param name="Стан">Новий</param>
       </offer>
       <offer id="597" available="false">
@@ -5600,36 +5696,6 @@
         <param name="Комплектація">Клавіатура</param>
         <param name="Призначення">Для ПК</param>
         <param name="Вид">Ігрові</param>
-        <country>Китай</country>
-      </offer>
-      <offer id="647" available="false">
-        <availability_status>temporarily_unavailable</availability_status>
-        <name_ua>Бездротова ігрова мишка AJAZZ AJ159 PRO / Три режими підключення / Док-станція / Сенсор PAW3395 / 26000 DPI  / Black</name_ua>
-        <name_ru>Беспроводная игровая мышка AJAZZ AJ159 PRO / Три режима подключения / Док-станция / Сенсор PAW3395 / 26000 DPI / Black</name_ru>
-        <description_ua><p><strong>AJAZZ AJ159 PRO Wireless 8K — миша, що грає на максимумі!</strong></p>    <p>Ідеальна для кіберспортсменів, стрімерів і всіх, хто прагне абсолютної точності та швидкості </p>    <p><strong>Основні характеристики:  </strong></p>    <ul>   <li>Сенсор: PixArt PAW3395 — до 26 000 DPI  </li>   <li>Підключення: 2.4GHz / Bluetooth / USB Type-C  </li>   <li>Частота опитування: до 8000 Гц (0.125 мс)  </li>   <li>Вага: лише 56 г — для блискавичної реакції  </li>   <li>Акумулятор: 400 мАг — автономність і магнітна зарядка  </li>   <li>Перемикачі: Huano — до 100 млн натискань  </li>   <li>RGB-док: з підсвіткою  </li>  </ul></description_ua>
-        <description_ru><p><strong>AJAZZ AJ159 PRO Wireless 8K — мышь, которая играет на максимуме! </strong></p>    <p>Идеальна для киберспортсменов, стримеров и всех, кто стремится к абсолютной точности и скорости </p>    <p><strong>Основные характеристики:</strong></p>    <ul>   <li>Сенсор: PixArt PAW3395 — до 26 000 DPI</li>   <li>Подключение: 2.4GHz / Bluetooth / USB Type-C</li>   <li>Частота опроса: до 8000 Гц (0.125 мс)</li>   <li>Вес: всего 56 г — для молниеносной реакции</li>   <li>Аккумулятор: 400 мАч — автономность и магнитная зарядка</li>   <li>Переключатели: Huano — до 100 млн нажатий</li>   <li>RGB-док: с подсветкой</li>  </ul></description_ru>
-        <price>1699</price>
-        <old_price>2199</old_price>
-        <categoryId>1084</categoryId>
-        <vendor>Ajazz</vendor>
-        <picture>https://techgleam.com.ua/content/images/48/37307820363647_%2Bf9f6bbd962.jpg</picture>
-        <picture>https://techgleam.com.ua/content/images/48/83170396883623_%2B3688077297.jpg</picture>
-        <picture>https://techgleam.com.ua/content/images/48/83670317872940_%2B21366b1a31.jpg</picture>
-        <picture>https://techgleam.com.ua/content/images/48/16388289508026_%2Bf28c4e6e23.jpg</picture>
-        <param name="Гарантія">3 місяці</param>
-        <param name="Колір">Чорний</param>
-        <param name="Підключення">Комбіноване</param>
-        <param name="Сумісність з ОС">Microsoft Windows</param>
-        <param name="Сумісність з ОС">Mac OS</param>
-        <param name="Сумісність з ОС">Linux</param>
-        <param name="Вага">56 г</param>
-        <param name="Тип датчика">Оптичний</param>
-        <param name="Інтерфейс підключення">Bluetooth</param>
-        <param name="Інтерфейс підключення">Радіоінтерфейс</param>
-        <param name="Інтерфейс підключення">USB</param>
-        <param name="Роздільна здатність сенсора">Понад 20000 dpi</param>
-        <param name="Стан">Новий</param>
-        <param name="Тип">Ігрові (геймерські)</param>
         <country>Китай</country>
       </offer>
       <offer id="648" available="false">
@@ -10092,43 +10158,6 @@
         <param name="Призначення">Для ПК</param>
         <country>Китай</country>
       </offer>
-      <offer id="1502" available="false">
-        <availability_status>temporarily_unavailable</availability_status>
-        <name_ua>Ігрова магнітна дротова клавіатура Attack Shark R85 / Дротове підключення / Magnetic Switch / Black Gradient</name_ua>
-        <name_ru>Игровая магнитная проводная клавиатура Attack Shark R85 / Проводное подключение / Magnetic Switch / Black Gradient</name_ru>
-        <description_ua><p data-end="1946" data-start="1653"><strong data-end="1676" data-start="1653">Attack Shark R85 HE</strong> — флагманська <strong data-end="1735" data-start="1691">магнітна ігрова клавіатура преміум-класу</strong>, створена для кіберспорту та максимальної продуктивності. Вона використовує <strong data-end="1847" data-start="1812">Hall Effect магнітні перемикачі</strong>, які працюють без фізичного контакту, не зношуються та забезпечують ідеальну стабільність сигналу.</p>    <p data-end="2268" data-start="1948">Технологія <strong data-end="1976" data-start="1959">Rapid Trigger</strong> миттєво фіксує як натискання, так і відпускання клавіш, даючи абсолютну перевагу у FPS-іграх. <strong data-end="2142" data-start="2071">Регульована точка спрацювання від 0,1 до 3,3 мм з точністю 0,005 мм</strong> дозволяє налаштувати клавіатуру під власний стиль — від ультрачутливого шутерного режиму до комфортного повсякденного набору.</p>    <p data-end="2457" data-start="2270">Завдяки <strong data-end="2308" data-start="2278">частоті опитування 8000 Гц</strong> затримка становить лише <strong data-end="2343" data-start="2333">0,1 мс</strong>, що робить відгук практично миттєвим. Форм-фактор <strong data-end="2401" data-start="2394">75%</strong> зберігає всі необхідні клавіші, залишаючись компактним.</p>    <p data-end="2639" data-start="2459">Клавіатура оснащена <strong data-end="2501" data-start="2479">RGB-підсвічуванням</strong>, преміальними <strong data-end="2545" data-start="2516">PBT Double-Shot кейкапами</strong>, зручним <strong data-end="2576" data-start="2555">колесом прокрутки</strong>, підтримує <strong data-end="2600" data-start="2588">Hot-Swap</strong> та підключається через <strong data-end="2638" data-start="2624">USB Type-C</strong>.</p>    <p data-end="2729" data-start="2641"><strong data-end="2664" data-start="2641">Attack Shark R85 HE</strong> — вибір професійних геймерів, де кожна мілісекунда має значення.</p>    <p data-end="2729" data-start="2641"><strong>Основні характеристики:</strong></p>    <ul>   <li data-end="3637" data-start="3588">   <p data-end="3637" data-start="3590">Тип: магнітна ігрова клавіатура (Hall Effect)</p>   </li>   <li data-end="3674" data-start="3638">   <p data-end="3674" data-start="3640">Підключення: дротове, USB Type-C</p>   </li>   <li data-end="3695" data-start="3675">   <p data-end="3695" data-start="3677">Форм-фактор: 75%</p>   </li>   <li data-end="3741" data-start="3696">   <p data-end="3741" data-start="3698">Перемикачі: Magnetic Switch (Hall Sensor)</p>   </li>   <li data-end="3764" data-start="3742">   <p data-end="3764" data-start="3744">Rapid Trigger: так</p>   </li>   <li data-end="3782" data-start="3765">   <p data-end="3782" data-start="3767">Hot-Swap: так</p>   </li>   <li data-end="3803" data-start="3783">   <p data-end="3803" data-start="3785">Gasket-mount: ні</p>   </li>   <li data-end="3826" data-start="3804">   <p data-end="3826" data-start="3806">Підсвічування: RGB</p>   </li>   <li data-end="3865" data-start="3827">   <p data-end="3865" data-start="3829">Матеріал кейкапів: PBT Double-Shot</p>   </li>   <li data-end="3897" data-start="3866">   <p data-end="3897" data-start="3868">Керування: колесо прокрутки</p>   </li>   <li data-end="3929" data-start="3898">   <p data-end="3929" data-start="3900">Частота опитування: 8000 Гц</p>   </li>   <li data-end="3950" data-start="3930">   <p data-end="3950" data-start="3932">Затримка: 0.1 мс</p>   </li>   <li data-end="4012" data-start="3951">   <p data-end="4012" data-start="3953">Регулювання точки спрацювання: 0.1–3.3 мм (крок 0.005 мм)</p>   </li>   <li data-end="4044" data-start="4013">   <p data-end="4044" data-start="4015">Габарити: 320 × 145 × 35 мм</p>   </li>   <li data-end="4060" data-start="4045">   <p data-end="4060" data-start="4047">Вага: 730 г</p>   </li>   <li data-end="4076" data-start="4061">   <p data-end="4076" data-start="4063">Стан: новий</p>   </li>   <li data-end="4105" data-start="4077">   <p data-end="4105" data-start="4079">Сумісність: Windows / ПК</p>   </li>  </ul></description_ua>
-        <description_ru><p data-end="2993" data-start="2759"><strong data-end="2782" data-start="2759">Attack Shark R85 HE</strong> — флагманская <strong data-end="2844" data-start="2797">магнитная игровая клавиатура премиум-класса</strong> для киберспорта. Использует <strong data-end="2912" data-start="2873">Hall Effect магнитные переключатели</strong>, работающие без физического контакта и обладающие максимальной износостойкостью.</p>    <p data-end="3198" data-start="2995">Технология <strong data-end="3023" data-start="3006">Rapid Trigger</strong> мгновенно фиксирует нажатие и отпускание клавиш. <strong data-end="3142" data-start="3073">Регулируемая точка срабатывания от 0,1 до 3,3 мм с шагом 0,005 мм</strong> позволяет идеально настроить клавиатуру под стиль игры.</p>    <p data-end="3324" data-start="3200"><strong data-end="3226" data-start="3200">Частота опроса 8000 Гц</strong> обеспечивает задержку всего <strong data-end="3265" data-start="3255">0,1 мс</strong>. Формат <strong data-end="3281" data-start="3274">75%</strong> сохраняет функциональность и компактность.</p>    <p data-end="3495" data-start="3326">RGB-подсветка, <strong data-end="3368" data-start="3341">PBT Double-Shot кейкапы</strong>, колесо прокрутки, <strong data-end="3400" data-start="3388">Hot-Swap</strong> и подключение <strong data-end="3429" data-start="3415">USB Type-C</strong> делают R85 HE полноценным инструментом для профессиональной игры.</p>    <p>Основные характеристики:</p>    <ul>   <li>Тип: магнитная игровая клавиатура (Hall Effect)</li>   <li>Подключение: проводное, USB Type-C</li>   <li>Форм-фактор: 75%</li>   <li>Переключатели: Magnetic Switch (Hall Sensor)</li>   <li>Rapid Trigger: да</li>   <li>Hot-Swap: да</li>   <li>Gasket-mount: нет</li>   <li>Подсветка: RGB</li>   <li>Материал кейкапов: PBT Double-Shot</li>   <li>Управление: колесо прокрутки</li>   <li>Частота опроса: 8000 Гц</li>   <li>Задержка: 0.1 мс</li>   <li>Регулировка точки срабатывания: 0.1–3.3 мм (шаг 0.005 мм)</li>   <li>Габариты: 320×145×35 мм</li>   <li>Вес: 730 г</li>   <li>Состояние: новое</li>   <li>Совместимость: Windows/ПК</li>  </ul></description_ru>
-        <price>3000</price>
-        <old_price>4399</old_price>
-        <categoryId>1082</categoryId>
-        <vendor>Attack Shark</vendor>
-        <picture>https://techgleam.com.ua/content/images/3/igrovaja-magnitnaja-provodnaja-klaviatura-attack-shark-r85-provodnoe-podkluchenie-magnetic-switch-black-75548980167360_%2Bfb847f3eb9.jpg</picture>
-        <picture>https://techgleam.com.ua/content/images/3/igrovaja-magnitnaja-provodnaja-klaviatura-attack-shark-r85-provodnoe-podkluchenie-magnetic-switch-black-46007029611743_%2Bff0380e323.jpg</picture>
-        <picture>https://techgleam.com.ua/content/images/3/igrovaja-magnitnaja-provodnaja-klaviatura-attack-shark-r85-provodnoe-podkluchenie-magnetic-switch-black-67942794498403_%2Bf59bc9e709.jpg</picture>
-        <picture>https://techgleam.com.ua/content/images/3/igrovaja-magnitnaja-provodnaja-klaviatura-attack-shark-r85-provodnoe-podkluchenie-magnetic-switch-black-13567772091410_%2B084af1c4ce.jpg</picture>
-        <picture>https://techgleam.com.ua/content/images/3/igrovaja-magnitnaja-provodnaja-klaviatura-attack-shark-r85-provodnoe-podkluchenie-magnetic-switch-black-31615710101193_%2B642e8bfdb1.jpg</picture>
-        <picture>https://techgleam.com.ua/content/images/3/igrovaja-magnitnaja-provodnaja-klaviatura-attack-shark-r85-provodnoe-podkluchenie-magnetic-switch-black-55570551473597_%2Ba43adc7157.jpg</picture>
-        <picture>https://techgleam.com.ua/content/images/3/igrovaja-magnitnaja-provodnaja-klaviatura-attack-shark-r85-provodnoe-podkluchenie-magnetic-switch-black-92780439429555_%2Bd093097eaf.jpg</picture>
-        <picture>https://techgleam.com.ua/content/images/3/igrovaja-magnitnaja-provodnaja-klaviatura-attack-shark-r85-provodnoe-podkluchenie-magnetic-switch-black-25540494806267_%2Bab929d1c01.jpg</picture>
-        <param name="Гарантія">3 місяці</param>
-        <param name="Колір">Темно-сірий</param>
-        <param name="Конструкція клавіш">Магнітна</param>
-        <param name="Підключення">Дротове</param>
-        <param name="Інтерфейс підключення">USB Type-C</param>
-        <param name="Розкладка">Eng</param>
-        <param name="Форм-фактор">Компактні</param>
-        <param name="Колір підсвічування">RGB</param>
-        <param name="Підсвічування клавіш">Є</param>
-        <param name="Матеріал корпусу">Пластик</param>
-        <param name="Сумісність з ОС">Windows</param>
-        <param name="Сумісність з ОС">Mac OS</param>
-        <param name="Сумісність з ОС">Linux</param>
-        <param name="Стан">Новий</param>
-        <param name="Комплектація">Клавіатура</param>
-        <param name="Призначення">Для ПК</param>
-        <param name="Вид">Ігрові</param>
-        <country>Китай</country>
-      </offer>
       <offer id="1511" available="false">
         <availability_status>temporarily_unavailable</availability_status>
         <name_ua>Ігрова бездротова мишка Attack Shark X8 Pro / Три режими підключення / 8К / Сенсор PAW3395 Pro / White</name_ua>
@@ -12845,35 +12874,6 @@
         <picture>https://techgleam.com.ua/content/images/45/grova-bezdrotova-mishka-atk-dragonfly-a9-plus-2.0-tri-rezhimi-pdkluchennja-sensor-pixart-3395-26000-dpi-white-69621567048974_%2B5b59d32c01.jpg</picture>
         <param name="Гарантія">3 місяці</param>
         <param name="Колір">Білий</param>
-        <param name="Підключення">Комбіноване</param>
-        <param name="Сумісність з ОС">Microsoft Windows</param>
-        <param name="Сумісність з ОС">Mac OS</param>
-        <param name="Сумісність з ОС">Linux</param>
-        <param name="Вага">57 г</param>
-        <param name="Тип датчика">Оптичний</param>
-        <param name="Інтерфейс підключення">Bluetooth</param>
-        <param name="Інтерфейс підключення">Радіоінтерфейс</param>
-        <param name="Інтерфейс підключення">USB</param>
-        <param name="Роздільна здатність сенсора">Понад 20000 dpi</param>
-        <param name="Стан">Новий</param>
-        <param name="Тип">Ігрові (геймерські)</param>
-        <country>Китай</country>
-      </offer>
-      <offer id="1745" available="false">
-        <availability_status>temporarily_unavailable</availability_status>
-        <name_ua>Ігрова бездротова мишка ATK Dragonfly A9 Plus 2.0 / Три режими підключення / Сенсор PixArt 3395 / 26000 DPI / Pink</name_ua>
-        <name_ru>Игровая беспроводная мышка ATK Dragonfly A9 Plus 2.0 / Три режима подключения / Сенсор PixArt 3395 / 26000 DPI / Pink</name_ru>
-        <description_ua><p data-end="407" data-start="46"><strong>ATK A9 Plus 2.0 </strong>— це ігрова миша, створена для точного керування, стабільної роботи та комфортного використання як у динамічних іграх, так і в щоденних задачах. Модель поєднує продуктивний сенсор, комбіноване підключення, ергономічну форму та хорошу автономність, що робить її практичним вибором для тих, хто шукає універсальну ігрову мишу.</p>    <p data-end="703" data-start="409">Миша оснащена оптичним сенсором PixArt PAW3395 з максимальною роздільною здатністю до 26000 DPI, що забезпечує плавне відстеження рухів і високу точність у різних сценаріях використання. Це дозволяє комфортно використовувати мишу як для шутерів і динамічних ігор, так і для повсякденної роботи.</p>    <p data-end="1034" data-start="705"><strong>ATK A9 Plus 2.0 </strong>підтримує комбіноване підключення та може працювати як у дротовому, так і в бездротовому режимі. Для бездротового з’єднання використовується радіоканал NearLink, який забезпечує стабільний сигнал на відстані до 10 метрів. Якщо акумулятор розрядиться, мишу можна швидко перевести в дротовий режим через USB Type-C.</p>    <p data-end="1428" data-start="1036">Модель отримала вбудований літієвий акумулятор на 800 мАг, який забезпечує до 240 годин автономної роботи. Вага миші становить близько 57 г, а корпус розміром 125 × 64 × 40 мм добре підходить для правої руки. Додатково варто відзначити перемикачі Huano Ice Berry Pink Dot із ресурсом до 80 мільйонів натискань, 6 кнопок і можливість програмного налаштування макросів, DPI та інших параметрів.</p>    <p data-end="1453" data-start="1430"><strong data-end="1451" data-start="1430">Основні переваги:</strong></p>    <ul data-end="2009" data-start="1454">   <li data-end="1479" data-section-id="1bo4g0i" data-start="1454">Сенсор PixArt PAW3395</li>   <li data-end="1507" data-section-id="1i6rhfp" data-start="1480">Чутливість до 26000 DPI</li>   <li data-end="1535" data-section-id="l78c35" data-start="1508">Комбіноване підключення</li>   <li data-end="1582" data-section-id="fbp9r0" data-start="1536">Підтримка дротового та бездротового режиму</li>   <li data-end="1607" data-section-id="17aohrz" data-start="1583">Інтерфейс USB Type-C</li>   <li data-end="1658" data-section-id="1on2of2" data-start="1608">Бездротове з’єднання через радіоканал NearLink</li>   <li data-end="1689" data-section-id="p03y3b" data-start="1659">Радіус роботи до 10 метрів</li>   <li data-end="1712" data-section-id="meedip" data-start="1690">Акумулятор 800 мАг</li>   <li data-end="1747" data-section-id="1gb9gty" data-start="1713">До 240 годин автономної роботи</li>   <li data-end="1769" data-section-id="cfmjbp" data-start="1748">Вага близько 57 г</li>   <li data-end="1797" data-section-id="594tdn" data-start="1770">Розмір 125 × 64 × 40 мм</li>   <li data-end="1829" data-section-id="za4o75" data-start="1798">Конструкція для правої руки</li>   <li data-end="1842" data-section-id="1dsdc58" data-start="1830">6 кнопок</li>   <li data-end="1882" data-section-id="1vyq23r" data-start="1843">Перемикачі Huano Ice Berry Pink Dot</li>   <li data-end="1931" data-section-id="1y5vta8" data-start="1883">Ресурс перемикачів до 80 мільйонів натискань</li>   <li data-end="1985" data-section-id="1ow2tfx" data-start="1932">Підтримка програмного налаштування макросів і DPI</li>  </ul></description_ua>
-        <description_ru><p data-end="2393" data-start="2011"><strong>ATK A9 Plus 2.0 </strong>— это игровая мышь, созданная для точного управления, стабильной работы и комфортного использования как в динамичных играх, так и в повседневных задачах. Модель сочетает производительный сенсор, комбинированное подключение, эргономичную форму и хорошую автономность, что делает её практичным выбором для тех, кто ищет универсальную игровую мышь.</p>    <p data-end="2691" data-start="2395">Мышь оснащена оптическим сенсором PixArt PAW3395 с максимальным разрешением до 26000 DPI, что обеспечивает плавное отслеживание движений и высокую точность в разных сценариях использования. Это позволяет комфортно использовать мышь как для шутеров и динамичных игр, так и для повседневной работы.</p>    <p data-end="3035" data-start="2693"><strong>ATK A9 Plus 2.0 </strong>поддерживает комбинированное подключение и может работать как в проводном, так и в беспроводном режиме. Для беспроводного соединения используется радиоканал NearLink, который обеспечивает стабильный сигнал на расстоянии до 10 метров. Если аккумулятор разрядится, мышь можно быстро перевести в проводной режим через USB Type-C.</p>    <p data-end="3433" data-start="3037">Модель получила встроенный литиевый аккумулятор на 800 мАч, который обеспечивает до 240 часов автономной работы. Вес мыши составляет около 57 г, а корпус размером 125 × 64 × 40 мм хорошо подходит для правой руки. Дополнительно стоит отметить переключатели Huano Ice Berry Pink Dot с ресурсом до 80 миллионов нажатий, 6 кнопок и возможность программной настройки макросов, DPI и других параметров.</p>    <p data-end="3463" data-start="3435"><strong data-end="3461" data-start="3435">Основные преимущества:</strong></p>    <ul data-end="4031" data-start="3464">   <li data-end="3489" data-section-id="1bo4g0i" data-start="3464">Сенсор PixArt PAW3395</li>   <li data-end="3523" data-section-id="fdm6zc" data-start="3490">Чувствительность до 26000 DPI</li>   <li data-end="3555" data-section-id="1pyadsj" data-start="3524">Комбинированное подключение</li>   <li data-end="3603" data-section-id="1qvghoq" data-start="3556">Поддержка проводного и беспроводного режима</li>   <li data-end="3628" data-section-id="yvj7hd" data-start="3604">Интерфейс USB Type-C</li>   <li data-end="3682" data-section-id="1g3yl4a" data-start="3629">Беспроводное соединение через радиоканал NearLink</li>   <li data-end="3713" data-section-id="1161jd8" data-start="3683">Радиус работы до 10 метров</li>   <li data-end="3737" data-section-id="4n6awv" data-start="3714">Аккумулятор 800 мАч</li>   <li data-end="3772" data-section-id="mhgrab" data-start="3738">До 240 часов автономной работы</li>   <li data-end="3791" data-section-id="rifxi8" data-start="3773">Вес около 57 г</li>   <li data-end="3819" data-section-id="1deg0wm" data-start="3792">Размер 125 × 64 × 40 мм</li>   <li data-end="3851" data-section-id="lp1kqp" data-start="3820">Конструкция для правой руки</li>   <li data-end="3864" data-section-id="1dsdc58" data-start="3852">6 кнопок</li>   <li data-end="3907" data-section-id="18h9gdw" data-start="3865">Переключатели Huano Ice Berry Pink Dot</li>   <li data-end="3957" data-section-id="vgimkg" data-start="3908">Ресурс переключателей до 80 миллионов нажатий</li>   <li data-end="4008" data-section-id="1chgj3n" data-start="3958">Поддержка программной настройки макросов и DPI</li>  </ul></description_ru>
-        <price>1899</price>
-        <old_price>2199</old_price>
-        <categoryId>1084</categoryId>
-        <vendor>ATK</vendor>
-        <picture>https://techgleam.com.ua/content/images/46/grova-bezdrotova-mishka-atk-dragonfly-a9-plus-2.0-tri-rezhimi-pdkluchennja-sensor-pixart-3395-26000-dpi-pink-49449522485377_%2Bc6c704ebf1.jpg</picture>
-        <picture>https://techgleam.com.ua/content/images/46/grova-bezdrotova-mishka-atk-dragonfly-a9-plus-2.0-tri-rezhimi-pdkluchennja-sensor-pixart-3395-26000-dpi-pink-67575034218103_%2B8a53d11b4c.jpg</picture>
-        <picture>https://techgleam.com.ua/content/images/46/grova-bezdrotova-mishka-atk-dragonfly-a9-plus-2.0-tri-rezhimi-pdkluchennja-sensor-pixart-3395-26000-dpi-pink-72956104989283_%2B678ff0b38f.jpg</picture>
-        <param name="Гарантія">3 місяці</param>
-        <param name="Колір">Рожевий</param>
         <param name="Підключення">Комбіноване</param>
         <param name="Сумісність з ОС">Microsoft Windows</param>
         <param name="Сумісність з ОС">Mac OS</param>
@@ -18090,8 +18090,8 @@
         <param name="Призначення">Геймерські</param>
         <country>Китай</country>
       </offer>
-      <offer id="1947" available="false">
-        <availability_status>temporarily_unavailable</availability_status>
+      <offer id="1947" available="true">
+        <availability_status>available</availability_status>
         <name_ua>Бездротовий геймпад Flydigi Vader 5 Pro / Hall Effect / 2.4G / Bluetooth / PC</name_ua>
         <name_ru>Беспроводной геймпад Flydigi Vader 5 Pro / Hall Effect / 2.4G / Bluetooth / PC</name_ru>
         <description_ua><p data-end="991" data-start="661"><strong data-end="684" data-start="661">Flydigi Vader 5 Pro</strong> — преміальний бездротовий геймпад для ПК, створений для точного керування, швидкої реакції та повної кастомізації під різні жанри ігор. Модель підтримує <strong data-end="864" data-start="838">три режими підключення</strong>: дротове, Bluetooth та 2.4G wireless, тому її зручно використовувати як для змагальних ігор, так і для повсякденного геймінгу.</p>    <p data-end="1315" data-start="993">Геймпад оснащений фірмовими <strong data-end="1055" data-start="1021">FORCEFLEX™ Hall Effect стіками</strong>, які забезпечують точне центрування, відсутність мертвої зони та підвищену довговічність. Завдяки кільцям налаштування жорсткості можна змінювати опір стіків у діапазоні <strong data-end="1238" data-start="1226">40–100gf</strong>: легший хід — для швидких рухів, більш тугий — для стабільного прицілювання.</p>    <p data-end="1680" data-start="1317">Для максимальної швидкості Vader 5 Pro має наднизьку затримку стіків: <strong data-end="1414" data-start="1387">3 мс у дротовому режимі</strong> та <strong data-end="1441" data-start="1418">4 мс у бездротовому</strong>. Тригери <strong data-end="1467" data-start="1451">FORCESWITCH™</strong> підтримують два режими: плавний Hall Effect analog для гонок і симуляторів або швидкий micro-switch режим для шутерів. Кнопки <strong data-end="1602" data-start="1594">ABXY</strong> виконані на механічних мікроперемикачах, що дає чіткий клік і швидкий відгук.</p>    <p data-end="2041" data-start="1682">Геймпад має <strong data-end="1735" data-start="1694">8 перепризначуваних додаткових кнопок</strong>, включно з 4 задніми кнопками, 2 додатковими бамперами та фірмовими кнопками <strong data-end="1822" data-start="1813">C + Z</strong>. Через <strong data-end="1855" data-start="1830">Flydigi Space Station</strong> можна налаштовувати кнопки, профілі, макроси, чутливість, тригери, стіки та RGB-підсвічування. Також є <strong data-end="1981" data-start="1959">6-осьовий гіроскоп</strong>, 4-моторна вібрація, RGB-смужка та акумулятор <strong data-end="2040" data-start="2028">1000 мАг</strong>.</p>    <p data-end="2068" data-section-id="1e85heg" data-start="2048"><strong>Характеристики:</strong></p>    <ul data-end="3124" data-start="2070">   <li data-end="2099" data-section-id="1fii3ej" data-start="2070">   <p><strong data-end="2089" data-start="2072">Тип пристрою:</strong> геймпад</p>   </li>   <li data-end="2135" data-section-id="1py05re" data-start="2100"><strong data-end="2113" data-start="2102">Модель:</strong> Flydigi Vader 5 Pro</li>   <li data-end="2170" data-section-id="l8q2ar" data-start="2136"><strong data-end="2154" data-start="2138">Призначення:</strong> для ПК / ігор</li>   <li data-end="2207" data-section-id="aecvam" data-start="2171"><strong data-end="2193" data-start="2173">Тип підключення:</strong> комбіноване</li>   <li data-end="2262" data-section-id="afi2bt" data-start="2208"><strong data-end="2226" data-start="2210">Підключення:</strong> Wired / Bluetooth / 2.4G Wireless</li>   <li data-end="2300" data-section-id="11f788j" data-start="2263"><strong data-end="2275" data-start="2265">Стіки:</strong> FORCEFLEX™ Hall Effect</li>   <li data-end="2352" data-section-id="1dp5zfb" data-start="2301"><strong data-end="2323" data-start="2303">Затримка стіків:</strong> 3 мс wired / 4 мс wireless</li>   <li data-end="2400" data-section-id="r3ndw9" data-start="2353"><strong data-end="2389" data-start="2355">Регулювання жорсткості стіків:</strong> 40–100gf</li>   <li data-end="2440" data-section-id="1f99u89" data-start="2401"><strong data-end="2415" data-start="2403">Тригери:</strong> FORCESWITCH™ dual-mode</li>   <li data-end="2496" data-section-id="1d1ohnc" data-start="2441"><strong data-end="2460" data-start="2443">Тип тригерів:</strong> Hall Effect analog + Micro Switch</li>   <li data-end="2540" data-section-id="15rmx9j" data-start="2497"><strong data-end="2515" data-start="2499">Кнопки ABXY:</strong> механічні Micro Switch</li>   <li data-end="2580" data-section-id="ti67mt" data-start="2541"><strong data-end="2553" data-start="2543">D-pad:</strong> Rotary-Pivoted D-Pad 2.0</li>   <li data-end="2608" data-section-id="dls6ua" data-start="2581"><strong data-end="2604" data-start="2583">Додаткові кнопки:</strong> 8</li>   <li data-end="2686" data-section-id="1om17yc" data-start="2609"><strong data-end="2634" data-start="2611">Додаткові елементи:</strong> 4 задні кнопки, 2 додаткові бампери, C + Z кнопки</li>   <li data-end="2713" data-section-id="1xtqgna" data-start="2687"><strong data-end="2701" data-start="2689">Профілі:</strong> 4 профілі</li>   <li data-end="2743" data-section-id="1pjo1xk" data-start="2714"><strong data-end="2729" data-start="2716">Гіроскоп:</strong> 6-Axis Gyro</li>   <li data-end="2795" data-section-id="1abdk6v" data-start="2744"><strong data-end="2759" data-start="2746">Вібрація:</strong> 4-моторна, у тригерах і рукоятках</li>   <li data-end="2834" data-section-id="u2jtty" data-start="2796"><strong data-end="2816" data-start="2798">Підсвічування:</strong> RGB light strip</li>   <li data-end="2941" data-section-id="1ug85vd" data-start="2835"><strong data-end="2856" data-start="2837">Швидкі функції:</strong> швидке перепризначення, зміна вібрації, перемикання профілів, регулювання гучності</li>   <li data-end="2975" data-section-id="1u8fw6s" data-start="2942"><strong data-end="2951" data-start="2944">ПЗ:</strong> Flydigi Space Station</li>   <li data-end="3004" data-section-id="8b0xaq" data-start="2976"><strong data-end="2993" data-start="2978">Акумулятор:</strong> 1000 мАг</li>   <li data-end="3072" data-section-id="4qdsk2" data-start="3005"><strong data-end="3019" data-start="3007">Зарядка:</strong> USB-C / підтримка бездротової зарядної док-станції</li>   <li data-end="3093" data-section-id="19erq4c" data-start="3073"><strong data-end="3085" data-start="3075">Колір:</strong> Black</li>   <li data-end="3124" data-section-id="16i06ak" data-start="3094"><strong data-end="3116" data-start="3096">Країна-виробник:</strong> Китай</li>  </ul></description_ua>
