@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<yml_catalog date="2026-08-22 03:23">
+<yml_catalog date="2026-08-22 04:23">
   <shop>
     <categories>
       <category id="1082" portal_id="1839">Клавіатури</category>
@@ -517,6 +517,38 @@
         <param name="Тип">Ігрові (геймерські)</param>
         <country>Китай</country>
       </offer>
+      <offer id="1053" available="true">
+        <availability_status>available</availability_status>
+        <name_ua>Ігрова дротова магнітна клавіатура AJAZZ AK680 MAX / RGB / Magnetic Switch / 8К / Pink</name_ua>
+        <name_ru>Игровая проводная магнитная клавиатура AJAZZ AK680 MAX / RGB / Magnetic Switch / 8К / Pink</name_ru>
+        <description_ua><p><strong>Магнітна клавіатура AJAZZ AK680 MAX</strong></p>    <p>AJAZZ AK680 MAX — ультимативна клавіатура для геймерів та профі, які хочуть точності, швидкості та комфорту у кожному матчі.</p>    <p><strong>Основні характеристики:</strong></p>    <ul>   <li>Клавіші: 68, форм-фактор 68%  </li>   <li>Перемикачі: Магнітні свитчі з точністю до 0.01 мм (Hall Effect)  </li>   <li>Підключення: USB Type-C  </li>   <li>Polling Rate: 1000 Гц  </li>   <li>Rapid Trigger: миттєве повторне натискання  </li>   <li>Кейкапи: PBT  </li>   <li>Корпус: ABS + алюмінієва пластина  </li>   <li>Підсвітка: Проф RGB, південна орієнтація</li>  </ul>    <p><strong>Особливості:</strong></p>    <ul>   <li>Iндивідуальне налаштування точки спрацьовування (0.01–2.0 мм)  </li>   <li>До 100 млн натискань  </li>   <li>Затримка лише 0.125 мс  </li>   <li>Hot-Swap: зміна свитчів без пайки  </li>   <li>Gasket TOP-mounted + шар PORON для мʼякості та тиші  </li>   <li>Повна кастомізація через ПЗ  </li>   <li>NKRO, сумісність з Windows/macOS</li>  </ul></description_ua>
+        <description_ru><p><strong>Магнитная клавиатура AJAZZ AK680 MAX</strong></p>    <p><strong>AJAZZ AK680 MAX </strong>— ультимативная клавиатура для геймеров и профи, которые хотят точности, скорости и комфорта в каждом матче.</p>    <p><strong>Основные характеристики:</strong></p>    <ul>   <li>Клавиши: 68, форм-фактор 68%</li>   <li>Переключатели: Магнитные свитчи с точностью до 0.01 мм (Hall Effect)</li>   <li>Подключение: USB Type-C</li>   <li>Polling Rate: 1000 Гц</li>   <li>Rapid Trigger: мгновенное повторное нажатие</li>   <li>Кейкапы: PBT</li>   <li>Корпус: ABS + алюминиевая пластина</li>   <li>Подсветка: Проф RGB, южная ориентация</li>  </ul>    <p><strong>Особенности:</strong></p>    <ul>   <li>Индивидуальная настройка точки срабатывания (0.01–2.0 мм)</li>   <li>До 100 млн нажатий</li>   <li>Задержка всего 0.125 мс</li>   <li>Hot-Swap: смена свитчей без пайки</li>   <li>Gasket TOP-mounted + слой PORON для мягкости и тишины</li>   <li>Полная кастомизация через ПО</li>   <li>NKRO, совместимость с Windows/macOS</li>  </ul></description_ru>
+        <price>2199</price>
+        <old_price>2599</old_price>
+        <categoryId>1082</categoryId>
+        <vendor>Ajazz</vendor>
+        <picture>https://techgleam.com.ua/content/images/4/igrovaja-provodnaja-magnitnaja-klaviatura-ajazz-ak680-max-rgb-magnetic-switch-8k-pink-18250776286951_%2B0ede7071b1.png</picture>
+        <picture>https://techgleam.com.ua/content/images/4/igrovaja-provodnaja-magnitnaja-klaviatura-ajazz-ak680-max-rgb-magnetic-switch-8k-pink-76420310316637_%2Bf9ccf5d1c8.png</picture>
+        <picture>https://techgleam.com.ua/content/images/4/igrovaja-provodnaja-magnitnaja-klaviatura-ajazz-ak680-max-rgb-magnetic-switch-8k-pink-31016762626765_%2B5423aef687.png</picture>
+        <param name="Гарантія">1 місяць</param>
+        <param name="Колір">Рожевий</param>
+        <param name="Конструкція клавіш">Магнітна</param>
+        <param name="Підключення">Дротове</param>
+        <param name="Інтерфейс підключення">USB Type-C</param>
+        <param name="Розкладка">Eng</param>
+        <param name="Форм-фактор">Компактні</param>
+        <param name="Колір підсвічування">RGB</param>
+        <param name="Підсвічування клавіш">Є</param>
+        <param name="Матеріал корпусу">Пластик</param>
+        <param name="Сумісність з ОС">Windows</param>
+        <param name="Сумісність з ОС">Mac OS</param>
+        <param name="Сумісність з ОС">Linux</param>
+        <param name="Стан">Новий</param>
+        <param name="Комплектація">Клавіатура</param>
+        <param name="Призначення">Для ПК</param>
+        <param name="Вид">Ігрові</param>
+        <country>Китай</country>
+      </offer>
       <offer id="1397" available="true">
         <availability_status>available</availability_status>
         <name_ua>Міні-клавіатура консольна панель / Stream Deck / Ajazz AKP03E / 12 програмованих клавіш / White</name_ua>
@@ -846,37 +878,6 @@
         <param name="Інтерфейс підключення">USB Type-C</param>
         <param name="Розкладка">Eng</param>
         <param name="Форм-фактор">Ультракомпактні</param>
-        <param name="Колір підсвічування">RGB</param>
-        <param name="Підсвічування клавіш">Є</param>
-        <param name="Матеріал корпусу">Пластик</param>
-        <param name="Сумісність з ОС">Windows</param>
-        <param name="Сумісність з ОС">Mac OS</param>
-        <param name="Сумісність з ОС">Linux</param>
-        <param name="Стан">Новий</param>
-        <param name="Комплектація">Клавіатура</param>
-        <param name="Призначення">Для ПК</param>
-        <param name="Вид">Ігрові</param>
-        <country>Китай</country>
-      </offer>
-      <offer id="1628" available="true">
-        <availability_status>available</availability_status>
-        <name_ua>Ігрова механічна дротова клавіатура Ajazz Ak690 / 68 клавіш / Hot-Swap / RGB / Peach Mist Switch / White</name_ua>
-        <name_ru>Игровая механическая проводная клавиатура Ajazz Ak690 / 68 клавиш / Hot-Swap / RGB / Peach Mist Switch / White</name_ru>
-        <description_ua><p data-end="1746" data-start="1574"><strong data-end="1589" data-start="1574">AJAZZ AK690</strong> — це компактна <strong data-end="1655" data-start="1605">дротова механічна клавіатура формату 68 клавіш</strong>, створена для геймерів і користувачів, які цінують ергономіку, кастомізацію та надійність.</p>    <p data-end="1935" data-start="1748">Клавіатура підтримує <strong data-end="1806" data-start="1769">повну hot-swap заміну перемикачів</strong>, що дозволяє змінювати свічі без пайки. Встановлені <strong data-end="1879" data-start="1859">Melard Switch MC</strong> забезпечують стабільний, чіткий та приємний хід клавіш.</p>    <p data-end="2112" data-start="1937">Яскрава <strong data-end="1982" data-start="1945">RGB-підсвітка з багатьма ефектами</strong> підкреслює сучасний дизайн, а <strong data-end="2054" data-start="2013">багатофункціональний регулятор (knob)</strong> дозволяє швидко керувати гучністю або іншими параметрами.</p>    <p data-end="2258" data-start="2114">Формат <strong data-end="2134" data-start="2121">68 клавіш</strong> економить місце на столі, зберігаючи всі необхідні функції. <strong data-end="2210" data-start="2195">Plug &amp; Play</strong> — жодних драйверів, просто підключив і працюєш.</p>    <p data-end="2334" data-start="2260"><strong data-end="2275" data-start="2260">AJAZZ AK690</strong> — чудовий вибір для геймінгу, роботи та кастомних сетапів.</p></description_ua>
-        <description_ru><p><strong>AJAZZ AK690 – </strong>это компактная проволочная механическая клавиатура формата 68 клавиш, предназначенная для геймеров и пользователей, ценящих эргономику, кастомизацию и надежность.</p>    <p>Клавиатура поддерживает полную hot-swap замену переключателей, что позволяет изменять свечи без пайки. Установленные Melard Switch MC обеспечивают стабильный, четкий и приятный ход клавиш.</p>    <p>Яркая подсветка RGB со многими эффектами подчеркивает современный дизайн, а многофункциональный регулятор (knob) позволяет быстро управлять громкостью или другими параметрами.</p>    <p>Формат 68 клавиш экономит место на столе, сохраняя все необходимые функции. Plug &amp; Play – никаких драйверов, просто подключи и работаешь.</p>    <p>AJAZZ AK690 – отличный выбор для гейминга, работы и кастомных сетапов.</p></description_ru>
-        <price>1800</price>
-        <old_price>2399</old_price>
-        <categoryId>1082</categoryId>
-        <vendor>Ajazz</vendor>
-        <picture>https://techgleam.com.ua/content/images/29/igrovaja-mexanicheskaja-provodnaja-klaviatura-ajazz-ak690-68-klavish-hot-swap-rgb-peach-mist-switch-white-61180169812083_%2B232b955e08.jpg</picture>
-        <picture>https://techgleam.com.ua/content/images/29/igrovaja-mexanicheskaja-provodnaja-klaviatura-ajazz-ak690-68-klavish-hot-swap-rgb-peach-mist-switch-white-14747306607797_%2Bd0a61f10eb.jpg</picture>
-        <param name="Гарантія">1 місяць</param>
-        <param name="Колір">Білий</param>
-        <param name="Конструкція клавіш">Механічна</param>
-        <param name="Підключення">Дротове</param>
-        <param name="Інтерфейс підключення">USB Type-C</param>
-        <param name="Розкладка">Eng</param>
-        <param name="Форм-фактор">Компактні</param>
         <param name="Колір підсвічування">RGB</param>
         <param name="Підсвічування клавіш">Є</param>
         <param name="Матеріал корпусу">Пластик</param>
@@ -6626,8 +6627,8 @@
         <name_ru>Игровая проводная магнитная клавиатура AJAZZ AK680 MAX / RGB / Magnetic Switch / 8К / Black Lines</name_ru>
         <description_ua><p><strong>Магнітна клавіатура AJAZZ AK680 MAX</strong></p>    <p>AJAZZ AK680 MAX — ультимативна клавіатура для геймерів та профі, які хочуть точності, швидкості та комфорту у кожному матчі.</p>    <p><strong>Основні характеристики:</strong></p>    <ul>   <li>Клавіші: 68, форм-фактор 68%  </li>   <li>Перемикачі: Магнітні свитчі з точністю до 0.01 мм (Hall Effect)  </li>   <li>Підключення: USB Type-C  </li>   <li>Polling Rate: 1000 Гц  </li>   <li>Rapid Trigger: миттєве повторне натискання  </li>   <li>Кейкапи: PBT  </li>   <li>Корпус: ABS + алюмінієва пластина  </li>   <li>Підсвітка: Проф RGB, південна орієнтація</li>  </ul>    <p><strong>Особливості:</strong></p>    <ul>   <li>Iндивідуальне налаштування точки спрацьовування (0.01–2.0 мм)  </li>   <li>До 100 млн натискань  </li>   <li>Затримка лише 0.125 мс  </li>   <li>Hot-Swap: зміна свитчів без пайки  </li>   <li>Gasket TOP-mounted + шар PORON для мʼякості та тиші  </li>   <li>Повна кастомізація через ПЗ  </li>   <li>NKRO, сумісність з Windows/macOS</li>  </ul></description_ua>
         <description_ru><p><strong>Магнитная клавиатура AJAZZ AK680 MAX</strong></p>    <p><strong>AJAZZ AK680 MAX </strong>— ультимативная клавиатура для геймеров и профи, которые хотят точности, скорости и комфорта в каждом матче.</p>    <p><strong>Основные характеристики:</strong></p>    <ul>   <li>Клавиши: 68, форм-фактор 68%</li>   <li>Переключатели: Магнитные свитчи с точностью до 0.01 мм (Hall Effect)</li>   <li>Подключение: USB Type-C</li>   <li>Polling Rate: 1000 Гц</li>   <li>Rapid Trigger: мгновенное повторное нажатие</li>   <li>Кейкапы: PBT</li>   <li>Корпус: ABS + алюминиевая пластина</li>   <li>Подсветка: Проф RGB, южная ориентация</li>  </ul>    <p><strong>Особенности:</strong></p>    <ul>   <li>Индивидуальная настройка точки срабатывания (0.01–2.0 мм)</li>   <li>До 100 млн нажатий</li>   <li>Задержка всего 0.125 мс</li>   <li>Hot-Swap: смена свитчей без пайки</li>   <li>Gasket TOP-mounted + слой PORON для мягкости и тишины</li>   <li>Полная кастомизация через ПО</li>   <li>NKRO, совместимость с Windows/macOS</li>  </ul></description_ru>
-        <price>1999</price>
-        <old_price>2399</old_price>
+        <price>2199</price>
+        <old_price>2599</old_price>
         <categoryId>1082</categoryId>
         <vendor>Ajazz</vendor>
         <picture>https://techgleam.com.ua/content/images/8/12554963256387_%2B87c6982c6d.png</picture>
@@ -6658,8 +6659,8 @@
         <name_ru>Игровая проводная магнитная клавиатура AJAZZ AK680 MAX / RGB / Magnetic Switch / 8К / White Lines</name_ru>
         <description_ua><p><strong>Магнітна клавіатура AJAZZ AK680 MAX</strong></p>    <p>AJAZZ AK680 MAX — ультимативна клавіатура для геймерів та профі, які хочуть точності, швидкості та комфорту у кожному матчі.</p>    <p><strong>Основні характеристики:</strong></p>    <ul>   <li>Клавіші: 68, форм-фактор 68%  </li>   <li>Перемикачі: Магнітні свитчі з точністю до 0.01 мм (Hall Effect)  </li>   <li>Підключення: USB Type-C  </li>   <li>Polling Rate: 1000 Гц  </li>   <li>Rapid Trigger: миттєве повторне натискання  </li>   <li>Кейкапи: PBT  </li>   <li>Корпус: ABS + алюмінієва пластина  </li>   <li>Підсвітка: Проф RGB, південна орієнтація</li>  </ul>    <p><strong>Особливості:</strong></p>    <ul>   <li>Iндивідуальне налаштування точки спрацьовування (0.01–2.0 мм)  </li>   <li>До 100 млн натискань  </li>   <li>Затримка лише 0.125 мс  </li>   <li>Hot-Swap: зміна свитчів без пайки  </li>   <li>Gasket TOP-mounted + шар PORON для мʼякості та тиші  </li>   <li>Повна кастомізація через ПЗ  </li>   <li>NKRO, сумісність з Windows/macOS</li>  </ul></description_ua>
         <description_ru><p><strong>Магнитная клавиатура AJAZZ AK680 MAX</strong></p>    <p><strong>AJAZZ AK680 MAX </strong>— ультимативная клавиатура для геймеров и профи, которые хотят точности, скорости и комфорта в каждом матче.</p>    <p><strong>Основные характеристики:</strong></p>    <ul>   <li>Клавиши: 68, форм-фактор 68%</li>   <li>Переключатели: Магнитные свитчи с точностью до 0.01 мм (Hall Effect)</li>   <li>Подключение: USB Type-C</li>   <li>Polling Rate: 1000 Гц</li>   <li>Rapid Trigger: мгновенное повторное нажатие</li>   <li>Кейкапы: PBT</li>   <li>Корпус: ABS + алюминиевая пластина</li>   <li>Подсветка: Проф RGB, южная ориентация</li>  </ul>    <p><strong>Особенности:</strong></p>    <ul>   <li>Индивидуальная настройка точки срабатывания (0.01–2.0 мм)</li>   <li>До 100 млн нажатий</li>   <li>Задержка всего 0.125 мс</li>   <li>Hot-Swap: смена свитчей без пайки</li>   <li>Gasket TOP-mounted + слой PORON для мягкости и тишины</li>   <li>Полная кастомизация через ПО</li>   <li>NKRO, совместимость с Windows/macOS</li>  </ul></description_ru>
-        <price>1999</price>
-        <old_price>2399</old_price>
+        <price>2199</price>
+        <old_price>2599</old_price>
         <categoryId>1082</categoryId>
         <vendor>Ajazz</vendor>
         <picture>https://techgleam.com.ua/content/images/9/84259758154396_%2Baed1b0428e.png</picture>
@@ -9275,38 +9276,6 @@
         <param name="Тип">Ігрові (геймерські)</param>
         <country>Китай</country>
       </offer>
-      <offer id="1053" available="false">
-        <availability_status>temporarily_unavailable</availability_status>
-        <name_ua>Ігрова дротова магнітна клавіатура AJAZZ AK680 MAX / RGB / Magnetic Switch / 8К / Pink</name_ua>
-        <name_ru>Игровая проводная магнитная клавиатура AJAZZ AK680 MAX / RGB / Magnetic Switch / 8К / Pink</name_ru>
-        <description_ua><p><strong>Магнітна клавіатура AJAZZ AK680 MAX</strong></p>    <p>AJAZZ AK680 MAX — ультимативна клавіатура для геймерів та профі, які хочуть точності, швидкості та комфорту у кожному матчі.</p>    <p><strong>Основні характеристики:</strong></p>    <ul>   <li>Клавіші: 68, форм-фактор 68%  </li>   <li>Перемикачі: Магнітні свитчі з точністю до 0.01 мм (Hall Effect)  </li>   <li>Підключення: USB Type-C  </li>   <li>Polling Rate: 1000 Гц  </li>   <li>Rapid Trigger: миттєве повторне натискання  </li>   <li>Кейкапи: PBT  </li>   <li>Корпус: ABS + алюмінієва пластина  </li>   <li>Підсвітка: Проф RGB, південна орієнтація</li>  </ul>    <p><strong>Особливості:</strong></p>    <ul>   <li>Iндивідуальне налаштування точки спрацьовування (0.01–2.0 мм)  </li>   <li>До 100 млн натискань  </li>   <li>Затримка лише 0.125 мс  </li>   <li>Hot-Swap: зміна свитчів без пайки  </li>   <li>Gasket TOP-mounted + шар PORON для мʼякості та тиші  </li>   <li>Повна кастомізація через ПЗ  </li>   <li>NKRO, сумісність з Windows/macOS</li>  </ul></description_ua>
-        <description_ru><p><strong>Магнитная клавиатура AJAZZ AK680 MAX</strong></p>    <p><strong>AJAZZ AK680 MAX </strong>— ультимативная клавиатура для геймеров и профи, которые хотят точности, скорости и комфорта в каждом матче.</p>    <p><strong>Основные характеристики:</strong></p>    <ul>   <li>Клавиши: 68, форм-фактор 68%</li>   <li>Переключатели: Магнитные свитчи с точностью до 0.01 мм (Hall Effect)</li>   <li>Подключение: USB Type-C</li>   <li>Polling Rate: 1000 Гц</li>   <li>Rapid Trigger: мгновенное повторное нажатие</li>   <li>Кейкапы: PBT</li>   <li>Корпус: ABS + алюминиевая пластина</li>   <li>Подсветка: Проф RGB, южная ориентация</li>  </ul>    <p><strong>Особенности:</strong></p>    <ul>   <li>Индивидуальная настройка точки срабатывания (0.01–2.0 мм)</li>   <li>До 100 млн нажатий</li>   <li>Задержка всего 0.125 мс</li>   <li>Hot-Swap: смена свитчей без пайки</li>   <li>Gasket TOP-mounted + слой PORON для мягкости и тишины</li>   <li>Полная кастомизация через ПО</li>   <li>NKRO, совместимость с Windows/macOS</li>  </ul></description_ru>
-        <price>1999</price>
-        <old_price>2399</old_price>
-        <categoryId>1082</categoryId>
-        <vendor>Ajazz</vendor>
-        <picture>https://techgleam.com.ua/content/images/4/igrovaja-provodnaja-magnitnaja-klaviatura-ajazz-ak680-max-rgb-magnetic-switch-8k-pink-18250776286951_%2B0ede7071b1.png</picture>
-        <picture>https://techgleam.com.ua/content/images/4/igrovaja-provodnaja-magnitnaja-klaviatura-ajazz-ak680-max-rgb-magnetic-switch-8k-pink-76420310316637_%2Bf9ccf5d1c8.png</picture>
-        <picture>https://techgleam.com.ua/content/images/4/igrovaja-provodnaja-magnitnaja-klaviatura-ajazz-ak680-max-rgb-magnetic-switch-8k-pink-31016762626765_%2B5423aef687.png</picture>
-        <param name="Гарантія">1 місяць</param>
-        <param name="Колір">Рожевий</param>
-        <param name="Конструкція клавіш">Магнітна</param>
-        <param name="Підключення">Дротове</param>
-        <param name="Інтерфейс підключення">USB Type-C</param>
-        <param name="Розкладка">Eng</param>
-        <param name="Форм-фактор">Компактні</param>
-        <param name="Колір підсвічування">RGB</param>
-        <param name="Підсвічування клавіш">Є</param>
-        <param name="Матеріал корпусу">Пластик</param>
-        <param name="Сумісність з ОС">Windows</param>
-        <param name="Сумісність з ОС">Mac OS</param>
-        <param name="Сумісність з ОС">Linux</param>
-        <param name="Стан">Новий</param>
-        <param name="Комплектація">Клавіатура</param>
-        <param name="Призначення">Для ПК</param>
-        <param name="Вид">Ігрові</param>
-        <country>Китай</country>
-      </offer>
       <offer id="1054" available="false">
         <availability_status>temporarily_unavailable</availability_status>
         <name_ua>Ігрова магнітна клавіатура AJAZZ AK680 MAX / Три режими підключення / RGB / Magnetic Switch / 8К / Grey</name_ua>
@@ -11018,6 +10987,37 @@
         <param name="Роздільна здатність сенсора">Понад 20000 dpi</param>
         <param name="Стан">Новий</param>
         <param name="Тип">Ігрові (геймерські)</param>
+        <country>Китай</country>
+      </offer>
+      <offer id="1628" available="false">
+        <availability_status>temporarily_unavailable</availability_status>
+        <name_ua>Ігрова механічна дротова клавіатура Ajazz Ak690 / 68 клавіш / Hot-Swap / RGB / Peach Mist Switch / White</name_ua>
+        <name_ru>Игровая механическая проводная клавиатура Ajazz Ak690 / 68 клавиш / Hot-Swap / RGB / Peach Mist Switch / White</name_ru>
+        <description_ua><p data-end="1746" data-start="1574"><strong data-end="1589" data-start="1574">AJAZZ AK690</strong> — це компактна <strong data-end="1655" data-start="1605">дротова механічна клавіатура формату 68 клавіш</strong>, створена для геймерів і користувачів, які цінують ергономіку, кастомізацію та надійність.</p>    <p data-end="1935" data-start="1748">Клавіатура підтримує <strong data-end="1806" data-start="1769">повну hot-swap заміну перемикачів</strong>, що дозволяє змінювати свічі без пайки. Встановлені <strong data-end="1879" data-start="1859">Melard Switch MC</strong> забезпечують стабільний, чіткий та приємний хід клавіш.</p>    <p data-end="2112" data-start="1937">Яскрава <strong data-end="1982" data-start="1945">RGB-підсвітка з багатьма ефектами</strong> підкреслює сучасний дизайн, а <strong data-end="2054" data-start="2013">багатофункціональний регулятор (knob)</strong> дозволяє швидко керувати гучністю або іншими параметрами.</p>    <p data-end="2258" data-start="2114">Формат <strong data-end="2134" data-start="2121">68 клавіш</strong> економить місце на столі, зберігаючи всі необхідні функції. <strong data-end="2210" data-start="2195">Plug &amp; Play</strong> — жодних драйверів, просто підключив і працюєш.</p>    <p data-end="2334" data-start="2260"><strong data-end="2275" data-start="2260">AJAZZ AK690</strong> — чудовий вибір для геймінгу, роботи та кастомних сетапів.</p></description_ua>
+        <description_ru><p><strong>AJAZZ AK690 – </strong>это компактная проволочная механическая клавиатура формата 68 клавиш, предназначенная для геймеров и пользователей, ценящих эргономику, кастомизацию и надежность.</p>    <p>Клавиатура поддерживает полную hot-swap замену переключателей, что позволяет изменять свечи без пайки. Установленные Melard Switch MC обеспечивают стабильный, четкий и приятный ход клавиш.</p>    <p>Яркая подсветка RGB со многими эффектами подчеркивает современный дизайн, а многофункциональный регулятор (knob) позволяет быстро управлять громкостью или другими параметрами.</p>    <p>Формат 68 клавиш экономит место на столе, сохраняя все необходимые функции. Plug &amp; Play – никаких драйверов, просто подключи и работаешь.</p>    <p>AJAZZ AK690 – отличный выбор для гейминга, работы и кастомных сетапов.</p></description_ru>
+        <price>1800</price>
+        <old_price>2399</old_price>
+        <categoryId>1082</categoryId>
+        <vendor>Ajazz</vendor>
+        <picture>https://techgleam.com.ua/content/images/29/igrovaja-mexanicheskaja-provodnaja-klaviatura-ajazz-ak690-68-klavish-hot-swap-rgb-peach-mist-switch-white-61180169812083_%2B232b955e08.jpg</picture>
+        <picture>https://techgleam.com.ua/content/images/29/igrovaja-mexanicheskaja-provodnaja-klaviatura-ajazz-ak690-68-klavish-hot-swap-rgb-peach-mist-switch-white-14747306607797_%2Bd0a61f10eb.jpg</picture>
+        <param name="Гарантія">1 місяць</param>
+        <param name="Колір">Білий</param>
+        <param name="Конструкція клавіш">Механічна</param>
+        <param name="Підключення">Дротове</param>
+        <param name="Інтерфейс підключення">USB Type-C</param>
+        <param name="Розкладка">Eng</param>
+        <param name="Форм-фактор">Компактні</param>
+        <param name="Колір підсвічування">RGB</param>
+        <param name="Підсвічування клавіш">Є</param>
+        <param name="Матеріал корпусу">Пластик</param>
+        <param name="Сумісність з ОС">Windows</param>
+        <param name="Сумісність з ОС">Mac OS</param>
+        <param name="Сумісність з ОС">Linux</param>
+        <param name="Стан">Новий</param>
+        <param name="Комплектація">Клавіатура</param>
+        <param name="Призначення">Для ПК</param>
+        <param name="Вид">Ігрові</param>
         <country>Китай</country>
       </offer>
       <offer id="1630" available="false">
