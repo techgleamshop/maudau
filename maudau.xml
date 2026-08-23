@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<yml_catalog date="2026-08-23 03:23">
+<yml_catalog date="2026-08-23 04:23">
   <shop>
     <categories>
       <category id="1082" portal_id="1839">Клавіатури</category>
@@ -82,6 +82,47 @@
         <param name="Сумісність з ОС">Windows</param>
         <param name="Сумісність з ОС">Mac OS</param>
         <param name="Сумісність з ОС">Linux</param>
+        <param name="Стан">Новий</param>
+        <param name="Комплектація">Клавіатура</param>
+        <param name="Призначення">Для ПК</param>
+        <param name="Вид">Ігрові</param>
+        <country>Китай</country>
+      </offer>
+      <offer id="565" available="true">
+        <availability_status>available</availability_status>
+        <name_ua>Игровая механическая клавиатура AULA F75 / Три режима подключения / Leobog Axis Reaper Switch / Dark Blue</name_ua>
+        <name_ru>Игровая механическая клавиатура AULA F75 / Три режима подключения / Leobog Axis Reaper Switch / Dark Blue</name_ru>
+        <description_ua><p><strong>Механічна клавіатура AULA F75 </strong></p>    <p>AULA F75 — це універсальна клавіатура для роботи, навчання та ігор, що поєднує компактність, ергономіку та сучасні функції.</p>    <p><strong>Основні характеристики:</strong></p>    <ul>   <li>Тип: Механічна клавіатура, 75% форм-фактор </li>   <li>Розкладка: англійська</li>   <li>Підключення: Bluetooth 5.0 / 2.4 ГГц / USB Type-C  </li>   <li>Сумісність: Windows, Mac, iOS, Android, PS, Xbox  </li>   <li>5-шарова система шумопоглинання для комфортного набору тексту  </li>   <li>Мультимедійне колесо для зручного керування гучністю та підсвіткою</li>   <li>Акумулятор: 4000 мА·год, забезпечує тривалий час автономної роботи.</li>  </ul>    <p><strong>RGB-підсвітка:</strong><br />  • 15 режимів  <br />  • 16.8 млн кольорів  <br />  • Музичний режим реагує на ритм відтворюваної музики</p>    <p><strong>Комплектація:</strong></p>    <ul>   <li>Клавіатура AULA F75  </li>   <li>Кабель USB Type-C  </li>   <li>USB-адаптер 2.4 ГГц  </li>   <li>Захисна накладка від пилу  </li>   <li>4 запасні перемикачі  </li>   <li>Пуллер  </li>   <li>Інструкція користувача</li>  </ul></description_ua>
+        <description_ru><p><strong>Механическая клавиатура AULA F75</strong></p>    <p>AULA F75 – это универсальная клавиатура для работы, обучения и игр, сочетающая компактность, эргономику и современные функции.</p>    <p><strong>Основные характеристики:</strong></p>    <ul>   <li>Тип: Механическая клавиатура, 75% форм-фактор</li>   <li>Раскладка: английская</li>   <li>Подключение: Bluetooth 5.0/2.4 ГГц/USB Type-C</li>   <li>Совместимость: Windows, Mac, iOS, Android, PS, Xbox</li>   <li>5-слойная система шумопоглощения для комфортного набора текста</li>   <li>Мультимедийное колесо для удобного управления громкостью и подсветкой</li>   <li>Аккумулятор: 4000 мАч, обеспечивает длительное время автономной работы.</li>  </ul>    <p><strong>RGB-подсветка:</strong><br />  • 15 режимов<br />  • 16.8 млн цветов<br />  • Музыкальный режим реагирует на ритм воспроизводимой музыки.</p>    <p><strong>Комплектация:</strong></p>    <ul>   <li>Клавиатура AULA F75</li>   <li>Кабель USB Type-C</li>   <li>USB-адаптер 2.4 ГГц</li>   <li>Защитная накладка от пыли</li>   <li>4 запасные переключатели</li>   <li>Пуллер</li>   <li>Руководство пользователя</li>  </ul></description_ru>
+        <price>2399</price>
+        <categoryId>1082</categoryId>
+        <vendor>Aula</vendor>
+        <picture>https://techgleam.com.ua/content/images/16/95608714299997_%2B231b2e3212.jpg</picture>
+        <picture>https://techgleam.com.ua/content/images/16/58423253957398_%2B49e6952272.jpg</picture>
+        <picture>https://techgleam.com.ua/content/images/16/91365340358714_%2B1c0aa4c74b.jpg</picture>
+        <picture>https://techgleam.com.ua/content/images/16/82730488747399_%2Bdb50652e47.jpg</picture>
+        <picture>https://techgleam.com.ua/content/images/16/37188658571242_%2B5773d46899.jpg</picture>
+        <picture>https://techgleam.com.ua/content/images/16/37758524999816_%2B7c759ada55.jpg</picture>
+        <picture>https://techgleam.com.ua/content/images/16/75533253793498_%2B2a442cf937.jpg</picture>
+        <picture>https://techgleam.com.ua/content/images/16/44378563902233_%2Bd12a5dde40.jpg</picture>
+        <picture>https://techgleam.com.ua/content/images/16/67771931931181_%2B647e8efa4e.jpg</picture>
+        <picture>https://techgleam.com.ua/content/images/16/53715146527461_%2Be9930a92c8.jpg</picture>
+        <param name="Гарантія">1 місяць</param>
+        <param name="Колір">Синій</param>
+        <param name="Конструкція клавіш">Механічна</param>
+        <param name="Підключення">Комбіноване</param>
+        <param name="Інтерфейс підключення">Bluetooth</param>
+        <param name="Інтерфейс підключення">Радіоінтерфейс</param>
+        <param name="Інтерфейс підключення">USB</param>
+        <param name="Розкладка">Eng</param>
+        <param name="Форм-фактор">Компактні</param>
+        <param name="Колір підсвічування">RGB</param>
+        <param name="Підсвічування клавіш">Є</param>
+        <param name="Матеріал корпусу">Пластик</param>
+        <param name="Живлення">Акумулятор</param>
+        <param name="Сумісність з ОС">Windows</param>
+        <param name="Сумісність з ОС">Mac OS</param>
+        <param name="Сумісність з ОС">Chrome OS</param>
         <param name="Стан">Новий</param>
         <param name="Комплектація">Клавіатура</param>
         <param name="Призначення">Для ПК</param>
@@ -488,34 +529,6 @@
         <param name="Гарантія">3 місяці</param>
         <param name="Колір">Чорний</param>
         <param name="Стан">Новий</param>
-      </offer>
-      <offer id="1043" available="true">
-        <availability_status>available</availability_status>
-        <name_ua>Ігрова бездротова мишка Aula SC620 / Три режими підключення / Сенсор PAW3311 / 67 г / 12000 DPI / White Lines</name_ua>
-        <name_ru>Игровая беспроводная мышка Aula SC620 / Три режима подключения / Сенсор PAW3311 / 67 г / 12000 DPI / White Lines</name_ru>
-        <description_ua><p><strong data-end="188" data-start="174">AULA SC620</strong> — це універсальна ігрова миша з трирежимним підключенням, створена для геймерів і користувачів, яким важливі точність, мобільність та комфорт під час тривалих сесій. Легка конструкція, потужний оптичний сенсор та RGB-підсвічування роблять її чудовим вибором як для ігор, так і для повсякденної роботи.</p>    <h3 data-end="520" data-start="497">Основні характеристики:</h3>    <ul data-end="1368" data-start="522">   <li data-end="662" data-start="522">   <p data-end="662" data-start="524"><strong data-end="561" data-start="524">Три режими підключення (Tri-Mode)</strong><br data-end="564" data-start="561" />   Дротове / бездротове 2.4G / Bluetooth — легке перемикання під будь-який сценарій використання.</p>   </li>   <li data-end="766" data-start="664">   <p data-end="766" data-start="666"><strong data-end="697" data-start="666">Високоточний сенсор PAW3311</strong><br data-end="700" data-start="697" />   Забезпечує стабільне відстеження та точність у динамічних іграх.</p>   </li>   <li data-end="893" data-start="768">   <p data-end="893" data-start="770"><strong data-end="800" data-start="770">Регульований DPI до 12 000</strong><br data-end="803" data-start="800" />   800 / 1600 / 3200 / 4800 / 8000 / 12000 DPI — повне налаштування через фірмовий драйвер.</p>   </li>   <li data-end="992" data-start="895">   <p data-end="992" data-start="897"><strong data-end="917" data-start="897">Легка вага ~67 г</strong><br data-end="920" data-start="917" />   Мінімальне навантаження на руку — ідеально для тривалих ігрових сесій.</p>   </li>   <li data-end="1075" data-start="994">   <p data-end="1075" data-start="996"><strong data-end="1022" data-start="996">8 програмованих кнопок</strong><br data-end="1025" data-start="1022" />   Повна кастомізація під ваш стиль гри або роботи.</p>   </li>   <li data-end="1181" data-start="1077">   <p data-end="1181" data-start="1079"><strong data-end="1111" data-start="1079">RGB-підсвічування з ефектами</strong><br data-end="1114" data-start="1111" />   Динамічні світлові режими (включно з Ripple, Diamond Lotus тощо).</p>   </li>   <li data-end="1273" data-start="1183">   <p data-end="1273" data-start="1185"><strong data-end="1221" data-start="1185">Вбудований акумулятор 500 мА·год</strong><br data-end="1224" data-start="1221" />   Тривала автономна робота без частих підзарядок.</p>   </li>   <li data-end="1368" data-start="1275">   <p data-end="1368" data-start="1277"><strong data-end="1309" data-start="1277">Ергономічна форма для правші</strong><br data-end="1312" data-start="1309" />   Зручний хват і стабільний контроль у FPS / MOBA / RTS.</p>   </li>  </ul></description_ua>
-        <description_ru><p><strong>AULA SC620 –</strong> это универсальная игровая мышь с трехрежимным подключением, созданная для геймеров и пользователей, которым важны точность, мобильность и комфорт во время длительных сессий. Легкая конструкция, мощный оптический сенсор и RGB-подсветка делают ее отличным выбором как для игр, так и для повседневной работы.</p>    <p><strong>Основные характеристики:</strong></p>    <ul>   <li>Три режима подключения (Tri-Mode)</li>   <li>Проводное/беспроводное 2.4G/Bluetooth — легкое переключение под любой сценарий использования.</li>   <li>Высокоточный сенсор PAW3311</li>   <li>Обеспечивает стабильное отслеживание и точность динамических игр.</li>   <li>Регулируемый DPI до 12 000</li>   <li>800/1600/3200/4800/8000/12000 DPI — полная настройка через фирменный драйвер.</li>   <li>Легкий вес ~67 г</li>   <li>Минимальная нагрузка на руку – идеально для длительных игровых сессий.</li>   <li>8 программируемых кнопок</li>   <li>Полная кастомизация под ваш стиль игры или работы.</li>   <li>RGB-подсветка с эффектами</li>   <li>Динамические световые режимы (включая Ripple, Diamond Lotus и т.д.).</li>   <li>Встроенный аккумулятор 500 мАч</li>   <li>Продолжительная автономная работа без частых подзарядок.</li>   <li>Эргономичная форма для правши</li>   <li>Удобный хват и стабильный контроль в FPS/MOBA/RTS.</li>  </ul></description_ru>
-        <price>1499</price>
-        <categoryId>1084</categoryId>
-        <vendor>Aula</vendor>
-        <picture>https://techgleam.com.ua/content/images/44/igrovaja-besprovodnaja-myshka-aula-sc620-tri-rezhima-podkluchenija-sensor-paw3311-67-g-12000-dpi-white-56404537132578_%2Bc1726b4c88.jpg</picture>
-        <picture>https://techgleam.com.ua/content/images/44/igrovaja-besprovodnaja-myshka-aula-sc620-tri-rezhima-podkluchenija-sensor-paw3311-67-g-12000-dpi-white-47677013603758_%2B8b81428c66.jpg</picture>
-        <param name="Гарантія">1 місяць</param>
-        <param name="Колір">Білий</param>
-        <param name="Підключення">Комбіноване</param>
-        <param name="Сумісність з ОС">Microsoft Windows</param>
-        <param name="Сумісність з ОС">Mac OS</param>
-        <param name="Сумісність з ОС">Linux</param>
-        <param name="Вага">67 г</param>
-        <param name="Кількість кнопок миші">8</param>
-        <param name="Тип датчика">Оптичний</param>
-        <param name="Інтерфейс підключення">Bluetooth</param>
-        <param name="Інтерфейс підключення">Радіоінтерфейс</param>
-        <param name="Інтерфейс підключення">USB</param>
-        <param name="Роздільна здатність сенсора">10001 - 12000 dpi</param>
-        <param name="Стан">Новий</param>
-        <param name="Тип">Ігрові (геймерські)</param>
-        <country>Китай</country>
       </offer>
       <offer id="1053" available="true">
         <availability_status>available</availability_status>
@@ -4795,47 +4808,6 @@
         <param name="Вид">Ігрові</param>
         <country>Китай</country>
       </offer>
-      <offer id="565" available="false">
-        <availability_status>temporarily_unavailable</availability_status>
-        <name_ua>Игровая механическая клавиатура AULA F75 / Три режима подключения / Leobog Axis Reaper Switch / Dark Blue</name_ua>
-        <name_ru>Игровая механическая клавиатура AULA F75 / Три режима подключения / Leobog Axis Reaper Switch / Dark Blue</name_ru>
-        <description_ua><p><strong>Механічна клавіатура AULA F75 </strong></p>    <p>AULA F75 — це універсальна клавіатура для роботи, навчання та ігор, що поєднує компактність, ергономіку та сучасні функції.</p>    <p><strong>Основні характеристики:</strong></p>    <ul>   <li>Тип: Механічна клавіатура, 75% форм-фактор </li>   <li>Розкладка: англійська</li>   <li>Підключення: Bluetooth 5.0 / 2.4 ГГц / USB Type-C  </li>   <li>Сумісність: Windows, Mac, iOS, Android, PS, Xbox  </li>   <li>5-шарова система шумопоглинання для комфортного набору тексту  </li>   <li>Мультимедійне колесо для зручного керування гучністю та підсвіткою</li>   <li>Акумулятор: 4000 мА·год, забезпечує тривалий час автономної роботи.</li>  </ul>    <p><strong>RGB-підсвітка:</strong><br />  • 15 режимів  <br />  • 16.8 млн кольорів  <br />  • Музичний режим реагує на ритм відтворюваної музики</p>    <p><strong>Комплектація:</strong></p>    <ul>   <li>Клавіатура AULA F75  </li>   <li>Кабель USB Type-C  </li>   <li>USB-адаптер 2.4 ГГц  </li>   <li>Захисна накладка від пилу  </li>   <li>4 запасні перемикачі  </li>   <li>Пуллер  </li>   <li>Інструкція користувача</li>  </ul></description_ua>
-        <description_ru><p><strong>Механическая клавиатура AULA F75</strong></p>    <p>AULA F75 – это универсальная клавиатура для работы, обучения и игр, сочетающая компактность, эргономику и современные функции.</p>    <p><strong>Основные характеристики:</strong></p>    <ul>   <li>Тип: Механическая клавиатура, 75% форм-фактор</li>   <li>Раскладка: английская</li>   <li>Подключение: Bluetooth 5.0/2.4 ГГц/USB Type-C</li>   <li>Совместимость: Windows, Mac, iOS, Android, PS, Xbox</li>   <li>5-слойная система шумопоглощения для комфортного набора текста</li>   <li>Мультимедийное колесо для удобного управления громкостью и подсветкой</li>   <li>Аккумулятор: 4000 мАч, обеспечивает длительное время автономной работы.</li>  </ul>    <p><strong>RGB-подсветка:</strong><br />  • 15 режимов<br />  • 16.8 млн цветов<br />  • Музыкальный режим реагирует на ритм воспроизводимой музыки.</p>    <p><strong>Комплектация:</strong></p>    <ul>   <li>Клавиатура AULA F75</li>   <li>Кабель USB Type-C</li>   <li>USB-адаптер 2.4 ГГц</li>   <li>Защитная накладка от пыли</li>   <li>4 запасные переключатели</li>   <li>Пуллер</li>   <li>Руководство пользователя</li>  </ul></description_ru>
-        <price>2399</price>
-        <categoryId>1082</categoryId>
-        <vendor>Aula</vendor>
-        <picture>https://techgleam.com.ua/content/images/16/95608714299997_%2B231b2e3212.jpg</picture>
-        <picture>https://techgleam.com.ua/content/images/16/58423253957398_%2B49e6952272.jpg</picture>
-        <picture>https://techgleam.com.ua/content/images/16/91365340358714_%2B1c0aa4c74b.jpg</picture>
-        <picture>https://techgleam.com.ua/content/images/16/82730488747399_%2Bdb50652e47.jpg</picture>
-        <picture>https://techgleam.com.ua/content/images/16/37188658571242_%2B5773d46899.jpg</picture>
-        <picture>https://techgleam.com.ua/content/images/16/37758524999816_%2B7c759ada55.jpg</picture>
-        <picture>https://techgleam.com.ua/content/images/16/75533253793498_%2B2a442cf937.jpg</picture>
-        <picture>https://techgleam.com.ua/content/images/16/44378563902233_%2Bd12a5dde40.jpg</picture>
-        <picture>https://techgleam.com.ua/content/images/16/67771931931181_%2B647e8efa4e.jpg</picture>
-        <picture>https://techgleam.com.ua/content/images/16/53715146527461_%2Be9930a92c8.jpg</picture>
-        <param name="Гарантія">1 місяць</param>
-        <param name="Колір">Синій</param>
-        <param name="Конструкція клавіш">Механічна</param>
-        <param name="Підключення">Комбіноване</param>
-        <param name="Інтерфейс підключення">Bluetooth</param>
-        <param name="Інтерфейс підключення">Радіоінтерфейс</param>
-        <param name="Інтерфейс підключення">USB</param>
-        <param name="Розкладка">Eng</param>
-        <param name="Форм-фактор">Компактні</param>
-        <param name="Колір підсвічування">RGB</param>
-        <param name="Підсвічування клавіш">Є</param>
-        <param name="Матеріал корпусу">Пластик</param>
-        <param name="Живлення">Акумулятор</param>
-        <param name="Сумісність з ОС">Windows</param>
-        <param name="Сумісність з ОС">Mac OS</param>
-        <param name="Сумісність з ОС">Chrome OS</param>
-        <param name="Стан">Новий</param>
-        <param name="Комплектація">Клавіатура</param>
-        <param name="Призначення">Для ПК</param>
-        <param name="Вид">Ігрові</param>
-        <country>Китай</country>
-      </offer>
       <offer id="566" available="false">
         <availability_status>temporarily_unavailable</availability_status>
         <name_ua>Ігрова механічна клавіатура ATTACK SHARK X98, Темно-синій</name_ua>
@@ -9015,6 +8987,34 @@
         <param name="Комплектація">Клавіатура</param>
         <param name="Призначення">Для ПК</param>
         <param name="Вид">Ігрові</param>
+        <country>Китай</country>
+      </offer>
+      <offer id="1043" available="false">
+        <availability_status>temporarily_unavailable</availability_status>
+        <name_ua>Ігрова бездротова мишка Aula SC620 / Три режими підключення / Сенсор PAW3311 / 67 г / 12000 DPI / White Lines</name_ua>
+        <name_ru>Игровая беспроводная мышка Aula SC620 / Три режима подключения / Сенсор PAW3311 / 67 г / 12000 DPI / White Lines</name_ru>
+        <description_ua><p><strong data-end="188" data-start="174">AULA SC620</strong> — це універсальна ігрова миша з трирежимним підключенням, створена для геймерів і користувачів, яким важливі точність, мобільність та комфорт під час тривалих сесій. Легка конструкція, потужний оптичний сенсор та RGB-підсвічування роблять її чудовим вибором як для ігор, так і для повсякденної роботи.</p>    <h3 data-end="520" data-start="497">Основні характеристики:</h3>    <ul data-end="1368" data-start="522">   <li data-end="662" data-start="522">   <p data-end="662" data-start="524"><strong data-end="561" data-start="524">Три режими підключення (Tri-Mode)</strong><br data-end="564" data-start="561" />   Дротове / бездротове 2.4G / Bluetooth — легке перемикання під будь-який сценарій використання.</p>   </li>   <li data-end="766" data-start="664">   <p data-end="766" data-start="666"><strong data-end="697" data-start="666">Високоточний сенсор PAW3311</strong><br data-end="700" data-start="697" />   Забезпечує стабільне відстеження та точність у динамічних іграх.</p>   </li>   <li data-end="893" data-start="768">   <p data-end="893" data-start="770"><strong data-end="800" data-start="770">Регульований DPI до 12 000</strong><br data-end="803" data-start="800" />   800 / 1600 / 3200 / 4800 / 8000 / 12000 DPI — повне налаштування через фірмовий драйвер.</p>   </li>   <li data-end="992" data-start="895">   <p data-end="992" data-start="897"><strong data-end="917" data-start="897">Легка вага ~67 г</strong><br data-end="920" data-start="917" />   Мінімальне навантаження на руку — ідеально для тривалих ігрових сесій.</p>   </li>   <li data-end="1075" data-start="994">   <p data-end="1075" data-start="996"><strong data-end="1022" data-start="996">8 програмованих кнопок</strong><br data-end="1025" data-start="1022" />   Повна кастомізація під ваш стиль гри або роботи.</p>   </li>   <li data-end="1181" data-start="1077">   <p data-end="1181" data-start="1079"><strong data-end="1111" data-start="1079">RGB-підсвічування з ефектами</strong><br data-end="1114" data-start="1111" />   Динамічні світлові режими (включно з Ripple, Diamond Lotus тощо).</p>   </li>   <li data-end="1273" data-start="1183">   <p data-end="1273" data-start="1185"><strong data-end="1221" data-start="1185">Вбудований акумулятор 500 мА·год</strong><br data-end="1224" data-start="1221" />   Тривала автономна робота без частих підзарядок.</p>   </li>   <li data-end="1368" data-start="1275">   <p data-end="1368" data-start="1277"><strong data-end="1309" data-start="1277">Ергономічна форма для правші</strong><br data-end="1312" data-start="1309" />   Зручний хват і стабільний контроль у FPS / MOBA / RTS.</p>   </li>  </ul></description_ua>
+        <description_ru><p><strong>AULA SC620 –</strong> это универсальная игровая мышь с трехрежимным подключением, созданная для геймеров и пользователей, которым важны точность, мобильность и комфорт во время длительных сессий. Легкая конструкция, мощный оптический сенсор и RGB-подсветка делают ее отличным выбором как для игр, так и для повседневной работы.</p>    <p><strong>Основные характеристики:</strong></p>    <ul>   <li>Три режима подключения (Tri-Mode)</li>   <li>Проводное/беспроводное 2.4G/Bluetooth — легкое переключение под любой сценарий использования.</li>   <li>Высокоточный сенсор PAW3311</li>   <li>Обеспечивает стабильное отслеживание и точность динамических игр.</li>   <li>Регулируемый DPI до 12 000</li>   <li>800/1600/3200/4800/8000/12000 DPI — полная настройка через фирменный драйвер.</li>   <li>Легкий вес ~67 г</li>   <li>Минимальная нагрузка на руку – идеально для длительных игровых сессий.</li>   <li>8 программируемых кнопок</li>   <li>Полная кастомизация под ваш стиль игры или работы.</li>   <li>RGB-подсветка с эффектами</li>   <li>Динамические световые режимы (включая Ripple, Diamond Lotus и т.д.).</li>   <li>Встроенный аккумулятор 500 мАч</li>   <li>Продолжительная автономная работа без частых подзарядок.</li>   <li>Эргономичная форма для правши</li>   <li>Удобный хват и стабильный контроль в FPS/MOBA/RTS.</li>  </ul></description_ru>
+        <price>1499</price>
+        <categoryId>1084</categoryId>
+        <vendor>Aula</vendor>
+        <picture>https://techgleam.com.ua/content/images/44/igrovaja-besprovodnaja-myshka-aula-sc620-tri-rezhima-podkluchenija-sensor-paw3311-67-g-12000-dpi-white-56404537132578_%2Bc1726b4c88.jpg</picture>
+        <picture>https://techgleam.com.ua/content/images/44/igrovaja-besprovodnaja-myshka-aula-sc620-tri-rezhima-podkluchenija-sensor-paw3311-67-g-12000-dpi-white-47677013603758_%2B8b81428c66.jpg</picture>
+        <param name="Гарантія">1 місяць</param>
+        <param name="Колір">Білий</param>
+        <param name="Підключення">Комбіноване</param>
+        <param name="Сумісність з ОС">Microsoft Windows</param>
+        <param name="Сумісність з ОС">Mac OS</param>
+        <param name="Сумісність з ОС">Linux</param>
+        <param name="Вага">67 г</param>
+        <param name="Кількість кнопок миші">8</param>
+        <param name="Тип датчика">Оптичний</param>
+        <param name="Інтерфейс підключення">Bluetooth</param>
+        <param name="Інтерфейс підключення">Радіоінтерфейс</param>
+        <param name="Інтерфейс підключення">USB</param>
+        <param name="Роздільна здатність сенсора">10001 - 12000 dpi</param>
+        <param name="Стан">Новий</param>
+        <param name="Тип">Ігрові (геймерські)</param>
         <country>Китай</country>
       </offer>
       <offer id="1044" available="false">
@@ -15538,8 +15538,8 @@
         <param name="Тип">Кейкапи</param>
         <param name="Матеріал">Полібутілентерефталат (PBT)</param>
       </offer>
-      <offer id="683" available="false">
-        <availability_status>temporarily_unavailable</availability_status>
+      <offer id="683" available="true">
+        <availability_status>available</availability_status>
         <name_ua>Набір напів прозорих кейкапів PBT / 97 клавіш / OEM профіль / White</name_ua>
         <name_ru>Набор полупрозрачных кейкапов PBT / 97 клавиш / OEM профиль / White</name_ru>
         <description_ua><p data-end="412" data-start="141">Оновіть вигляд і відчуття вашої механічної клавіатури з універсальним набором кейкапів <strong data-end="264" data-start="245">PBT Double-Shot</strong> на 97<strong data-end="282" data-start="268"> клавіш</strong>. Напівпрозорі легенди пропускають світло RGB, не стираються з часом і залишаються чіткими навіть після інтенсивного використання.</p>    <p data-end="430" data-start="414"><strong data-end="430" data-start="414">Особливості:</strong></p>    <ul>   <li data-end="531" data-start="433"><strong data-end="446" data-start="433">Матеріал:</strong> зносостійкий <strong data-end="467" data-start="460">PBT</strong> із двошаровим <strong data-end="497" data-start="482">Double-Shot</strong> литтям — легенди не стираються.</li>   <li data-end="585" data-start="534"><strong data-end="546" data-start="534">Профіль:</strong> <strong data-end="554" data-start="547">OEM</strong> — зручний для друку та ігор.</li>   <li data-end="674" data-start="588"><strong data-end="602" data-start="588">Кількість:</strong> <strong>97</strong><strong data-end="617" data-start="603"> клавіш</strong> — повний набір</li>   <li data-end="674" data-start="588"><strong data-end="700" data-start="677">Сумісність макетів:</strong> 61 / 68 / 75 / 84 </li>   <li data-end="674" data-start="588"><strong data-end="757" data-start="748">Стем:</strong> стандарт <strong data-end="780" data-start="767">Cherry MX</strong> (Х-хрест) та сумісні перемикачі.</li>   <li data-end="893" data-start="818"><strong data-end="832" data-start="818">Підсвітка:</strong> напівпрозорі легенди чудово працюють з RGB/LED-підсвіткою.</li>   <li data-end="957" data-start="896"><strong data-end="907" data-start="896">Пробіл:</strong> <strong data-end="917" data-start="908">6.25U</strong>, модифікатори — стандартних розмірів.</li>  </ul>    <p data-end="1010" data-start="960"><strong data-end="1033" data-start="1014">Зверніть увагу:</strong> у комплекті <strong data-end="1062" data-start="1046">лише кейкапи</strong> — клавіатура не входить до набору.</p>    <p data-end="1010" data-start="960"> </p></description_ua>
@@ -15827,14 +15827,14 @@
         <picture>https://techgleam.com.ua/content/images/42/78421349945203_%2B985bd928b0.jpg</picture>
         <param name="Колір">Чорний</param>
       </offer>
-      <offer id="742" available="false">
-        <availability_status>temporarily_unavailable</availability_status>
+      <offer id="742" available="true">
+        <availability_status>available</availability_status>
         <name_ua>Дротові вакуумні навушники KZ ZS10 PRO X / Black</name_ua>
         <name_ru>Проводные вакуумные наушники KZ ZS10 PRO X / Black</name_ru>
         <description_ua><p data-end="314" data-start="102"><strong data-end="119" data-start="102">KZ ZS10 PRO X</strong> — оновлені гібридні внутрішньоканальні навушники формату <strong data-end="184" data-start="177">IEM</strong>, створені для тих, хто хоче почути в музиці максимум деталей без втрати драйву. У серці моделі — акустична схема <strong data-end="311" data-start="298">1DD + 4BA</strong>:</p>    <ul>   <li data-end="396" data-start="317"><strong data-end="345" data-start="317">10-мм динамічний драйвер</strong> відповідає за пружний, добре контрольований бас,</li>   <li data-end="501" data-start="399"><strong data-end="441" data-start="399">4 збалансовані арматури (30019s/50024)</strong> дарують чисту, насичену середину та прозорі, не різкі ВЧ.</li>  </ul>    <p data-end="889" data-start="503">Завдяки такій конфігурації звук виходить об’ємним і швидким: вокал звучить натурально, інструменти добре розділені, а мікродеталі не губляться навіть у щільних аранжуваннях. Модель однаково впевнено почувається у рокові, електроніці, джазі та сучасній поп-музиці. Для стрімінгу чи сцени — це також відмінний вибір: навушники легко «тримають» моніторинг і не втомлюють у тривалих сесіях.</p>    <p data-end="1323" data-start="891">Корпус поєднує <strong data-end="936" data-start="906">металеву фронтальну кришку</strong> та міцну смолу — надійно, стильно і зручно у повсякденному використанні. <strong data-end="1033" data-start="1010">Ергономічна посадка</strong> з проводом за вухо забезпечує гарну шумоізоляцію та фіксацію під час руху. <strong data-end="1141" data-start="1109">Знімний кабель 2-pin 0.75 мм</strong> дозволяє легко оновити провід або перейти на баланс/блютуз-адаптер. Підключення — стандартний <strong data-end="1246" data-start="1236">3,5 мм</strong> джек, тож сумісність із телефонами, ноутбуками, плеєрами не стане проблемою.</p>    <p data-end="1566" data-start="1325"><strong data-end="1342" data-start="1325">KZ ZS10 PRO X</strong> — це «дорослий» звук за розумні гроші: широка сцена, високий рівень деталізації та приємний характер подачі. Ідеально для <strong data-end="1506" data-start="1465">музикантів, звукоінженерів, стрімерів</strong> і всіх, хто хоче слухати музику не фоном, а по-справжньому.</p>    <p data-end="1588" data-start="1568"><strong>Основні характеристики:</strong></p>    <ul>   <li data-end="1588" data-start="1568">гібрид 1DD+4BA з акцентом на деталях і контролі басу;</li>   <li data-end="1686" data-start="1649">міцний корпус із металевою кришкою;</li>   <li data-end="1733" data-start="1689">знімний 2-pin кабель, апгрейдопридатність;</li>   <li data-end="1787" data-start="1736">хороша шумоізоляція й комфорт під час довгих сесій.</li>  </ul>    <p data-end="1787" data-start="1736"><strong>Комплектація</strong>:</p>    <ul>   <li data-end="3537" data-start="3508">Навушники <strong data-end="3535" data-start="3518">KZ ZS10 PRO X</strong></li>   <li data-end="3583" data-start="3540">Знімний кабель <strong data-end="3581" data-start="3555">2-pin 0.75 мм → 3.5 мм</strong></li>   <li data-end="3622" data-start="3586">3 пари силіконових амбушур (S/M/L)</li>  </ul></description_ua>
         <description_ru><p><strong>KZ ZS10 PRO X – обновленные гибридные внутриканальные наушники формата IEM, созданные для тех, кто хочет услышать в музыке максимум деталей без потери драйва. В сердце модели – акустическая схема 1DD + 4BA:</strong></p>    <ul>   <li>10-мм динамический драйвер отвечает за упругий, хорошо контролируемый бас,</li>   <li>4 сбалансированные арматуры (30019s/50024) дарят чистую, насыщенную середину и прозрачные, не резкие ВЧ.</li>  </ul>    <p>Благодаря такой конфигурации звук получается объемным и быстрым: вокал звучит естественно, инструменты хорошо разделены, а микродетали не теряются даже в плотных аранжировках. Модель все равно уверенно чувствует себя в роковой, электронике, джазе и современной поп-музыке. Для стриминга или сцены это также отличный выбор: наушники легко «держат» мониторинг и не утомляют в длительных сессиях.</p>    <p>Корпус сочетает металлическую фронтальную крышку и крепкую смолу – надежно, стильно и удобно в повседневном использовании. Эргономичная посадка с проводом за ухо обеспечивает хорошую шумоизоляцию и фиксацию во время движения. Съемный кабель 2-pin 0.75 мм позволяет легко обновить провод или перейти на баланс/блютуз-адаптер. Подключение – стандартный 3,5 мм джек, поэтому совместимость с телефонами, ноутбуками, плеерами не станет проблемой.</p>    <p>KZ ZS10 PRO X – это «взрослый» звук за разумные деньги: широкая сцена, высокий уровень детализации и приятный характер подачи. Идеально для музыкантов, звукоинженеров, стримеров и всех, кто хочет слушать музыку не фоном, а по-настоящему.</p>    <p><strong>Основные характеристики:</strong></p>    <ul>   <li>гибрид 1DD+4BA с акцентом на деталях и контроле баса;</li>   <li>прочный корпус с металлической крышкой;</li>   <li>съемный 2-pin кабель, апгрейдопригодность;</li>   <li>хорошая шумоизоляция и комфорт во время долгих сессий.</li>  </ul>    <p><br />  <strong>Комплектация:</strong></p>    <ul>   <li>Наушники KZ ZS10 PRO X</li>   <li>Съемный кабель 2-pin 0.75 мм → 3.5 мм</li>   <li>3 пары силиконовых амбушюр (S/M/L)</li>  </ul></description_ru>
-        <price>1599</price>
-        <old_price>1899</old_price>
+        <price>1699</price>
+        <old_price>2099</old_price>
         <categoryId>1086</categoryId>
         <vendor>KZ</vendor>
         <picture>https://techgleam.com.ua/content/images/43/58781602494725_%2Bdc6674771d.jpg</picture>
@@ -18612,8 +18612,8 @@
         <param name="Призначення">Для клавіатур</param>
         <param name="Тип">Кейкапи</param>
       </offer>
-      <offer id="2000" available="true">
-        <availability_status>available</availability_status>
+      <offer id="2000" available="false">
+        <availability_status>temporarily_unavailable</availability_status>
         <name_ua>Кастомні кейкапи Cyberpunk Carbon Fiber / 136 клавіш / English and Russian Layout / полікарбонат PC / для механічних і магнітних клавіатур / Black</name_ua>
         <name_ru>Кастомные кейкапы Cyberpunk Carbon Fiber / 136 клавиш / English and Russian Layout / поликарбонат PC / для механических и магнитных клавиатур / Black</name_ru>
         <description_ua><p data-end="639" data-start="366"><strong data-end="417" data-start="366">Кастомні кейкапи Cyberpunk Carbon Fiber 136 шт.</strong> — стильний набір клавіш для механічних і магнітних клавіатур у темній кіберпанк-естетиці. Дизайн поєднує чорну основу, жовті символи та карбонову текстуру, завдяки чому клавіатура виглядає сучасно, яскраво й технологічно.</p>    <p data-end="914" data-start="641">Кейкапи виготовлені з полікарбонату PC, який добре підходить для щоденного використання та надає клавішам виразного зовнішнього вигляду. Комплект із 136 клавіш із розкладкою English and Russian Layout дозволяє використовувати набір для різних популярних форматів клавіатур.</p>    <p data-end="1038" data-start="916">Набір Cyberpunk Carbon Fiber підійде для кастомізації клавіатури, геймінгу, роботи та створення ефектного ігрового сетапу.</p>    <p data-end="1117" data-start="1040"><strong>Важливо: у комплект входять тільки кейкапи. Клавіатура не входить у комплект.</strong></p>    <p data-end="1138" data-start="1119"><strong data-end="1138" data-start="1119">Характеристики:</strong></p>    <ul>   <li data-end="1172" data-start="1140"><strong data-end="1155" data-start="1140">Тип товару:</strong> кастомні кейкапи</li>   <li data-end="1215" data-start="1174"><strong data-end="1192" data-start="1174">Назва дизайну:</strong> Cyberpunk Carbon Fiber</li>   <li data-end="1248" data-start="1217"><strong data-end="1240" data-start="1217">Кількість кейкапів:</strong> 136 шт.</li>   <li data-end="1291" data-start="1250"><strong data-end="1264" data-start="1250">Розкладка:</strong> English and Russian Layout</li>   <li data-end="1322" data-start="1293"><strong data-end="1306" data-start="1293">Матеріал:</strong> полікарбонат PC</li>   <li data-end="1340" data-start="1324"><strong data-end="1334" data-start="1324">Колір:</strong> Black</li>   <li data-end="1368" data-start="1342"><strong data-end="1361" data-start="1342">Колір символів:</strong> Yellow</li>   <li data-end="1393" data-start="1370"><strong data-end="1383" data-start="1370">Тематика:</strong> Cyberpunk</li>   <li data-end="1455" data-start="1395"><strong data-end="1406" data-start="1395">Дизайн:</strong> карбонова текстура та тематичний кіберпанк-принт</li>   <li data-end="1505" data-start="1457"><strong data-end="1472" data-start="1457">Сумісність:</strong> механічні та магнітні клавіатури</li>   <li data-end="1567" data-start="1507"><strong data-end="1536" data-start="1507">Тип сумісних перемикачів:</strong> MX-style / хрестоподібний шток</li>   <li data-end="1645" data-start="1569"><strong data-end="1585" data-start="1569">Призначення:</strong> кастомізація клавіатури, геймінг, робота, оформлення сетапу</li>   <li data-end="1760" data-start="1647"><strong data-end="1682" data-start="1647">Підтримувані формати клавіатур:</strong> 61 / 64 / 67 / 68 / 75 / 81 / 82 / 84 / 87 / 96 / 98 / 100 / 104 / 108 клавіш</li>   <li data-end="1910" data-start="1762"><strong data-end="1778" data-start="1762">Особливості:</strong> 136 кейкапів, полікарбонат PC, English and Russian Layout, карбонова текстура, сумісність із механічними та магнітними клавіатурами</li>   <li data-end="1938" data-start="1912"><strong data-end="1932" data-start="1912">Країна-виробник:</strong> Китай</li>  </ul></description_ua>
@@ -18885,7 +18885,7 @@
         <description_ru><p data-end="1721" data-start="1418"><strong data-end="1494" data-start="1418">Большой игровой коврик для мыши Berserk Black White Collage 900×400×4 мм</strong> — стильный коврик в черно-белом дизайне, вдохновленном вселенной Berserk. На поверхности изображен коллаж с персонажами и сценами из культовой манги, что делает аксессуар выразительным дополнением игрового или рабочего сетапа.</p>    <p data-end="1962" data-start="1723">Размер 900×400 мм позволяет удобно разместить не только мышь, но и клавиатуру, а толщина 4 мм добавляет комфорта при ежедневном использовании. Такой формат отлично подходит для гейминга, работы, учебы и оформления стола в любимой тематике.</p>    <p data-end="1983" data-start="1964"><strong data-end="1983" data-start="1964">Характеристики:</strong></p>    <ul>   <li data-end="2028" data-start="1985">Тип товара: большой игровой коврик для мыши</li>   <li data-end="2075" data-start="2030">Название дизайна: Berserk Black White Collage</li>   <li data-end="2110" data-start="2077">Тематика: Berserk / аниме / манга</li>   <li data-end="2130" data-start="2112">Размер: 900×400 мм</li>   <li data-end="2145" data-start="2132">Толщина: 4 мм</li>   <li data-end="2177" data-start="2147">Формат: Extended / увеличенный</li>   <li data-end="2199" data-start="2179">Форма: прямоугольная</li>   <li data-end="2218" data-start="2201">Цвет: Black White</li>   <li data-end="2266" data-start="2220">Дизайн: коллаж с персонажами и сценами Berserk</li>   <li data-end="2309" data-start="2268">Стиль оформления: черно-белый манга-принт</li>   <li data-end="2388" data-start="2311">Назначение: для мыши и клавиатуры, гейминга, работы, учебы, оформления сетапа</li>   <li data-end="2497" data-start="2390">Особенности: большая рабочая поверхность, тематический дизайн Berserk, удобный формат для клавиатуры и мыши</li>  </ul></description_ru>
         <price>620</price>
         <categoryId>1089</categoryId>
-        <picture>https://techgleam.com.ua/content/images/19/velikiy-groviy-kilimok-dlja-mish-berserk-black-white-collage-9004004-mm-mana-dizayn-dlja-mish-ta-klavaturi-black-white-96804035829871_%2Bbbd9b53f82.png</picture>
+        <picture>https://techgleam.com.ua/content/images/19/velikiy-groviy-kilimok-dlja-mish-berserk-black-white-collage-9004004-mm-mana-dizayn-dlja-mish-ta-klavaturi-black-white-50356609357541_%2B4c58470be5.PNG</picture>
         <param name="Колір">Чорний</param>
         <param name="Особливості">Ігрові</param>
       </offer>
