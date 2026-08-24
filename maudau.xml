@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<yml_catalog date="2026-08-24 03:23">
+<yml_catalog date="2026-08-24 04:23">
   <shop>
     <categories>
       <category id="1082" portal_id="1839">Клавіатури</category>
@@ -129,23 +129,6 @@
         <param name="Вид">Ігрові</param>
         <country>Китай</country>
       </offer>
-      <offer id="595" available="true">
-        <availability_status>available</availability_status>
-        <name_ua>Металевий USB HUB 8-в-1 - Type-C, USB 3.0, SD/TF, PD, AUX, Сірий</name_ua>
-        <name_ru>Металлический USB HUB 8-в-1 - Type-C, USB 3.0, SD/TF, PD, AUX, Серый</name_ru>
-        <description_ua><p><strong>  Універсальний металевий USB-хаб 8-в-1 з підтримкою Type-C та USB-A    </strong></p>    <p><strong>Цей USB-хаб — </strong>ідеальне рішення для розширення можливостей ноутбука чи ПК. Завдяки комбінованому підключенню Type-C + USB-A він сумісний майже з будь-яким пристроєм.</p>    <p><strong>Інтерфейси:</strong></p>    <ul>   <li>  USB Type-C  </li>   <li>  USB Type-A  </li>   <li>  4x USB 3.0  </li>   <li>  microSD (TF)  </li>   <li>  SD  </li>   <li>  AUX 3.5 мм  </li>   <li>  Type-C PD</li>  </ul></description_ua>
-        <description_ru><p><strong>  Универсальный металлический USB-хаб 8-в-1 с поддержкой Type-C и USB-A    </strong></p>    <p><strong>Данный USB хаб — </strong>идеальное решение для расширения возможностей ноутбука или ПК. Благодаря комбинированному подключению Type-C + USB-A он совместим практически с любым устройством.</p>    <p><strong>Интерфейсы:</strong></p>    <ul>   <li>  USB Type-C  </li>   <li>  USB Type-A  </li>   <li>  4x USB 3.0  </li>   <li>  microSD (TF)  </li>   <li>  SD  </li>   <li>  AUX 3.5 мм  </li>   <li>  Type-C PD</li>  </ul></description_ru>
-        <price>399</price>
-        <categoryId>1090</categoryId>
-        <vendor>Без бренда</vendor>
-        <picture>https://techgleam.com.ua/content/images/46/55154165704913_%2B3040a9dc33.jpg</picture>
-        <picture>https://techgleam.com.ua/content/images/46/75858116416121_%2B24ac1e59be.jpg</picture>
-        <picture>https://techgleam.com.ua/content/images/46/76915968906839_%2Bd5e97d80e8.jpg</picture>
-        <picture>https://techgleam.com.ua/content/images/46/44482821775283_%2Bcda1650f10.jpg</picture>
-        <param name="Гарантія">1 місяць</param>
-        <param name="Колір">Сірий</param>
-        <param name="Стан">Новий</param>
-      </offer>
       <offer id="637" available="true">
         <availability_status>available</availability_status>
         <name_ua>Бездротова ігрова мишка AJAZZ AJ159 PRO / Три режими підключення / Док-станція / Сенсор PAW3395 / 26000 DPI / White</name_ua>
@@ -244,67 +227,6 @@
         <param name="Роздільна здатність сенсора">Понад 20000 dpi</param>
         <param name="Стан">Новий</param>
         <param name="Тип">Ігрові (геймерські)</param>
-        <country>Китай</country>
-      </offer>
-      <offer id="650" available="true">
-        <availability_status>available</availability_status>
-        <name_ua>Ігрова бездротова миша ATTACK SHARK X11 / Сенсор PAW3311 / 22000 DPI / Док-станція в комплекті / Red</name_ua>
-        <name_ru>Игровая беспроводная мышь ATTACK SHARK X11 / Сенсор PAW3311 / 22000 DPI / Док-станция в комплекте / Red</name_ru>
-        <description_ua><p><strong>Ігрова мишка ATTACK SHARK X11 — ультралегка миша з магнітною зарядкою </strong></p>    <p>ATTACK SHARK X11 — це стильна та функціональна миша для геймерів, яка поєднує у собі легкість, комфорт та сучасні технології. Завдяки магнітній зарядній станції, вона завжди готова до гри.</p>    <p><strong>Основні характеристики:</strong></p>    <ul>   <li>Тип: Ігрова миша  </li>   <li>Сенсор: PixArt PAW3311  </li>   <li>DPI: До 22 000 DPI (6 рівнів чутливості)  </li>   <li>Підключення: 2.4GHz Wireless / Bluetooth 5.0 / USB-C  </li>   <li>Вага: 63 г  </li>   <li>Перемикачі: HUANO (до 20 млн кліків)  </li>   <li>Енкодер: TTC  </li>   <li>Автономність: До 65 годин роботи  </li>   <li>Час зарядки: 2–3 години  </li>   <li>Форма: Ергономічний корпус без дірок  </li>   <li>Покриття: Приємне на дотик, захист від пилу  </li>   <li>Сумісність: Windows / macOS / Android / Xbox  </li>   <li>Фірмове ПЗ: Налаштування DPI, RGB, polling rate, макроси, кнопки</li>  </ul></description_ua>
-        <description_ru><p><strong>Игровая мышь ATTACK SHARK X11 — ультралегкая мышь с магнитной зарядкой </strong></p>    <p>ATTACK SHARK X11 — это стильная и функциональная мышь для геймеров, которая сочетает в себе легкость, комфорт и современные технологии. Благодаря магнитной зарядной станции, она всегда готова к игре.</p>    <p><strong>Основные характеристики:</strong></p>    <ul>   <li>Тип: Игровая мышь</li>   <li>Сенсор: PixArt PAW3311</li>   <li>DPI: До 22 000 DPI (6 уровней чувствительности)</li>   <li>Подключение: 2.4GHz Wireless / Bluetooth 5.0 / USB-C</li>   <li>Вес: 63 г</li>   <li>Переключатели: HUANO (до 20 млн кликов)</li>   <li>Энкодер: TTC</li>   <li>Автономность: До 65 часов работы</li>   <li>Время зарядки: 2–3 часа</li>   <li>Форма: Эргономичный корпус без отверстий</li>   <li>Покрытие: Приятное на ощупь, защита от пыли</li>   <li>Совместимость: Windows / macOS / Android / Xbox</li>   <li>Фирменное ПО: Настройка DPI, RGB, polling rate, макросы, кнопки</li>  </ul></description_ru>
-        <price>1199</price>
-        <old_price>1499</old_price>
-        <categoryId>1084</categoryId>
-        <vendor>Attack Shark</vendor>
-        <picture>https://techgleam.com.ua/content/images/1/24320664548621_%2B5b2e560496.jpg</picture>
-        <picture>https://techgleam.com.ua/content/images/1/97280401679255_%2Bfd2d7ba53c.jpg</picture>
-        <picture>https://techgleam.com.ua/content/images/1/11906227848963_%2B5cb6c34d1e.jpg</picture>
-        <param name="Гарантія">1 місяць</param>
-        <param name="Колір">Червоний</param>
-        <param name="Підключення">Комбіноване</param>
-        <param name="Сумісність з ОС">Microsoft Windows</param>
-        <param name="Сумісність з ОС">Mac OS</param>
-        <param name="Сумісність з ОС">Linux</param>
-        <param name="Вага">63 г</param>
-        <param name="Тип датчика">Оптичний</param>
-        <param name="Інтерфейс підключення">Bluetooth</param>
-        <param name="Інтерфейс підключення">Радіоінтерфейс</param>
-        <param name="Інтерфейс підключення">USB</param>
-        <param name="Роздільна здатність сенсора">Понад 20000 dpi</param>
-        <param name="Стан">Новий</param>
-        <param name="Тип">Ігрові (геймерські)</param>
-        <country>Китай</country>
-      </offer>
-      <offer id="667" available="true">
-        <availability_status>available</availability_status>
-        <name_ua>Ігрова механічна клавіатура Ajazz Ak820 / Дротове підключення / Moon Yellow Switch / Grey</name_ua>
-        <name_ru>Игровая механическая клавиатура Ajazz Ak820 / Проводное подключение / Moon Yellow Switch / Grey</name_ru>
-        <description_ua><p><strong>Ajazz AK820 — механічна клавіатура 75% для роботи та ігор! </strong></p>    <p>Ергономіка, стиль і функціональність — усе в одному корпусі. Hot-swap, колесо керування, тиха робота й підсвітка роблять цю клаву топом для щоденного використання!</p>    <p><strong>Основні характеристики:  </strong></p>    <ul>   <li>Форм-фактор: 75% (82 клавіші)  </li>   <li>Перемикачі: механічні, з можливістю гарячої заміни (hot-swap)  </li>   <li>Керування: колесо прокрутки для гучності та медіа  </li>   <li>Кейкапи: PBT — зносостійкі та вологозахищені  </li>   <li>Конструкція: звукоізоляційна для тихого набору  </li>   <li>Сумісність: Windows / macOS  </li>   <li>Програмне забезпечення: підтримка макросів, профілів</li>  </ul></description_ua>
-        <description_ru><p><strong>Ajazz AK820 — механическая клавиатура 75% для работы и игр! </strong></p>    <p>Эргономика, стиль и функциональность — все в одном корпусе. Hot-swap, колесо управления, тихая работа и подсветка делают эту клавиатуру топом для ежедневного использования!</p>    <p><strong>Основные характеристики:</strong></p>    <ul>   <li>Форм-фактор: 75% (82 клавиши)</li>   <li>Переключатели: механические, с возможностью горячей замены (hot-swap)</li>   <li>Управление: колесо прокрутки для громкости и медиа</li>   <li>Кейкапы: PBT — износостойкие и влагозащищенные</li>   <li>Конструкция: звукоизоляционная для тихого набора</li>   <li>Совместимость: Windows / macOS</li>   <li>Программное обеспечение: поддержка макросов, профилей</li>  </ul>    <p> </p></description_ru>
-        <price>1899</price>
-        <old_price>2099</old_price>
-        <categoryId>1082</categoryId>
-        <vendor>Ajazz</vendor>
-        <picture>https://techgleam.com.ua/content/images/18/56394042709024_%2B97c7010b87.jpg</picture>
-        <picture>https://techgleam.com.ua/content/images/18/46638648388184_%2B9a1a3383d4.jpg</picture>
-        <picture>https://techgleam.com.ua/content/images/18/43714234182286_%2B6e74cc5505.jpg</picture>
-        <picture>https://techgleam.com.ua/content/images/18/75056508738365_%2B8830a13ba0.jpg</picture>
-        <picture>https://techgleam.com.ua/content/images/18/41735151257408_%2B3c1e524ea3.jpg</picture>
-        <picture>https://techgleam.com.ua/content/images/18/66136897095848_%2B9bcf69daaf.jpg</picture>
-        <param name="Гарантія">3 місяці</param>
-        <param name="Колір">Сірий</param>
-        <param name="Конструкція клавіш">Механічна</param>
-        <param name="Підключення">Дротове</param>
-        <param name="Інтерфейс підключення">USB Type-C</param>
-        <param name="Розкладка">Eng</param>
-        <param name="Форм-фактор">Компактні</param>
-        <param name="Сумісність з ОС">Windows</param>
-        <param name="Сумісність з ОС">Mac OS</param>
-        <param name="Сумісність з ОС">Linux</param>
-        <param name="Стан">Новий</param>
-        <param name="Комплектація">Клавіатура</param>
-        <param name="Призначення">Для ПК</param>
-        <param name="Вид">Ігрові</param>
         <country>Китай</country>
       </offer>
       <offer id="704" available="true">
@@ -4924,6 +4846,23 @@
         <param name="Колір">Чорний</param>
         <param name="Стан">Новий</param>
       </offer>
+      <offer id="595" available="false">
+        <availability_status>temporarily_unavailable</availability_status>
+        <name_ua>Металевий USB HUB 8-в-1 - Type-C, USB 3.0, SD/TF, PD, AUX, Сірий</name_ua>
+        <name_ru>Металлический USB HUB 8-в-1 - Type-C, USB 3.0, SD/TF, PD, AUX, Серый</name_ru>
+        <description_ua><p><strong>  Універсальний металевий USB-хаб 8-в-1 з підтримкою Type-C та USB-A    </strong></p>    <p><strong>Цей USB-хаб — </strong>ідеальне рішення для розширення можливостей ноутбука чи ПК. Завдяки комбінованому підключенню Type-C + USB-A він сумісний майже з будь-яким пристроєм.</p>    <p><strong>Інтерфейси:</strong></p>    <ul>   <li>  USB Type-C  </li>   <li>  USB Type-A  </li>   <li>  4x USB 3.0  </li>   <li>  microSD (TF)  </li>   <li>  SD  </li>   <li>  AUX 3.5 мм  </li>   <li>  Type-C PD</li>  </ul></description_ua>
+        <description_ru><p><strong>  Универсальный металлический USB-хаб 8-в-1 с поддержкой Type-C и USB-A    </strong></p>    <p><strong>Данный USB хаб — </strong>идеальное решение для расширения возможностей ноутбука или ПК. Благодаря комбинированному подключению Type-C + USB-A он совместим практически с любым устройством.</p>    <p><strong>Интерфейсы:</strong></p>    <ul>   <li>  USB Type-C  </li>   <li>  USB Type-A  </li>   <li>  4x USB 3.0  </li>   <li>  microSD (TF)  </li>   <li>  SD  </li>   <li>  AUX 3.5 мм  </li>   <li>  Type-C PD</li>  </ul></description_ru>
+        <price>399</price>
+        <categoryId>1090</categoryId>
+        <vendor>Без бренда</vendor>
+        <picture>https://techgleam.com.ua/content/images/46/55154165704913_%2B3040a9dc33.jpg</picture>
+        <picture>https://techgleam.com.ua/content/images/46/75858116416121_%2B24ac1e59be.jpg</picture>
+        <picture>https://techgleam.com.ua/content/images/46/76915968906839_%2Bd5e97d80e8.jpg</picture>
+        <picture>https://techgleam.com.ua/content/images/46/44482821775283_%2Bcda1650f10.jpg</picture>
+        <param name="Гарантія">1 місяць</param>
+        <param name="Колір">Сірий</param>
+        <param name="Стан">Новий</param>
+      </offer>
       <offer id="597" available="false">
         <availability_status>temporarily_unavailable</availability_status>
         <name_ua>Проєктор Astronaut Nebula — нічник з LED-туманністю, зірками, пультом і обертанням 360° (білий корпус), Білий</name_ua>
@@ -5414,6 +5353,35 @@
         <param name="Тип">Ігрові (геймерські)</param>
         <country>Китай</country>
       </offer>
+      <offer id="650" available="false">
+        <availability_status>temporarily_unavailable</availability_status>
+        <name_ua>Ігрова бездротова миша ATTACK SHARK X11 / Сенсор PAW3311 / 22000 DPI / Док-станція в комплекті / Red</name_ua>
+        <name_ru>Игровая беспроводная мышь ATTACK SHARK X11 / Сенсор PAW3311 / 22000 DPI / Док-станция в комплекте / Red</name_ru>
+        <description_ua><p><strong>Ігрова мишка ATTACK SHARK X11 — ультралегка миша з магнітною зарядкою </strong></p>    <p>ATTACK SHARK X11 — це стильна та функціональна миша для геймерів, яка поєднує у собі легкість, комфорт та сучасні технології. Завдяки магнітній зарядній станції, вона завжди готова до гри.</p>    <p><strong>Основні характеристики:</strong></p>    <ul>   <li>Тип: Ігрова миша  </li>   <li>Сенсор: PixArt PAW3311  </li>   <li>DPI: До 22 000 DPI (6 рівнів чутливості)  </li>   <li>Підключення: 2.4GHz Wireless / Bluetooth 5.0 / USB-C  </li>   <li>Вага: 63 г  </li>   <li>Перемикачі: HUANO (до 20 млн кліків)  </li>   <li>Енкодер: TTC  </li>   <li>Автономність: До 65 годин роботи  </li>   <li>Час зарядки: 2–3 години  </li>   <li>Форма: Ергономічний корпус без дірок  </li>   <li>Покриття: Приємне на дотик, захист від пилу  </li>   <li>Сумісність: Windows / macOS / Android / Xbox  </li>   <li>Фірмове ПЗ: Налаштування DPI, RGB, polling rate, макроси, кнопки</li>  </ul></description_ua>
+        <description_ru><p><strong>Игровая мышь ATTACK SHARK X11 — ультралегкая мышь с магнитной зарядкой </strong></p>    <p>ATTACK SHARK X11 — это стильная и функциональная мышь для геймеров, которая сочетает в себе легкость, комфорт и современные технологии. Благодаря магнитной зарядной станции, она всегда готова к игре.</p>    <p><strong>Основные характеристики:</strong></p>    <ul>   <li>Тип: Игровая мышь</li>   <li>Сенсор: PixArt PAW3311</li>   <li>DPI: До 22 000 DPI (6 уровней чувствительности)</li>   <li>Подключение: 2.4GHz Wireless / Bluetooth 5.0 / USB-C</li>   <li>Вес: 63 г</li>   <li>Переключатели: HUANO (до 20 млн кликов)</li>   <li>Энкодер: TTC</li>   <li>Автономность: До 65 часов работы</li>   <li>Время зарядки: 2–3 часа</li>   <li>Форма: Эргономичный корпус без отверстий</li>   <li>Покрытие: Приятное на ощупь, защита от пыли</li>   <li>Совместимость: Windows / macOS / Android / Xbox</li>   <li>Фирменное ПО: Настройка DPI, RGB, polling rate, макросы, кнопки</li>  </ul></description_ru>
+        <price>1199</price>
+        <old_price>1499</old_price>
+        <categoryId>1084</categoryId>
+        <vendor>Attack Shark</vendor>
+        <picture>https://techgleam.com.ua/content/images/1/24320664548621_%2B5b2e560496.jpg</picture>
+        <picture>https://techgleam.com.ua/content/images/1/97280401679255_%2Bfd2d7ba53c.jpg</picture>
+        <picture>https://techgleam.com.ua/content/images/1/11906227848963_%2B5cb6c34d1e.jpg</picture>
+        <param name="Гарантія">1 місяць</param>
+        <param name="Колір">Червоний</param>
+        <param name="Підключення">Комбіноване</param>
+        <param name="Сумісність з ОС">Microsoft Windows</param>
+        <param name="Сумісність з ОС">Mac OS</param>
+        <param name="Сумісність з ОС">Linux</param>
+        <param name="Вага">63 г</param>
+        <param name="Тип датчика">Оптичний</param>
+        <param name="Інтерфейс підключення">Bluetooth</param>
+        <param name="Інтерфейс підключення">Радіоінтерфейс</param>
+        <param name="Інтерфейс підключення">USB</param>
+        <param name="Роздільна здатність сенсора">Понад 20000 dpi</param>
+        <param name="Стан">Новий</param>
+        <param name="Тип">Ігрові (геймерські)</param>
+        <country>Китай</country>
+      </offer>
       <offer id="651" available="false">
         <availability_status>temporarily_unavailable</availability_status>
         <name_ua>Ігрова дротова мишка Logitech G502 HERO / High Performance / Сенсор PMW3366 / 12 000 DPI / Black , Чорний</name_ua>
@@ -5524,6 +5492,38 @@
         <param name="Гарантія">1 місяць</param>
         <param name="Колір">Чорний</param>
         <param name="Стан">Новий</param>
+      </offer>
+      <offer id="667" available="false">
+        <availability_status>temporarily_unavailable</availability_status>
+        <name_ua>Ігрова механічна клавіатура Ajazz Ak820 / Дротове підключення / Moon Yellow Switch / Grey</name_ua>
+        <name_ru>Игровая механическая клавиатура Ajazz Ak820 / Проводное подключение / Moon Yellow Switch / Grey</name_ru>
+        <description_ua><p><strong>Ajazz AK820 — механічна клавіатура 75% для роботи та ігор! </strong></p>    <p>Ергономіка, стиль і функціональність — усе в одному корпусі. Hot-swap, колесо керування, тиха робота й підсвітка роблять цю клаву топом для щоденного використання!</p>    <p><strong>Основні характеристики:  </strong></p>    <ul>   <li>Форм-фактор: 75% (82 клавіші)  </li>   <li>Перемикачі: механічні, з можливістю гарячої заміни (hot-swap)  </li>   <li>Керування: колесо прокрутки для гучності та медіа  </li>   <li>Кейкапи: PBT — зносостійкі та вологозахищені  </li>   <li>Конструкція: звукоізоляційна для тихого набору  </li>   <li>Сумісність: Windows / macOS  </li>   <li>Програмне забезпечення: підтримка макросів, профілів</li>  </ul></description_ua>
+        <description_ru><p><strong>Ajazz AK820 — механическая клавиатура 75% для работы и игр! </strong></p>    <p>Эргономика, стиль и функциональность — все в одном корпусе. Hot-swap, колесо управления, тихая работа и подсветка делают эту клавиатуру топом для ежедневного использования!</p>    <p><strong>Основные характеристики:</strong></p>    <ul>   <li>Форм-фактор: 75% (82 клавиши)</li>   <li>Переключатели: механические, с возможностью горячей замены (hot-swap)</li>   <li>Управление: колесо прокрутки для громкости и медиа</li>   <li>Кейкапы: PBT — износостойкие и влагозащищенные</li>   <li>Конструкция: звукоизоляционная для тихого набора</li>   <li>Совместимость: Windows / macOS</li>   <li>Программное обеспечение: поддержка макросов, профилей</li>  </ul>    <p> </p></description_ru>
+        <price>1899</price>
+        <old_price>2099</old_price>
+        <categoryId>1082</categoryId>
+        <vendor>Ajazz</vendor>
+        <picture>https://techgleam.com.ua/content/images/18/56394042709024_%2B97c7010b87.jpg</picture>
+        <picture>https://techgleam.com.ua/content/images/18/46638648388184_%2B9a1a3383d4.jpg</picture>
+        <picture>https://techgleam.com.ua/content/images/18/43714234182286_%2B6e74cc5505.jpg</picture>
+        <picture>https://techgleam.com.ua/content/images/18/75056508738365_%2B8830a13ba0.jpg</picture>
+        <picture>https://techgleam.com.ua/content/images/18/41735151257408_%2B3c1e524ea3.jpg</picture>
+        <picture>https://techgleam.com.ua/content/images/18/66136897095848_%2B9bcf69daaf.jpg</picture>
+        <param name="Гарантія">3 місяці</param>
+        <param name="Колір">Сірий</param>
+        <param name="Конструкція клавіш">Механічна</param>
+        <param name="Підключення">Дротове</param>
+        <param name="Інтерфейс підключення">USB Type-C</param>
+        <param name="Розкладка">Eng</param>
+        <param name="Форм-фактор">Компактні</param>
+        <param name="Сумісність з ОС">Windows</param>
+        <param name="Сумісність з ОС">Mac OS</param>
+        <param name="Сумісність з ОС">Linux</param>
+        <param name="Стан">Новий</param>
+        <param name="Комплектація">Клавіатура</param>
+        <param name="Призначення">Для ПК</param>
+        <param name="Вид">Ігрові</param>
+        <country>Китай</country>
       </offer>
       <offer id="668" available="false">
         <availability_status>temporarily_unavailable</availability_status>
@@ -15309,8 +15309,8 @@
         <param name="Призначення">Геймерські</param>
         <country>Китай</country>
       </offer>
-      <offer id="656" available="true">
-        <availability_status>available</availability_status>
+      <offer id="656" available="false">
+        <availability_status>temporarily_unavailable</availability_status>
         <name_ua>Навушники MCHOSE V9 Pro / Бездротова ігрова гарнітура / 2.4G / Bluetooth з мікрофоном / White</name_ua>
         <name_ru>Наушники MCHOSE V9 Pro / Беспроводная игровая гарнитура / 2.4G / Bluetooth с микрофоном / White</name_ru>
         <description_ua><p><strong data-end="27" data-start="3">MCHOSE V9 Pro</strong><strong>— </strong>бездротова ігрова гарнітура, що дарує максимальний комфорт і точне позиціонування звуків у грі.<br data-end="128" data-start="125" />  53-мм біоцелюлозні драйвери + підтримка 7.1 забезпечують чисте й об’ємне звучання, а ємний акумулятор дозволяє грати <strong data-end="261" data-start="245">до 250 годин</strong> без підзарядки. Must-have аксесуар для стрімів, матчів і щоденних дзвінків!</p>    <h3 data-end="374" data-start="344">Основні характеристики:</h3>    <ul>   <li>Тип підключення: 2.4 ГГц / Bluetooth 5.3 / дротове USB-C</li>   <li>Сумісність: ПК, ноутбук, PS4/PS5, Nintendo Switch, смартфони</li>   <li>Драйвери: 53 мм біоцелюлозні — детальний бас і чисті верхи</li>   <li>Звук: об’ємний 7.1, точне позиціонування кроків і пострілів</li>   <li>Мікрофон: знімний, на гнучкій штанзі, AI-шумопридушення, швидке mute</li>   <li>Керування: коліщатко гучності й кнопки на чаші</li>   <li>Акумулятор: 2000 мА·год, до 250 год роботи</li>   <li>Комфорт: м’які амбушури з пам’яттю форми, регульоване наголів’я, легка посадка</li>   <li>Конструкція: складана, зносостійке покриття </li>  </ul>    <p><strong>Комплектація:</strong></p>    <ul>   <li>Гарнітура MCHOSE V9 Pro </li>   <li>2.4 ГГц USB-A ресивер</li>   <li>Кабель USB</li>   <li>Знімний мікрофон</li>   <li>Інструкція користувача</li>  </ul></description_ua>
@@ -17157,8 +17157,8 @@
         <param name="Призначення">Геймерські</param>
         <country>Китай</country>
       </offer>
-      <offer id="1696" available="true">
-        <availability_status>available</availability_status>
+      <offer id="1696" available="false">
+        <availability_status>temporarily_unavailable</availability_status>
         <name_ua>Ігрові бездротові навушники Mchose X9 / Три режими підключення / 2.4GHz Wireless / Type-C Wireless / Bluetooth 5.3 / Pink</name_ua>
         <name_ru>Игровые беспроводные наушники Mchose X9 / Три режима подключения / 2.4GHz Wireless / Type-C Wireless / Bluetooth 5.3 / Pink</name_ru>
         <description_ua><p data-end="385" data-start="46"><strong>MCHOSE X9  </strong>— це бездротові ігрові навушники, створені для комфортного геймінгу, спілкування та щоденного використання на різних пристроях. Модель поєднує об’ємне звучання, низьку затримку, тривалу автономність і широкий вибір режимів підключення, що робить її універсальним рішенням для ПК, консолей і смартфонів.</p>    <p data-end="744" data-start="387">Навушники оснащені 53-мм драйверами з алюмінієвим покриттям і аудіочипом C-Media Pro-Grade, завдяки чому забезпечують виразне та насичене звучання. Підтримка 7.1 surround sound особливо корисна в шутерах та інших іграх, де важливо точно визначати напрямок звуку. Частотний діапазон навушників становить 20–20000 Гц, чутливість — 113±3 дБ, а опір — 32Ω ±15%.</p>    <p data-end="1085" data-start="746">MCHOSE X9 підтримують кілька варіантів підключення: дротове, 2.4 ГГц, Type-C wireless і Bluetooth 5.3. У режимі 2.4 ГГц затримка становить лише 15 мс, що добре підходить для динамічних ігор. Bluetooth-з’єднання працює на відстані до 40 м, а сумісність із ПК, PS, Switch і телефонами робить модель зручною для різних сценаріїв використання.</p>    <p data-end="1480" data-start="1087">Навушники оснащені мікрофоном з AI Noise-Cancelling, який допомагає чіткіше передавати голос під час гри, дзвінків або стримів. Акумулятор ємністю 2000 мАг забезпечує до 200 годин роботи в Bluetooth-режимі та до 130 годин у режимі 2.4 ГГц. Конструкція вагою близько 300 г доповнена регульованим алюмінієвим наголів’ям і амбушурами 52 × 66 мм для комфортного використання протягом довгого часу.</p>    <p data-end="1644" data-start="1482">Модель також підтримує RGB-підсвітку з music sync, налаштування еквалайзера через MCHOSE M HUB і OTA-оновлення прошивки, що додає більше гнучкості у використанні.</p>    <p data-end="1669" data-start="1646"><strong data-end="1667" data-start="1646">Основні переваги:</strong></p>    <ul data-end="2439" data-start="1670">   <li data-end="1712" data-section-id="tkd16o" data-start="1670">53-мм драйвери з алюмінієвим покриттям</li>   <li data-end="1743" data-section-id="uzrv20" data-start="1713">Аудіочип C-Media Pro-Grade</li>   <li data-end="1768" data-section-id="1xdmyh4" data-start="1744">Об’ємне звучання 7.1</li>   <li data-end="1803" data-section-id="1jh9phj" data-start="1769">Мікрофон з AI Noise-Cancelling</li>   <li data-end="1869" data-section-id="2hqxja" data-start="1804">Підключення: дротове, 2.4 ГГц, Type-C wireless, Bluetooth 5.3</li>   <li data-end="1912" data-section-id="14mrvgy" data-start="1870">Низька затримка 15 мс у режимі 2.4 ГГц</li>   <li data-end="1951" data-section-id="dmi8v1" data-start="1913">Радіус Bluetooth-з’єднання до 40 м</li>   <li data-end="1996" data-section-id="12ws6fu" data-start="1952">Сумісність з ПК, PS, Switch і телефонами</li>   <li data-end="2042" data-section-id="15mqwfg" data-start="1997">Частотний діапазон навушників 20–20000 Гц</li>   <li data-end="2077" data-section-id="1x8t33x" data-start="2043">Чутливість навушників 113±3 дБ</li>   <li data-end="2095" data-section-id="chwhs7" data-start="2078">Опір 32Ω ±15%</li>   <li data-end="2140" data-section-id="154d1oz" data-start="2096">Частотний діапазон мікрофона 100–8000 Гц</li>   <li data-end="2174" data-section-id="gih3em" data-start="2141">Чутливість мікрофона -38±3 дБ</li>   <li data-end="2198" data-section-id="on2c3v" data-start="2175">Акумулятор 2000 мАг</li>   <li data-end="2241" data-section-id="1ap956n" data-start="2199">До 200 годин роботи в Bluetooth-режимі</li>   <li data-end="2282" data-section-id="1ab8mga" data-start="2242">До 130 годин роботи в режимі 2.4 ГГц</li>   <li data-end="2305" data-section-id="10hc9fo" data-start="2283">Вага близько 300 г</li>   <li data-end="2342" data-section-id="36j2ds" data-start="2306">Регульоване алюмінієве наголів’я</li>   <li data-end="2373" data-section-id="uuoyfn" data-start="2343">RGB-підсвітка з music sync</li>   <li data-end="2412" data-section-id="173jx1f" data-start="2374">Налаштування EQ через MCHOSE M HUB</li>   <li data-end="2439" data-section-id="8rtfsg" data-start="2413">OTA-оновлення прошивки</li>  </ul></description_ua>
@@ -17531,8 +17531,8 @@
         <param name="Колір">Сірий</param>
         <param name="Особливості">Ігрові</param>
       </offer>
-      <offer id="1880" available="true">
-        <availability_status>available</availability_status>
+      <offer id="1880" available="false">
+        <availability_status>temporarily_unavailable</availability_status>
         <name_ua>Ігровий килимок Urban Sky Dream 90×40 см / 4 мм / Blue</name_ua>
         <name_ru>Игровой коврик Urban Sky Dream 90×40 см / 4 мм / Blue</name_ru>
         <description_ua><p data-end="370" data-start="77"><strong data-end="134" data-start="77">Великий килимок для миші “Urban Sky Dream” 90 × 40 см</strong> — стильний desk mat з атмосферним художнім принтом, який стане чудовим доповненням до робочого або ігрового місця. Завдяки великому формату <strong data-end="289" data-start="275">90 × 40 см</strong> килимок підходить для миші, клавіатури, ноутбука та інших настільних аксесуарів.</p>    <p data-end="646" data-start="372">Дизайн виконаний у вигляді <strong data-end="480" data-start="399">міського пейзажу з м’якими хмарами, вечірнім освітленням і силуетом персонажа</strong>, що створює спокійну, естетичну та трохи мрійливу атмосферу. Такий килимок добре пасуватиме до сучасного домашнього сетапу, робочого столу або геймерського простору.</p>    <p data-end="884" data-start="648">Товщина <strong data-end="664" data-start="656">4 мм</strong> додає комфорту під час тривалого користування, а гладка поверхня забезпечує плавне ковзання миші та точне керування курсором. Килимок також допомагає захистити поверхню столу від потертостей, подряпин і щоденного зносу.</p>    <p data-end="913" data-start="886"><strong data-end="913" data-start="886">Основні характеристики:</strong></p>    <ul data-end="1262" data-start="914">   <li data-end="956" data-section-id="1lplait" data-start="914">Тип: великий килимок для миші / desk mat</li>   <li data-end="981" data-section-id="e9x8d2" data-start="957">Розмір: <strong data-end="981" data-start="967">90 × 40 см</strong></li>   <li data-end="1001" data-section-id="16oq4tw" data-start="982">Товщина: <strong data-end="1001" data-start="993">4 мм</strong></li>   <li data-end="1048" data-section-id="124ign6" data-start="1002">Дизайн: <strong data-end="1048" data-start="1012">міський арт / атмосферний пейзаж</strong></li>   <li data-end="1094" data-section-id="glkby" data-start="1049">Призначення: для миші, клавіатури, ноутбука</li>   <li data-end="1143" data-section-id="6htqgf" data-start="1095">Поверхня: гладка для комфортного ковзання миші</li>   <li data-end="1184" data-section-id="197k0f9" data-start="1144">Підходить для роботи, навчання та ігор</li>   <li data-end="1209" data-section-id="r0tp0q" data-start="1185">Захищає поверхню столу</li>   <li data-end="1262" data-section-id="1378ng7" data-start="1210">Добре доповнює домашній, офісний або ігровий сетап</li>  </ul></description_ua>
@@ -17591,8 +17591,8 @@
         <param name="Колір">Чорний</param>
         <param name="Особливості">Ігрові</param>
       </offer>
-      <offer id="1885" available="true">
-        <availability_status>available</availability_status>
+      <offer id="1885" available="false">
+        <availability_status>temporarily_unavailable</availability_status>
         <name_ua>Ігровий килимок Sunny White Cat 90×40 см / 4 мм / Green</name_ua>
         <name_ru>Игровой коврик Sunny White Cat 90×40 см / 4 мм / Green</name_ru>
         <description_ua><p data-end="509" data-start="219"><strong data-end="272" data-start="219">Ігровий килимок Sunny White Cat 90 × 40 см / 4 мм</strong> — великий desk mat із милим художнім принтом, який чудово підійде для домашнього, робочого або ігрового сетапу. Завдяки розміру <strong data-end="415" data-start="401">90 × 40 см</strong> килимок зручно використовувати для миші, клавіатури, ноутбука та інших настільних аксесуарів.</p>    <p data-end="756" data-start="511">Модель оформлена ніжним принтом із <strong data-end="572" data-start="546">білим кошеням на траві</strong> в теплій сонячній атмосфері. Поєднання м’яких зелених, жовтих і світлих відтінків створює затишний настрій, додає робочому місцю легкості та добре поєднується зі світлими інтер’єрами.</p>    <p data-end="1006" data-start="758">Товщина <strong data-end="774" data-start="766">4 мм</strong> забезпечує комфорт для рук під час тривалого користування, а гладка поверхня сприяє плавному ковзанню миші та точному керуванню курсором. Килимок також допомагає захистити поверхню столу від подряпин, потертостей і щоденного зносу.</p>    <p data-end="1035" data-start="1008"><strong data-end="1035" data-start="1008">Основні характеристики:</strong></p>    <ul data-end="1410" data-start="1036">   <li data-end="1077" data-section-id="cutkdz" data-start="1036">Тип: великий ігровий килимок / desk mat</li>   <li data-end="1102" data-section-id="e9x8d2" data-start="1078">Розмір: <strong data-end="1102" data-start="1088">90 × 40 см</strong></li>   <li data-end="1122" data-section-id="16oq4tw" data-start="1103">Товщина: <strong data-end="1122" data-start="1114">4 мм</strong></li>   <li data-end="1176" data-section-id="9r7anq" data-start="1123">Дизайн: <strong data-end="1176" data-start="1133">біле кошеня / природа / сонячний пейзаж</strong></li>   <li data-end="1195" data-section-id="1p4fa8w" data-start="1177">Колір: <strong data-end="1195" data-start="1186">Green</strong></li>   <li data-end="1241" data-section-id="glkby" data-start="1196">Призначення: для миші, клавіатури, ноутбука</li>   <li data-end="1290" data-section-id="6htqgf" data-start="1242">Поверхня: гладка для комфортного ковзання миші</li>   <li data-end="1331" data-section-id="197k0f9" data-start="1291">Підходить для роботи, навчання та ігор</li>   <li data-end="1356" data-section-id="r0tp0q" data-start="1332">Захищає поверхню столу</li>   <li data-end="1410" data-section-id="13cyvi2" data-start="1357">Добре доповнює домашній, затишний або світлий сетап</li>  </ul></description_ua>
@@ -18996,8 +18996,8 @@
         <picture>https://techgleam.com.ua/content/images/28/velikiy-groviy-kilimok-dlja-mish-chainsaw-man-makima-crimson-chaos-9004003-mm-anme-dizayn-dlja-mish-ta-klavaturi-red-black-79327153859828_%2B2a4769ed67.png</picture>
         <param name="Особливості">Ігрові</param>
       </offer>
-      <offer id="2035" available="true">
-        <availability_status>available</availability_status>
+      <offer id="2035" available="false">
+        <availability_status>temporarily_unavailable</availability_status>
         <name_ua>Бездротова ігрова гарнітура Proove Gaming Bliss / Два режими підключення / з мікрофоном / Black</name_ua>
         <name_ru>Беспроводная игровая гарнитура Proove Gaming Bliss / Два режима подключения / с микрофоном / Black</name_ru>
         <description_ua><p>Proove Gaming Bliss   надійна гарнітура для ігрового досвіду!</p><p><strong>Функціонал.</strong> Proove Gaming Bliss   це бездротова ігрова гарнітура, розроблена для повного занурення в ігровий процес. Завдяки високоякісному звуку та глибоким басам вона передає кожну деталь гри, а всеспрямований мікрофон забезпечує чіткий голосовий зв язок. </p><p><strong>Особливості.</strong> Модель відрізняється комфортною посадкою з м'якими амбушурами, які ідеально підходять для тривалих ігрових сесій. Вбудовані функції шумопоглинання гарантують чистоту звуку, навіть у гучних умовах, а зручні кнопки управління дозволяють швидко регулювати звук або вимикати мікрофон. </p><p><strong>Дизайн.</strong> Гарнітура виконана в сучасному геймерському стилі з агресивними лініями та світлодіодним підсвічуванням. Міцна конструкція поєднується з легкістю і зручністю, що робить її ідеальною для активного використання. Навушники сумісні з фірмовим застосунком Proove, що відкриває розширені можливості налаштування. Користувачі можуть персоналізувати звучання через еквалайзер та змінювати елементи керування під власні вподобання.</p><p><strong>Характеристики:</strong></p><ul><li><strong>Матеріал:</strong> ABS</li><li><strong>Версія Bluetooth:</strong> 5.4</li><li><strong>Протоколи:</strong> A2DP, HFP, HSP, AVRCP</li><li><strong>Декодер:</strong> SBC</li><li><strong>Розмір динаміка:</strong> Ø40мм</li><li><strong>Порт:</strong> Type-C</li><li><strong>Чутливість динаміка:</strong> 112 3дБ</li><li><strong>Чутливість мікрофона:</strong> -42 3дБ</li><li><strong>Тип батареї:</strong> літієва</li><li><strong>Ємність акумулятора:</strong> 600мАг</li><li><strong>Час роботи:</strong> ~34 год</li><li><strong>Час заряджання:</strong> 2 год</li><li><strong>Режими роботи:</strong> Bluetooth, AUX</li><li><strong>Робоча напруга:</strong> 3.7V</li><li><strong>Діапазон частот:</strong> 20Гц-20кГц</li><li><strong>Опір:</strong> 32Ω 15%</li><li><strong>Розмір продукту:</strong> 185x82.5x193мм</li><li><strong>Вага:</strong> 230г</li></ul></description_ua>
