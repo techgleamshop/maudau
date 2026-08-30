@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<yml_catalog date="2026-08-30 23:23">
+<yml_catalog date="2026-08-31 00:23">
   <shop>
     <categories>
       <category id="1082" portal_id="1839">Клавіатури</category>
@@ -163,6 +163,41 @@
         <param name="Вид">Ігрові</param>
         <country>Китай</country>
       </offer>
+      <offer id="639" available="true">
+        <availability_status>available</availability_status>
+        <name_ua>Ігрова мишка ATTACK SHARK R5 Ultra / Три режими підключення / PAW3950MAX / Carbon Fiber / 39 г / Black</name_ua>
+        <name_ru>Игровая мышка ATTACK SHARK R5 Ultra / Три режима подключения / PAW3950MAX / Carbon Fiber / 39 г / Black</name_ru>
+        <description_ua><p><strong>ATTACK SHARK R5 Ultra — найлегша ігрова миша з сенсором PAW3950MAX і 8000 Гц бездротово! </strong></p>    <p>ATTACK SHARK R5 Ultra — це ультимативна миша для кіберспорту: неймовірна швидкість, точність і комфорт в одному корпусі з вуглецевого волокна.</p>    <p><strong>Основні характеристики:  </strong></p>    <ul>   <li>Вага: лише 39 г  </li>   <li>Матеріал: корпус із вуглецевого волокна  </li>   <li>Сенсор: PixArt PAW3950MAX  </li>   <li>DPI: до 42000  </li>   <li>Швидкість: до 750 IPS  </li>   <li>Прискорення: до 50G  </li>   <li>Polling Rate: до 8000 Гц (у бездротовому режимі!)  </li>   <li>Перемикачі: Omron (ресурс 100 млн натискань)  </li>   <li>Енкодер: F-Switch E10  </li>   <li>Підключення: USB-C / 2.4G Wireless / Bluetooth 5.2  </li>   <li>Сумісність: Windows / Mac / Android  </li>   <li>Розміри: 119.5×61×36.3 мм</li>  </ul>    <p><strong>Особливості:  </strong></p>    <ul>   <li>Корпус із вуглецевого волокна — міцність та легкість  </li>   <li>Частота 8000 Гц бездротово — миттєва реакція  </li>   <li>Сумісність із веб-драйвером — налаштування RGB, DPI, макросів  </li>   <li>Bluetooth, 2.4G або дротове — універсальна з будь-якими пристроями  </li>   <li>Надійні Omron-світчі + енкодер F-Switch  </li>   <li>Професійний дизайн — ідеальний баланс</li>  </ul></description_ua>
+        <description_ru><p><strong>ATTACK SHARK R5 Ultra — самая легкая игровая мышь с сенсором PAW3950MAX и 8000 Гц беспроводная!</strong></p>    <p>ATTACK SHARK R5 Ultra — это ультимативная мышь для киберспорта: невероятная скорость, точность и комфорт в одном корпусе из углеродного волокна.</p>    <p><strong>Основные характеристики:</strong></p>    <ul>   <li>Вес: всего 39 г</li>   <li>Материал: корпус из углеродного волокна</li>   <li>Сенсор: PixArt PAW3950MAX</li>   <li>DPI: до 42000</li>   <li>Скорость: до 750 IPS</li>   <li>Ускорение: до 50G</li>   <li>Polling Rate: до 8000 Гц (в беспроводном режиме!)</li>   <li>Переключатели: Omron (ресурс 100 млн нажатий)</li>   <li>Энкодер: F-Switch E10</li>   <li>Подключение: USB-C / 2.4G Wireless / Bluetooth 5.2</li>   <li>Совместимость: Windows / Mac / Android</li>   <li>Размеры: 119.5×61×36.3 мм</li>  </ul>    <p><strong>Особенности:</strong></p>    <ul>   <li>Корпус из углеродного волокна — прочность и легкость</li>   <li>Частота 8000 Гц беспроводная — мгновенная реакция</li>   <li>Совместимость с веб-драйвером — настройка RGB, DPI, макросов</li>   <li>Bluetooth, 2.4G или проводная — универсальна с любыми устройствами</li>   <li>Надежные Omron-свитчи + энкодер F-Switch</li>   <li>Профессиональный дизайн — идеальный баланс</li>  </ul></description_ru>
+        <price>2999</price>
+        <old_price>3299</old_price>
+        <categoryId>1084</categoryId>
+        <vendor>Attack Shark</vendor>
+        <picture>https://techgleam.com.ua/content/images/40/attack-shark-r5-ultra-mysha-black-61336296492781_%2B9c3726a106.jpg</picture>
+        <picture>https://techgleam.com.ua/content/images/40/igrovaja-myshka-attack-shark-r5-ultra-8k-wireless-black-paw3950max-carbon-fiber-39-g-90529915120293_%2B3bbd5d4f1b.jpg</picture>
+        <picture>https://techgleam.com.ua/content/images/40/igrovaja-myshka-attack-shark-r5-ultra-8k-wireless-black-paw3950max-carbon-fiber-39-g-68603161205816_%2B90967479e5.jpg</picture>
+        <picture>https://techgleam.com.ua/content/images/40/igrovaja-myshka-attack-shark-r5-ultra-8k-wireless-black-paw3950max-carbon-fiber-39-g-40167266411082_%2B4a79f47ec0.jpg</picture>
+        <picture>https://techgleam.com.ua/content/images/40/igrovaja-myshka-attack-shark-r5-ultra-8k-wireless-black-paw3950max-carbon-fiber-39-g-11465553517759_%2B415f2de234.jpg</picture>
+        <picture>https://techgleam.com.ua/content/images/40/igrovaja-myshka-attack-shark-r5-ultra-8k-wireless-black-paw3950max-carbon-fiber-39-g-81711236378800_%2Bc97874a871.jpg</picture>
+        <picture>https://techgleam.com.ua/content/images/40/igrovaja-myshka-attack-shark-r5-ultra-8k-wireless-black-paw3950max-carbon-fiber-39-g-87969885960798_%2Bb0fe2b154d.jpg</picture>
+        <picture>https://techgleam.com.ua/content/images/40/igrovaja-myshka-attack-shark-r5-ultra-8k-wireless-black-paw3950max-carbon-fiber-39-g-46995462302648_%2B0b29d7934a.jpg</picture>
+        <picture>https://techgleam.com.ua/content/images/40/igrovaja-myshka-attack-shark-r5-ultra-8k-wireless-black-paw3950max-carbon-fiber-39-g-79400883381900_%2B7ad7420bf6.jpg</picture>
+        <param name="Гарантія">3 місяці</param>
+        <param name="Колір">Чорний</param>
+        <param name="Підключення">Комбіноване</param>
+        <param name="Сумісність з ОС">Microsoft Windows</param>
+        <param name="Сумісність з ОС">Mac OS</param>
+        <param name="Сумісність з ОС">Linux</param>
+        <param name="Вага">39 г</param>
+        <param name="Тип датчика">Оптичний</param>
+        <param name="Інтерфейс підключення">Bluetooth</param>
+        <param name="Інтерфейс підключення">Радіоінтерфейс</param>
+        <param name="Інтерфейс підключення">USB</param>
+        <param name="Роздільна здатність сенсора">Понад 20000 dpi</param>
+        <param name="Стан">Новий</param>
+        <param name="Тип">Ігрові (геймерські)</param>
+        <country>Китай</country>
+      </offer>
       <offer id="640" available="true">
         <availability_status>available</availability_status>
         <name_ua>Ігрова мишка ATTACK SHARK R5 Ultra / Три режими підключення / PAW3950MAX / Carbon Fiber / 39 г / White</name_ua>
@@ -260,42 +295,6 @@
         <param name="Стан">Новий</param>
         <param name="Комплектація">Клавіатура</param>
         <param name="Призначення">Для ПК</param>
-        <country>Китай</country>
-      </offer>
-      <offer id="704" available="true">
-        <availability_status>available</availability_status>
-        <name_ua>Ігрова дротова магнітна клавіатура Ajazz AK029 / Ice Island Switch / Black</name_ua>
-        <name_ru>Игровая проводная магнитная клавиатура Ajazz AK029 / Ice Island Switch / Black</name_ru>
-        <description_ua><p data-end="2083" data-start="1756"><strong data-end="1771" data-start="1756">AJAZZ AK029</strong> — це <strong data-end="1812" data-start="1777">компактна дротова клавіатура</strong> на <strong data-end="1829" data-start="1816">29 клавіш </strong>на <strong data-end="1880" data-start="1846">магнітних Ice Island</strong> Switch<b> </b>.<br data-end="1884" data-start="1881" />  Завдяки <strong data-end="1926" data-start="1892">регульованій точці спрацювання</strong> та <strong data-end="1954" data-start="1930">режиму Rapid Trigger</strong> кожне натискання/відпускання фіксується швидше й точніше, що особливо корисно в FPS, ритм-іграх і для гарячих дій у застосунках.</p>    <h3 data-end="2105" data-start="2085">Основні характеристики:</h3>    <ul>   <li data-end="2210" data-start="2108"><strong data-end="2138" data-start="2108">Магнітні Ice Island Switch</strong> — плавний хід, висока надійність, відсутність механічного “дебаунсу”.</li>   <li data-end="2210" data-start="2108"><strong data-end="2246" data-start="2213">Регульована точка спрацювання</strong> + <strong data-end="2266" data-start="2249">Rapid Trigger</strong> — швидкі повторні спрацювання без повного відпускання клавіші.</li>   <li data-end="2210" data-start="2108"><strong data-end="2366" data-start="2334">Форм-фактор ≈20% (29 клавіш)</strong> — мінімум місця, максимум продуктивності для макросів і хоткеїв.</li>   <li data-end="2210" data-start="2108"><strong data-end="2453" data-start="2436">RGB-підсвітка</strong> з ефектами та налаштуваннями яскравості/швидкості.</li>   <li data-end="2210" data-start="2108"><strong data-end="2540" data-start="2509">USB-C (дротове підключення)</strong> — стабільний зв’язок і низька затримка.</li>   <li data-end="2210" data-start="2108"><strong data-end="2617" data-start="2585">ПЗ із профілями та макросами</strong> — швидка автоматизація дій у іграх і професійних програмах.</li>   <li data-end="2210" data-start="2108"><strong data-end="2862" data-start="2846">У комплекті:</strong> кейпад AJAZZ AK029, кабель USB-C, інструкція.</li>   <li data-end="2210" data-start="2108"><strong data-end="2928" data-start="2913">Сумісність:</strong> Windows / macOS та інші ОС із підтримкою стандартних USB-клавіатур.</li>   <li data-end="2210" data-start="2108"><strong>Кейкапи</strong>: Double Shot PBT / профіль Cherry</li>   <li data-end="2210" data-start="2108"><strong>RT / Scan Rate:</strong> 0.01 мм / key, 128 кГц (8 кГц)</li>   <li data-end="2210" data-start="2108"><strong>Розміри: </strong>155х122х33 мм</li>   <li data-end="2210" data-start="2108"><strong>Вага</strong>: 300 г</li>  </ul></description_ua>
-        <description_ru><p><strong>AJAZZ AK029 — это компактная проводная клавиатура на 29 клавиш на магнитных Ice Island Switch.</strong><br />  Благодаря регулируемой точке срабатывания и режиму Rapid Trigger каждое нажатие/отпуск фиксируется быстрее и точнее, что особенно полезно в FPS, ритм-играх и для горячих действий в приложениях.</p>    <p><strong>Основные характеристики:</strong></p>    <ul>   <li>Магнитные Ice Island Switch — плавный ход, высокая надежность, отсутствие механического &quot;дебаунса&quot;.</li>   <li>Регулируемая точка срабатывания + Rapid Trigger – быстрые повторные срабатывания без полного отпускания клавиши.</li>   <li>Форм-фактор ≈20% (29 клавиш) — минимум места, максимум производительности для макросов и хоткеев.</li>   <li>RGB-подсветка с эффектами и настройками яркости/скорости.</li>   <li>USB-C (проводное подключение) — стабильная связь и низкая задержка.</li>   <li>ПО с профилями и макросами — быстрая автоматизация действий в играх и профессиональных программах.</li>   <li>В комплекте: кейпад AJAZZ AK029, кабель USB-C, инструкция.</li>   <li>Совместимость: Windows/macOS и другие ОС с поддержкой стандартных USB-клавиатур.</li>   <li>Кейкапы: Double Shot PBT / профиль Cherry</li>   <li>RT/Scan Rate: 0.01 мм/key, 128 кГц (8 кГц)</li>   <li>Размеры: 155х122х33 мм</li>   <li>Вес: 300 г</li>  </ul></description_ru>
-        <price>1500</price>
-        <old_price>1800</old_price>
-        <categoryId>1082</categoryId>
-        <vendor>Ajazz</vendor>
-        <picture>https://techgleam.com.ua/content/images/5/75870262928207_%2B3f027a623d.jpg</picture>
-        <picture>https://techgleam.com.ua/content/images/5/44371963220050_%2Bc22a344a50.jpg</picture>
-        <picture>https://techgleam.com.ua/content/images/5/20384127464409_%2Be5a18be83c.jpg</picture>
-        <picture>https://techgleam.com.ua/content/images/5/67640079015227_%2B76c855a455.jpg</picture>
-        <picture>https://techgleam.com.ua/content/images/5/85663678818041_%2B56ac3a1b45.jpg</picture>
-        <picture>https://techgleam.com.ua/content/images/5/53439972265710_%2B15016514fa.jpg</picture>
-        <picture>https://techgleam.com.ua/content/images/5/79450335574472_%2B00af2455ce.jpg</picture>
-        <param name="Гарантія">1 місяць</param>
-        <param name="Колір">Чорний</param>
-        <param name="Конструкція клавіш">Магнітна</param>
-        <param name="Підключення">Дротове</param>
-        <param name="Інтерфейс підключення">USB Type-C</param>
-        <param name="Розкладка">Eng</param>
-        <param name="Форм-фактор">Ультракомпактні</param>
-        <param name="Колір підсвічування">RGB</param>
-        <param name="Підсвічування клавіш">Є</param>
-        <param name="Матеріал корпусу">Пластик</param>
-        <param name="Сумісність з ОС">Windows</param>
-        <param name="Сумісність з ОС">Mac OS</param>
-        <param name="Сумісність з ОС">Linux</param>
-        <param name="Стан">Новий</param>
-        <param name="Комплектація">Клавіатура</param>
-        <param name="Призначення">Для ПК</param>
-        <param name="Вид">Ігрові</param>
         <country>Китай</country>
       </offer>
       <offer id="705" available="true">
@@ -630,6 +629,40 @@
         <param name="Роздільна здатність сенсора">Понад 20000 dpi</param>
         <param name="Стан">Новий</param>
         <param name="Тип">Ігрові (геймерські)</param>
+        <country>Китай</country>
+      </offer>
+      <offer id="1512" available="true">
+        <availability_status>available</availability_status>
+        <name_ua>Ігрова механічна дротова клавіатура Ajazz Ak690 / 68 клавіш / Hot-Swap / RGB / Melard Switch MC / White</name_ua>
+        <name_ru>Игровая механическая проводная клавиатура Ajazz Ak690 / 68 клавиш /  Hot-Swap / RGB / Melard Switch MC / White</name_ru>
+        <description_ua><p data-end="1746" data-start="1574"><strong data-end="1589" data-start="1574">AJAZZ AK690</strong> — це компактна <strong data-end="1655" data-start="1605">дротова механічна клавіатура формату 68 клавіш</strong>, створена для геймерів і користувачів, які цінують ергономіку, кастомізацію та надійність.</p>    <p data-end="1935" data-start="1748">Клавіатура підтримує <strong data-end="1806" data-start="1769">повну hot-swap заміну перемикачів</strong>, що дозволяє змінювати свічі без пайки. Встановлені <strong data-end="1879" data-start="1859">Melard Switch MC</strong> забезпечують стабільний, чіткий та приємний хід клавіш.</p>    <p data-end="2112" data-start="1937">Яскрава <strong data-end="1982" data-start="1945">RGB-підсвітка з багатьма ефектами</strong> підкреслює сучасний дизайн, а <strong data-end="2054" data-start="2013">багатофункціональний регулятор (knob)</strong> дозволяє швидко керувати гучністю або іншими параметрами.</p>    <p data-end="2258" data-start="2114">Формат <strong data-end="2134" data-start="2121">68 клавіш</strong> економить місце на столі, зберігаючи всі необхідні функції. <strong data-end="2210" data-start="2195">Plug &amp; Play</strong> — жодних драйверів, просто підключив і працюєш.</p>    <p data-end="2334" data-start="2260"><strong data-end="2275" data-start="2260">AJAZZ AK690</strong> — чудовий вибір для геймінгу, роботи та кастомних сетапів.</p></description_ua>
+        <description_ru><p><strong>AJAZZ AK690 – </strong>это компактная проволочная механическая клавиатура формата 68 клавиш, предназначенная для геймеров и пользователей, ценящих эргономику, кастомизацию и надежность.</p>    <p>Клавиатура поддерживает полную hot-swap замену переключателей, что позволяет изменять свечи без пайки. Установленные Melard Switch MC обеспечивают стабильный, четкий и приятный ход клавиш.</p>    <p>Яркая подсветка RGB со многими эффектами подчеркивает современный дизайн, а многофункциональный регулятор (knob) позволяет быстро управлять громкостью или другими параметрами.</p>    <p>Формат 68 клавиш экономит место на столе, сохраняя все необходимые функции. Plug &amp; Play – никаких драйверов, просто подключи и работаешь.</p>    <p>AJAZZ AK690 – отличный выбор для гейминга, работы и кастомных сетапов.</p></description_ru>
+        <price>1800</price>
+        <old_price>2399</old_price>
+        <categoryId>1082</categoryId>
+        <vendor>Ajazz</vendor>
+        <picture>https://techgleam.com.ua/content/images/13/igrovaja-mexanicheskaja-provodnaja-klaviatura-ajazz-ak690-68-klavish--hot-swap-rgb-melard-switch-mc-white-64185488409711_%2Bc77bab5a6a.png</picture>
+        <picture>https://techgleam.com.ua/content/images/13/igrovaja-mexanicheskaja-provodnaja-klaviatura-ajazz-ak690-68-klavish--hot-swap-rgb-melard-switch-mc-white-14322164973044_%2B8c98cf287b.png</picture>
+        <picture>https://techgleam.com.ua/content/images/13/igrovaja-mexanicheskaja-provodnaja-klaviatura-ajazz-ak690-68-klavish--hot-swap-rgb-melard-switch-mc-white-30573458954619_%2B8fd2e351d7.png</picture>
+        <picture>https://techgleam.com.ua/content/images/13/igrovaja-mexanicheskaja-provodnaja-klaviatura-ajazz-ak690-68-klavish--hot-swap-rgb-melard-switch-mc-white-64524930217772_%2B9cb4a8d947.png</picture>
+        <picture>https://techgleam.com.ua/content/images/13/igrovaja-mexanicheskaja-provodnaja-klaviatura-ajazz-ak690-68-klavish--hot-swap-rgb-melard-switch-mc-white-37242572126689_%2Bab26f2e274.png</picture>
+        <param name="Гарантія">1 місяць</param>
+        <param name="Колір">Чорний</param>
+        <param name="Конструкція клавіш">Механічна</param>
+        <param name="Підключення">Дротове</param>
+        <param name="Інтерфейс підключення">USB Type-C</param>
+        <param name="Розкладка">Eng</param>
+        <param name="Форм-фактор">Компактні</param>
+        <param name="Колір підсвічування">RGB</param>
+        <param name="Підсвічування клавіш">Є</param>
+        <param name="Матеріал корпусу">Пластик</param>
+        <param name="Сумісність з ОС">Windows</param>
+        <param name="Сумісність з ОС">Mac OS</param>
+        <param name="Сумісність з ОС">Linux</param>
+        <param name="Стан">Новий</param>
+        <param name="Комплектація">Клавіатура</param>
+        <param name="Призначення">Для ПК</param>
+        <param name="Вид">Ігрові</param>
         <country>Китай</country>
       </offer>
       <offer id="1514" available="true">
@@ -1599,37 +1632,6 @@
         <param name="Роздільна здатність сенсора">10001 - 12000 dpi</param>
         <param name="Стан">Новий</param>
         <param name="Тип">Ігрові (геймерські)</param>
-        <country>Китай</country>
-      </offer>
-      <offer id="1774" available="true">
-        <availability_status>available</availability_status>
-        <name_ua>Ігрова механічна дротова клавіатура Ajazz Ak690 / 68 клавіш / Hot-Swap / RGB / Melard Switch MC / White Blue</name_ua>
-        <name_ru>Игровая механическая проводная клавиатура Ajazz Ak690 / 68 клавиш / Hot-Swap / RGB / Melard Switch MC / White Blue</name_ru>
-        <description_ua><p data-end="1746" data-start="1574"><strong data-end="1589" data-start="1574">AJAZZ AK690</strong> — це компактна <strong data-end="1655" data-start="1605">дротова механічна клавіатура формату 68 клавіш</strong>, створена для геймерів і користувачів, які цінують ергономіку, кастомізацію та надійність.</p>    <p data-end="1935" data-start="1748">Клавіатура підтримує <strong data-end="1806" data-start="1769">повну hot-swap заміну перемикачів</strong>, що дозволяє змінювати свічі без пайки. Встановлені <strong data-end="1879" data-start="1859">Melard Switch MC</strong> забезпечують стабільний, чіткий та приємний хід клавіш.</p>    <p data-end="2112" data-start="1937">Яскрава <strong data-end="1982" data-start="1945">RGB-підсвітка з багатьма ефектами</strong> підкреслює сучасний дизайн, а <strong data-end="2054" data-start="2013">багатофункціональний регулятор (knob)</strong> дозволяє швидко керувати гучністю або іншими параметрами.</p>    <p data-end="2258" data-start="2114">Формат <strong data-end="2134" data-start="2121">68 клавіш</strong> економить місце на столі, зберігаючи всі необхідні функції. <strong data-end="2210" data-start="2195">Plug &amp; Play</strong> — жодних драйверів, просто підключив і працюєш.</p>    <p data-end="2334" data-start="2260"><strong data-end="2275" data-start="2260">AJAZZ AK690</strong> — чудовий вибір для геймінгу, роботи та кастомних сетапів.</p></description_ua>
-        <description_ru><p><strong>AJAZZ AK690 – </strong>это компактная проволочная механическая клавиатура формата 68 клавиш, предназначенная для геймеров и пользователей, ценящих эргономику, кастомизацию и надежность.</p>    <p>Клавиатура поддерживает полную hot-swap замену переключателей, что позволяет изменять свечи без пайки. Установленные Melard Switch MC обеспечивают стабильный, четкий и приятный ход клавиш.</p>    <p>Яркая подсветка RGB со многими эффектами подчеркивает современный дизайн, а многофункциональный регулятор (knob) позволяет быстро управлять громкостью или другими параметрами.</p>    <p>Формат 68 клавиш экономит место на столе, сохраняя все необходимые функции. Plug &amp; Play – никаких драйверов, просто подключи и работаешь.</p>    <p>AJAZZ AK690 – отличный выбор для гейминга, работы и кастомных сетапов.</p></description_ru>
-        <price>1800</price>
-        <old_price>2399</old_price>
-        <categoryId>1082</categoryId>
-        <vendor>Ajazz</vendor>
-        <picture>https://techgleam.com.ua/content/images/25/grova-mexanchna-drotova-klavatura-ajazz-ak690-68-klavsh-hot-swap-rgb-melard-switch-mc-white-blue-59702186543399_%2B6ed811e94f.jpg</picture>
-        <picture>https://techgleam.com.ua/content/images/25/grova-mexanchna-drotova-klavatura-ajazz-ak690-68-klavsh-hot-swap-rgb-melard-switch-mc-white-blue-58546030690207_%2B4353e5f26d.jpg</picture>
-        <param name="Гарантія">1 місяць</param>
-        <param name="Колір">Білий</param>
-        <param name="Конструкція клавіш">Механічна</param>
-        <param name="Підключення">Дротове</param>
-        <param name="Інтерфейс підключення">USB Type-C</param>
-        <param name="Розкладка">Eng</param>
-        <param name="Форм-фактор">Компактні</param>
-        <param name="Колір підсвічування">RGB</param>
-        <param name="Підсвічування клавіш">Є</param>
-        <param name="Матеріал корпусу">Пластик</param>
-        <param name="Сумісність з ОС">Windows</param>
-        <param name="Сумісність з ОС">Mac OS</param>
-        <param name="Сумісність з ОС">Linux</param>
-        <param name="Стан">Новий</param>
-        <param name="Комплектація">Клавіатура</param>
-        <param name="Призначення">Для ПК</param>
-        <param name="Вид">Ігрові</param>
         <country>Китай</country>
       </offer>
       <offer id="1783" available="true">
@@ -5183,41 +5185,6 @@
         <param name="Тип">Ігрові (геймерські)</param>
         <country>Китай</country>
       </offer>
-      <offer id="639" available="false">
-        <availability_status>temporarily_unavailable</availability_status>
-        <name_ua>Ігрова мишка ATTACK SHARK R5 Ultra / Три режими підключення / PAW3950MAX / Carbon Fiber / 39 г / Black</name_ua>
-        <name_ru>Игровая мышка ATTACK SHARK R5 Ultra / Три режима подключения / PAW3950MAX / Carbon Fiber / 39 г / Black</name_ru>
-        <description_ua><p><strong>ATTACK SHARK R5 Ultra — найлегша ігрова миша з сенсором PAW3950MAX і 8000 Гц бездротово! </strong></p>    <p>ATTACK SHARK R5 Ultra — це ультимативна миша для кіберспорту: неймовірна швидкість, точність і комфорт в одному корпусі з вуглецевого волокна.</p>    <p><strong>Основні характеристики:  </strong></p>    <ul>   <li>Вага: лише 39 г  </li>   <li>Матеріал: корпус із вуглецевого волокна  </li>   <li>Сенсор: PixArt PAW3950MAX  </li>   <li>DPI: до 42000  </li>   <li>Швидкість: до 750 IPS  </li>   <li>Прискорення: до 50G  </li>   <li>Polling Rate: до 8000 Гц (у бездротовому режимі!)  </li>   <li>Перемикачі: Omron (ресурс 100 млн натискань)  </li>   <li>Енкодер: F-Switch E10  </li>   <li>Підключення: USB-C / 2.4G Wireless / Bluetooth 5.2  </li>   <li>Сумісність: Windows / Mac / Android  </li>   <li>Розміри: 119.5×61×36.3 мм</li>  </ul>    <p><strong>Особливості:  </strong></p>    <ul>   <li>Корпус із вуглецевого волокна — міцність та легкість  </li>   <li>Частота 8000 Гц бездротово — миттєва реакція  </li>   <li>Сумісність із веб-драйвером — налаштування RGB, DPI, макросів  </li>   <li>Bluetooth, 2.4G або дротове — універсальна з будь-якими пристроями  </li>   <li>Надійні Omron-світчі + енкодер F-Switch  </li>   <li>Професійний дизайн — ідеальний баланс</li>  </ul></description_ua>
-        <description_ru><p><strong>ATTACK SHARK R5 Ultra — самая легкая игровая мышь с сенсором PAW3950MAX и 8000 Гц беспроводная!</strong></p>    <p>ATTACK SHARK R5 Ultra — это ультимативная мышь для киберспорта: невероятная скорость, точность и комфорт в одном корпусе из углеродного волокна.</p>    <p><strong>Основные характеристики:</strong></p>    <ul>   <li>Вес: всего 39 г</li>   <li>Материал: корпус из углеродного волокна</li>   <li>Сенсор: PixArt PAW3950MAX</li>   <li>DPI: до 42000</li>   <li>Скорость: до 750 IPS</li>   <li>Ускорение: до 50G</li>   <li>Polling Rate: до 8000 Гц (в беспроводном режиме!)</li>   <li>Переключатели: Omron (ресурс 100 млн нажатий)</li>   <li>Энкодер: F-Switch E10</li>   <li>Подключение: USB-C / 2.4G Wireless / Bluetooth 5.2</li>   <li>Совместимость: Windows / Mac / Android</li>   <li>Размеры: 119.5×61×36.3 мм</li>  </ul>    <p><strong>Особенности:</strong></p>    <ul>   <li>Корпус из углеродного волокна — прочность и легкость</li>   <li>Частота 8000 Гц беспроводная — мгновенная реакция</li>   <li>Совместимость с веб-драйвером — настройка RGB, DPI, макросов</li>   <li>Bluetooth, 2.4G или проводная — универсальна с любыми устройствами</li>   <li>Надежные Omron-свитчи + энкодер F-Switch</li>   <li>Профессиональный дизайн — идеальный баланс</li>  </ul></description_ru>
-        <price>2999</price>
-        <old_price>3299</old_price>
-        <categoryId>1084</categoryId>
-        <vendor>Attack Shark</vendor>
-        <picture>https://techgleam.com.ua/content/images/40/attack-shark-r5-ultra-mysha-black-61336296492781_%2B9c3726a106.jpg</picture>
-        <picture>https://techgleam.com.ua/content/images/40/igrovaja-myshka-attack-shark-r5-ultra-8k-wireless-black-paw3950max-carbon-fiber-39-g-90529915120293_%2B3bbd5d4f1b.jpg</picture>
-        <picture>https://techgleam.com.ua/content/images/40/igrovaja-myshka-attack-shark-r5-ultra-8k-wireless-black-paw3950max-carbon-fiber-39-g-68603161205816_%2B90967479e5.jpg</picture>
-        <picture>https://techgleam.com.ua/content/images/40/igrovaja-myshka-attack-shark-r5-ultra-8k-wireless-black-paw3950max-carbon-fiber-39-g-40167266411082_%2B4a79f47ec0.jpg</picture>
-        <picture>https://techgleam.com.ua/content/images/40/igrovaja-myshka-attack-shark-r5-ultra-8k-wireless-black-paw3950max-carbon-fiber-39-g-11465553517759_%2B415f2de234.jpg</picture>
-        <picture>https://techgleam.com.ua/content/images/40/igrovaja-myshka-attack-shark-r5-ultra-8k-wireless-black-paw3950max-carbon-fiber-39-g-81711236378800_%2Bc97874a871.jpg</picture>
-        <picture>https://techgleam.com.ua/content/images/40/igrovaja-myshka-attack-shark-r5-ultra-8k-wireless-black-paw3950max-carbon-fiber-39-g-87969885960798_%2Bb0fe2b154d.jpg</picture>
-        <picture>https://techgleam.com.ua/content/images/40/igrovaja-myshka-attack-shark-r5-ultra-8k-wireless-black-paw3950max-carbon-fiber-39-g-46995462302648_%2B0b29d7934a.jpg</picture>
-        <picture>https://techgleam.com.ua/content/images/40/igrovaja-myshka-attack-shark-r5-ultra-8k-wireless-black-paw3950max-carbon-fiber-39-g-79400883381900_%2B7ad7420bf6.jpg</picture>
-        <param name="Гарантія">3 місяці</param>
-        <param name="Колір">Чорний</param>
-        <param name="Підключення">Комбіноване</param>
-        <param name="Сумісність з ОС">Microsoft Windows</param>
-        <param name="Сумісність з ОС">Mac OS</param>
-        <param name="Сумісність з ОС">Linux</param>
-        <param name="Вага">39 г</param>
-        <param name="Тип датчика">Оптичний</param>
-        <param name="Інтерфейс підключення">Bluetooth</param>
-        <param name="Інтерфейс підключення">Радіоінтерфейс</param>
-        <param name="Інтерфейс підключення">USB</param>
-        <param name="Роздільна здатність сенсора">Понад 20000 dpi</param>
-        <param name="Стан">Новий</param>
-        <param name="Тип">Ігрові (геймерські)</param>
-        <country>Китай</country>
-      </offer>
       <offer id="641" available="false">
         <availability_status>temporarily_unavailable</availability_status>
         <name_ua>Ігрова мишка ATTACK SHARK X3 / Три режими підключення / Сенсор PAW3395 / 49 г / Black</name_ua>
@@ -5811,6 +5778,42 @@
         <param name="Стан">Новий</param>
         <param name="Комплектація">Клавіатура</param>
         <param name="Призначення">Для ПК</param>
+      </offer>
+      <offer id="704" available="false">
+        <availability_status>temporarily_unavailable</availability_status>
+        <name_ua>Ігрова дротова магнітна клавіатура Ajazz AK029 / Ice Island Switch / Black</name_ua>
+        <name_ru>Игровая проводная магнитная клавиатура Ajazz AK029 / Ice Island Switch / Black</name_ru>
+        <description_ua><p data-end="2083" data-start="1756"><strong data-end="1771" data-start="1756">AJAZZ AK029</strong> — це <strong data-end="1812" data-start="1777">компактна дротова клавіатура</strong> на <strong data-end="1829" data-start="1816">29 клавіш </strong>на <strong data-end="1880" data-start="1846">магнітних Ice Island</strong> Switch<b> </b>.<br data-end="1884" data-start="1881" />  Завдяки <strong data-end="1926" data-start="1892">регульованій точці спрацювання</strong> та <strong data-end="1954" data-start="1930">режиму Rapid Trigger</strong> кожне натискання/відпускання фіксується швидше й точніше, що особливо корисно в FPS, ритм-іграх і для гарячих дій у застосунках.</p>    <h3 data-end="2105" data-start="2085">Основні характеристики:</h3>    <ul>   <li data-end="2210" data-start="2108"><strong data-end="2138" data-start="2108">Магнітні Ice Island Switch</strong> — плавний хід, висока надійність, відсутність механічного “дебаунсу”.</li>   <li data-end="2210" data-start="2108"><strong data-end="2246" data-start="2213">Регульована точка спрацювання</strong> + <strong data-end="2266" data-start="2249">Rapid Trigger</strong> — швидкі повторні спрацювання без повного відпускання клавіші.</li>   <li data-end="2210" data-start="2108"><strong data-end="2366" data-start="2334">Форм-фактор ≈20% (29 клавіш)</strong> — мінімум місця, максимум продуктивності для макросів і хоткеїв.</li>   <li data-end="2210" data-start="2108"><strong data-end="2453" data-start="2436">RGB-підсвітка</strong> з ефектами та налаштуваннями яскравості/швидкості.</li>   <li data-end="2210" data-start="2108"><strong data-end="2540" data-start="2509">USB-C (дротове підключення)</strong> — стабільний зв’язок і низька затримка.</li>   <li data-end="2210" data-start="2108"><strong data-end="2617" data-start="2585">ПЗ із профілями та макросами</strong> — швидка автоматизація дій у іграх і професійних програмах.</li>   <li data-end="2210" data-start="2108"><strong data-end="2862" data-start="2846">У комплекті:</strong> кейпад AJAZZ AK029, кабель USB-C, інструкція.</li>   <li data-end="2210" data-start="2108"><strong data-end="2928" data-start="2913">Сумісність:</strong> Windows / macOS та інші ОС із підтримкою стандартних USB-клавіатур.</li>   <li data-end="2210" data-start="2108"><strong>Кейкапи</strong>: Double Shot PBT / профіль Cherry</li>   <li data-end="2210" data-start="2108"><strong>RT / Scan Rate:</strong> 0.01 мм / key, 128 кГц (8 кГц)</li>   <li data-end="2210" data-start="2108"><strong>Розміри: </strong>155х122х33 мм</li>   <li data-end="2210" data-start="2108"><strong>Вага</strong>: 300 г</li>  </ul></description_ua>
+        <description_ru><p><strong>AJAZZ AK029 — это компактная проводная клавиатура на 29 клавиш на магнитных Ice Island Switch.</strong><br />  Благодаря регулируемой точке срабатывания и режиму Rapid Trigger каждое нажатие/отпуск фиксируется быстрее и точнее, что особенно полезно в FPS, ритм-играх и для горячих действий в приложениях.</p>    <p><strong>Основные характеристики:</strong></p>    <ul>   <li>Магнитные Ice Island Switch — плавный ход, высокая надежность, отсутствие механического &quot;дебаунса&quot;.</li>   <li>Регулируемая точка срабатывания + Rapid Trigger – быстрые повторные срабатывания без полного отпускания клавиши.</li>   <li>Форм-фактор ≈20% (29 клавиш) — минимум места, максимум производительности для макросов и хоткеев.</li>   <li>RGB-подсветка с эффектами и настройками яркости/скорости.</li>   <li>USB-C (проводное подключение) — стабильная связь и низкая задержка.</li>   <li>ПО с профилями и макросами — быстрая автоматизация действий в играх и профессиональных программах.</li>   <li>В комплекте: кейпад AJAZZ AK029, кабель USB-C, инструкция.</li>   <li>Совместимость: Windows/macOS и другие ОС с поддержкой стандартных USB-клавиатур.</li>   <li>Кейкапы: Double Shot PBT / профиль Cherry</li>   <li>RT/Scan Rate: 0.01 мм/key, 128 кГц (8 кГц)</li>   <li>Размеры: 155х122х33 мм</li>   <li>Вес: 300 г</li>  </ul></description_ru>
+        <price>1500</price>
+        <old_price>1800</old_price>
+        <categoryId>1082</categoryId>
+        <vendor>Ajazz</vendor>
+        <picture>https://techgleam.com.ua/content/images/5/75870262928207_%2B3f027a623d.jpg</picture>
+        <picture>https://techgleam.com.ua/content/images/5/44371963220050_%2Bc22a344a50.jpg</picture>
+        <picture>https://techgleam.com.ua/content/images/5/20384127464409_%2Be5a18be83c.jpg</picture>
+        <picture>https://techgleam.com.ua/content/images/5/67640079015227_%2B76c855a455.jpg</picture>
+        <picture>https://techgleam.com.ua/content/images/5/85663678818041_%2B56ac3a1b45.jpg</picture>
+        <picture>https://techgleam.com.ua/content/images/5/53439972265710_%2B15016514fa.jpg</picture>
+        <picture>https://techgleam.com.ua/content/images/5/79450335574472_%2B00af2455ce.jpg</picture>
+        <param name="Гарантія">1 місяць</param>
+        <param name="Колір">Чорний</param>
+        <param name="Конструкція клавіш">Магнітна</param>
+        <param name="Підключення">Дротове</param>
+        <param name="Інтерфейс підключення">USB Type-C</param>
+        <param name="Розкладка">Eng</param>
+        <param name="Форм-фактор">Ультракомпактні</param>
+        <param name="Колір підсвічування">RGB</param>
+        <param name="Підсвічування клавіш">Є</param>
+        <param name="Матеріал корпусу">Пластик</param>
+        <param name="Сумісність з ОС">Windows</param>
+        <param name="Сумісність з ОС">Mac OS</param>
+        <param name="Сумісність з ОС">Linux</param>
+        <param name="Стан">Новий</param>
+        <param name="Комплектація">Клавіатура</param>
+        <param name="Призначення">Для ПК</param>
+        <param name="Вид">Ігрові</param>
+        <country>Китай</country>
       </offer>
       <offer id="706" available="false">
         <availability_status>temporarily_unavailable</availability_status>
@@ -9925,40 +9928,6 @@
         <param name="Тип">Ігрові (геймерські)</param>
         <country>Китай</country>
       </offer>
-      <offer id="1512" available="false">
-        <availability_status>temporarily_unavailable</availability_status>
-        <name_ua>Ігрова механічна дротова клавіатура Ajazz Ak690 / 68 клавіш / Hot-Swap / RGB / Melard Switch MC / White</name_ua>
-        <name_ru>Игровая механическая проводная клавиатура Ajazz Ak690 / 68 клавиш /  Hot-Swap / RGB / Melard Switch MC / White</name_ru>
-        <description_ua><p data-end="1746" data-start="1574"><strong data-end="1589" data-start="1574">AJAZZ AK690</strong> — це компактна <strong data-end="1655" data-start="1605">дротова механічна клавіатура формату 68 клавіш</strong>, створена для геймерів і користувачів, які цінують ергономіку, кастомізацію та надійність.</p>    <p data-end="1935" data-start="1748">Клавіатура підтримує <strong data-end="1806" data-start="1769">повну hot-swap заміну перемикачів</strong>, що дозволяє змінювати свічі без пайки. Встановлені <strong data-end="1879" data-start="1859">Melard Switch MC</strong> забезпечують стабільний, чіткий та приємний хід клавіш.</p>    <p data-end="2112" data-start="1937">Яскрава <strong data-end="1982" data-start="1945">RGB-підсвітка з багатьма ефектами</strong> підкреслює сучасний дизайн, а <strong data-end="2054" data-start="2013">багатофункціональний регулятор (knob)</strong> дозволяє швидко керувати гучністю або іншими параметрами.</p>    <p data-end="2258" data-start="2114">Формат <strong data-end="2134" data-start="2121">68 клавіш</strong> економить місце на столі, зберігаючи всі необхідні функції. <strong data-end="2210" data-start="2195">Plug &amp; Play</strong> — жодних драйверів, просто підключив і працюєш.</p>    <p data-end="2334" data-start="2260"><strong data-end="2275" data-start="2260">AJAZZ AK690</strong> — чудовий вибір для геймінгу, роботи та кастомних сетапів.</p></description_ua>
-        <description_ru><p><strong>AJAZZ AK690 – </strong>это компактная проволочная механическая клавиатура формата 68 клавиш, предназначенная для геймеров и пользователей, ценящих эргономику, кастомизацию и надежность.</p>    <p>Клавиатура поддерживает полную hot-swap замену переключателей, что позволяет изменять свечи без пайки. Установленные Melard Switch MC обеспечивают стабильный, четкий и приятный ход клавиш.</p>    <p>Яркая подсветка RGB со многими эффектами подчеркивает современный дизайн, а многофункциональный регулятор (knob) позволяет быстро управлять громкостью или другими параметрами.</p>    <p>Формат 68 клавиш экономит место на столе, сохраняя все необходимые функции. Plug &amp; Play – никаких драйверов, просто подключи и работаешь.</p>    <p>AJAZZ AK690 – отличный выбор для гейминга, работы и кастомных сетапов.</p></description_ru>
-        <price>1800</price>
-        <old_price>2399</old_price>
-        <categoryId>1082</categoryId>
-        <vendor>Ajazz</vendor>
-        <picture>https://techgleam.com.ua/content/images/13/igrovaja-mexanicheskaja-provodnaja-klaviatura-ajazz-ak690-68-klavish--hot-swap-rgb-melard-switch-mc-white-64185488409711_%2Bc77bab5a6a.png</picture>
-        <picture>https://techgleam.com.ua/content/images/13/igrovaja-mexanicheskaja-provodnaja-klaviatura-ajazz-ak690-68-klavish--hot-swap-rgb-melard-switch-mc-white-14322164973044_%2B8c98cf287b.png</picture>
-        <picture>https://techgleam.com.ua/content/images/13/igrovaja-mexanicheskaja-provodnaja-klaviatura-ajazz-ak690-68-klavish--hot-swap-rgb-melard-switch-mc-white-30573458954619_%2B8fd2e351d7.png</picture>
-        <picture>https://techgleam.com.ua/content/images/13/igrovaja-mexanicheskaja-provodnaja-klaviatura-ajazz-ak690-68-klavish--hot-swap-rgb-melard-switch-mc-white-64524930217772_%2B9cb4a8d947.png</picture>
-        <picture>https://techgleam.com.ua/content/images/13/igrovaja-mexanicheskaja-provodnaja-klaviatura-ajazz-ak690-68-klavish--hot-swap-rgb-melard-switch-mc-white-37242572126689_%2Bab26f2e274.png</picture>
-        <param name="Гарантія">1 місяць</param>
-        <param name="Колір">Чорний</param>
-        <param name="Конструкція клавіш">Механічна</param>
-        <param name="Підключення">Дротове</param>
-        <param name="Інтерфейс підключення">USB Type-C</param>
-        <param name="Розкладка">Eng</param>
-        <param name="Форм-фактор">Компактні</param>
-        <param name="Колір підсвічування">RGB</param>
-        <param name="Підсвічування клавіш">Є</param>
-        <param name="Матеріал корпусу">Пластик</param>
-        <param name="Сумісність з ОС">Windows</param>
-        <param name="Сумісність з ОС">Mac OS</param>
-        <param name="Сумісність з ОС">Linux</param>
-        <param name="Стан">Новий</param>
-        <param name="Комплектація">Клавіатура</param>
-        <param name="Призначення">Для ПК</param>
-        <param name="Вид">Ігрові</param>
-        <country>Китай</country>
-      </offer>
       <offer id="1513" available="false">
         <availability_status>temporarily_unavailable</availability_status>
         <name_ua>Ігрова механічна дротова клавіатура Ajazz Ak690 / 68 клавіш / Hot-Swap / RGB / Melard Switch MC / Black</name_ua>
@@ -13078,6 +13047,37 @@
         <param name="Підсвічування клавіш">Є</param>
         <param name="Матеріал корпусу">Пластик</param>
         <param name="Живлення">Акумулятор</param>
+        <param name="Сумісність з ОС">Windows</param>
+        <param name="Сумісність з ОС">Mac OS</param>
+        <param name="Сумісність з ОС">Linux</param>
+        <param name="Стан">Новий</param>
+        <param name="Комплектація">Клавіатура</param>
+        <param name="Призначення">Для ПК</param>
+        <param name="Вид">Ігрові</param>
+        <country>Китай</country>
+      </offer>
+      <offer id="1774" available="false">
+        <availability_status>temporarily_unavailable</availability_status>
+        <name_ua>Ігрова механічна дротова клавіатура Ajazz Ak690 / 68 клавіш / Hot-Swap / RGB / Melard Switch MC / White Blue</name_ua>
+        <name_ru>Игровая механическая проводная клавиатура Ajazz Ak690 / 68 клавиш / Hot-Swap / RGB / Melard Switch MC / White Blue</name_ru>
+        <description_ua><p data-end="1746" data-start="1574"><strong data-end="1589" data-start="1574">AJAZZ AK690</strong> — це компактна <strong data-end="1655" data-start="1605">дротова механічна клавіатура формату 68 клавіш</strong>, створена для геймерів і користувачів, які цінують ергономіку, кастомізацію та надійність.</p>    <p data-end="1935" data-start="1748">Клавіатура підтримує <strong data-end="1806" data-start="1769">повну hot-swap заміну перемикачів</strong>, що дозволяє змінювати свічі без пайки. Встановлені <strong data-end="1879" data-start="1859">Melard Switch MC</strong> забезпечують стабільний, чіткий та приємний хід клавіш.</p>    <p data-end="2112" data-start="1937">Яскрава <strong data-end="1982" data-start="1945">RGB-підсвітка з багатьма ефектами</strong> підкреслює сучасний дизайн, а <strong data-end="2054" data-start="2013">багатофункціональний регулятор (knob)</strong> дозволяє швидко керувати гучністю або іншими параметрами.</p>    <p data-end="2258" data-start="2114">Формат <strong data-end="2134" data-start="2121">68 клавіш</strong> економить місце на столі, зберігаючи всі необхідні функції. <strong data-end="2210" data-start="2195">Plug &amp; Play</strong> — жодних драйверів, просто підключив і працюєш.</p>    <p data-end="2334" data-start="2260"><strong data-end="2275" data-start="2260">AJAZZ AK690</strong> — чудовий вибір для геймінгу, роботи та кастомних сетапів.</p></description_ua>
+        <description_ru><p><strong>AJAZZ AK690 – </strong>это компактная проволочная механическая клавиатура формата 68 клавиш, предназначенная для геймеров и пользователей, ценящих эргономику, кастомизацию и надежность.</p>    <p>Клавиатура поддерживает полную hot-swap замену переключателей, что позволяет изменять свечи без пайки. Установленные Melard Switch MC обеспечивают стабильный, четкий и приятный ход клавиш.</p>    <p>Яркая подсветка RGB со многими эффектами подчеркивает современный дизайн, а многофункциональный регулятор (knob) позволяет быстро управлять громкостью или другими параметрами.</p>    <p>Формат 68 клавиш экономит место на столе, сохраняя все необходимые функции. Plug &amp; Play – никаких драйверов, просто подключи и работаешь.</p>    <p>AJAZZ AK690 – отличный выбор для гейминга, работы и кастомных сетапов.</p></description_ru>
+        <price>1800</price>
+        <old_price>2399</old_price>
+        <categoryId>1082</categoryId>
+        <vendor>Ajazz</vendor>
+        <picture>https://techgleam.com.ua/content/images/25/grova-mexanchna-drotova-klavatura-ajazz-ak690-68-klavsh-hot-swap-rgb-melard-switch-mc-white-blue-59702186543399_%2B6ed811e94f.jpg</picture>
+        <picture>https://techgleam.com.ua/content/images/25/grova-mexanchna-drotova-klavatura-ajazz-ak690-68-klavsh-hot-swap-rgb-melard-switch-mc-white-blue-58546030690207_%2B4353e5f26d.jpg</picture>
+        <param name="Гарантія">1 місяць</param>
+        <param name="Колір">Білий</param>
+        <param name="Конструкція клавіш">Механічна</param>
+        <param name="Підключення">Дротове</param>
+        <param name="Інтерфейс підключення">USB Type-C</param>
+        <param name="Розкладка">Eng</param>
+        <param name="Форм-фактор">Компактні</param>
+        <param name="Колір підсвічування">RGB</param>
+        <param name="Підсвічування клавіш">Є</param>
+        <param name="Матеріал корпусу">Пластик</param>
         <param name="Сумісність з ОС">Windows</param>
         <param name="Сумісність з ОС">Mac OS</param>
         <param name="Сумісність з ОС">Linux</param>
