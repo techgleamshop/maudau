@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<yml_catalog date="2026-09-12 03:23">
+<yml_catalog date="2026-09-12 04:23">
   <shop>
     <categories>
       <category id="1082" portal_id="1839">Клавіатури</category>
@@ -238,45 +238,35 @@
         <param name="Вид">Ігрові</param>
         <country>Китай</country>
       </offer>
-      <offer id="565" available="true">
+      <offer id="637" available="true">
         <availability_status>available</availability_status>
-        <name_ua>Игровая механическая клавиатура AULA F75 / Три режима подключения / Leobog Axis Reaper Switch / Dark Blue</name_ua>
-        <name_ru>Игровая механическая клавиатура AULA F75 / Три режима подключения / Leobog Axis Reaper Switch / Dark Blue</name_ru>
-        <description_ua><p><strong>Механічна клавіатура AULA F75 </strong></p>    <p>AULA F75 — це універсальна клавіатура для роботи, навчання та ігор, що поєднує компактність, ергономіку та сучасні функції.</p>    <p><strong>Основні характеристики:</strong></p>    <ul>   <li>Тип: Механічна клавіатура, 75% форм-фактор </li>   <li>Розкладка: англійська</li>   <li>Підключення: Bluetooth 5.0 / 2.4 ГГц / USB Type-C  </li>   <li>Сумісність: Windows, Mac, iOS, Android, PS, Xbox  </li>   <li>5-шарова система шумопоглинання для комфортного набору тексту  </li>   <li>Мультимедійне колесо для зручного керування гучністю та підсвіткою</li>   <li>Акумулятор: 4000 мА·год, забезпечує тривалий час автономної роботи.</li>  </ul>    <p><strong>RGB-підсвітка:</strong><br />  • 15 режимів  <br />  • 16.8 млн кольорів  <br />  • Музичний режим реагує на ритм відтворюваної музики</p>    <p><strong>Комплектація:</strong></p>    <ul>   <li>Клавіатура AULA F75  </li>   <li>Кабель USB Type-C  </li>   <li>USB-адаптер 2.4 ГГц  </li>   <li>Захисна накладка від пилу  </li>   <li>4 запасні перемикачі  </li>   <li>Пуллер  </li>   <li>Інструкція користувача</li>  </ul></description_ua>
-        <description_ru><p><strong>Механическая клавиатура AULA F75</strong></p>    <p>AULA F75 – это универсальная клавиатура для работы, обучения и игр, сочетающая компактность, эргономику и современные функции.</p>    <p><strong>Основные характеристики:</strong></p>    <ul>   <li>Тип: Механическая клавиатура, 75% форм-фактор</li>   <li>Раскладка: английская</li>   <li>Подключение: Bluetooth 5.0/2.4 ГГц/USB Type-C</li>   <li>Совместимость: Windows, Mac, iOS, Android, PS, Xbox</li>   <li>5-слойная система шумопоглощения для комфортного набора текста</li>   <li>Мультимедийное колесо для удобного управления громкостью и подсветкой</li>   <li>Аккумулятор: 4000 мАч, обеспечивает длительное время автономной работы.</li>  </ul>    <p><strong>RGB-подсветка:</strong><br />  • 15 режимов<br />  • 16.8 млн цветов<br />  • Музыкальный режим реагирует на ритм воспроизводимой музыки.</p>    <p><strong>Комплектация:</strong></p>    <ul>   <li>Клавиатура AULA F75</li>   <li>Кабель USB Type-C</li>   <li>USB-адаптер 2.4 ГГц</li>   <li>Защитная накладка от пыли</li>   <li>4 запасные переключатели</li>   <li>Пуллер</li>   <li>Руководство пользователя</li>  </ul></description_ru>
-        <price>2399</price>
-        <categoryId>1082</categoryId>
-        <vendor>Aula</vendor>
-        <picture>https://techgleam.com.ua/content/images/16/95608714299997_%2B231b2e3212.jpg</picture>
-        <picture>https://techgleam.com.ua/content/images/16/58423253957398_%2B49e6952272.jpg</picture>
-        <picture>https://techgleam.com.ua/content/images/16/91365340358714_%2B1c0aa4c74b.jpg</picture>
-        <picture>https://techgleam.com.ua/content/images/16/82730488747399_%2Bdb50652e47.jpg</picture>
-        <picture>https://techgleam.com.ua/content/images/16/37188658571242_%2B5773d46899.jpg</picture>
-        <picture>https://techgleam.com.ua/content/images/16/37758524999816_%2B7c759ada55.jpg</picture>
-        <picture>https://techgleam.com.ua/content/images/16/75533253793498_%2B2a442cf937.jpg</picture>
-        <picture>https://techgleam.com.ua/content/images/16/44378563902233_%2Bd12a5dde40.jpg</picture>
-        <picture>https://techgleam.com.ua/content/images/16/67771931931181_%2B647e8efa4e.jpg</picture>
-        <picture>https://techgleam.com.ua/content/images/16/53715146527461_%2Be9930a92c8.jpg</picture>
-        <param name="Гарантія">1 місяць</param>
-        <param name="Колір">Синій</param>
-        <param name="Конструкція клавіш">Механічна</param>
+        <name_ua>Бездротова ігрова мишка AJAZZ AJ159 PRO / Три режими підключення / Док-станція / Сенсор PAW3395 / 26000 DPI / White</name_ua>
+        <name_ru>Беспроводная игровая мышка AJAZZ AJ159 PRO / Три режима подключения / Док-станция / Сенсор PAW3395 / 26000 DPI / White</name_ru>
+        <description_ua><p><strong>AJAZZ AJ159 PRO Wireless 8K — миша, що грає на максимумі!</strong></p>    <p>Ідеальна для кіберспортсменів, стрімерів і всіх, хто прагне абсолютної точності та швидкості </p>    <p><strong>Основні характеристики:  </strong></p>    <ul>   <li>Сенсор: PixArt PAW3395 — до 26 000 DPI  </li>   <li>Підключення: 2.4GHz / Bluetooth / USB Type-C  </li>   <li>Частота опитування: до 8000 Гц (0.125 мс)  </li>   <li>Вага: лише 56 г — для блискавичної реакції  </li>   <li>Акумулятор: 400 мАг — автономність і магнітна зарядка  </li>   <li>Перемикачі: Huano — до 100 млн натискань  </li>   <li>RGB-док: з підсвіткою  </li>  </ul></description_ua>
+        <description_ru><p><strong>AJAZZ AJ159 PRO Wireless 8K — мышь, которая играет на максимуме! </strong></p>    <p>Идеальна для киберспортсменов, стримеров и всех, кто стремится к абсолютной точности и скорости </p>    <p><strong>Основные характеристики:</strong></p>    <ul>   <li>Сенсор: PixArt PAW3395 — до 26 000 DPI</li>   <li>Подключение: 2.4GHz / Bluetooth / USB Type-C</li>   <li>Частота опроса: до 8000 Гц (0.125 мс)</li>   <li>Вес: всего 56 г — для молниеносной реакции</li>   <li>Аккумулятор: 400 мАч — автономность и магнитная зарядка</li>   <li>Переключатели: Huano — до 100 млн нажатий</li>   <li>RGB-док: с подсветкой</li>  </ul></description_ru>
+        <price>1699</price>
+        <old_price>2199</old_price>
+        <categoryId>1084</categoryId>
+        <vendor>Ajazz</vendor>
+        <picture>https://techgleam.com.ua/content/images/38/25197329024778_%2B57889aba07.jpg</picture>
+        <picture>https://techgleam.com.ua/content/images/38/48941641147075_%2Bc311d0d542.jpg</picture>
+        <picture>https://techgleam.com.ua/content/images/38/31993734646128_%2B661a5ebd4c.jpg</picture>
+        <picture>https://techgleam.com.ua/content/images/38/49614696210807_%2Bd5b6626de0.jpg</picture>
+        <picture>https://techgleam.com.ua/content/images/38/41254114804991_%2B88c40f1832.jpg</picture>
+        <param name="Гарантія">3 місяці</param>
+        <param name="Колір">Білий</param>
         <param name="Підключення">Комбіноване</param>
+        <param name="Сумісність з ОС">Microsoft Windows</param>
+        <param name="Сумісність з ОС">Mac OS</param>
+        <param name="Сумісність з ОС">Linux</param>
+        <param name="Вага">56 г</param>
+        <param name="Тип датчика">Оптичний</param>
         <param name="Інтерфейс підключення">Bluetooth</param>
         <param name="Інтерфейс підключення">Радіоінтерфейс</param>
         <param name="Інтерфейс підключення">USB</param>
-        <param name="Розкладка">Eng</param>
-        <param name="Форм-фактор">Компактні</param>
-        <param name="Колір підсвічування">RGB</param>
-        <param name="Підсвічування клавіш">Є</param>
-        <param name="Матеріал корпусу">Пластик</param>
-        <param name="Живлення">Акумулятор</param>
-        <param name="Сумісність з ОС">Windows</param>
-        <param name="Сумісність з ОС">Mac OS</param>
-        <param name="Сумісність з ОС">Chrome OS</param>
+        <param name="Роздільна здатність сенсора">Понад 20000 dpi</param>
         <param name="Стан">Новий</param>
-        <param name="Комплектація">Клавіатура</param>
-        <param name="Призначення">Для ПК</param>
-        <param name="Вид">Ігрові</param>
+        <param name="Тип">Ігрові (геймерські)</param>
         <country>Китай</country>
       </offer>
       <offer id="681" available="true">
@@ -1591,32 +1581,6 @@
         <param name="Комплектація">Клавіатура</param>
         <param name="Призначення">Для ПК</param>
         <param name="Вид">Ігрові</param>
-        <country>Китай</country>
-      </offer>
-      <offer id="1773" available="true">
-        <availability_status>available</availability_status>
-        <name_ua>Ігрова бездротова мишка Mchose G3 V2 / Три режими підключення / Сенсор PAW3311 / 12 000 DPI / White</name_ua>
-        <name_ru>Игровая беспроводная мышка Mchose G3 V2 / Три режима подключения / Сенсор PAW3311 / 12 000 DPI / White</name_ru>
-        <description_ua><p data-end="406" data-start="78"><strong data-end="94" data-start="78">Mchose G3 V2</strong> — це симетрична бездротова миша, створена як практичне рішення для щоденного геймінгу, роботи та універсального використання. Модель поєднує класичну ергономічну форму, стабільний сенсор, кілька режимів підключення та хорошу автономність, завдяки чому підійде як для домашнього, так і для офісного використання.</p>    <p data-end="731" data-start="408">Миша оснащена сенсором <strong data-end="442" data-start="431">PAW3311</strong> з максимальною роздільною здатністю до <strong data-end="495" data-start="482">12000 DPI</strong>, що забезпечує точне та передбачуване відстеження рухів. Основні кнопки побудовані на <strong data-end="608" data-start="582">перемикачах Omron 100M</strong>, які розраховані на тривалий ресурс натискань, а <strong data-end="686" data-start="658">енкодер TTC Silver Wheel</strong> відповідає за чітке та плавне прокручування.</p>    <p data-end="1062" data-start="733">За стабільну роботу пристрою відповідає <strong data-end="795" data-start="773">контролер FREQCHIP</strong>. Mchose G3 V2 підтримує <strong data-end="846" data-start="820">три режими підключення</strong>: <strong data-end="859" data-start="848">2.4 ГГц</strong>, <strong data-end="874" data-start="861">Bluetooth</strong> і <strong data-end="898" data-start="877">дротове через USB</strong>, що дозволяє легко використовувати мишу з різними пристроями. Частота опитування до <strong data-end="994" data-start="983">1000 Гц</strong> забезпечує швидкий відгук як у повсякденних задачах, так і в іграх.</p>    <p data-end="1441" data-start="1064">Завдяки <strong data-end="1093" data-start="1072">симетричній формі</strong> та компактним габаритам <strong data-end="1138" data-start="1118">117 × 63 × 38 мм</strong>, миша добре підходить для <strong data-end="1199" data-start="1165">кігтьового та гібридного хвату</strong>, а також для користувачів із <strong data-end="1259" data-start="1229">малими та середніми руками</strong>. Вага моделі становить близько <strong data-end="1306" data-start="1291">59 г (±3 г)</strong>, що робить її зручною для тривалого використання. Акумулятор на <strong data-end="1385" data-start="1371">800 мА·год</strong> забезпечує впевнену автономність без частих підзарядок.</p>    <p data-end="1466" data-start="1443"><strong data-end="1464" data-start="1443">Основні переваги:</strong></p>    <ul data-end="1966" data-start="1467">   <li data-end="1489" data-section-id="10eot88" data-start="1467">Сенсор <strong data-end="1487" data-start="1476">PAW3311</strong></li>   <li data-end="1542" data-section-id="s0zcs1" data-start="1490">Максимальна роздільна здатність <strong data-end="1540" data-start="1524">до 12000 DPI</strong></li>   <li data-end="1598" data-section-id="1ubqlvx" data-start="1543"><strong data-end="1569" data-start="1545">3 режими підключення</strong>: 2.4 ГГц / Bluetooth / USB</li>   <li data-end="1636" data-section-id="1431puj" data-start="1599">Частота опитування <strong data-end="1634" data-start="1620">до 1000 Гц</strong></li>   <li data-end="1666" data-section-id="6rxqf9" data-start="1637">Перемикачі <strong data-end="1664" data-start="1650">Omron 100M</strong></li>   <li data-end="1699" data-section-id="1jzatk2" data-start="1667">Енкодер <strong data-end="1697" data-start="1677">TTC Silver Wheel</strong></li>   <li data-end="1726" data-section-id="15vo1e9" data-start="1700">Контролер <strong data-end="1724" data-start="1712">FREQCHIP</strong></li>   <li data-end="1747" data-section-id="1qotg2m" data-start="1727">Симетрична форма</li>   <li data-end="1800" data-section-id="1okiav4" data-start="1748">Підходить для <strong data-end="1798" data-start="1764">кігтьового та гібридного хвату</strong></li>   <li data-end="1850" data-section-id="1i5t7zc" data-start="1801">Рекомендована для <strong data-end="1848" data-start="1821">малої та середньої руки</strong></li>   <li data-end="1880" data-section-id="12ma2uk" data-start="1851">Акумулятор <strong data-end="1878" data-start="1864">800 мА·год</strong></li>   <li data-end="1913" data-section-id="1txzll7" data-start="1881">Вага близько <strong data-end="1911" data-start="1896">59 г (±3 г)</strong></li>   <li data-end="1947" data-section-id="liakmo" data-start="1914">Розміри: <strong data-end="1945" data-start="1925">117 × 63 × 38 мм</strong></li>  </ul></description_ua>
-        <description_ru><p data-end="2400" data-start="2061"><strong data-end="2077" data-start="2061">Mchose G3 V2</strong> — это симметричная беспроводная мышь, созданная как практичное решение для повседневного гейминга, работы и универсального использования. Модель сочетает классическую эргономичную форму, стабильный сенсор, несколько режимов подключения и хорошую автономность, благодаря чему отлично подойдёт как для дома, так и для офиса.</p>    <p data-end="2718" data-start="2402">Мышь оснащена сенсором <strong data-end="2436" data-start="2425">PAW3311</strong> с максимальным разрешением до <strong data-end="2480" data-start="2467">12000 DPI</strong>, что обеспечивает точное и предсказуемое отслеживание движений. Основные кнопки построены на <strong data-end="2603" data-start="2574">переключателях Omron 100M</strong>, рассчитанных на длительный ресурс нажатий, а <strong data-end="2678" data-start="2650">энкодер TTC Silver Wheel</strong> отвечает за чёткую и плавную прокрутку.</p>    <p data-end="3057" data-start="2720">За стабильную работу устройства отвечает <strong data-end="2784" data-start="2761">контроллер FREQCHIP</strong>. Mchose G3 V2 поддерживает <strong data-end="2838" data-start="2812">три режима подключения</strong>: <strong data-end="2851" data-start="2840">2.4 ГГц</strong>, <strong data-end="2866" data-start="2853">Bluetooth</strong> и <strong data-end="2892" data-start="2869">проводное через USB</strong>, что позволяет удобно использовать мышь с разными устройствами. Частота опроса до <strong data-end="2986" data-start="2975">1000 Гц</strong> обеспечивает быстрый отклик как в повседневных задачах, так и в играх.</p>    <p data-end="3439" data-start="3059">Благодаря <strong data-end="3091" data-start="3069">симметричной форме</strong> и компактным габаритам <strong data-end="3135" data-start="3115">117 × 63 × 38 мм</strong>, мышь хорошо подходит для <strong data-end="3194" data-start="3162">когтевого и гибридного хвата</strong>, а также для пользователей с <strong data-end="3253" data-start="3224">маленькой и средней рукой</strong>. Вес модели составляет около <strong data-end="3298" data-start="3283">59 г (±3 г)</strong>, что делает её удобной для длительного использования. Аккумулятор на <strong data-end="3380" data-start="3368">800 мА·ч</strong> обеспечивает уверенную автономность без частых подзарядок.</p>    <p data-end="3469" data-start="3441"><strong data-end="3467" data-start="3441">Основные преимущества:</strong></p>    <ul data-end="3956" data-start="3470">   <li data-end="3492" data-section-id="10eot88" data-start="3470">Сенсор <strong data-end="3490" data-start="3479">PAW3311</strong></li>   <li data-end="3537" data-section-id="1lepc7l" data-start="3493">Максимальное разрешение <strong data-end="3535" data-start="3519">до 12000 DPI</strong></li>   <li data-end="3593" data-section-id="1yy62zs" data-start="3538"><strong data-end="3564" data-start="3540">3 режима подключения</strong>: 2.4 ГГц / Bluetooth / USB</li>   <li data-end="3627" data-section-id="qbvpi8" data-start="3594">Частота опроса <strong data-end="3625" data-start="3611">до 1000 Гц</strong></li>   <li data-end="3660" data-section-id="amyamu" data-start="3628">Переключатели <strong data-end="3658" data-start="3644">Omron 100M</strong></li>   <li data-end="3693" data-section-id="iypmmy" data-start="3661">Энкодер <strong data-end="3691" data-start="3671">TTC Silver Wheel</strong></li>   <li data-end="3721" data-section-id="haq5my" data-start="3694">Контроллер <strong data-end="3719" data-start="3707">FREQCHIP</strong></li>   <li data-end="3744" data-section-id="w0wclp" data-start="3722">Симметричная форма</li>   <li data-end="3794" data-section-id="613k7w" data-start="3745">Подходит для <strong data-end="3792" data-start="3760">когтевого и гибридного хвата</strong></li>   <li data-end="3845" data-section-id="1og3dce" data-start="3795">Рекомендована для <strong data-end="3843" data-start="3815">маленькой и средней руки</strong></li>   <li data-end="3874" data-section-id="kxyr8o" data-start="3846">Аккумулятор <strong data-end="3872" data-start="3860">800 мА·ч</strong></li>   <li data-end="3904" data-section-id="u6x2qm" data-start="3875">Вес около <strong data-end="3902" data-start="3887">59 г (±3 г)</strong></li>   <li data-end="3938" data-section-id="111jhbi" data-start="3905">Размеры: <strong data-end="3936" data-start="3916">117 × 63 × 38 мм</strong></li>  </ul></description_ru>
-        <price>1399</price>
-        <categoryId>1084</categoryId>
-        <vendor>Mchose</vendor>
-        <picture>https://techgleam.com.ua/content/images/24/grova-bezdrotova-mishka-mchose-g3-v2-tri-rezhimi-pdkluchennja-sensor-paw3311-12-000-dpi-white-86487621176036_%2Bdf21757834.jpg</picture>
-        <param name="Гарантія">1 місяць</param>
-        <param name="Колір">Білий</param>
-        <param name="Підключення">Комбіноване</param>
-        <param name="Сумісність з ОС">Microsoft Windows</param>
-        <param name="Сумісність з ОС">Mac OS</param>
-        <param name="Сумісність з ОС">Linux</param>
-        <param name="Вага">59 г</param>
-        <param name="Тип датчика">Оптичний</param>
-        <param name="Інтерфейс підключення">Bluetooth</param>
-        <param name="Інтерфейс підключення">Радіоінтерфейс</param>
-        <param name="Інтерфейс підключення">USB</param>
-        <param name="Роздільна здатність сенсора">10001 - 12000 dpi</param>
-        <param name="Стан">Новий</param>
-        <param name="Тип">Ігрові (геймерські)</param>
         <country>Китай</country>
       </offer>
       <offer id="1784" available="true">
@@ -4306,6 +4270,47 @@
         <param name="Вид">Ігрові</param>
         <country>Китай</country>
       </offer>
+      <offer id="565" available="false">
+        <availability_status>temporarily_unavailable</availability_status>
+        <name_ua>Игровая механическая клавиатура AULA F75 / Три режима подключения / Leobog Axis Reaper Switch / Dark Blue</name_ua>
+        <name_ru>Игровая механическая клавиатура AULA F75 / Три режима подключения / Leobog Axis Reaper Switch / Dark Blue</name_ru>
+        <description_ua><p><strong>Механічна клавіатура AULA F75 </strong></p>    <p>AULA F75 — це універсальна клавіатура для роботи, навчання та ігор, що поєднує компактність, ергономіку та сучасні функції.</p>    <p><strong>Основні характеристики:</strong></p>    <ul>   <li>Тип: Механічна клавіатура, 75% форм-фактор </li>   <li>Розкладка: англійська</li>   <li>Підключення: Bluetooth 5.0 / 2.4 ГГц / USB Type-C  </li>   <li>Сумісність: Windows, Mac, iOS, Android, PS, Xbox  </li>   <li>5-шарова система шумопоглинання для комфортного набору тексту  </li>   <li>Мультимедійне колесо для зручного керування гучністю та підсвіткою</li>   <li>Акумулятор: 4000 мА·год, забезпечує тривалий час автономної роботи.</li>  </ul>    <p><strong>RGB-підсвітка:</strong><br />  • 15 режимів  <br />  • 16.8 млн кольорів  <br />  • Музичний режим реагує на ритм відтворюваної музики</p>    <p><strong>Комплектація:</strong></p>    <ul>   <li>Клавіатура AULA F75  </li>   <li>Кабель USB Type-C  </li>   <li>USB-адаптер 2.4 ГГц  </li>   <li>Захисна накладка від пилу  </li>   <li>4 запасні перемикачі  </li>   <li>Пуллер  </li>   <li>Інструкція користувача</li>  </ul></description_ua>
+        <description_ru><p><strong>Механическая клавиатура AULA F75</strong></p>    <p>AULA F75 – это универсальная клавиатура для работы, обучения и игр, сочетающая компактность, эргономику и современные функции.</p>    <p><strong>Основные характеристики:</strong></p>    <ul>   <li>Тип: Механическая клавиатура, 75% форм-фактор</li>   <li>Раскладка: английская</li>   <li>Подключение: Bluetooth 5.0/2.4 ГГц/USB Type-C</li>   <li>Совместимость: Windows, Mac, iOS, Android, PS, Xbox</li>   <li>5-слойная система шумопоглощения для комфортного набора текста</li>   <li>Мультимедийное колесо для удобного управления громкостью и подсветкой</li>   <li>Аккумулятор: 4000 мАч, обеспечивает длительное время автономной работы.</li>  </ul>    <p><strong>RGB-подсветка:</strong><br />  • 15 режимов<br />  • 16.8 млн цветов<br />  • Музыкальный режим реагирует на ритм воспроизводимой музыки.</p>    <p><strong>Комплектация:</strong></p>    <ul>   <li>Клавиатура AULA F75</li>   <li>Кабель USB Type-C</li>   <li>USB-адаптер 2.4 ГГц</li>   <li>Защитная накладка от пыли</li>   <li>4 запасные переключатели</li>   <li>Пуллер</li>   <li>Руководство пользователя</li>  </ul></description_ru>
+        <price>2399</price>
+        <categoryId>1082</categoryId>
+        <vendor>Aula</vendor>
+        <picture>https://techgleam.com.ua/content/images/16/95608714299997_%2B231b2e3212.jpg</picture>
+        <picture>https://techgleam.com.ua/content/images/16/58423253957398_%2B49e6952272.jpg</picture>
+        <picture>https://techgleam.com.ua/content/images/16/91365340358714_%2B1c0aa4c74b.jpg</picture>
+        <picture>https://techgleam.com.ua/content/images/16/82730488747399_%2Bdb50652e47.jpg</picture>
+        <picture>https://techgleam.com.ua/content/images/16/37188658571242_%2B5773d46899.jpg</picture>
+        <picture>https://techgleam.com.ua/content/images/16/37758524999816_%2B7c759ada55.jpg</picture>
+        <picture>https://techgleam.com.ua/content/images/16/75533253793498_%2B2a442cf937.jpg</picture>
+        <picture>https://techgleam.com.ua/content/images/16/44378563902233_%2Bd12a5dde40.jpg</picture>
+        <picture>https://techgleam.com.ua/content/images/16/67771931931181_%2B647e8efa4e.jpg</picture>
+        <picture>https://techgleam.com.ua/content/images/16/53715146527461_%2Be9930a92c8.jpg</picture>
+        <param name="Гарантія">1 місяць</param>
+        <param name="Колір">Синій</param>
+        <param name="Конструкція клавіш">Механічна</param>
+        <param name="Підключення">Комбіноване</param>
+        <param name="Інтерфейс підключення">Bluetooth</param>
+        <param name="Інтерфейс підключення">Радіоінтерфейс</param>
+        <param name="Інтерфейс підключення">USB</param>
+        <param name="Розкладка">Eng</param>
+        <param name="Форм-фактор">Компактні</param>
+        <param name="Колір підсвічування">RGB</param>
+        <param name="Підсвічування клавіш">Є</param>
+        <param name="Матеріал корпусу">Пластик</param>
+        <param name="Живлення">Акумулятор</param>
+        <param name="Сумісність з ОС">Windows</param>
+        <param name="Сумісність з ОС">Mac OS</param>
+        <param name="Сумісність з ОС">Chrome OS</param>
+        <param name="Стан">Новий</param>
+        <param name="Комплектація">Клавіатура</param>
+        <param name="Призначення">Для ПК</param>
+        <param name="Вид">Ігрові</param>
+        <country>Китай</country>
+      </offer>
       <offer id="566" available="false">
         <availability_status>temporarily_unavailable</availability_status>
         <name_ua>Ігрова механічна клавіатура ATTACK SHARK X98, Темно-синій</name_ua>
@@ -4678,37 +4683,6 @@
         <param name="Сумісність з ОС">Mac OS</param>
         <param name="Сумісність з ОС">Linux</param>
         <param name="Вага">63 г</param>
-        <param name="Тип датчика">Оптичний</param>
-        <param name="Інтерфейс підключення">Bluetooth</param>
-        <param name="Інтерфейс підключення">Радіоінтерфейс</param>
-        <param name="Інтерфейс підключення">USB</param>
-        <param name="Роздільна здатність сенсора">Понад 20000 dpi</param>
-        <param name="Стан">Новий</param>
-        <param name="Тип">Ігрові (геймерські)</param>
-        <country>Китай</country>
-      </offer>
-      <offer id="637" available="false">
-        <availability_status>temporarily_unavailable</availability_status>
-        <name_ua>Бездротова ігрова мишка AJAZZ AJ159 PRO / Три режими підключення / Док-станція / Сенсор PAW3395 / 26000 DPI / White</name_ua>
-        <name_ru>Беспроводная игровая мышка AJAZZ AJ159 PRO / Три режима подключения / Док-станция / Сенсор PAW3395 / 26000 DPI / White</name_ru>
-        <description_ua><p><strong>AJAZZ AJ159 PRO Wireless 8K — миша, що грає на максимумі!</strong></p>    <p>Ідеальна для кіберспортсменів, стрімерів і всіх, хто прагне абсолютної точності та швидкості </p>    <p><strong>Основні характеристики:  </strong></p>    <ul>   <li>Сенсор: PixArt PAW3395 — до 26 000 DPI  </li>   <li>Підключення: 2.4GHz / Bluetooth / USB Type-C  </li>   <li>Частота опитування: до 8000 Гц (0.125 мс)  </li>   <li>Вага: лише 56 г — для блискавичної реакції  </li>   <li>Акумулятор: 400 мАг — автономність і магнітна зарядка  </li>   <li>Перемикачі: Huano — до 100 млн натискань  </li>   <li>RGB-док: з підсвіткою  </li>  </ul></description_ua>
-        <description_ru><p><strong>AJAZZ AJ159 PRO Wireless 8K — мышь, которая играет на максимуме! </strong></p>    <p>Идеальна для киберспортсменов, стримеров и всех, кто стремится к абсолютной точности и скорости </p>    <p><strong>Основные характеристики:</strong></p>    <ul>   <li>Сенсор: PixArt PAW3395 — до 26 000 DPI</li>   <li>Подключение: 2.4GHz / Bluetooth / USB Type-C</li>   <li>Частота опроса: до 8000 Гц (0.125 мс)</li>   <li>Вес: всего 56 г — для молниеносной реакции</li>   <li>Аккумулятор: 400 мАч — автономность и магнитная зарядка</li>   <li>Переключатели: Huano — до 100 млн нажатий</li>   <li>RGB-док: с подсветкой</li>  </ul></description_ru>
-        <price>1699</price>
-        <old_price>2199</old_price>
-        <categoryId>1084</categoryId>
-        <vendor>Ajazz</vendor>
-        <picture>https://techgleam.com.ua/content/images/38/25197329024778_%2B57889aba07.jpg</picture>
-        <picture>https://techgleam.com.ua/content/images/38/48941641147075_%2Bc311d0d542.jpg</picture>
-        <picture>https://techgleam.com.ua/content/images/38/31993734646128_%2B661a5ebd4c.jpg</picture>
-        <picture>https://techgleam.com.ua/content/images/38/49614696210807_%2Bd5b6626de0.jpg</picture>
-        <picture>https://techgleam.com.ua/content/images/38/41254114804991_%2B88c40f1832.jpg</picture>
-        <param name="Гарантія">3 місяці</param>
-        <param name="Колір">Білий</param>
-        <param name="Підключення">Комбіноване</param>
-        <param name="Сумісність з ОС">Microsoft Windows</param>
-        <param name="Сумісність з ОС">Mac OS</param>
-        <param name="Сумісність з ОС">Linux</param>
-        <param name="Вага">56 г</param>
         <param name="Тип датчика">Оптичний</param>
         <param name="Інтерфейс підключення">Bluetooth</param>
         <param name="Інтерфейс підключення">Радіоінтерфейс</param>
@@ -12758,6 +12732,32 @@
         <param name="Вид">Ігрові</param>
         <country>Китай</country>
       </offer>
+      <offer id="1773" available="false">
+        <availability_status>temporarily_unavailable</availability_status>
+        <name_ua>Ігрова бездротова мишка Mchose G3 V2 / Три режими підключення / Сенсор PAW3311 / 12 000 DPI / White</name_ua>
+        <name_ru>Игровая беспроводная мышка Mchose G3 V2 / Три режима подключения / Сенсор PAW3311 / 12 000 DPI / White</name_ru>
+        <description_ua><p data-end="406" data-start="78"><strong data-end="94" data-start="78">Mchose G3 V2</strong> — це симетрична бездротова миша, створена як практичне рішення для щоденного геймінгу, роботи та універсального використання. Модель поєднує класичну ергономічну форму, стабільний сенсор, кілька режимів підключення та хорошу автономність, завдяки чому підійде як для домашнього, так і для офісного використання.</p>    <p data-end="731" data-start="408">Миша оснащена сенсором <strong data-end="442" data-start="431">PAW3311</strong> з максимальною роздільною здатністю до <strong data-end="495" data-start="482">12000 DPI</strong>, що забезпечує точне та передбачуване відстеження рухів. Основні кнопки побудовані на <strong data-end="608" data-start="582">перемикачах Omron 100M</strong>, які розраховані на тривалий ресурс натискань, а <strong data-end="686" data-start="658">енкодер TTC Silver Wheel</strong> відповідає за чітке та плавне прокручування.</p>    <p data-end="1062" data-start="733">За стабільну роботу пристрою відповідає <strong data-end="795" data-start="773">контролер FREQCHIP</strong>. Mchose G3 V2 підтримує <strong data-end="846" data-start="820">три режими підключення</strong>: <strong data-end="859" data-start="848">2.4 ГГц</strong>, <strong data-end="874" data-start="861">Bluetooth</strong> і <strong data-end="898" data-start="877">дротове через USB</strong>, що дозволяє легко використовувати мишу з різними пристроями. Частота опитування до <strong data-end="994" data-start="983">1000 Гц</strong> забезпечує швидкий відгук як у повсякденних задачах, так і в іграх.</p>    <p data-end="1441" data-start="1064">Завдяки <strong data-end="1093" data-start="1072">симетричній формі</strong> та компактним габаритам <strong data-end="1138" data-start="1118">117 × 63 × 38 мм</strong>, миша добре підходить для <strong data-end="1199" data-start="1165">кігтьового та гібридного хвату</strong>, а також для користувачів із <strong data-end="1259" data-start="1229">малими та середніми руками</strong>. Вага моделі становить близько <strong data-end="1306" data-start="1291">59 г (±3 г)</strong>, що робить її зручною для тривалого використання. Акумулятор на <strong data-end="1385" data-start="1371">800 мА·год</strong> забезпечує впевнену автономність без частих підзарядок.</p>    <p data-end="1466" data-start="1443"><strong data-end="1464" data-start="1443">Основні переваги:</strong></p>    <ul data-end="1966" data-start="1467">   <li data-end="1489" data-section-id="10eot88" data-start="1467">Сенсор <strong data-end="1487" data-start="1476">PAW3311</strong></li>   <li data-end="1542" data-section-id="s0zcs1" data-start="1490">Максимальна роздільна здатність <strong data-end="1540" data-start="1524">до 12000 DPI</strong></li>   <li data-end="1598" data-section-id="1ubqlvx" data-start="1543"><strong data-end="1569" data-start="1545">3 режими підключення</strong>: 2.4 ГГц / Bluetooth / USB</li>   <li data-end="1636" data-section-id="1431puj" data-start="1599">Частота опитування <strong data-end="1634" data-start="1620">до 1000 Гц</strong></li>   <li data-end="1666" data-section-id="6rxqf9" data-start="1637">Перемикачі <strong data-end="1664" data-start="1650">Omron 100M</strong></li>   <li data-end="1699" data-section-id="1jzatk2" data-start="1667">Енкодер <strong data-end="1697" data-start="1677">TTC Silver Wheel</strong></li>   <li data-end="1726" data-section-id="15vo1e9" data-start="1700">Контролер <strong data-end="1724" data-start="1712">FREQCHIP</strong></li>   <li data-end="1747" data-section-id="1qotg2m" data-start="1727">Симетрична форма</li>   <li data-end="1800" data-section-id="1okiav4" data-start="1748">Підходить для <strong data-end="1798" data-start="1764">кігтьового та гібридного хвату</strong></li>   <li data-end="1850" data-section-id="1i5t7zc" data-start="1801">Рекомендована для <strong data-end="1848" data-start="1821">малої та середньої руки</strong></li>   <li data-end="1880" data-section-id="12ma2uk" data-start="1851">Акумулятор <strong data-end="1878" data-start="1864">800 мА·год</strong></li>   <li data-end="1913" data-section-id="1txzll7" data-start="1881">Вага близько <strong data-end="1911" data-start="1896">59 г (±3 г)</strong></li>   <li data-end="1947" data-section-id="liakmo" data-start="1914">Розміри: <strong data-end="1945" data-start="1925">117 × 63 × 38 мм</strong></li>  </ul></description_ua>
+        <description_ru><p data-end="2400" data-start="2061"><strong data-end="2077" data-start="2061">Mchose G3 V2</strong> — это симметричная беспроводная мышь, созданная как практичное решение для повседневного гейминга, работы и универсального использования. Модель сочетает классическую эргономичную форму, стабильный сенсор, несколько режимов подключения и хорошую автономность, благодаря чему отлично подойдёт как для дома, так и для офиса.</p>    <p data-end="2718" data-start="2402">Мышь оснащена сенсором <strong data-end="2436" data-start="2425">PAW3311</strong> с максимальным разрешением до <strong data-end="2480" data-start="2467">12000 DPI</strong>, что обеспечивает точное и предсказуемое отслеживание движений. Основные кнопки построены на <strong data-end="2603" data-start="2574">переключателях Omron 100M</strong>, рассчитанных на длительный ресурс нажатий, а <strong data-end="2678" data-start="2650">энкодер TTC Silver Wheel</strong> отвечает за чёткую и плавную прокрутку.</p>    <p data-end="3057" data-start="2720">За стабильную работу устройства отвечает <strong data-end="2784" data-start="2761">контроллер FREQCHIP</strong>. Mchose G3 V2 поддерживает <strong data-end="2838" data-start="2812">три режима подключения</strong>: <strong data-end="2851" data-start="2840">2.4 ГГц</strong>, <strong data-end="2866" data-start="2853">Bluetooth</strong> и <strong data-end="2892" data-start="2869">проводное через USB</strong>, что позволяет удобно использовать мышь с разными устройствами. Частота опроса до <strong data-end="2986" data-start="2975">1000 Гц</strong> обеспечивает быстрый отклик как в повседневных задачах, так и в играх.</p>    <p data-end="3439" data-start="3059">Благодаря <strong data-end="3091" data-start="3069">симметричной форме</strong> и компактным габаритам <strong data-end="3135" data-start="3115">117 × 63 × 38 мм</strong>, мышь хорошо подходит для <strong data-end="3194" data-start="3162">когтевого и гибридного хвата</strong>, а также для пользователей с <strong data-end="3253" data-start="3224">маленькой и средней рукой</strong>. Вес модели составляет около <strong data-end="3298" data-start="3283">59 г (±3 г)</strong>, что делает её удобной для длительного использования. Аккумулятор на <strong data-end="3380" data-start="3368">800 мА·ч</strong> обеспечивает уверенную автономность без частых подзарядок.</p>    <p data-end="3469" data-start="3441"><strong data-end="3467" data-start="3441">Основные преимущества:</strong></p>    <ul data-end="3956" data-start="3470">   <li data-end="3492" data-section-id="10eot88" data-start="3470">Сенсор <strong data-end="3490" data-start="3479">PAW3311</strong></li>   <li data-end="3537" data-section-id="1lepc7l" data-start="3493">Максимальное разрешение <strong data-end="3535" data-start="3519">до 12000 DPI</strong></li>   <li data-end="3593" data-section-id="1yy62zs" data-start="3538"><strong data-end="3564" data-start="3540">3 режима подключения</strong>: 2.4 ГГц / Bluetooth / USB</li>   <li data-end="3627" data-section-id="qbvpi8" data-start="3594">Частота опроса <strong data-end="3625" data-start="3611">до 1000 Гц</strong></li>   <li data-end="3660" data-section-id="amyamu" data-start="3628">Переключатели <strong data-end="3658" data-start="3644">Omron 100M</strong></li>   <li data-end="3693" data-section-id="iypmmy" data-start="3661">Энкодер <strong data-end="3691" data-start="3671">TTC Silver Wheel</strong></li>   <li data-end="3721" data-section-id="haq5my" data-start="3694">Контроллер <strong data-end="3719" data-start="3707">FREQCHIP</strong></li>   <li data-end="3744" data-section-id="w0wclp" data-start="3722">Симметричная форма</li>   <li data-end="3794" data-section-id="613k7w" data-start="3745">Подходит для <strong data-end="3792" data-start="3760">когтевого и гибридного хвата</strong></li>   <li data-end="3845" data-section-id="1og3dce" data-start="3795">Рекомендована для <strong data-end="3843" data-start="3815">маленькой и средней руки</strong></li>   <li data-end="3874" data-section-id="kxyr8o" data-start="3846">Аккумулятор <strong data-end="3872" data-start="3860">800 мА·ч</strong></li>   <li data-end="3904" data-section-id="u6x2qm" data-start="3875">Вес около <strong data-end="3902" data-start="3887">59 г (±3 г)</strong></li>   <li data-end="3938" data-section-id="111jhbi" data-start="3905">Размеры: <strong data-end="3936" data-start="3916">117 × 63 × 38 мм</strong></li>  </ul></description_ru>
+        <price>1399</price>
+        <categoryId>1084</categoryId>
+        <vendor>Mchose</vendor>
+        <picture>https://techgleam.com.ua/content/images/24/grova-bezdrotova-mishka-mchose-g3-v2-tri-rezhimi-pdkluchennja-sensor-paw3311-12-000-dpi-white-86487621176036_%2Bdf21757834.jpg</picture>
+        <param name="Гарантія">1 місяць</param>
+        <param name="Колір">Білий</param>
+        <param name="Підключення">Комбіноване</param>
+        <param name="Сумісність з ОС">Microsoft Windows</param>
+        <param name="Сумісність з ОС">Mac OS</param>
+        <param name="Сумісність з ОС">Linux</param>
+        <param name="Вага">59 г</param>
+        <param name="Тип датчика">Оптичний</param>
+        <param name="Інтерфейс підключення">Bluetooth</param>
+        <param name="Інтерфейс підключення">Радіоінтерфейс</param>
+        <param name="Інтерфейс підключення">USB</param>
+        <param name="Роздільна здатність сенсора">10001 - 12000 dpi</param>
+        <param name="Стан">Новий</param>
+        <param name="Тип">Ігрові (геймерські)</param>
+        <country>Китай</country>
+      </offer>
       <offer id="1774" available="false">
         <availability_status>temporarily_unavailable</availability_status>
         <name_ua>Ігрова механічна дротова клавіатура Ajazz Ak690 / 68 клавіш / Hot-Swap / RGB / Melard Switch MC / White Blue</name_ua>
@@ -15204,39 +15204,6 @@
         <param name="Призначення">Геймерські</param>
         <country>Китай</country>
       </offer>
-      <offer id="657" available="true">
-        <availability_status>available</availability_status>
-        <name_ua>Навушники MCHOSE V9 Pro / Бездротова ігрова гарнітура / 2.4G / Bluetooth з мікрофоном / Black Red</name_ua>
-        <name_ru>Наушники MCHOSE V9 Pro / Беспроводная игровая гарнитура / 2.4G / Bluetooth с микрофоном / Black Red</name_ru>
-        <description_ua><p><strong data-end="27" data-start="3">MCHOSE V9 Pro</strong><strong>— </strong>бездротова ігрова гарнітура, що дарує максимальний комфорт і точне позиціонування звуків у грі.<br data-end="128" data-start="125" />  53-мм біоцелюлозні драйвери + підтримка 7.1 забезпечують чисте й об’ємне звучання, а ємний акумулятор дозволяє грати <strong data-end="261" data-start="245">до 250 годин</strong> без підзарядки. Must-have аксесуар для стрімів, матчів і щоденних дзвінків!</p>    <h3 data-end="374" data-start="344">Основні характеристики:</h3>    <ul>   <li>Тип підключення: 2.4 ГГц / Bluetooth 5.3 / дротове USB-C</li>   <li>Сумісність: ПК, ноутбук, PS4/PS5, Nintendo Switch, смартфони</li>   <li>Драйвери: 53 мм біоцелюлозні — детальний бас і чисті верхи</li>   <li>Звук: об’ємний 7.1, точне позиціонування кроків і пострілів</li>   <li>Мікрофон: знімний, на гнучкій штанзі, AI-шумопридушення, швидке mute</li>   <li>Керування: коліщатко гучності й кнопки на чаші</li>   <li>Акумулятор: 2000 мА·год, до 250 год роботи</li>   <li>Комфорт: м’які амбушури з пам’яттю форми, регульоване наголів’я, легка посадка</li>   <li>Конструкція: складана, зносостійке покриття </li>  </ul>    <p><strong>Комплектація:</strong></p>    <ul>   <li>Гарнітура MCHOSE V9 Pro </li>   <li>2.4 ГГц USB-A ресивер</li>   <li>Кабель USB</li>   <li>Знімний мікрофон</li>   <li>Інструкція користувача</li>  </ul></description_ua>
-        <description_ru><p><strong>MCHOSE V9 Pro— беспроводная игровая гарнитура, дающая максимальный комфорт и точное позиционирование звуков в игре.</strong><br />  53-мм биоцеллюлозный драйвер + поддержка 7.1 обеспечивают чистое и объемное звучание, а емкий аккумулятор позволяет играть до 250 часов без подзарядки. Must-have аксессуар для стримов, матчей и ежедневных звонков!</p>    <p><strong>Основные характеристики:</strong></p>    <ul>   <li>Тип подключения: 2.4 ГГц/Bluetooth 5.3/проводное USB-C</li>   <li>Совместимость: ПК, ноутбук, PS4/PS5, Nintendo Switch, смартфоны</li>   <li>Драйверы: 53 мм биоцеллюлозные - подробный бас и чистые верха.</li>   <li>Звук: объемный 7.1, точное позиционирование шагов и выстрелов</li>   <li>Микрофон: съемный, на гибкой штанге, AI-шумоподавление, быстрое mute</li>   <li>Управление: колесико громкости и кнопки на чаше</li>   <li>Аккумулятор: 2000 мА·ч, до 250 ч работы</li>   <li>Комфорт: мягкие амбушюры с памятью формы, регулируемое оголовье, легкая посадка</li>   <li>Конструкция: складная, износостойкое покрытие</li>  </ul>    <p><strong>   Комплектация:</strong></p>    <ul>   <li>Гарнитура MCHOSE V9 Pro</li>   <li>2.4 ГГц USB-A ресивер</li>   <li>Кабель USB</li>   <li>Съемный микрофон</li>   <li>Руководство пользователя</li>  </ul></description_ru>
-        <price>2499</price>
-        <old_price>2999</old_price>
-        <categoryId>1086</categoryId>
-        <vendor>Mchose</vendor>
-        <picture>https://techgleam.com.ua/content/images/8/73254184286400_%2B152f7b6872.jpg</picture>
-        <picture>https://techgleam.com.ua/content/images/8/87722112914057_%2B1040c62c63.jpg</picture>
-        <picture>https://techgleam.com.ua/content/images/8/71794068233673_%2B16d3ce7725.jpg</picture>
-        <picture>https://techgleam.com.ua/content/images/8/13529576955488_%2Bc4232aeed2.jpg</picture>
-        <picture>https://techgleam.com.ua/content/images/8/81398541083430_%2Bc372ec95d5.jpg</picture>
-        <param name="Гарантія">3 місяці</param>
-        <param name="Тип">Повнорозмірні</param>
-        <param name="Тип підключення">Комбінований</param>
-        <param name="Мікрофон">Зйомний</param>
-        <param name="Інтерфейс зарядного пристрою">USB Type-C</param>
-        <param name="Матеріал амбушюр">Екошкіра</param>
-        <param name="Чутливість навушників">95 дБ</param>
-        <param name="Чутливість навушників">120 дБ</param>
-        <param name="Діапазон частот навушників">20 - 20000 Гц</param>
-        <param name="Кріплення">Оголів&apos;я</param>
-        <param name="Довжина кабелю">1.8 м</param>
-        <param name="Час зарядки">2.5 години</param>
-        <param name="Час роботи">250 годин</param>
-        <param name="Вага">265 г</param>
-        <param name="Стан">Новий</param>
-        <param name="Призначення">Геймерські</param>
-        <country>Китай</country>
-      </offer>
       <offer id="682" available="true">
         <availability_status>available</availability_status>
         <name_ua>Набір кейкапів Spider Web PBT Cherry Profile 130 клавіш, Чорний</name_ua>
@@ -15371,40 +15338,6 @@
         <param name="Кріплення">Дужка за вухо</param>
         <param name="Довжина кабелю">1.2 м</param>
         <param name="Стан">Новий</param>
-        <country>Китай</country>
-      </offer>
-      <offer id="817" available="true">
-        <availability_status>available</availability_status>
-        <name_ua>Навушники MCHOSE V9 Pro / Бездротова ігрова гарнітура / 2.4G / Bluetooth з мікрофоном / Black</name_ua>
-        <name_ru>Наушники MCHOSE V9 Pro / Беспроводная игровая гарнитура / 2.4G / Bluetooth с микрофоном / Black</name_ru>
-        <description_ua><p><strong data-end="27" data-start="3">MCHOSE V9 Pro</strong><strong>— </strong>бездротова ігрова гарнітура, що дарує максимальний комфорт і точне позиціонування звуків у грі.<br data-end="128" data-start="125" />  53-мм біоцелюлозні драйвери + підтримка 7.1 забезпечують чисте й об’ємне звучання, а ємний акумулятор дозволяє грати <strong data-end="261" data-start="245">до 250 годин</strong> без підзарядки. Must-have аксесуар для стрімів, матчів і щоденних дзвінків!</p>    <h3 data-end="374" data-start="344">Основні характеристики:</h3>    <ul>   <li>Тип підключення: 2.4 ГГц / Bluetooth 5.3 / дротове USB-C</li>   <li>Сумісність: ПК, ноутбук, PS4/PS5, Nintendo Switch, смартфони</li>   <li>Драйвери: 53 мм біоцелюлозні — детальний бас і чисті верхи</li>   <li>Звук: об’ємний 7.1, точне позиціонування кроків і пострілів</li>   <li>Мікрофон: знімний, на гнучкій штанзі, AI-шумопридушення, швидке mute</li>   <li>Керування: коліщатко гучності й кнопки на чаші</li>   <li>Акумулятор: 2000 мА·год, до 250 год роботи</li>   <li>Комфорт: м’які амбушури з пам’яттю форми, регульоване наголів’я, легка посадка</li>   <li>Конструкція: складана, зносостійке покриття </li>  </ul>    <p><strong>Комплектація:</strong></p>    <ul>   <li>Гарнітура MCHOSE V9 Pro </li>   <li>2.4 ГГц USB-A ресивер</li>   <li>Кабель USB</li>   <li>Знімний мікрофон</li>   <li>Інструкція користувача</li>  </ul></description_ua>
-        <description_ru><p><strong>MCHOSE V9 Pro— беспроводная игровая гарнитура, дающая максимальный комфорт и точное позиционирование звуков в игре.</strong><br />  53-мм биоцеллюлозный драйвер + поддержка 7.1 обеспечивают чистое и объемное звучание, а емкий аккумулятор позволяет играть до 250 часов без подзарядки. Must-have аксессуар для стримов, матчей и ежедневных звонков!</p>    <p><strong>Основные характеристики:</strong></p>    <ul>   <li>Тип подключения: 2.4 ГГц/Bluetooth 5.3/проводное USB-C</li>   <li>Совместимость: ПК, ноутбук, PS4/PS5, Nintendo Switch, смартфоны</li>   <li>Драйверы: 53 мм биоцеллюлозные - подробный бас и чистые верха.</li>   <li>Звук: объемный 7.1, точное позиционирование шагов и выстрелов</li>   <li>Микрофон: съемный, на гибкой штанге, AI-шумоподавление, быстрое mute</li>   <li>Управление: колесико громкости и кнопки на чаше</li>   <li>Аккумулятор: 2000 мА·ч, до 250 ч работы</li>   <li>Комфорт: мягкие амбушюры с памятью формы, регулируемое оголовье, легкая посадка</li>   <li>Конструкция: складная, износостойкое покрытие</li>  </ul>    <p><strong>   Комплектация:</strong></p>    <ul>   <li>Гарнитура MCHOSE V9 Pro</li>   <li>2.4 ГГц USB-A ресивер</li>   <li>Кабель USB</li>   <li>Съемный микрофон</li>   <li>Руководство пользователя</li>  </ul></description_ru>
-        <price>2599</price>
-        <old_price>2999</old_price>
-        <categoryId>1086</categoryId>
-        <vendor>Mchose</vendor>
-        <picture>https://techgleam.com.ua/content/images/18/naushniki-mchose-v9-pro-besprovodnaja-igrovaja-garnitura-2.4g-bluetooth-s-mikrofonom-black-78605005933552_%2B8e6c5613d7.jpg</picture>
-        <picture>https://techgleam.com.ua/content/images/18/naushniki-mchose-v9-pro-besprovodnaja-igrovaja-garnitura-2.4g-bluetooth-s-mikrofonom-black-59580316949290_%2B482fc1a38f.jpg</picture>
-        <picture>https://techgleam.com.ua/content/images/18/naushniki-mchose-v9-pro-besprovodnaja-igrovaja-garnitura-2.4g-bluetooth-s-mikrofonom-black-34194936465981_%2B2c5197a451.jpg</picture>
-        <picture>https://techgleam.com.ua/content/images/18/naushniki-mchose-v9-pro-besprovodnaja-igrovaja-garnitura-2.4g-bluetooth-s-mikrofonom-black-77332366649508_%2Ba390d5fda2.jpg</picture>
-        <picture>https://techgleam.com.ua/content/images/18/naushniki-mchose-v9-pro-besprovodnaja-igrovaja-garnitura-2.4g-bluetooth-s-mikrofonom-black-48269148024345_%2Bd9fb7d203f.jpg</picture>
-        <param name="Гарантія">3 місяці</param>
-        <param name="Колір">Чорний</param>
-        <param name="Тип">Повнорозмірні</param>
-        <param name="Тип підключення">Комбінований</param>
-        <param name="Мікрофон">Зйомний</param>
-        <param name="Інтерфейс зарядного пристрою">USB Type-C</param>
-        <param name="Матеріал амбушюр">Екошкіра</param>
-        <param name="Чутливість навушників">95 дБ</param>
-        <param name="Чутливість навушників">120 дБ</param>
-        <param name="Діапазон частот навушників">20 - 20000 Гц</param>
-        <param name="Кріплення">Оголів&apos;я</param>
-        <param name="Довжина кабелю">1.8 м</param>
-        <param name="Час зарядки">2.5 години</param>
-        <param name="Час роботи">250 годин</param>
-        <param name="Вага">265 г</param>
-        <param name="Стан">Новий</param>
-        <param name="Призначення">Геймерські</param>
         <country>Китай</country>
       </offer>
       <offer id="828" available="true">
@@ -16464,20 +16397,6 @@
         <param name="Тип">Кейкапи</param>
         <param name="Матеріал">Полібутілентерефталат (PBT)</param>
       </offer>
-      <offer id="2001" available="true">
-        <availability_status>available</availability_status>
-        <name_ua>Кастомні кейкапи Cyberpunk Transparent / 136 клавіш / English and Russian Layout / полікарбонат PC / для механічних і магнітних клавіатур / Black</name_ua>
-        <name_ru>Кастомные кейкапы Cyberpunk Transparent / 136 клавиш / English and Russian Layout / поликарбонат PC / для механических и магнитных клавиатур / Black</name_ru>
-        <description_ua><p data-end="617" data-start="376"><strong data-end="426" data-start="376">Кастомні кейкапи Cyberpunk Transparent 136 шт.</strong> — стильний набір клавіш для механічних і магнітних клавіатур у кіберпанк-дизайні. Прозорий корпус, контрастні символи та тематичне оформлення створюють сучасний і виразний вигляд клавіатури.</p>    <p data-end="886" data-start="619">Кейкапи виготовлені з полікарбонату PC, який підходить для щоденного використання та надає клавішам ефектного зовнішнього вигляду. Комплект із 136 клавіш із розкладкою English and Russian Layout дозволяє використовувати набір для різних популярних форматів клавіатур.</p>    <p data-end="1009" data-start="888">Набір Cyberpunk Transparent підійде для кастомізації клавіатури, геймінгу, роботи та створення стильного ігрового сетапу.</p>    <p data-end="1088" data-start="1011"><strong>Важливо: у комплект входять тільки кейкапи. Клавіатура не входить у комплект.</strong></p>    <p data-end="1109" data-start="1090"><strong data-end="1109" data-start="1090">Характеристики:</strong></p>    <ul>   <li data-end="1143" data-start="1111"><strong data-end="1126" data-start="1111">Тип товару:</strong> кастомні кейкапи</li>   <li data-end="1185" data-start="1145"><strong data-end="1163" data-start="1145">Назва дизайну:</strong> Cyberpunk Transparent</li>   <li data-end="1218" data-start="1187"><strong data-end="1210" data-start="1187">Кількість кейкапів:</strong> 136 шт.</li>   <li data-end="1261" data-start="1220"><strong data-end="1234" data-start="1220">Розкладка:</strong> English and Russian Layout</li>   <li data-end="1292" data-start="1263"><strong data-end="1276" data-start="1263">Матеріал:</strong> полікарбонат PC</li>   <li data-end="1316" data-start="1294"><strong data-end="1304" data-start="1294">Колір:</strong> Transparent</li>   <li data-end="1343" data-start="1318"><strong data-end="1337" data-start="1318">Колір символів:</strong> Green</li>   <li data-end="1368" data-start="1345"><strong data-end="1358" data-start="1345">Тематика:</strong> Cyberpunk</li>   <li data-end="1426" data-start="1370"><strong data-end="1381" data-start="1370">Дизайн:</strong> прозорий корпус і тематичний кіберпанк-принт</li>   <li data-end="1476" data-start="1428"><strong data-end="1443" data-start="1428">Сумісність:</strong> механічні та магнітні клавіатури</li>   <li data-end="1538" data-start="1478"><strong data-end="1507" data-start="1478">Тип сумісних перемикачів:</strong> MX-style / хрестоподібний шток</li>   <li data-end="1616" data-start="1540"><strong data-end="1556" data-start="1540">Призначення:</strong> кастомізація клавіатури, геймінг, робота, оформлення сетапу</li>   <li data-end="1731" data-start="1618"><strong data-end="1653" data-start="1618">Підтримувані формати клавіатур:</strong> 61 / 64 / 67 / 68 / 75 / 81 / 82 / 84 / 87 / 96 / 98 / 100 / 104 / 108 клавіш</li>   <li data-end="1878" data-start="1733"><strong data-end="1749" data-start="1733">Особливості:</strong> 136 кейкапів, полікарбонат PC, English and Russian Layout, прозорий корпус, сумісність із механічними та магнітними клавіатурами</li>   <li data-end="1906" data-start="1880"><strong data-end="1900" data-start="1880">Країна-виробник:</strong> Китай</li>  </ul></description_ua>
-        <description_ru><p><strong data-end="1980" data-start="1929">Кастомные кейкапы Cyberpunk Transparent 136 шт.</strong> — стильный набор клавиш для механических и магнитных клавиатур в киберпанк-дизайне. Прозрачный корпус, контрастные символы и тематическое оформление создают современный и выразительный внешний вид клавиатуры.</p>    <p data-end="2454" data-start="2191">Кейкапы изготовлены из поликарбоната PC, который подходит для ежедневного использования и придает клавишам эффектный внешний вид. Комплект из 136 клавиш с раскладкой English and Russian Layout позволяет использовать набор для разных популярных форматов клавиатур.</p>    <p data-end="2576" data-start="2456">Набор Cyberpunk Transparent подойдет для кастомизации клавиатуры, гейминга, работы и создания стильного игрового сетапа.</p>    <p data-end="2651" data-start="2578">Важно: в комплект входят только кейкапы. Клавиатура не входит в комплект.</p>    <p data-end="2672" data-start="2653"><strong data-end="2672" data-start="2653">Характеристики:</strong></p>    <ul>   <li data-end="2707" data-start="2674"><strong data-end="2689" data-start="2674">Тип товара:</strong> кастомные кейкапы</li>   <li data-end="2752" data-start="2709"><strong data-end="2730" data-start="2709">Название дизайна:</strong> Cyberpunk Transparent</li>   <li data-end="2786" data-start="2754"><strong data-end="2778" data-start="2754">Количество кейкапов:</strong> 136 шт.</li>   <li data-end="2829" data-start="2788"><strong data-end="2802" data-start="2788">Раскладка:</strong> English and Russian Layout</li>   <li data-end="2860" data-start="2831"><strong data-end="2844" data-start="2831">Материал:</strong> поликарбонат PC</li>   <li data-end="2883" data-start="2862"><strong data-end="2871" data-start="2862">Цвет:</strong> Transparent</li>   <li data-end="2909" data-start="2885"><strong data-end="2903" data-start="2885">Цвет символов:</strong> Green</li>   <li data-end="2934" data-start="2911"><strong data-end="2924" data-start="2911">Тематика:</strong> Cyberpunk</li>   <li data-end="2996" data-start="2936"><strong data-end="2947" data-start="2936">Дизайн:</strong> прозрачный корпус и тематический киберпанк-принт</li>   <li data-end="3052" data-start="2998"><strong data-end="3016" data-start="2998">Совместимость:</strong> механические и магнитные клавиатуры</li>   <li data-end="3120" data-start="3054"><strong data-end="3089" data-start="3054">Тип совместимых переключателей:</strong> MX-style / крестообразный шток</li>   <li data-end="3197" data-start="3122"><strong data-end="3137" data-start="3122">Назначение:</strong> кастомизация клавиатуры, гейминг, работа, оформление сетапа</li>   <li data-end="3314" data-start="3199"><strong data-end="3236" data-start="3199">Поддерживаемые форматы клавиатур:</strong> 61 / 64 / 67 / 68 / 75 / 81 / 82 / 84 / 87 / 96 / 98 / 100 / 104 / 108 клавиш</li>   <li data-end="3466" data-start="3316"><strong data-end="3332" data-start="3316">Особенности:</strong> 136 кейкапов, поликарбонат PC, English and Russian Layout, прозрачный корпус, совместимость с механическими и магнитными клавиатурами</li>   <li data-end="3499" data-start="3468"><strong data-end="3493" data-start="3468">Страна-производитель:</strong> Китай</li>  </ul></description_ru>
-        <price>799</price>
-        <categoryId>1093</categoryId>
-        <picture>https://techgleam.com.ua/content/images/2/kastomn-keykapi-cyberpunk-transparent-136-klavsh-english-and-russian-layout-polkarbonat-pc-dlja-mexanchnix-magntnix-klavatur-black-23862508338866_%2B13e8946d68.png</picture>
-        <param name="Колір">Чорний</param>
-        <param name="Стан">Новий</param>
-        <param name="Призначення">Для клавіатур</param>
-        <param name="Тип">Кейкапи</param>
-      </offer>
       <offer id="2003" available="true">
         <availability_status>available</availability_status>
         <name_ua>Кастомні кейкапи Chrome Heart / 129 клавіш / готичний дизайн / для механічних і магнітних клавіатур / Black</name_ua>
@@ -17236,6 +17155,39 @@
         <param name="Призначення">Геймерські</param>
         <country>Китай</country>
       </offer>
+      <offer id="657" available="false">
+        <availability_status>temporarily_unavailable</availability_status>
+        <name_ua>Навушники MCHOSE V9 Pro / Бездротова ігрова гарнітура / 2.4G / Bluetooth з мікрофоном / Black Red</name_ua>
+        <name_ru>Наушники MCHOSE V9 Pro / Беспроводная игровая гарнитура / 2.4G / Bluetooth с микрофоном / Black Red</name_ru>
+        <description_ua><p><strong data-end="27" data-start="3">MCHOSE V9 Pro</strong><strong>— </strong>бездротова ігрова гарнітура, що дарує максимальний комфорт і точне позиціонування звуків у грі.<br data-end="128" data-start="125" />  53-мм біоцелюлозні драйвери + підтримка 7.1 забезпечують чисте й об’ємне звучання, а ємний акумулятор дозволяє грати <strong data-end="261" data-start="245">до 250 годин</strong> без підзарядки. Must-have аксесуар для стрімів, матчів і щоденних дзвінків!</p>    <h3 data-end="374" data-start="344">Основні характеристики:</h3>    <ul>   <li>Тип підключення: 2.4 ГГц / Bluetooth 5.3 / дротове USB-C</li>   <li>Сумісність: ПК, ноутбук, PS4/PS5, Nintendo Switch, смартфони</li>   <li>Драйвери: 53 мм біоцелюлозні — детальний бас і чисті верхи</li>   <li>Звук: об’ємний 7.1, точне позиціонування кроків і пострілів</li>   <li>Мікрофон: знімний, на гнучкій штанзі, AI-шумопридушення, швидке mute</li>   <li>Керування: коліщатко гучності й кнопки на чаші</li>   <li>Акумулятор: 2000 мА·год, до 250 год роботи</li>   <li>Комфорт: м’які амбушури з пам’яттю форми, регульоване наголів’я, легка посадка</li>   <li>Конструкція: складана, зносостійке покриття </li>  </ul>    <p><strong>Комплектація:</strong></p>    <ul>   <li>Гарнітура MCHOSE V9 Pro </li>   <li>2.4 ГГц USB-A ресивер</li>   <li>Кабель USB</li>   <li>Знімний мікрофон</li>   <li>Інструкція користувача</li>  </ul></description_ua>
+        <description_ru><p><strong>MCHOSE V9 Pro— беспроводная игровая гарнитура, дающая максимальный комфорт и точное позиционирование звуков в игре.</strong><br />  53-мм биоцеллюлозный драйвер + поддержка 7.1 обеспечивают чистое и объемное звучание, а емкий аккумулятор позволяет играть до 250 часов без подзарядки. Must-have аксессуар для стримов, матчей и ежедневных звонков!</p>    <p><strong>Основные характеристики:</strong></p>    <ul>   <li>Тип подключения: 2.4 ГГц/Bluetooth 5.3/проводное USB-C</li>   <li>Совместимость: ПК, ноутбук, PS4/PS5, Nintendo Switch, смартфоны</li>   <li>Драйверы: 53 мм биоцеллюлозные - подробный бас и чистые верха.</li>   <li>Звук: объемный 7.1, точное позиционирование шагов и выстрелов</li>   <li>Микрофон: съемный, на гибкой штанге, AI-шумоподавление, быстрое mute</li>   <li>Управление: колесико громкости и кнопки на чаше</li>   <li>Аккумулятор: 2000 мА·ч, до 250 ч работы</li>   <li>Комфорт: мягкие амбушюры с памятью формы, регулируемое оголовье, легкая посадка</li>   <li>Конструкция: складная, износостойкое покрытие</li>  </ul>    <p><strong>   Комплектация:</strong></p>    <ul>   <li>Гарнитура MCHOSE V9 Pro</li>   <li>2.4 ГГц USB-A ресивер</li>   <li>Кабель USB</li>   <li>Съемный микрофон</li>   <li>Руководство пользователя</li>  </ul></description_ru>
+        <price>2499</price>
+        <old_price>2999</old_price>
+        <categoryId>1086</categoryId>
+        <vendor>Mchose</vendor>
+        <picture>https://techgleam.com.ua/content/images/8/73254184286400_%2B152f7b6872.jpg</picture>
+        <picture>https://techgleam.com.ua/content/images/8/87722112914057_%2B1040c62c63.jpg</picture>
+        <picture>https://techgleam.com.ua/content/images/8/71794068233673_%2B16d3ce7725.jpg</picture>
+        <picture>https://techgleam.com.ua/content/images/8/13529576955488_%2Bc4232aeed2.jpg</picture>
+        <picture>https://techgleam.com.ua/content/images/8/81398541083430_%2Bc372ec95d5.jpg</picture>
+        <param name="Гарантія">3 місяці</param>
+        <param name="Тип">Повнорозмірні</param>
+        <param name="Тип підключення">Комбінований</param>
+        <param name="Мікрофон">Зйомний</param>
+        <param name="Інтерфейс зарядного пристрою">USB Type-C</param>
+        <param name="Матеріал амбушюр">Екошкіра</param>
+        <param name="Чутливість навушників">95 дБ</param>
+        <param name="Чутливість навушників">120 дБ</param>
+        <param name="Діапазон частот навушників">20 - 20000 Гц</param>
+        <param name="Кріплення">Оголів&apos;я</param>
+        <param name="Довжина кабелю">1.8 м</param>
+        <param name="Час зарядки">2.5 години</param>
+        <param name="Час роботи">250 годин</param>
+        <param name="Вага">265 г</param>
+        <param name="Стан">Новий</param>
+        <param name="Призначення">Геймерські</param>
+        <country>Китай</country>
+      </offer>
       <offer id="658" available="false">
         <availability_status>temporarily_unavailable</availability_status>
         <name_ua>Навушники MCHOSE V9 Pro / Бездротова ігрова гарнітура / 2.4G / Bluetooth з мікрофоном / Pink</name_ua>
@@ -17906,6 +17858,40 @@
         <picture>https://techgleam.com.ua/content/images/15/87043257544968_%2B947b9417d4.png</picture>
         <picture>https://techgleam.com.ua/content/images/15/56109768525931_%2B134c3e6d1e.png</picture>
         <param name="Колір">Блакитний</param>
+      </offer>
+      <offer id="817" available="false">
+        <availability_status>temporarily_unavailable</availability_status>
+        <name_ua>Навушники MCHOSE V9 Pro / Бездротова ігрова гарнітура / 2.4G / Bluetooth з мікрофоном / Black</name_ua>
+        <name_ru>Наушники MCHOSE V9 Pro / Беспроводная игровая гарнитура / 2.4G / Bluetooth с микрофоном / Black</name_ru>
+        <description_ua><p><strong data-end="27" data-start="3">MCHOSE V9 Pro</strong><strong>— </strong>бездротова ігрова гарнітура, що дарує максимальний комфорт і точне позиціонування звуків у грі.<br data-end="128" data-start="125" />  53-мм біоцелюлозні драйвери + підтримка 7.1 забезпечують чисте й об’ємне звучання, а ємний акумулятор дозволяє грати <strong data-end="261" data-start="245">до 250 годин</strong> без підзарядки. Must-have аксесуар для стрімів, матчів і щоденних дзвінків!</p>    <h3 data-end="374" data-start="344">Основні характеристики:</h3>    <ul>   <li>Тип підключення: 2.4 ГГц / Bluetooth 5.3 / дротове USB-C</li>   <li>Сумісність: ПК, ноутбук, PS4/PS5, Nintendo Switch, смартфони</li>   <li>Драйвери: 53 мм біоцелюлозні — детальний бас і чисті верхи</li>   <li>Звук: об’ємний 7.1, точне позиціонування кроків і пострілів</li>   <li>Мікрофон: знімний, на гнучкій штанзі, AI-шумопридушення, швидке mute</li>   <li>Керування: коліщатко гучності й кнопки на чаші</li>   <li>Акумулятор: 2000 мА·год, до 250 год роботи</li>   <li>Комфорт: м’які амбушури з пам’яттю форми, регульоване наголів’я, легка посадка</li>   <li>Конструкція: складана, зносостійке покриття </li>  </ul>    <p><strong>Комплектація:</strong></p>    <ul>   <li>Гарнітура MCHOSE V9 Pro </li>   <li>2.4 ГГц USB-A ресивер</li>   <li>Кабель USB</li>   <li>Знімний мікрофон</li>   <li>Інструкція користувача</li>  </ul></description_ua>
+        <description_ru><p><strong>MCHOSE V9 Pro— беспроводная игровая гарнитура, дающая максимальный комфорт и точное позиционирование звуков в игре.</strong><br />  53-мм биоцеллюлозный драйвер + поддержка 7.1 обеспечивают чистое и объемное звучание, а емкий аккумулятор позволяет играть до 250 часов без подзарядки. Must-have аксессуар для стримов, матчей и ежедневных звонков!</p>    <p><strong>Основные характеристики:</strong></p>    <ul>   <li>Тип подключения: 2.4 ГГц/Bluetooth 5.3/проводное USB-C</li>   <li>Совместимость: ПК, ноутбук, PS4/PS5, Nintendo Switch, смартфоны</li>   <li>Драйверы: 53 мм биоцеллюлозные - подробный бас и чистые верха.</li>   <li>Звук: объемный 7.1, точное позиционирование шагов и выстрелов</li>   <li>Микрофон: съемный, на гибкой штанге, AI-шумоподавление, быстрое mute</li>   <li>Управление: колесико громкости и кнопки на чаше</li>   <li>Аккумулятор: 2000 мА·ч, до 250 ч работы</li>   <li>Комфорт: мягкие амбушюры с памятью формы, регулируемое оголовье, легкая посадка</li>   <li>Конструкция: складная, износостойкое покрытие</li>  </ul>    <p><strong>   Комплектация:</strong></p>    <ul>   <li>Гарнитура MCHOSE V9 Pro</li>   <li>2.4 ГГц USB-A ресивер</li>   <li>Кабель USB</li>   <li>Съемный микрофон</li>   <li>Руководство пользователя</li>  </ul></description_ru>
+        <price>2599</price>
+        <old_price>2999</old_price>
+        <categoryId>1086</categoryId>
+        <vendor>Mchose</vendor>
+        <picture>https://techgleam.com.ua/content/images/18/naushniki-mchose-v9-pro-besprovodnaja-igrovaja-garnitura-2.4g-bluetooth-s-mikrofonom-black-78605005933552_%2B8e6c5613d7.jpg</picture>
+        <picture>https://techgleam.com.ua/content/images/18/naushniki-mchose-v9-pro-besprovodnaja-igrovaja-garnitura-2.4g-bluetooth-s-mikrofonom-black-59580316949290_%2B482fc1a38f.jpg</picture>
+        <picture>https://techgleam.com.ua/content/images/18/naushniki-mchose-v9-pro-besprovodnaja-igrovaja-garnitura-2.4g-bluetooth-s-mikrofonom-black-34194936465981_%2B2c5197a451.jpg</picture>
+        <picture>https://techgleam.com.ua/content/images/18/naushniki-mchose-v9-pro-besprovodnaja-igrovaja-garnitura-2.4g-bluetooth-s-mikrofonom-black-77332366649508_%2Ba390d5fda2.jpg</picture>
+        <picture>https://techgleam.com.ua/content/images/18/naushniki-mchose-v9-pro-besprovodnaja-igrovaja-garnitura-2.4g-bluetooth-s-mikrofonom-black-48269148024345_%2Bd9fb7d203f.jpg</picture>
+        <param name="Гарантія">3 місяці</param>
+        <param name="Колір">Чорний</param>
+        <param name="Тип">Повнорозмірні</param>
+        <param name="Тип підключення">Комбінований</param>
+        <param name="Мікрофон">Зйомний</param>
+        <param name="Інтерфейс зарядного пристрою">USB Type-C</param>
+        <param name="Матеріал амбушюр">Екошкіра</param>
+        <param name="Чутливість навушників">95 дБ</param>
+        <param name="Чутливість навушників">120 дБ</param>
+        <param name="Діапазон частот навушників">20 - 20000 Гц</param>
+        <param name="Кріплення">Оголів&apos;я</param>
+        <param name="Довжина кабелю">1.8 м</param>
+        <param name="Час зарядки">2.5 години</param>
+        <param name="Час роботи">250 годин</param>
+        <param name="Вага">265 г</param>
+        <param name="Стан">Новий</param>
+        <param name="Призначення">Геймерські</param>
+        <country>Китай</country>
       </offer>
       <offer id="824" available="false">
         <availability_status>temporarily_unavailable</availability_status>
@@ -19341,6 +19327,20 @@
         <price>799</price>
         <categoryId>1093</categoryId>
         <picture>https://techgleam.com.ua/content/images/1/kastomn-keykapi-cyberpunk-carbon-fiber-136-klavsh-english-and-russian-layout-polkarbonat-pc-dlja-mexanchnix-magntnix-klavatur-black-82853472127414_%2B29757adf9e.png</picture>
+        <param name="Колір">Чорний</param>
+        <param name="Стан">Новий</param>
+        <param name="Призначення">Для клавіатур</param>
+        <param name="Тип">Кейкапи</param>
+      </offer>
+      <offer id="2001" available="false">
+        <availability_status>temporarily_unavailable</availability_status>
+        <name_ua>Кастомні кейкапи Cyberpunk Transparent / 136 клавіш / English and Russian Layout / полікарбонат PC / для механічних і магнітних клавіатур / Black</name_ua>
+        <name_ru>Кастомные кейкапы Cyberpunk Transparent / 136 клавиш / English and Russian Layout / поликарбонат PC / для механических и магнитных клавиатур / Black</name_ru>
+        <description_ua><p data-end="617" data-start="376"><strong data-end="426" data-start="376">Кастомні кейкапи Cyberpunk Transparent 136 шт.</strong> — стильний набір клавіш для механічних і магнітних клавіатур у кіберпанк-дизайні. Прозорий корпус, контрастні символи та тематичне оформлення створюють сучасний і виразний вигляд клавіатури.</p>    <p data-end="886" data-start="619">Кейкапи виготовлені з полікарбонату PC, який підходить для щоденного використання та надає клавішам ефектного зовнішнього вигляду. Комплект із 136 клавіш із розкладкою English and Russian Layout дозволяє використовувати набір для різних популярних форматів клавіатур.</p>    <p data-end="1009" data-start="888">Набір Cyberpunk Transparent підійде для кастомізації клавіатури, геймінгу, роботи та створення стильного ігрового сетапу.</p>    <p data-end="1088" data-start="1011"><strong>Важливо: у комплект входять тільки кейкапи. Клавіатура не входить у комплект.</strong></p>    <p data-end="1109" data-start="1090"><strong data-end="1109" data-start="1090">Характеристики:</strong></p>    <ul>   <li data-end="1143" data-start="1111"><strong data-end="1126" data-start="1111">Тип товару:</strong> кастомні кейкапи</li>   <li data-end="1185" data-start="1145"><strong data-end="1163" data-start="1145">Назва дизайну:</strong> Cyberpunk Transparent</li>   <li data-end="1218" data-start="1187"><strong data-end="1210" data-start="1187">Кількість кейкапів:</strong> 136 шт.</li>   <li data-end="1261" data-start="1220"><strong data-end="1234" data-start="1220">Розкладка:</strong> English and Russian Layout</li>   <li data-end="1292" data-start="1263"><strong data-end="1276" data-start="1263">Матеріал:</strong> полікарбонат PC</li>   <li data-end="1316" data-start="1294"><strong data-end="1304" data-start="1294">Колір:</strong> Transparent</li>   <li data-end="1343" data-start="1318"><strong data-end="1337" data-start="1318">Колір символів:</strong> Green</li>   <li data-end="1368" data-start="1345"><strong data-end="1358" data-start="1345">Тематика:</strong> Cyberpunk</li>   <li data-end="1426" data-start="1370"><strong data-end="1381" data-start="1370">Дизайн:</strong> прозорий корпус і тематичний кіберпанк-принт</li>   <li data-end="1476" data-start="1428"><strong data-end="1443" data-start="1428">Сумісність:</strong> механічні та магнітні клавіатури</li>   <li data-end="1538" data-start="1478"><strong data-end="1507" data-start="1478">Тип сумісних перемикачів:</strong> MX-style / хрестоподібний шток</li>   <li data-end="1616" data-start="1540"><strong data-end="1556" data-start="1540">Призначення:</strong> кастомізація клавіатури, геймінг, робота, оформлення сетапу</li>   <li data-end="1731" data-start="1618"><strong data-end="1653" data-start="1618">Підтримувані формати клавіатур:</strong> 61 / 64 / 67 / 68 / 75 / 81 / 82 / 84 / 87 / 96 / 98 / 100 / 104 / 108 клавіш</li>   <li data-end="1878" data-start="1733"><strong data-end="1749" data-start="1733">Особливості:</strong> 136 кейкапів, полікарбонат PC, English and Russian Layout, прозорий корпус, сумісність із механічними та магнітними клавіатурами</li>   <li data-end="1906" data-start="1880"><strong data-end="1900" data-start="1880">Країна-виробник:</strong> Китай</li>  </ul></description_ua>
+        <description_ru><p><strong data-end="1980" data-start="1929">Кастомные кейкапы Cyberpunk Transparent 136 шт.</strong> — стильный набор клавиш для механических и магнитных клавиатур в киберпанк-дизайне. Прозрачный корпус, контрастные символы и тематическое оформление создают современный и выразительный внешний вид клавиатуры.</p>    <p data-end="2454" data-start="2191">Кейкапы изготовлены из поликарбоната PC, который подходит для ежедневного использования и придает клавишам эффектный внешний вид. Комплект из 136 клавиш с раскладкой English and Russian Layout позволяет использовать набор для разных популярных форматов клавиатур.</p>    <p data-end="2576" data-start="2456">Набор Cyberpunk Transparent подойдет для кастомизации клавиатуры, гейминга, работы и создания стильного игрового сетапа.</p>    <p data-end="2651" data-start="2578">Важно: в комплект входят только кейкапы. Клавиатура не входит в комплект.</p>    <p data-end="2672" data-start="2653"><strong data-end="2672" data-start="2653">Характеристики:</strong></p>    <ul>   <li data-end="2707" data-start="2674"><strong data-end="2689" data-start="2674">Тип товара:</strong> кастомные кейкапы</li>   <li data-end="2752" data-start="2709"><strong data-end="2730" data-start="2709">Название дизайна:</strong> Cyberpunk Transparent</li>   <li data-end="2786" data-start="2754"><strong data-end="2778" data-start="2754">Количество кейкапов:</strong> 136 шт.</li>   <li data-end="2829" data-start="2788"><strong data-end="2802" data-start="2788">Раскладка:</strong> English and Russian Layout</li>   <li data-end="2860" data-start="2831"><strong data-end="2844" data-start="2831">Материал:</strong> поликарбонат PC</li>   <li data-end="2883" data-start="2862"><strong data-end="2871" data-start="2862">Цвет:</strong> Transparent</li>   <li data-end="2909" data-start="2885"><strong data-end="2903" data-start="2885">Цвет символов:</strong> Green</li>   <li data-end="2934" data-start="2911"><strong data-end="2924" data-start="2911">Тематика:</strong> Cyberpunk</li>   <li data-end="2996" data-start="2936"><strong data-end="2947" data-start="2936">Дизайн:</strong> прозрачный корпус и тематический киберпанк-принт</li>   <li data-end="3052" data-start="2998"><strong data-end="3016" data-start="2998">Совместимость:</strong> механические и магнитные клавиатуры</li>   <li data-end="3120" data-start="3054"><strong data-end="3089" data-start="3054">Тип совместимых переключателей:</strong> MX-style / крестообразный шток</li>   <li data-end="3197" data-start="3122"><strong data-end="3137" data-start="3122">Назначение:</strong> кастомизация клавиатуры, гейминг, работа, оформление сетапа</li>   <li data-end="3314" data-start="3199"><strong data-end="3236" data-start="3199">Поддерживаемые форматы клавиатур:</strong> 61 / 64 / 67 / 68 / 75 / 81 / 82 / 84 / 87 / 96 / 98 / 100 / 104 / 108 клавиш</li>   <li data-end="3466" data-start="3316"><strong data-end="3332" data-start="3316">Особенности:</strong> 136 кейкапов, поликарбонат PC, English and Russian Layout, прозрачный корпус, совместимость с механическими и магнитными клавиатурами</li>   <li data-end="3499" data-start="3468"><strong data-end="3493" data-start="3468">Страна-производитель:</strong> Китай</li>  </ul></description_ru>
+        <price>799</price>
+        <categoryId>1093</categoryId>
+        <picture>https://techgleam.com.ua/content/images/2/kastomn-keykapi-cyberpunk-transparent-136-klavsh-english-and-russian-layout-polkarbonat-pc-dlja-mexanchnix-magntnix-klavatur-black-23862508338866_%2B13e8946d68.png</picture>
         <param name="Колір">Чорний</param>
         <param name="Стан">Новий</param>
         <param name="Призначення">Для клавіатур</param>
