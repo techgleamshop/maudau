@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<yml_catalog date="2026-09-21 23:23">
+<yml_catalog date="2026-09-22 00:23">
   <shop>
     <categories>
       <category id="1082" portal_id="1839">Клавіатури</category>
@@ -1978,23 +1978,6 @@
         <param name="Стан">Новий</param>
         <param name="Тип">Ігрові (геймерські)</param>
         <country>Китай</country>
-      </offer>
-      <offer id="664" available="false">
-        <availability_status>temporarily_unavailable</availability_status>
-        <name_ua>Кабель авіатор / USB Type-C / Для клавіатури / Спіральний , Чорний</name_ua>
-        <name_ru>Кабель авиатор / USB Type-C/ Для клавиатуры / Спиральный, Черный</name_ru>
-        <description_ua><p data-end="448" data-start="211">Преміальний авіаторний кабель — ідеальне поєднання функціональності та стилю для твоєї механічної клавіатури. Знімний металевий конектор, спіральна секція та міцна тканинна оплітка забезпечують довговічність і зручність у використанні.</p>    <p data-end="1185" data-start="897"><strong data-end="913" data-start="900">Переваги:</strong></p>    <ul>   <li data-end="1185" data-start="897">Преміальний зовнішній вигляд — підкреслить стиль робочого місця</li>   <li data-end="1185" data-start="897">Знімний конектор для швидкої заміни кабелю</li>   <li data-end="1185" data-start="897">Спіральна секція для акуратного організованого столу</li>   <li data-end="1185" data-start="897">Надійна тканинна оплітка для захисту від зносу</li>   <li data-end="1185" data-start="897">Сумісність з будь-якою клавіатурою з USB-C</li>  </ul>    <p> <strong data-end="1207" data-start="1190">Комплектація:</strong> Кабель авіатор </p></description_ua>
-        <description_ru><p data-end="448" data-start="211">Премиальный авиаторный кабель – идеальное сочетание функциональности и стиля для твоей механической клавиатуры. Съемный металлический коннектор, спиральная секция и прочная тканевая оплетка обеспечивают долговечность и удобство в использовании.</p>    <p data-end="1185" data-start="897"><strong data-end="913" data-start="900">Преимущества:</strong></p>    <ul>   <li data-end="1185" data-start="897">Премиальный внешний вид – подчеркнет стиль рабочего места</li>   <li data-end="1185" data-start="897">Съемный коннектор для быстрой замены кабеля</li>   <li data-end="1185" data-start="897">Спиральная секция для аккуратного организованного стола</li>   <li data-end="1185" data-start="897">Надежная тканевая оплетка для защиты от износа</li>   <li data-end="1185" data-start="897">Совместимость с любой клавиатурой с USB-C</li>  </ul>    <p data-end="1245" data-start="1187"><strong data-end="1207" data-start="1190">Комплектация:</strong>Кабель авиатор </p></description_ru>
-        <price>399</price>
-        <categoryId>1090</categoryId>
-        <picture>https://techgleam.com.ua/content/images/15/94803097326970_%2B4dab842c7c.jpg</picture>
-        <picture>https://techgleam.com.ua/content/images/15/64102876798336_%2B607448d146.jpg</picture>
-        <picture>https://techgleam.com.ua/content/images/15/36198080027869_%2Bf646d4de2e.jpg</picture>
-        <picture>https://techgleam.com.ua/content/images/15/93631006494360_%2B2ce9f19fd5.jpg</picture>
-        <picture>https://techgleam.com.ua/content/images/15/95329291572848_%2Bbb09a56b0e.jpg</picture>
-        <param name="Гарантія">1 місяць</param>
-        <param name="Колір">Чорний</param>
-        <param name="Стан">Новий</param>
       </offer>
       <offer id="667" available="false">
         <availability_status>temporarily_unavailable</availability_status>
@@ -7006,6 +6989,19 @@
         <picture>https://techgleam.com.ua/content/images/11/71651290011798_%2B8e5bcccceb.jpg</picture>
         <picture>https://techgleam.com.ua/content/images/11/56417042471467_%2B3f6f7065f7.jpg</picture>
         <picture>https://techgleam.com.ua/content/images/11/32459815423166_%2Be9ca9eb02d.jpg</picture>
+        <param name="Гарантія">1 місяць</param>
+        <param name="Колір">Сірий</param>
+        <param name="Стан">Новий</param>
+      </offer>
+      <offer id="1561" available="false">
+        <availability_status>temporarily_unavailable</availability_status>
+        <name_ua>Кабель авіатор / USB Type-C / Для клавіатури / Спіральний , Сірий</name_ua>
+        <name_ru>Кабель авиатор / USB Type-C/ Для клавиатуры / Спиральный, Серый</name_ru>
+        <description_ua><p data-end="448" data-start="211">Преміальний авіаторний кабель — ідеальне поєднання функціональності та стилю для твоєї механічної клавіатури. Знімний металевий конектор, спіральна секція та міцна тканинна оплітка забезпечують довговічність і зручність у використанні.</p>    <p data-end="1185" data-start="897"><strong data-end="913" data-start="900">Переваги:</strong></p>    <ul>   <li data-end="1185" data-start="897">Преміальний зовнішній вигляд — підкреслить стиль робочого місця</li>   <li data-end="1185" data-start="897">Знімний конектор для швидкої заміни кабелю</li>   <li data-end="1185" data-start="897">Спіральна секція для акуратного організованого столу</li>   <li data-end="1185" data-start="897">Надійна тканинна оплітка для захисту від зносу</li>   <li data-end="1185" data-start="897">Сумісність з будь-якою клавіатурою з USB-C</li>  </ul>    <p> <strong data-end="1207" data-start="1190">Комплектація:</strong> Кабель авіатор </p></description_ua>
+        <description_ru><p data-end="448" data-start="211">Премиальный авиаторный кабель – идеальное сочетание функциональности и стиля для твоей механической клавиатуры. Съемный металлический коннектор, спиральная секция и прочная тканевая оплетка обеспечивают долговечность и удобство в использовании.</p>    <p data-end="1185" data-start="897"><strong data-end="913" data-start="900">Преимущества:</strong></p>    <ul>   <li data-end="1185" data-start="897">Премиальный внешний вид – подчеркнет стиль рабочего места</li>   <li data-end="1185" data-start="897">Съемный коннектор для быстрой замены кабеля</li>   <li data-end="1185" data-start="897">Спиральная секция для аккуратного организованного стола</li>   <li data-end="1185" data-start="897">Надежная тканевая оплетка для защиты от износа</li>   <li data-end="1185" data-start="897">Совместимость с любой клавиатурой с USB-C</li>  </ul>    <p data-end="1245" data-start="1187"><strong data-end="1207" data-start="1190">Комплектация:</strong>Кабель авиатор </p></description_ru>
+        <price>399</price>
+        <categoryId>1090</categoryId>
+        <picture>https://techgleam.com.ua/content/images/12/79842616285580_%2B66e8cc025d.jpg</picture>
         <param name="Гарантія">1 місяць</param>
         <param name="Колір">Сірий</param>
         <param name="Стан">Новий</param>
@@ -15857,6 +15853,23 @@
         <param name="Колір">Сірий</param>
         <param name="Особливості">Ігрові</param>
       </offer>
+      <offer id="664" available="false">
+        <availability_status>temporarily_unavailable</availability_status>
+        <name_ua>Кабель авіатор / USB Type-C / Для клавіатури / Спіральний , Чорний</name_ua>
+        <name_ru>Кабель авиатор / USB Type-C/ Для клавиатуры / Спиральный, Черный</name_ru>
+        <description_ua><p data-end="448" data-start="211">Преміальний авіаторний кабель — ідеальне поєднання функціональності та стилю для твоєї механічної клавіатури. Знімний металевий конектор, спіральна секція та міцна тканинна оплітка забезпечують довговічність і зручність у використанні.</p>    <p data-end="1185" data-start="897"><strong data-end="913" data-start="900">Переваги:</strong></p>    <ul>   <li data-end="1185" data-start="897">Преміальний зовнішній вигляд — підкреслить стиль робочого місця</li>   <li data-end="1185" data-start="897">Знімний конектор для швидкої заміни кабелю</li>   <li data-end="1185" data-start="897">Спіральна секція для акуратного організованого столу</li>   <li data-end="1185" data-start="897">Надійна тканинна оплітка для захисту від зносу</li>   <li data-end="1185" data-start="897">Сумісність з будь-якою клавіатурою з USB-C</li>  </ul>    <p> <strong data-end="1207" data-start="1190">Комплектація:</strong> Кабель авіатор </p></description_ua>
+        <description_ru><p data-end="448" data-start="211">Премиальный авиаторный кабель – идеальное сочетание функциональности и стиля для твоей механической клавиатуры. Съемный металлический коннектор, спиральная секция и прочная тканевая оплетка обеспечивают долговечность и удобство в использовании.</p>    <p data-end="1185" data-start="897"><strong data-end="913" data-start="900">Преимущества:</strong></p>    <ul>   <li data-end="1185" data-start="897">Премиальный внешний вид – подчеркнет стиль рабочего места</li>   <li data-end="1185" data-start="897">Съемный коннектор для быстрой замены кабеля</li>   <li data-end="1185" data-start="897">Спиральная секция для аккуратного организованного стола</li>   <li data-end="1185" data-start="897">Надежная тканевая оплетка для защиты от износа</li>   <li data-end="1185" data-start="897">Совместимость с любой клавиатурой с USB-C</li>  </ul>    <p data-end="1245" data-start="1187"><strong data-end="1207" data-start="1190">Комплектация:</strong>Кабель авиатор </p></description_ru>
+        <price>399</price>
+        <categoryId>1090</categoryId>
+        <picture>https://techgleam.com.ua/content/images/15/94803097326970_%2B4dab842c7c.jpg</picture>
+        <picture>https://techgleam.com.ua/content/images/15/64102876798336_%2B607448d146.jpg</picture>
+        <picture>https://techgleam.com.ua/content/images/15/36198080027869_%2Bf646d4de2e.jpg</picture>
+        <picture>https://techgleam.com.ua/content/images/15/93631006494360_%2B2ce9f19fd5.jpg</picture>
+        <picture>https://techgleam.com.ua/content/images/15/95329291572848_%2Bbb09a56b0e.jpg</picture>
+        <param name="Гарантія">1 місяць</param>
+        <param name="Колір">Чорний</param>
+        <param name="Стан">Новий</param>
+      </offer>
       <offer id="669" available="false">
         <availability_status>temporarily_unavailable</availability_status>
         <name_ua>Набір кейкапів PBT Purple Gradient (130+) / фіолетовий OEM-комплект для ANSI / ISO клавіатур, Фіолетовий</name_ua>
@@ -16940,19 +16953,6 @@
         <param name="Призначення">Для клавіатур</param>
         <param name="Тип">Кейкапи</param>
         <param name="Матеріал">Полібутілентерефталат (PBT)</param>
-      </offer>
-      <offer id="1561" available="false">
-        <availability_status>temporarily_unavailable</availability_status>
-        <name_ua>Кабель авіатор / USB Type-C / Для клавіатури / Спіральний , Сірий</name_ua>
-        <name_ru>Кабель авиатор / USB Type-C/ Для клавиатуры / Спиральный, Серый</name_ru>
-        <description_ua><p data-end="448" data-start="211">Преміальний авіаторний кабель — ідеальне поєднання функціональності та стилю для твоєї механічної клавіатури. Знімний металевий конектор, спіральна секція та міцна тканинна оплітка забезпечують довговічність і зручність у використанні.</p>    <p data-end="1185" data-start="897"><strong data-end="913" data-start="900">Переваги:</strong></p>    <ul>   <li data-end="1185" data-start="897">Преміальний зовнішній вигляд — підкреслить стиль робочого місця</li>   <li data-end="1185" data-start="897">Знімний конектор для швидкої заміни кабелю</li>   <li data-end="1185" data-start="897">Спіральна секція для акуратного організованого столу</li>   <li data-end="1185" data-start="897">Надійна тканинна оплітка для захисту від зносу</li>   <li data-end="1185" data-start="897">Сумісність з будь-якою клавіатурою з USB-C</li>  </ul>    <p> <strong data-end="1207" data-start="1190">Комплектація:</strong> Кабель авіатор </p></description_ua>
-        <description_ru><p data-end="448" data-start="211">Премиальный авиаторный кабель – идеальное сочетание функциональности и стиля для твоей механической клавиатуры. Съемный металлический коннектор, спиральная секция и прочная тканевая оплетка обеспечивают долговечность и удобство в использовании.</p>    <p data-end="1185" data-start="897"><strong data-end="913" data-start="900">Преимущества:</strong></p>    <ul>   <li data-end="1185" data-start="897">Премиальный внешний вид – подчеркнет стиль рабочего места</li>   <li data-end="1185" data-start="897">Съемный коннектор для быстрой замены кабеля</li>   <li data-end="1185" data-start="897">Спиральная секция для аккуратного организованного стола</li>   <li data-end="1185" data-start="897">Надежная тканевая оплетка для защиты от износа</li>   <li data-end="1185" data-start="897">Совместимость с любой клавиатурой с USB-C</li>  </ul>    <p data-end="1245" data-start="1187"><strong data-end="1207" data-start="1190">Комплектация:</strong>Кабель авиатор </p></description_ru>
-        <price>399</price>
-        <categoryId>1090</categoryId>
-        <picture>https://techgleam.com.ua/content/images/12/79842616285580_%2B66e8cc025d.jpg</picture>
-        <param name="Гарантія">1 місяць</param>
-        <param name="Колір">Сірий</param>
-        <param name="Стан">Новий</param>
       </offer>
       <offer id="1562" available="true">
         <availability_status>available</availability_status>
@@ -18661,8 +18661,8 @@
         <picture>https://techgleam.com.ua/content/images/7/kilimok-dlja-mish-z-anme-berserk-tn-mechnika-4045-sm-4-mm-black-67270902125485_%2B9a91e79b11.jpg</picture>
         <param name="Колір">Чорний</param>
       </offer>
-      <offer id="1957" available="true">
-        <availability_status>available</availability_status>
+      <offer id="1957" available="false">
+        <availability_status>temporarily_unavailable</availability_status>
         <name_ua>Кастомні  PBT кейкапи Jinx Arcane / 125 шт. / League of Legends дизайн / Для механічних і магнітних клавіатур / Black</name_ua>
         <name_ru>Кастомные PBT кейкапы Jinx Arcane / 125 шт. / League of Legends дизайн / Для механических и магнитных клавиатур / Black</name_ru>
         <description_ua><p data-end="591" data-start="272"><strong data-end="308" data-start="272">Кастомні PBT кейкапи Jinx Arcane</strong> — яскравий набір клавіш для механічних і магнітних клавіатур, виконаний у стилі <strong data-end="426" data-start="389">Jinx / Arcane / League of Legends</strong>. Дизайн поєднує чорну основу з контрастними рожевими та блакитними акцентами, графіті-елементами, вибуховими символами та характерною хаотичною естетикою персонажа.</p>    <p data-end="911" data-start="593">Кейкапи виготовлені з міцного <strong data-end="639" data-start="623">PBT-пластику</strong>, який приємний на дотик, стійкий до стирання та краще зберігає текстуру під час тривалого використання. Нанесення виконане методом <strong data-end="817" data-start="771">п’ятисторонньої Dye-Sublimation сублімації</strong>, завдяки чому принти виглядають насичено та не стираються так швидко, як звичайне фарбування.</p>    <p data-end="1167" data-start="913">Набір містить <strong data-end="943" data-start="927">125 кейкапів</strong> і підходить для більшості популярних форматів клавіатур: <strong data-end="1072" data-start="1001">61 / 64 / 68 / 75 / 82 / 84 / 87 / 96 / 98 / 100 / 104 / 108 клавіш</strong>. Сумісний із механічними та магнітними клавіатурами зі стандартними MX-сумісними перемикачами.</p>    <p data-end="1326" data-start="1169">Цей комплект чудово підійде для кастомізації клавіатури, створення яскравого геймерського сетапу або оновлення зовнішнього вигляду клавіатури в стилі Arcane.</p>    <p data-end="1326" data-start="1169"><strong>Характеристики:</strong></p>    <ul>   <li data-end="1389" data-section-id="mibd9j" data-start="1355"><strong data-end="1372" data-start="1357">Тип товару:</strong> набір кейкапів</li>   <li data-end="1424" data-section-id="1cm4esp" data-start="1390"><strong data-end="1410" data-start="1392">Назва дизайну:</strong> Jinx Arcane</li>   <li data-end="1476" data-section-id="1y7yp8y" data-start="1425"><strong data-end="1440" data-start="1427">Тематика:</strong> Jinx / Arcane / League of Legends</li>   <li data-end="1510" data-section-id="1ahgj0l" data-start="1477"><strong data-end="1500" data-start="1479">Кількість клавіш:</strong> 125 шт.</li>   <li data-end="1532" data-section-id="44iz76" data-start="1511"><strong data-end="1526" data-start="1513">Матеріал:</strong> PBT</li>   <li data-end="1565" data-section-id="8zykts" data-start="1533"><strong data-end="1547" data-start="1535">Профіль:</strong> Original Height</li>   <li data-end="1631" data-section-id="19y0lsr" data-start="1566"><strong data-end="1588" data-start="1568">Метод нанесення:</strong> п’ятистороння Dye-Sublimation сублімація</li>   <li data-end="1652" data-section-id="19erq4c" data-start="1632"><strong data-end="1644" data-start="1634">Колір:</strong> Black</li>   <li data-end="1691" data-section-id="lb3gme" data-start="1653"><strong data-end="1677" data-start="1655">Додаткові кольори:</strong> Pink / Blue</li>   <li data-end="1744" data-section-id="z7rrkn" data-start="1692"><strong data-end="1709" data-start="1694">Сумісність:</strong> механічні та магнітні клавіатури</li>   <li data-end="1809" data-section-id="1jo7475" data-start="1745"><strong data-end="1776" data-start="1747">Тип сумісних перемикачів:</strong> MX-style / хрестоподібний шток</li>   <li data-end="1907" data-section-id="1olk7da" data-start="1810"><strong data-end="1837" data-start="1812">Підтримувані формати:</strong> 61 / 64 / 68 / 75 / 82 / 84 / 87 / 96 / 98 / 100 / 104 / 108 клавіш</li>   <li data-end="1931" data-section-id="1hvqj29" data-start="1908"><strong data-end="1924" data-start="1910">Розкладка:</strong> ANSI</li>   <li data-end="2023" data-section-id="7bg156" data-start="1932"><strong data-end="1950" data-start="1934">Особливості:</strong> яскравий кастомний дизайн, PBT-пластик, стійкі принти, матова текстура</li>   <li data-end="2104" data-section-id="1nb9l7n" data-start="2024"><strong data-end="2042" data-start="2026">Призначення:</strong> кастомізація клавіатури, геймінг, робота, колекційний сетап</li>   <li data-end="2135" data-section-id="16i06ak" data-start="2105"><strong data-end="2127" data-start="2107">Країна-виробник:</strong> Китай</li>  </ul>    <p><strong data-end="2229" data-start="2217">Важливо:</strong> у комплект входять тільки кейкапи. Клавіатура не входить у комплект.</p></description_ua>
@@ -19507,8 +19507,8 @@
         <param name="Колір">Червоний</param>
         <param name="Особливості">Ігрові</param>
       </offer>
-      <offer id="2026" available="true">
-        <availability_status>available</availability_status>
+      <offer id="2026" available="false">
+        <availability_status>temporarily_unavailable</availability_status>
         <name_ua>Великий ігровий килимок для миші Chainsaw Man Makima Red Portrait / 900×400×3 мм / аніме-дизайн / для миші та клавіатури / Red</name_ua>
         <name_ru>Большой игровой коврик для мыши Chainsaw Man Makima Red Portrait / 900×400×3 мм / аниме-дизайн / для мыши и клавиатуры / Red</name_ru>
         <description_ua><p data-end="645" data-start="345"><strong data-end="427" data-start="345">Великий ігровий килимок для миші Chainsaw Man Makima Red Portrait 900×400×3 мм</strong> — стильний deskmat у яскравому аніме-дизайні, натхненному всесвітом Людина-Бензопила. На поверхні зображено крупний портрет Макіми на насиченому червоному фоні, що робить килимок виразним акцентом у будь-якому сетапі.</p>    <p data-end="836" data-start="647">Розмір 900×400 мм дозволяє зручно розмістити мишу, клавіатуру та інші настільні аксесуари. Товщина 3 мм забезпечує комфорт під час щоденного користування, роботи, навчання та ігрових сесій.</p>    <p data-end="967" data-start="838">Такий килимок чудово підійде для шанувальників Chainsaw Man, аніме-естетики та яскравих тематичних аксесуарів для робочого столу.</p>    <p data-end="988" data-start="969"><strong data-end="988" data-start="969">Характеристики:</strong></p>    <ul>   <li data-end="1034" data-start="990">Тип товару: великий ігровий килимок для миші</li>   <li data-end="1083" data-start="1036">Назва дизайну: Chainsaw Man Makima Red Portrait</li>   <li data-end="1127" data-start="1085">Тематика: Людина-Бензопила / аніме / манґа</li>   <li data-end="1145" data-start="1129">Персонаж: Макіма</li>   <li data-end="1165" data-start="1147">Розмір: 900×400 мм</li>   <li data-end="1180" data-start="1167">Товщина: 3 мм</li>   <li data-end="1211" data-start="1182">Формат: Extended / збільшений</li>   <li data-end="1230" data-start="1213">Форма: прямокутна</li>   <li data-end="1254" data-start="1232">Колір: Red White Brown</li>   <li data-end="1304" data-start="1256">Дизайн: крупний портрет Макіми на червоному фоні</li>   <li data-end="1361" data-start="1306">Стиль оформлення: аніме-принт / яскравий тематичний арт</li>   <li data-end="1445" data-start="1363">Призначення: для миші та клавіатури, геймінгу, роботи, навчання, оформлення сетапу</li>   <li data-end="1576" data-start="1447">Особливості: велика робоча поверхня, тематичний дизайн Chainsaw Man, яскраве контрастне оформлення, формат для клавіатури та миші</li>  </ul></description_ua>
@@ -19519,8 +19519,8 @@
         <param name="Колір">Червоний</param>
         <param name="Особливості">Ігрові</param>
       </offer>
-      <offer id="2027" available="false">
-        <availability_status>temporarily_unavailable</availability_status>
+      <offer id="2027" available="true">
+        <availability_status>available</availability_status>
         <name_ua>Великий ігровий килимок для миші Chainsaw Man Makima Crimson Chaos / 900×400×3 мм / аніме-дизайн / для миші та клавіатури / Red Black</name_ua>
         <name_ru>Большой игровой коврик для мыши Chainsaw Man Makima Crimson Chaos / 900×400×3 мм / аниме-дизайн / для мыши и клавиатуры / Red Black</name_ru>
         <description_ua><p data-end="667" data-start="335"><strong data-end="418" data-start="335">Великий ігровий килимок для миші Chainsaw Man Makima Crimson Chaos 900×400×3 мм</strong> — ефектний deskmat у яскравому аніме-дизайні, натхненному всесвітом Людина-Бензопила. На поверхні зображена Макіма в насиченій червоно-чорній палітрі з динамічними світловими акцентами та ланцюгами, що робить килимок дуже виразним елементом сетапу.</p>    <p data-end="904" data-start="669">Розмір 900×400 мм дозволяє зручно розмістити мишу, клавіатуру та інші аксесуари на столі. Товщина 3 мм додає комфорту під час роботи, навчання та ігрових сесій, а стильний тематичний принт чудово підійде для шанувальників Chainsaw Man.</p>    <p data-end="925" data-start="906"><strong data-end="925" data-start="906">Характеристики:</strong></p>    <ul>   <li data-end="971" data-start="927">Тип товару: великий ігровий килимок для миші</li>   <li data-end="1008" data-start="973">Назва дизайну: Makima Crimson Chaos</li>   <li data-end="1052" data-start="1010">Тематика: Людина-Бензопила / аніме / манґа</li>   <li data-end="1070" data-start="1054">Персонаж: Макіма</li>   <li data-end="1090" data-start="1072">Розмір: 900×400 мм</li>   <li data-end="1105" data-start="1092">Товщина: 3 мм</li>   <li data-end="1136" data-start="1107">Формат: Extended / збільшений</li>   <li data-end="1155" data-start="1138">Форма: прямокутна</li>   <li data-end="1173" data-start="1157">Колір: Red Black</li>   <li data-end="1248" data-start="1175">Дизайн: Макіма на червоно-чорному фоні з ланцюгами та світловими ефектами</li>   <li data-end="1305" data-start="1250">Стиль оформлення: аніме-принт / яскравий тематичний арт</li>   <li data-end="1389" data-start="1307">Призначення: для миші та клавіатури, геймінгу, роботи, навчання, оформлення сетапу</li>   <li data-end="1510" data-start="1391">Особливості: велика робоча поверхня, яскравий дизайн Chainsaw Man, контрастне оформлення, формат для клавіатури та миші</li>  </ul></description_ua>
@@ -19823,8 +19823,8 @@
         <param name="Стан">Новий</param>
         <param name="Тип">Геймпади</param>
       </offer>
-      <offer id="2090" available="true">
-        <availability_status>available</availability_status>
+      <offer id="2090" available="false">
+        <availability_status>temporarily_unavailable</availability_status>
         <name_ua>Килимок для миші Манґа Кошмар / Дзюндзі Іто дизайн / чорно-білий принт / 90×40 см / 3 мм / Black</name_ua>
         <name_ru>Коврик для мыши Манга Кошмар / дизайн Дзюндзи Ито / чёрно-белый принт / 90×40 см / 3 мм / Black</name_ru>
         <description_ua><p data-end="640" data-start="324" dir="auto"><strong data-end="424" data-start="324">Килимок для миші Манґа Кошмар / Дзюндзі Іто дизайн / чорно-білий принт / 90×40 см / 3 мм / Black</strong> — великий ігровий килимок з атмосферним хорор-манґа принтом у стилі темної японської естетики. Контрастне чорно-біле оформлення, моторошні персонажі та виразна графіка створюють сильний візуальний акцент для сетапу.</p>    <p data-end="876" data-start="642" dir="auto">Розмір <strong data-end="661" data-start="649">90×40 см</strong> дозволяє комфортно розмістити клавіатуру, мишу та частину аксесуарів, залишаючи достатньо простору для широких рухів мишкою. Такий формат добре підходить для геймінгу, роботи, навчання та оформлення робочого місця.</p>    <p data-end="1146" data-start="878" dir="auto">Товщина <strong data-end="894" data-start="886">3 мм</strong> робить килимок зручним для щоденного використання: він не займає зайвого місця на столі, але водночас додає м’якості під руку. Гладка тканинна поверхня забезпечує плавне ковзання миші, а гумова основа допомагає килимку стабільно триматися на поверхні.</p>    <p data-end="1171" data-section-id="1qsk6k6" data-start="1153" dir="auto"><strong>Характеристики:</strong></p>    <ul dir="ltr">   <li data-end="1840" data-start="1173"><strong data-end="1188" data-start="1173">Тип товару:</strong> килимок для миші</li>   <li data-end="1840" data-start="1173"><strong data-end="1226" data-start="1208">Назва дизайну:</strong> Манґа Кошмар</li>   <li data-end="1840" data-start="1173"><strong data-end="1255" data-start="1242">Тематика:</strong> Дзюндзі Іто / хорор-манґа / темна естетика</li>   <li data-end="1840" data-start="1173"><strong data-end="1312" data-start="1301">Розмір:</strong> 900×400 мм</li>   <li data-end="1840" data-start="1173"><strong data-end="1351" data-start="1326">Розмір у сантиметрах:</strong> 90×40 см</li>   <li data-end="1840" data-start="1173"><strong data-end="1375" data-start="1363">Товщина:</strong> 3 мм</li>   <li data-end="1840" data-start="1173"><strong data-end="1393" data-start="1383">Форма:</strong> прямокутна із заокругленими кутами</li>   <li data-end="1840" data-start="1173"><strong data-end="1441" data-start="1431">Колір:</strong> Black</li>   <li data-end="1840" data-start="1173"><strong data-end="1468" data-start="1450">Основна гамма:</strong> Black / White</li>   <li data-end="1840" data-start="1173"><strong data-end="1507" data-start="1485">Матеріал поверхні:</strong> тканина</li>   <li data-end="1840" data-start="1173"><strong data-end="1538" data-start="1518">Матеріал основи:</strong> гума</li>   <li data-end="1840" data-start="1173"><strong data-end="1559" data-start="1546">Поверхня:</strong> гладка, для точного керування мишею</li>   <li data-end="1840" data-start="1173"><strong data-end="1614" data-start="1598">Призначення:</strong> для миші, клавіатури, ігор, роботи та навчання</li>   <li data-end="1840" data-start="1173"><strong data-end="1679" data-start="1664">Сумісність:</strong> підходить для оптичних і лазерних мишок</li>   <li data-end="1840" data-start="1173"><strong data-end="1738" data-start="1722">Особливості:</strong> великий формат 90×40 см, чорно-білий хорор-принт, протиковзка основа, гладка поверхня, товщина 3 мм</li>  </ul></description_ua>
