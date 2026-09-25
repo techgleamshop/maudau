@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<yml_catalog date="2026-09-25 17:23">
+<yml_catalog date="2026-09-25 18:23">
   <shop>
     <categories>
       <category id="1082" portal_id="1839">Клавіатури</category>
@@ -1978,23 +1978,6 @@
         <param name="Стан">Новий</param>
         <param name="Тип">Ігрові (геймерські)</param>
         <country>Китай</country>
-      </offer>
-      <offer id="664" available="false">
-        <availability_status>temporarily_unavailable</availability_status>
-        <name_ua>Кабель авіатор / USB Type-C / Для клавіатури / Спіральний , Чорний</name_ua>
-        <name_ru>Кабель авиатор / USB Type-C/ Для клавиатуры / Спиральный, Черный</name_ru>
-        <description_ua><p data-end="448" data-start="211">Преміальний авіаторний кабель — ідеальне поєднання функціональності та стилю для твоєї механічної клавіатури. Знімний металевий конектор, спіральна секція та міцна тканинна оплітка забезпечують довговічність і зручність у використанні.</p>    <p data-end="1185" data-start="897"><strong data-end="913" data-start="900">Переваги:</strong></p>    <ul>   <li data-end="1185" data-start="897">Преміальний зовнішній вигляд — підкреслить стиль робочого місця</li>   <li data-end="1185" data-start="897">Знімний конектор для швидкої заміни кабелю</li>   <li data-end="1185" data-start="897">Спіральна секція для акуратного організованого столу</li>   <li data-end="1185" data-start="897">Надійна тканинна оплітка для захисту від зносу</li>   <li data-end="1185" data-start="897">Сумісність з будь-якою клавіатурою з USB-C</li>  </ul>    <p> <strong data-end="1207" data-start="1190">Комплектація:</strong> Кабель авіатор </p></description_ua>
-        <description_ru><p data-end="448" data-start="211">Премиальный авиаторный кабель – идеальное сочетание функциональности и стиля для твоей механической клавиатуры. Съемный металлический коннектор, спиральная секция и прочная тканевая оплетка обеспечивают долговечность и удобство в использовании.</p>    <p data-end="1185" data-start="897"><strong data-end="913" data-start="900">Преимущества:</strong></p>    <ul>   <li data-end="1185" data-start="897">Премиальный внешний вид – подчеркнет стиль рабочего места</li>   <li data-end="1185" data-start="897">Съемный коннектор для быстрой замены кабеля</li>   <li data-end="1185" data-start="897">Спиральная секция для аккуратного организованного стола</li>   <li data-end="1185" data-start="897">Надежная тканевая оплетка для защиты от износа</li>   <li data-end="1185" data-start="897">Совместимость с любой клавиатурой с USB-C</li>  </ul>    <p data-end="1245" data-start="1187"><strong data-end="1207" data-start="1190">Комплектация:</strong>Кабель авиатор </p></description_ru>
-        <price>399</price>
-        <categoryId>1090</categoryId>
-        <picture>https://techgleam.com.ua/content/images/15/94803097326970_%2B4dab842c7c.jpg</picture>
-        <picture>https://techgleam.com.ua/content/images/15/64102876798336_%2B607448d146.jpg</picture>
-        <picture>https://techgleam.com.ua/content/images/15/36198080027869_%2Bf646d4de2e.jpg</picture>
-        <picture>https://techgleam.com.ua/content/images/15/93631006494360_%2B2ce9f19fd5.jpg</picture>
-        <picture>https://techgleam.com.ua/content/images/15/95329291572848_%2Bbb09a56b0e.jpg</picture>
-        <param name="Гарантія">1 місяць</param>
-        <param name="Колір">Чорний</param>
-        <param name="Стан">Новий</param>
       </offer>
       <offer id="667" available="false">
         <availability_status>temporarily_unavailable</availability_status>
@@ -6358,8 +6341,8 @@
         <param name="Вид">Ігрові</param>
         <country>Китай</country>
       </offer>
-      <offer id="1400" available="true">
-        <availability_status>available</availability_status>
+      <offer id="1400" available="false">
+        <availability_status>temporarily_unavailable</availability_status>
         <name_ua>Ігрова магнітна дротова клавіатура Attack Shark R85 / Дротове підключення / Magnetic Switch / White Lines</name_ua>
         <name_ru>Игровая магнитная проводная клавиатура Attack Shark R85 / Проводное подключение / Magnetic Switch / White Lines</name_ru>
         <description_ua><p data-end="1946" data-start="1653"><strong data-end="1676" data-start="1653">Attack Shark R85 HE</strong> — флагманська <strong data-end="1735" data-start="1691">магнітна ігрова клавіатура преміум-класу</strong>, створена для кіберспорту та максимальної продуктивності. Вона використовує <strong data-end="1847" data-start="1812">Hall Effect магнітні перемикачі</strong>, які працюють без фізичного контакту, не зношуються та забезпечують ідеальну стабільність сигналу.</p>    <p data-end="2268" data-start="1948">Технологія <strong data-end="1976" data-start="1959">Rapid Trigger</strong> миттєво фіксує як натискання, так і відпускання клавіш, даючи абсолютну перевагу у FPS-іграх. <strong data-end="2142" data-start="2071">Регульована точка спрацювання від 0,1 до 3,3 мм з точністю 0,005 мм</strong> дозволяє налаштувати клавіатуру під власний стиль — від ультрачутливого шутерного режиму до комфортного повсякденного набору.</p>    <p data-end="2457" data-start="2270">Завдяки <strong data-end="2308" data-start="2278">частоті опитування 8000 Гц</strong> затримка становить лише <strong data-end="2343" data-start="2333">0,1 мс</strong>, що робить відгук практично миттєвим. Форм-фактор <strong data-end="2401" data-start="2394">75%</strong> зберігає всі необхідні клавіші, залишаючись компактним.</p>    <p data-end="2639" data-start="2459">Клавіатура оснащена <strong data-end="2501" data-start="2479">RGB-підсвічуванням</strong>, преміальними <strong data-end="2545" data-start="2516">PBT Double-Shot кейкапами</strong>, зручним <strong data-end="2576" data-start="2555">колесом прокрутки</strong>, підтримує <strong data-end="2600" data-start="2588">Hot-Swap</strong> та підключається через <strong data-end="2638" data-start="2624">USB Type-C</strong>.</p>    <p data-end="2729" data-start="2641"><strong data-end="2664" data-start="2641">Attack Shark R85 HE</strong> — вибір професійних геймерів, де кожна мілісекунда має значення.</p>    <p data-end="2729" data-start="2641"><strong>Основні характеристики:</strong></p>    <ul>   <li data-end="3637" data-start="3588">   <p data-end="3637" data-start="3590">Тип: магнітна ігрова клавіатура (Hall Effect)</p>   </li>   <li data-end="3674" data-start="3638">   <p data-end="3674" data-start="3640">Підключення: дротове, USB Type-C</p>   </li>   <li data-end="3695" data-start="3675">   <p data-end="3695" data-start="3677">Форм-фактор: 75%</p>   </li>   <li data-end="3741" data-start="3696">   <p data-end="3741" data-start="3698">Перемикачі: Magnetic Switch (Hall Sensor)</p>   </li>   <li data-end="3764" data-start="3742">   <p data-end="3764" data-start="3744">Rapid Trigger: так</p>   </li>   <li data-end="3782" data-start="3765">   <p data-end="3782" data-start="3767">Hot-Swap: так</p>   </li>   <li data-end="3803" data-start="3783">   <p data-end="3803" data-start="3785">Gasket-mount: ні</p>   </li>   <li data-end="3826" data-start="3804">   <p data-end="3826" data-start="3806">Підсвічування: RGB</p>   </li>   <li data-end="3865" data-start="3827">   <p data-end="3865" data-start="3829">Матеріал кейкапів: PBT Double-Shot</p>   </li>   <li data-end="3897" data-start="3866">   <p data-end="3897" data-start="3868">Керування: колесо прокрутки</p>   </li>   <li data-end="3929" data-start="3898">   <p data-end="3929" data-start="3900">Частота опитування: 8000 Гц</p>   </li>   <li data-end="3950" data-start="3930">   <p data-end="3950" data-start="3932">Затримка: 0.1 мс</p>   </li>   <li data-end="4012" data-start="3951">   <p data-end="4012" data-start="3953">Регулювання точки спрацювання: 0.1–3.3 мм (крок 0.005 мм)</p>   </li>   <li data-end="4044" data-start="4013">   <p data-end="4044" data-start="4015">Габарити: 320 × 145 × 35 мм</p>   </li>   <li data-end="4060" data-start="4045">   <p data-end="4060" data-start="4047">Вага: 730 г</p>   </li>   <li data-end="4076" data-start="4061">   <p data-end="4076" data-start="4063">Стан: новий</p>   </li>   <li data-end="4105" data-start="4077">   <p data-end="4105" data-start="4079">Сумісність: Windows / ПК</p>   </li>  </ul></description_ua>
@@ -6994,6 +6977,21 @@
         <param name="Призначення">Для ПК</param>
         <param name="Вид">Ігрові</param>
         <country>Китай</country>
+      </offer>
+      <offer id="1560" available="true">
+        <availability_status>available</availability_status>
+        <name_ua>Кабель авіатор Attack Shark / USB Type-C / Для клавіатури / Спіральний</name_ua>
+        <name_ru>Кабель авиатор Attack Shark/ USB Type-C/ Для клавиатуры / Спиральный</name_ru>
+        <description_ua><p data-end="448" data-start="211">Преміальний авіаторний кабель — ідеальне поєднання функціональності та стилю для твоєї механічної клавіатури. Знімний металевий конектор, спіральна секція та міцна тканинна оплітка забезпечують довговічність і зручність у використанні.</p>    <p data-end="1185" data-start="897"><strong data-end="913" data-start="900">Переваги:</strong></p>    <ul>   <li data-end="1185" data-start="897">Преміальний зовнішній вигляд — підкреслить стиль робочого місця</li>   <li data-end="1185" data-start="897">Знімний конектор для швидкої заміни кабелю</li>   <li data-end="1185" data-start="897">Спіральна секція для акуратного організованого столу</li>   <li data-end="1185" data-start="897">Надійна тканинна оплітка для захисту від зносу</li>   <li data-end="1185" data-start="897">Сумісність з будь-якою клавіатурою з USB-C</li>  </ul>    <p> <strong data-end="1207" data-start="1190">Комплектація:</strong> Кабель авіатор </p></description_ua>
+        <description_ru><p data-end="448" data-start="211">Премиальный авиаторный кабель – идеальное сочетание функциональности и стиля для твоей механической клавиатуры. Съемный металлический коннектор, спиральная секция и прочная тканевая оплетка обеспечивают долговечность и удобство в использовании.</p>    <p data-end="1185" data-start="897"><strong data-end="913" data-start="900">Преимущества:</strong></p>    <ul>   <li data-end="1185" data-start="897">Премиальный внешний вид – подчеркнет стиль рабочего места</li>   <li data-end="1185" data-start="897">Съемный коннектор для быстрой замены кабеля</li>   <li data-end="1185" data-start="897">Спиральная секция для аккуратного организованного стола</li>   <li data-end="1185" data-start="897">Надежная тканевая оплетка для защиты от износа</li>   <li data-end="1185" data-start="897">Совместимость с любой клавиатурой с USB-C</li>  </ul>    <p data-end="1245" data-start="1187"><strong data-end="1207" data-start="1190">Комплектация:</strong>Кабель авиатор </p></description_ru>
+        <price>499</price>
+        <categoryId>1090</categoryId>
+        <picture>https://techgleam.com.ua/content/images/11/71651290011798_%2B8e5bcccceb.jpg</picture>
+        <picture>https://techgleam.com.ua/content/images/11/56417042471467_%2B3f6f7065f7.jpg</picture>
+        <picture>https://techgleam.com.ua/content/images/11/32459815423166_%2Be9ca9eb02d.jpg</picture>
+        <param name="Гарантія">1 місяць</param>
+        <param name="Колір">Сірий</param>
+        <param name="Стан">Новий</param>
       </offer>
       <offer id="1561" available="false">
         <availability_status>temporarily_unavailable</availability_status>
@@ -15855,6 +15853,23 @@
         <param name="Колір">Сірий</param>
         <param name="Особливості">Ігрові</param>
       </offer>
+      <offer id="664" available="false">
+        <availability_status>temporarily_unavailable</availability_status>
+        <name_ua>Кабель авіатор / USB Type-C / Для клавіатури / Спіральний , Чорний</name_ua>
+        <name_ru>Кабель авиатор / USB Type-C/ Для клавиатуры / Спиральный, Черный</name_ru>
+        <description_ua><p data-end="448" data-start="211">Преміальний авіаторний кабель — ідеальне поєднання функціональності та стилю для твоєї механічної клавіатури. Знімний металевий конектор, спіральна секція та міцна тканинна оплітка забезпечують довговічність і зручність у використанні.</p>    <p data-end="1185" data-start="897"><strong data-end="913" data-start="900">Переваги:</strong></p>    <ul>   <li data-end="1185" data-start="897">Преміальний зовнішній вигляд — підкреслить стиль робочого місця</li>   <li data-end="1185" data-start="897">Знімний конектор для швидкої заміни кабелю</li>   <li data-end="1185" data-start="897">Спіральна секція для акуратного організованого столу</li>   <li data-end="1185" data-start="897">Надійна тканинна оплітка для захисту від зносу</li>   <li data-end="1185" data-start="897">Сумісність з будь-якою клавіатурою з USB-C</li>  </ul>    <p> <strong data-end="1207" data-start="1190">Комплектація:</strong> Кабель авіатор </p></description_ua>
+        <description_ru><p data-end="448" data-start="211">Премиальный авиаторный кабель – идеальное сочетание функциональности и стиля для твоей механической клавиатуры. Съемный металлический коннектор, спиральная секция и прочная тканевая оплетка обеспечивают долговечность и удобство в использовании.</p>    <p data-end="1185" data-start="897"><strong data-end="913" data-start="900">Преимущества:</strong></p>    <ul>   <li data-end="1185" data-start="897">Премиальный внешний вид – подчеркнет стиль рабочего места</li>   <li data-end="1185" data-start="897">Съемный коннектор для быстрой замены кабеля</li>   <li data-end="1185" data-start="897">Спиральная секция для аккуратного организованного стола</li>   <li data-end="1185" data-start="897">Надежная тканевая оплетка для защиты от износа</li>   <li data-end="1185" data-start="897">Совместимость с любой клавиатурой с USB-C</li>  </ul>    <p data-end="1245" data-start="1187"><strong data-end="1207" data-start="1190">Комплектация:</strong>Кабель авиатор </p></description_ru>
+        <price>399</price>
+        <categoryId>1090</categoryId>
+        <picture>https://techgleam.com.ua/content/images/15/94803097326970_%2B4dab842c7c.jpg</picture>
+        <picture>https://techgleam.com.ua/content/images/15/64102876798336_%2B607448d146.jpg</picture>
+        <picture>https://techgleam.com.ua/content/images/15/36198080027869_%2Bf646d4de2e.jpg</picture>
+        <picture>https://techgleam.com.ua/content/images/15/93631006494360_%2B2ce9f19fd5.jpg</picture>
+        <picture>https://techgleam.com.ua/content/images/15/95329291572848_%2Bbb09a56b0e.jpg</picture>
+        <param name="Гарантія">1 місяць</param>
+        <param name="Колір">Чорний</param>
+        <param name="Стан">Новий</param>
+      </offer>
       <offer id="669" available="false">
         <availability_status>temporarily_unavailable</availability_status>
         <name_ua>Набір кейкапів PBT Purple Gradient (130+) / фіолетовий OEM-комплект для ANSI / ISO клавіатур, Фіолетовий</name_ua>
@@ -16938,21 +16953,6 @@
         <param name="Призначення">Для клавіатур</param>
         <param name="Тип">Кейкапи</param>
         <param name="Матеріал">Полібутілентерефталат (PBT)</param>
-      </offer>
-      <offer id="1560" available="true">
-        <availability_status>available</availability_status>
-        <name_ua>Кабель авіатор Attack Shark / USB Type-C / Для клавіатури / Спіральний</name_ua>
-        <name_ru>Кабель авиатор Attack Shark/ USB Type-C/ Для клавиатуры / Спиральный</name_ru>
-        <description_ua><p data-end="448" data-start="211">Преміальний авіаторний кабель — ідеальне поєднання функціональності та стилю для твоєї механічної клавіатури. Знімний металевий конектор, спіральна секція та міцна тканинна оплітка забезпечують довговічність і зручність у використанні.</p>    <p data-end="1185" data-start="897"><strong data-end="913" data-start="900">Переваги:</strong></p>    <ul>   <li data-end="1185" data-start="897">Преміальний зовнішній вигляд — підкреслить стиль робочого місця</li>   <li data-end="1185" data-start="897">Знімний конектор для швидкої заміни кабелю</li>   <li data-end="1185" data-start="897">Спіральна секція для акуратного організованого столу</li>   <li data-end="1185" data-start="897">Надійна тканинна оплітка для захисту від зносу</li>   <li data-end="1185" data-start="897">Сумісність з будь-якою клавіатурою з USB-C</li>  </ul>    <p> <strong data-end="1207" data-start="1190">Комплектація:</strong> Кабель авіатор </p></description_ua>
-        <description_ru><p data-end="448" data-start="211">Премиальный авиаторный кабель – идеальное сочетание функциональности и стиля для твоей механической клавиатуры. Съемный металлический коннектор, спиральная секция и прочная тканевая оплетка обеспечивают долговечность и удобство в использовании.</p>    <p data-end="1185" data-start="897"><strong data-end="913" data-start="900">Преимущества:</strong></p>    <ul>   <li data-end="1185" data-start="897">Премиальный внешний вид – подчеркнет стиль рабочего места</li>   <li data-end="1185" data-start="897">Съемный коннектор для быстрой замены кабеля</li>   <li data-end="1185" data-start="897">Спиральная секция для аккуратного организованного стола</li>   <li data-end="1185" data-start="897">Надежная тканевая оплетка для защиты от износа</li>   <li data-end="1185" data-start="897">Совместимость с любой клавиатурой с USB-C</li>  </ul>    <p data-end="1245" data-start="1187"><strong data-end="1207" data-start="1190">Комплектация:</strong>Кабель авиатор </p></description_ru>
-        <price>499</price>
-        <categoryId>1090</categoryId>
-        <picture>https://techgleam.com.ua/content/images/11/71651290011798_%2B8e5bcccceb.jpg</picture>
-        <picture>https://techgleam.com.ua/content/images/11/56417042471467_%2B3f6f7065f7.jpg</picture>
-        <picture>https://techgleam.com.ua/content/images/11/32459815423166_%2Be9ca9eb02d.jpg</picture>
-        <param name="Гарантія">1 місяць</param>
-        <param name="Колір">Сірий</param>
-        <param name="Стан">Новий</param>
       </offer>
       <offer id="1562" available="true">
         <availability_status>available</availability_status>
