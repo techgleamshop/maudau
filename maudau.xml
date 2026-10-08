@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<yml_catalog date="2026-10-08 16:23">
+<yml_catalog date="2026-10-08 17:23">
   <shop>
     <categories>
       <category id="1082" portal_id="1839">Клавіатури</category>
@@ -6804,8 +6804,8 @@
         <param name="Тип">Ігрові (геймерські)</param>
         <country>Китай</country>
       </offer>
-      <offer id="1512" available="true">
-        <availability_status>available</availability_status>
+      <offer id="1512" available="false">
+        <availability_status>temporarily_unavailable</availability_status>
         <name_ua>Ігрова механічна дротова клавіатура Ajazz Ak690 / 68 клавіш / Hot-Swap / RGB / Melard Switch MC / White</name_ua>
         <name_ru>Игровая механическая проводная клавиатура Ajazz Ak690 / 68 клавиш /  Hot-Swap / RGB / Melard Switch MC / White</name_ru>
         <description_ua><p data-end="1746" data-start="1574"><strong data-end="1589" data-start="1574">AJAZZ AK690</strong> — це компактна <strong data-end="1655" data-start="1605">дротова механічна клавіатура формату 68 клавіш</strong>, створена для геймерів і користувачів, які цінують ергономіку, кастомізацію та надійність.</p>    <p data-end="1935" data-start="1748">Клавіатура підтримує <strong data-end="1806" data-start="1769">повну hot-swap заміну перемикачів</strong>, що дозволяє змінювати свічі без пайки. Встановлені <strong data-end="1879" data-start="1859">Melard Switch MC</strong> забезпечують стабільний, чіткий та приємний хід клавіш.</p>    <p data-end="2112" data-start="1937">Яскрава <strong data-end="1982" data-start="1945">RGB-підсвітка з багатьма ефектами</strong> підкреслює сучасний дизайн, а <strong data-end="2054" data-start="2013">багатофункціональний регулятор (knob)</strong> дозволяє швидко керувати гучністю або іншими параметрами.</p>    <p data-end="2258" data-start="2114">Формат <strong data-end="2134" data-start="2121">68 клавіш</strong> економить місце на столі, зберігаючи всі необхідні функції. <strong data-end="2210" data-start="2195">Plug &amp; Play</strong> — жодних драйверів, просто підключив і працюєш.</p>    <p data-end="2334" data-start="2260"><strong data-end="2275" data-start="2260">AJAZZ AK690</strong> — чудовий вибір для геймінгу, роботи та кастомних сетапів.</p></description_ua>
@@ -15779,8 +15779,8 @@
         <param name="Призначення">Геймерські</param>
         <country>Китай</country>
       </offer>
-      <offer id="657" available="true">
-        <availability_status>available</availability_status>
+      <offer id="657" available="false">
+        <availability_status>temporarily_unavailable</availability_status>
         <name_ua>Навушники MCHOSE V9 Pro / Бездротова ігрова гарнітура / 2.4G / Bluetooth з мікрофоном / Black Red</name_ua>
         <name_ru>Наушники MCHOSE V9 Pro / Беспроводная игровая гарнитура / 2.4G / Bluetooth с микрофоном / Black Red</name_ru>
         <description_ua><p><strong data-end="27" data-start="3">MCHOSE V9 Pro</strong><strong>— </strong>бездротова ігрова гарнітура, що дарує максимальний комфорт і точне позиціонування звуків у грі.<br data-end="128" data-start="125" />  53-мм біоцелюлозні драйвери + підтримка 7.1 забезпечують чисте й об’ємне звучання, а ємний акумулятор дозволяє грати <strong data-end="261" data-start="245">до 250 годин</strong> без підзарядки. Must-have аксесуар для стрімів, матчів і щоденних дзвінків!</p>    <h3 data-end="374" data-start="344">Основні характеристики:</h3>    <ul>   <li>Тип підключення: 2.4 ГГц / Bluetooth 5.3 / дротове USB-C</li>   <li>Сумісність: ПК, ноутбук, PS4/PS5, Nintendo Switch, смартфони</li>   <li>Драйвери: 53 мм біоцелюлозні — детальний бас і чисті верхи</li>   <li>Звук: об’ємний 7.1, точне позиціонування кроків і пострілів</li>   <li>Мікрофон: знімний, на гнучкій штанзі, AI-шумопридушення, швидке mute</li>   <li>Керування: коліщатко гучності й кнопки на чаші</li>   <li>Акумулятор: 2000 мА·год, до 250 год роботи</li>   <li>Комфорт: м’які амбушури з пам’яттю форми, регульоване наголів’я, легка посадка</li>   <li>Конструкція: складана, зносостійке покриття </li>  </ul>    <p><strong>Комплектація:</strong></p>    <ul>   <li>Гарнітура MCHOSE V9 Pro </li>   <li>2.4 ГГц USB-A ресивер</li>   <li>Кабель USB</li>   <li>Знімний мікрофон</li>   <li>Інструкція користувача</li>  </ul></description_ua>
