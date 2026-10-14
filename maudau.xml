@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<yml_catalog date="2026-10-14 03:23">
+<yml_catalog date="2026-10-14 04:23">
   <shop>
     <categories>
       <category id="1082" portal_id="1839">Клавіатури</category>
@@ -95,7 +95,7 @@
         <picture>https://techgleam.com.ua/content/images/15/97163125299942_%2B27386230f7.jpg</picture>
         <picture>https://techgleam.com.ua/content/images/15/35504972482379_%2Bcd4dd7f4b3.jpg</picture>
         <param name="Гарантія">1 місяць</param>
-        <param name="Колір">Фіолетовий</param>
+        <param name="Колір">Бузковий</param>
         <param name="Конструкція клавіш">Механічна</param>
         <param name="Підключення">Дротове</param>
         <param name="Інтерфейс підключення">USB Type-C</param>
@@ -106,7 +106,6 @@
         <param name="Матеріал корпусу">Пластик</param>
         <param name="Сумісність з ОС">Windows</param>
         <param name="Сумісність з ОС">Mac OS</param>
-        <param name="Колір">Бузковий</param>
         <param name="Стан">Новий</param>
         <param name="Комплектація">Клавіатура</param>
         <param name="Призначення">Для ПК</param>
@@ -271,7 +270,7 @@
         <picture>https://techgleam.com.ua/content/images/20/65817139803599_%2Be30527bf9c.jpg</picture>
         <picture>https://techgleam.com.ua/content/images/20/28673482484509_%2B73dd316767.jpg</picture>
         <param name="Гарантія">3 місяці</param>
-        <param name="Колір">Сірий</param>
+        <param name="Колір">Темно-сірий</param>
         <param name="Конструкція клавіш">Магнітна</param>
         <param name="Підключення">Дротове</param>
         <param name="Інтерфейс підключення">USB Type-C</param>
@@ -283,7 +282,6 @@
         <param name="Сумісність з ОС">Windows</param>
         <param name="Сумісність з ОС">Mac OS</param>
         <param name="Сумісність з ОС">Linux</param>
-        <param name="Колір">Темно-сірий</param>
         <param name="Стан">Новий</param>
         <param name="Комплектація">Клавіатура</param>
         <param name="Призначення">Для ПК</param>
@@ -428,7 +426,7 @@
         <picture>https://techgleam.com.ua/content/images/24/88176434602802_%2B7f8ac7d57f.jpg</picture>
         <picture>https://techgleam.com.ua/content/images/24/74059355317290_%2B85aad05fe5.jpg</picture>
         <param name="Гарантія">3 місяці</param>
-        <param name="Колір">Сірий</param>
+        <param name="Колір">Темно-сірий</param>
         <param name="Конструкція клавіш">Магнітна</param>
         <param name="Підключення">Дротове</param>
         <param name="Інтерфейс підключення">USB Type-C</param>
@@ -440,7 +438,6 @@
         <param name="Сумісність з ОС">Windows</param>
         <param name="Сумісність з ОС">Mac OS</param>
         <param name="Сумісність з ОС">Linux</param>
-        <param name="Колір">Темно-сірий</param>
         <param name="Стан">Новий</param>
         <param name="Комплектація">Клавіатура</param>
         <param name="Призначення">Для ПК</param>
@@ -573,7 +570,7 @@
         <picture>https://techgleam.com.ua/content/images/28/15518705060379_%2Be8e79d5477.jpg</picture>
         <picture>https://techgleam.com.ua/content/images/28/48490368325279_%2B5982705a24.jpg</picture>
         <param name="Гарантія">3 місяці</param>
-        <param name="Колір">Фіолетовий</param>
+        <param name="Колір">Бузковий</param>
         <param name="Конструкція клавіш">Механічна</param>
         <param name="Підключення">Дротове</param>
         <param name="Інтерфейс підключення">USB Type-C</param>
@@ -582,7 +579,6 @@
         <param name="Сумісність з ОС">Windows</param>
         <param name="Сумісність з ОС">Mac OS</param>
         <param name="Сумісність з ОС">Linux</param>
-        <param name="Колір">Бузковий</param>
         <param name="Стан">Новий</param>
         <param name="Комплектація">Клавіатура</param>
         <param name="Призначення">Для ПК</param>
@@ -730,7 +726,7 @@
         <picture>https://techgleam.com.ua/content/images/37/45796916529867_%2B39549dd325.jpg</picture>
         <picture>https://techgleam.com.ua/content/images/37/95227685281811_%2B210e05415d.jpg</picture>
         <param name="Гарантія">3 місяці</param>
-        <param name="Колір">Фіолетовий</param>
+        <param name="Колір">Бузковий</param>
         <param name="Конструкція клавіш">Механічна</param>
         <param name="Підключення">Комбіноване</param>
         <param name="Інтерфейс підключення">Bluetooth</param>
@@ -745,7 +741,6 @@
         <param name="Сумісність з ОС">Windows</param>
         <param name="Сумісність з ОС">Mac OS</param>
         <param name="Сумісність з ОС">Linux</param>
-        <param name="Колір">Бузковий</param>
         <param name="Стан">Новий</param>
         <param name="Комплектація">Клавіатура</param>
         <param name="Призначення">Для ПК</param>
@@ -806,7 +801,6 @@
         <picture>https://techgleam.com.ua/content/images/42/36749919907156_%2Bb09e5a21f0.jpg</picture>
         <picture>https://techgleam.com.ua/content/images/42/37459066383748_%2B0da3d9c381.jpg</picture>
         <param name="Гарантія">1 місяць</param>
-        <param name="Колір">Білий</param>
         <param name="Конструкція клавіш">Магнітна</param>
         <param name="Підключення">Дротове</param>
         <param name="Інтерфейс підключення">USB Type-C</param>
@@ -1306,25 +1300,6 @@
         <picture>https://techgleam.com.ua/content/images/46/44482821775283_%2Bcda1650f10.jpg</picture>
         <param name="Гарантія">1 місяць</param>
         <param name="Колір">Сірий</param>
-        <param name="Стан">Новий</param>
-      </offer>
-      <offer id="598" available="false">
-        <availability_status>temporarily_unavailable</availability_status>
-        <name_ua>Настільний цифровий LED-годинник / White</name_ua>
-        <name_ru>Настольные цифровые LED-часы / White</name_ru>
-        <description_ua><p>LED настільний електронний годинник з термометром та датою — стильний функціональний аксесуар, що чудово вписується в сучасний інтер’єр. Великий дисплей з підсвіткою, будильником та індикацією температури дозволяє зручно слідкувати за часом у будь-яку пору доби.</p>    <p><strong>Основні характеристики:</strong></p>    <ul>   <li>Тип дисплея: цифровий, LED  </li>   <li>Часовий формат: 12 / 24 години  </li>   <li>Індикація: час, дата, температура  </li>   <li>Живлення: USB (кабель у комплекті)  </li>   <li>Матеріал: пластик  </li>   <li>Будильник з гучним звуком  </li>   <li>Підсвічування з регулюванням яскравості  </li>   <li>Температурний режим: від 0 до +50°C  </li>   <li>Розміри годинника: 24 х 9,3 х 4 см</li>  </ul>    <p><strong>Комплектація:</strong></p>    <ul>   <li>Електронний годинник  </li>   <li>USB-кабель для живлення  </li>   <li>Інструкція користувача  </li>  </ul></description_ua>
-        <description_ru><p>LED настольные электронные часы с термометром и датой — стильный функциональный аксессуар, который прекрасно вписывается в современный интерьер. Большой дисплей с подсветкой, будильником и индикацией температуры позволяет удобно следить за временем в любое время суток.</p>    <p><strong>Основные характеристики:</strong></p>    <ul>   <li>Тип дисплея: цифровой, LED</li>   <li>Временной формат: 12 / 24 часа</li>   <li>Индикация: время, дата, температура</li>   <li>Питание: USB (кабель в комплекте)</li>   <li>Материал: пластик</li>   <li>Будильник с громким звуком</li>   <li>Подсветка с регулировкой яркости</li>   <li>Tемпературный режим: от 0 до +50°C</li>   <li>Размеры часов: 24 х 9,3 х 4 см</li>  </ul>    <p><strong>Комплектация:</strong></p>    <ul>   <li>Электронные часы</li>   <li>USB-кабель для питания</li>   <li>Инструкция пользователя</li>  </ul>    <p> </p></description_ru>
-        <price>500</price>
-        <categoryId>1090</categoryId>
-        <picture>https://techgleam.com.ua/content/images/49/69036392864921_%2B89d423cdf8.jpg</picture>
-        <picture>https://techgleam.com.ua/content/images/49/59974138387418_%2B7140c68d5d.jpg</picture>
-        <picture>https://techgleam.com.ua/content/images/49/78777059488741_%2B1a7fa5df34.jpg</picture>
-        <picture>https://techgleam.com.ua/content/images/49/15293986488205_%2Be8e56aeb34.jpg</picture>
-        <picture>https://techgleam.com.ua/content/images/49/64726541047638_%2Beabea7c20a.jpg</picture>
-        <picture>https://techgleam.com.ua/content/images/49/96581948304892_%2Bea52785e70.jpg</picture>
-        <picture>https://techgleam.com.ua/content/images/49/34994625002371_%2B3c1aaa9292.jpg</picture>
-        <param name="Гарантія">3 місяці</param>
-        <param name="Колір">Білий</param>
         <param name="Стан">Новий</param>
       </offer>
       <offer id="611" available="false">
@@ -1860,7 +1835,6 @@
         <description_ru><p><strong>Logitech G502 HERO — топовая точность и полная кастомизация</strong></p>    <p>G502 HERO сочетает в себе высокую производительность, прочную сборку и умные игровые фишки. Идеальна для тех, кто хочет максимум контроля без компромиссов.</p>    <p><strong>Основные характеристики:</strong></p>    <ul>   <li>Тип: игровая проводная мышь</li>   <li>Сенсор: PMW3366 — без ускорения, сглаживания или фильтрации</li>   <li>DPI: 200–12 000, мгновенное переключение между 5 уровнями (кнопка под большим пальцем)</li>   <li>Кнопки: 11 программируемых</li>   <li>Колесико: двухрежимное — сверхбыстрое свободное и пошаговое прокручивание</li>   <li>Вес и баланс: система сменных утяжелителей для тонкой настройки</li>   <li>Подсветка: RGB (16,8 млн цветов)</li>   <li>Переключатели: механические микропереключатели, ресурс 20 млн нажатий</li>   <li>Кабель: в прочной оплетке</li>   <li>ПЗ: Logitech Gaming Software — профили, макросы, подсветка, калибровка под поверхность</li>  </ul>    <p><strong>Что дает преимущество в игре:</strong></p>    <ul>   <li>Быстрое изменение DPI — от точного прицеливания до стремительных движений за одно мгновение</li>   <li>Дворежимное колесико для быстрого скролла и точного контроля</li>   <li>Гибкая персонализация: вес, баланс, кнопки, подсветка и профили</li>  </ul>    <p><strong>Комплектация:</strong></p>    <p>-Мышь Logitech G502 HERO</p>    <p>-Набор утяжелителей</p>    <p>-Инструкция</p>    <p>G502 HERO — это инструмент, дарящий стабильность, скорость и точность как в киберсражениях, так и в повседневной работе.</p></description_ru>
         <price>1500</price>
         <categoryId>1084</categoryId>
-        <vendor>Logitech</vendor>
         <picture>https://techgleam.com.ua/content/images/2/47373047522697_%2B4e38811923.jpg</picture>
         <picture>https://techgleam.com.ua/content/images/2/43464987113012_%2B98a4d0ddea.jpg</picture>
         <picture>https://techgleam.com.ua/content/images/2/38186701111089_%2B654898c4b3.jpg</picture>
@@ -2211,7 +2185,6 @@
         <picture>https://techgleam.com.ua/content/images/28/12212397102981_%2B1a9a2e2d05.jpg</picture>
         <picture>https://techgleam.com.ua/content/images/28/32709589654379_%2B10bc8ab783.jpg</picture>
         <param name="Гарантія">1 місяць</param>
-        <param name="Колір">Білий</param>
         <param name="Сумісність з ОС">Windows</param>
         <param name="Сумісність з ОС">Mac OS</param>
         <param name="Сумісність з ОС">Linux</param>
@@ -2611,7 +2584,6 @@
         <picture>https://techgleam.com.ua/content/images/18/29782958201586_%2Be63bb703ad.jpg</picture>
         <picture>https://techgleam.com.ua/content/images/18/47103928690866_%2B1db7fb4a12.jpg</picture>
         <param name="Гарантія">1 місяць</param>
-        <param name="Колір">Білий</param>
         <param name="Конструкція клавіш">Механічна</param>
         <param name="Підключення">Комбіноване</param>
         <param name="Інтерфейс підключення">Bluetooth</param>
@@ -2702,23 +2674,6 @@
         <param name="Стан">Новий</param>
         <param name="Тип">Ігрові (геймерські)</param>
         <country>Китай</country>
-      </offer>
-      <offer id="727" available="false">
-        <availability_status>temporarily_unavailable</availability_status>
-        <name_ua>Підставка для ноутбука , Сірий</name_ua>
-        <name_ru>Подставка для ноутбука, Серый</name_ru>
-        <description_ua><p data-end="1730" data-start="1310"><strong> Портативна алюмінієва підставка для ноутбука </strong>— зручне та надійне рішення для роботи за столом і в дорозі. Завдяки <strong data-end="1455" data-start="1424">міцному алюмінієвому сплаву</strong>, нековзним <strong data-end="1492" data-start="1467">силіконовим накладкам</strong> і <strong data-end="1518" data-start="1495">регульованій висоті</strong> ви легко налаштуєте комфортний кут для друку чи перегляду, зменшуючи навантаження на шию та спину. Відкрита конструкція покращує <strong data-end="1670" data-start="1648">циркуляцію повітря</strong>, що допомагає охолодженню ноутбука під час тривалої роботи.</p>    <p data-end="1877" data-start="1732">Підставка швидко <strong data-end="1764" data-start="1749">складається</strong> й займає мінімум місця в сумці або рюкзаку. У комплекті є <strong data-end="1847" data-start="1823">чохол для зберігання</strong>, щоб зручно брати її з собою.</p>    <p data-end="1892" data-start="1879"><strong data-end="1892" data-start="1879"> Основні характеристики:</strong></p>    <p data-end="1947" data-start="1895"> Міцний <strong data-end="1923" data-start="1902">алюмінієвий сплав</strong> + силіконові накладки</p>    <p data-end="2005" data-start="1950"> <strong data-end="1976" data-start="1950">Регульована висота/кут</strong> для оптимальної ергономіки</p>    <p data-end="2058" data-start="2008"> Відкрита конструкція для <strong data-end="2056" data-start="2033">кращого охолодження</strong></p>    <p data-end="2105" data-start="2061"> <strong data-end="2073" data-start="2061">Складана</strong> та легка, разом із <strong data-end="2103" data-start="2093">чохлом</strong></p>    <p data-end="2105" data-start="2061"><strong data-end="2103" data-start="2093">  Переваги покупки у TechGleam:</strong><br />    Оригінальна продукція та перевірена якість  <br />     Консультація та допомога при виборі  <br />     Швидка відправка у день замовлення  <br />     Гарантія на кожну позицію</p></description_ua>
-        <description_ru><p><strong> Портативная алюминиевая подставка для ноутбука </strong>– удобное и надежное решение для работы за столом и в дороге. Благодаря крепкому алюминиевому сплаву, нескользящим силиконовым накладкам и регулируемой высоте вы легко настроите комфортный угол для печати или просмотра, уменьшая нагрузку на шею и спину. Открытая конструкция улучшает циркуляцию воздуха, что помогает охлаждению ноутбука во время продолжительной работы.</p>    <p>Подставка быстро складывается и занимает минимум места в сумке или рюкзаке. В комплекте есть чехол для хранения, чтобы удобно брать его с собой.</p>    <p><strong> Основные характеристики:</strong></p>    <p> Прочный алюминиевый сплав + силиконовые накладки</p>    <p> Регулируемая высота/угол для оптимальной эргономики</p>    <p> Открытая конструкция для лучшего охлаждения</p>    <p> Сложная и легкая, вместе с чехлом</p>    <p><strong>  Преимущества покупки в TechGleam:</strong><br />    Оригинальная продукция и проверенное качество<br />     Консультация и помощь при выборе<br />     Быстрая отправка в день заказа<br />     Гарантия на каждую позицию</p></description_ru>
-        <price>400</price>
-        <categoryId>1090</categoryId>
-        <picture>https://techgleam.com.ua/content/images/28/96634026689244_%2B570b89ae43.jpg</picture>
-        <picture>https://techgleam.com.ua/content/images/28/78043556690788_%2B6526586039.jpg</picture>
-        <picture>https://techgleam.com.ua/content/images/28/30692177521412_%2B7fe3884875.jpg</picture>
-        <picture>https://techgleam.com.ua/content/images/28/98834524374493_%2Bbbc716c980.jpg</picture>
-        <picture>https://techgleam.com.ua/content/images/28/45218777523362_%2Be6a9ba2fbc.jpg</picture>
-        <param name="Гарантія">1 місяць</param>
-        <param name="Колір">Сірий</param>
-        <param name="Стан">Новий</param>
       </offer>
       <offer id="728" available="false">
         <availability_status>temporarily_unavailable</availability_status>
@@ -3118,7 +3073,7 @@
         <picture>https://techgleam.com.ua/content/images/3/igrovaja-myshka-attack-shark-x3-56264147819200_%2B8aa2fc07d6.jpg</picture>
         <picture>https://techgleam.com.ua/content/images/3/igrovaja-myshka-attack-shark-x3-85496551850782_%2Bd7779a6b36.jpg</picture>
         <param name="Гарантія">3 місяці</param>
-        <param name="Колір">Фіолетовий</param>
+        <param name="Колір">Бузковий</param>
         <param name="Підключення">Комбіноване</param>
         <param name="Сумісність з ОС">Microsoft Windows</param>
         <param name="Сумісність з ОС">Mac OS</param>
@@ -3406,7 +3361,7 @@
         <picture>https://techgleam.com.ua/content/images/18/83736718682564_%2B2a2a3d5e0e.jpg</picture>
         <picture>https://techgleam.com.ua/content/images/18/78372593357705_%2B9343623ff2.jpg</picture>
         <param name="Гарантія">3 місяці</param>
-        <param name="Колір">Фіолетовий</param>
+        <param name="Колір">Бузковий</param>
         <param name="Підключення">Комбіноване</param>
         <param name="Сумісність з ОС">Microsoft Windows</param>
         <param name="Сумісність з ОС">Mac OS</param>
@@ -3922,21 +3877,6 @@
         <param name="Вид">Ігрові</param>
         <country>Китай</country>
       </offer>
-      <offer id="815" available="false">
-        <availability_status>temporarily_unavailable</availability_status>
-        <name_ua>Підставка для ноутбука, Чорний</name_ua>
-        <name_ru>Подставка для ноутбука, Черный</name_ru>
-        <description_ua><p data-end="1730" data-start="1310"><strong> Портативна алюмінієва підставка для ноутбука </strong>— зручне та надійне рішення для роботи за столом і в дорозі. Завдяки <strong data-end="1455" data-start="1424">міцному алюмінієвому сплаву</strong>, нековзним <strong data-end="1492" data-start="1467">силіконовим накладкам</strong> і <strong data-end="1518" data-start="1495">регульованій висоті</strong> ви легко налаштуєте комфортний кут для друку чи перегляду, зменшуючи навантаження на шию та спину. Відкрита конструкція покращує <strong data-end="1670" data-start="1648">циркуляцію повітря</strong>, що допомагає охолодженню ноутбука під час тривалої роботи.</p>    <p data-end="1877" data-start="1732">Підставка швидко <strong data-end="1764" data-start="1749">складається</strong> й займає мінімум місця в сумці або рюкзаку. У комплекті є <strong data-end="1847" data-start="1823">чохол для зберігання</strong>, щоб зручно брати її з собою.</p>    <p data-end="1892" data-start="1879"><strong data-end="1892" data-start="1879"> Основні характеристики:</strong></p>    <p data-end="1947" data-start="1895"> Міцний <strong data-end="1923" data-start="1902">алюмінієвий сплав</strong> + силіконові накладки</p>    <p data-end="2005" data-start="1950"> <strong data-end="1976" data-start="1950">Регульована висота/кут</strong> для оптимальної ергономіки</p>    <p data-end="2058" data-start="2008"> Відкрита конструкція для <strong data-end="2056" data-start="2033">кращого охолодження</strong></p>    <p data-end="2105" data-start="2061"> <strong data-end="2073" data-start="2061">Складана</strong> та легка, разом із <strong data-end="2103" data-start="2093">чохлом</strong></p>    <p data-end="2105" data-start="2061"><strong data-end="2103" data-start="2093">  Переваги покупки у TechGleam:</strong><br />    Оригінальна продукція та перевірена якість  <br />     Консультація та допомога при виборі  <br />     Швидка відправка у день замовлення  <br />     Гарантія на кожну позицію</p></description_ua>
-        <description_ru><p><strong> Портативная алюминиевая подставка для ноутбука </strong>– удобное и надежное решение для работы за столом и в дороге. Благодаря крепкому алюминиевому сплаву, нескользящим силиконовым накладкам и регулируемой высоте вы легко настроите комфортный угол для печати или просмотра, уменьшая нагрузку на шею и спину. Открытая конструкция улучшает циркуляцию воздуха, что помогает охлаждению ноутбука во время продолжительной работы.</p>    <p>Подставка быстро складывается и занимает минимум места в сумке или рюкзаке. В комплекте есть чехол для хранения, чтобы удобно брать его с собой.</p>    <p><strong> Основные характеристики:</strong></p>    <p> Прочный алюминиевый сплав + силиконовые накладки</p>    <p> Регулируемая высота/угол для оптимальной эргономики</p>    <p> Открытая конструкция для лучшего охлаждения</p>    <p> Сложная и легкая, вместе с чехлом</p>    <p><strong>  Преимущества покупки в TechGleam:</strong><br />    Оригинальная продукция и проверенное качество<br />     Консультация и помощь при выборе<br />     Быстрая отправка в день заказа<br />     Гарантия на каждую позицию</p></description_ru>
-        <price>400</price>
-        <categoryId>1090</categoryId>
-        <picture>https://techgleam.com.ua/content/images/16/45173864889956_%2B040df2cf28.png</picture>
-        <picture>https://techgleam.com.ua/content/images/16/63968857127859_%2B12a81cec21.png</picture>
-        <picture>https://techgleam.com.ua/content/images/16/21772776564247_%2B4f032944c4.png</picture>
-        <param name="Гарантія">1 місяць</param>
-        <param name="Колір">Чорний</param>
-        <param name="Стан">Новий</param>
-      </offer>
       <offer id="818" available="false">
         <availability_status>temporarily_unavailable</availability_status>
         <name_ua>Ігрова магнітна клавіатура MCHOSE Jet 75 / Hall Effect / Magnetic Kailh Magnetic God Switch / White Lines</name_ua>
@@ -4369,7 +4309,7 @@
         <picture>https://techgleam.com.ua/content/images/44/igrovaja-mexanicheskaja-klaviatura-mchose-g75-pro-tri-rezhima-podkluchenija-matcha-latte-switch-purple-50629740467002_%2B2f4aafbf2a.jpg</picture>
         <picture>https://techgleam.com.ua/content/images/44/igrovaja-mexanicheskaja-klaviatura-mchose-g75-pro-tri-rezhima-podkluchenija-matcha-latte-switch-purple-50846678298833_%2B62f8f667d7.jpg</picture>
         <param name="Гарантія">1 місяць</param>
-        <param name="Колір">Фіолетовий</param>
+        <param name="Колір">Бузковий</param>
         <param name="Конструкція клавіш">Механічна</param>
         <param name="Підключення">Комбіноване</param>
         <param name="Інтерфейс підключення">Bluetooth</param>
@@ -4384,7 +4324,6 @@
         <param name="Сумісність з ОС">Windows</param>
         <param name="Сумісність з ОС">Mac OS</param>
         <param name="Сумісність з ОС">Linux</param>
-        <param name="Колір">Бузковий</param>
         <param name="Стан">Новий</param>
         <param name="Комплектація">Клавіатура</param>
         <param name="Призначення">Для ПК</param>
@@ -4434,7 +4373,7 @@
         <picture>https://techgleam.com.ua/content/images/46/besprovodnaja-igrovaja-mysh-mchose-k7-ultra-tri-rezhima-podkluchenija-paw3950-42-000-dpi-white-silver-93885492300002_%2Be76988b36e.jpg</picture>
         <picture>https://techgleam.com.ua/content/images/46/besprovodnaja-igrovaja-mysh-mchose-k7-ultra-tri-rezhima-podkluchenija-paw3950-42-000-dpi-white-silver-59235488900671_%2B6bc0d8c583.jpg</picture>
         <param name="Гарантія">3 місяці</param>
-        <param name="Колір">Сріблястий</param>
+        <param name="Колір">Сірий</param>
         <param name="Підключення">Комбіноване</param>
         <param name="Сумісність з ОС">Microsoft Windows</param>
         <param name="Сумісність з ОС">Mac OS</param>
@@ -5201,7 +5140,6 @@
         <picture>https://techgleam.com.ua/content/images/27/igrovaja-mexanicheskaja-klaviatura-freewolf-f75-tri-rezhima-podkluchenija-hot-swappable-silver-moon-switch-white-blue-46814428465406_%2Bce490a7bf9.jpg</picture>
         <picture>https://techgleam.com.ua/content/images/27/igrovaja-mexanicheskaja-klaviatura-freewolf-f75-tri-rezhima-podkluchenija-hot-swappable-silver-moon-switch-white-blue-89664138159386_%2B4d967ed87c.jpg</picture>
         <param name="Гарантія">1 місяць</param>
-        <param name="Колір">Білий</param>
         <param name="Конструкція клавіш">Механічна</param>
         <param name="Підключення">Комбіноване</param>
         <param name="Інтерфейс підключення">Bluetooth</param>
@@ -5688,7 +5626,7 @@
         <picture>https://techgleam.com.ua/content/images/45/igrovaja-besprovodnaja-klaviatura-freewolf-m96-rgb-s-ekranom-dva-rezhima-podkluchenija-52788677082617_%2Bb03533c45b.jpg</picture>
         <picture>https://techgleam.com.ua/content/images/45/igrovaja-besprovodnaja-klaviatura-freewolf-m96-rgb-s-ekranom-dva-rezhima-podkluchenija-24104078097075_%2B0004680111.jpg</picture>
         <param name="Гарантія">1 місяць</param>
-        <param name="Колір">Різнокольоровий</param>
+        <param name="Колір">В асортименті</param>
         <param name="Конструкція клавіш">Мембранна</param>
         <param name="Підключення">Комбіноване</param>
         <param name="Інтерфейс підключення">Bluetooth</param>
@@ -5701,7 +5639,6 @@
         <param name="Сумісність з ОС">Windows</param>
         <param name="Сумісність з ОС">Mac OS</param>
         <param name="Сумісність з ОС">Linux</param>
-        <param name="Колір">В асортименті</param>
         <param name="Стан">Новий</param>
         <param name="Комплектація">Клавіатура</param>
         <param name="Призначення">Для ПК</param>
@@ -5751,7 +5688,7 @@
         <picture>https://techgleam.com.ua/content/images/47/igrovaja-provodnaja-mexanicheskaja-klaviatura-zifriend-za68-rgb-mechanical-switch-65-purple-57428702322244_%2B4ca14e8e5b.jpg</picture>
         <picture>https://techgleam.com.ua/content/images/47/igrovaja-provodnaja-mexanicheskaja-klaviatura-zifriend-za68-rgb-mechanical-switch-65-purple-24996412094151_%2B449ad2353a.jpg</picture>
         <param name="Гарантія">1 місяць</param>
-        <param name="Колір">Фіолетовий</param>
+        <param name="Колір">Бузковий</param>
         <param name="Конструкція клавіш">Механічна</param>
         <param name="Підключення">Дротове</param>
         <param name="Інтерфейс підключення">USB Type-C</param>
@@ -5763,7 +5700,6 @@
         <param name="Сумісність з ОС">Windows</param>
         <param name="Сумісність з ОС">Mac OS</param>
         <param name="Сумісність з ОС">Linux</param>
-        <param name="Колір">Бузковий</param>
         <param name="Стан">Новий</param>
         <param name="Комплектація">Клавіатура</param>
         <param name="Призначення">Для ПК</param>
@@ -5886,7 +5822,7 @@
         <picture>https://techgleam.com.ua/content/images/2/igrovaja-mexanicheskaja-provodnaja-klaviatura-hxsj-v500-blue-switch-60-rgb-colourful-46902090779489_%2Bf2b102f1ad.jpg</picture>
         <picture>https://techgleam.com.ua/content/images/2/igrovaja-mexanicheskaja-provodnaja-klaviatura-hxsj-v500-blue-switch-60-rgb-colourful-74772569799254_%2Bc94c693ee2.jpg</picture>
         <param name="Гарантія">1 місяць</param>
-        <param name="Колір">Різнокольоровий</param>
+        <param name="Колір">В асортименті</param>
         <param name="Конструкція клавіш">Механічна</param>
         <param name="Підключення">Дротове</param>
         <param name="Інтерфейс підключення">USB Type-C</param>
@@ -5898,7 +5834,6 @@
         <param name="Сумісність з ОС">Windows</param>
         <param name="Сумісність з ОС">Mac OS</param>
         <param name="Сумісність з ОС">Linux</param>
-        <param name="Колір">В асортименті</param>
         <param name="Стан">Новий</param>
         <param name="Комплектація">Клавіатура</param>
         <param name="Призначення">Для ПК</param>
@@ -6475,7 +6410,7 @@
         <picture>https://techgleam.com.ua/content/images/11/mexanicheskaja-klaviatura-ajazz-ak680-hot-swap-battery-mode-red-switch-purple-35071964826411_%2B1653364fb0.jpg</picture>
         <picture>https://techgleam.com.ua/content/images/11/mexanicheskaja-klaviatura-ajazz-ak680-hot-swap-battery-mode-red-switch-purple-75308866081085_%2B0ff6083e0b.jpg</picture>
         <param name="Гарантія">1 місяць</param>
-        <param name="Колір">Фіолетовий</param>
+        <param name="Колір">Бузковий</param>
         <param name="Конструкція клавіш">Механічна</param>
         <param name="Підключення">Комбіноване</param>
         <param name="Інтерфейс підключення">Радіоінтерфейс</param>
@@ -6485,7 +6420,6 @@
         <param name="Матеріал корпусу">Пластик</param>
         <param name="Сумісність з ОС">Windows</param>
         <param name="Сумісність з ОС">Mac OS</param>
-        <param name="Колір">Бузковий</param>
         <param name="Стан">Новий</param>
         <param name="Комплектація">Клавіатура</param>
         <param name="Призначення">Для ПК</param>
@@ -6640,7 +6574,7 @@
         <picture>https://techgleam.com.ua/content/images/3/igrovaja-magnitnaja-provodnaja-klaviatura-attack-shark-r85-provodnoe-podkluchenie-magnetic-switch-black-92780439429555_%2Bd093097eaf.jpg</picture>
         <picture>https://techgleam.com.ua/content/images/3/igrovaja-magnitnaja-provodnaja-klaviatura-attack-shark-r85-provodnoe-podkluchenie-magnetic-switch-black-25540494806267_%2Bab929d1c01.jpg</picture>
         <param name="Гарантія">3 місяці</param>
-        <param name="Колір">Сірий</param>
+        <param name="Колір">Темно-сірий</param>
         <param name="Конструкція клавіш">Магнітна</param>
         <param name="Підключення">Дротове</param>
         <param name="Інтерфейс підключення">USB Type-C</param>
@@ -6652,7 +6586,6 @@
         <param name="Сумісність з ОС">Windows</param>
         <param name="Сумісність з ОС">Mac OS</param>
         <param name="Сумісність з ОС">Linux</param>
-        <param name="Колір">Темно-сірий</param>
         <param name="Стан">Новий</param>
         <param name="Комплектація">Клавіатура</param>
         <param name="Призначення">Для ПК</param>
@@ -7059,7 +6992,7 @@
         <picture>https://techgleam.com.ua/content/images/26/igrovaja-mexanicheskaja-provodnaja-klaviatura-ajazz-ak690-68-klavish-hot-swap-rgb-melard-switch-mc-purple-71188297994233_%2B6a32f21b0e.jpg</picture>
         <picture>https://techgleam.com.ua/content/images/26/igrovaja-mexanicheskaja-provodnaja-klaviatura-ajazz-ak690-68-klavish-hot-swap-rgb-melard-switch-mc-purple-18992482868245_%2Bae8892fe75.jpg</picture>
         <param name="Гарантія">1 місяць</param>
-        <param name="Колір">Фіолетовий</param>
+        <param name="Колір">Бузковий</param>
         <param name="Конструкція клавіш">Механічна</param>
         <param name="Підключення">Дротове</param>
         <param name="Інтерфейс підключення">USB Type-C</param>
@@ -7071,7 +7004,6 @@
         <param name="Сумісність з ОС">Windows</param>
         <param name="Сумісність з ОС">Mac OS</param>
         <param name="Сумісність з ОС">Linux</param>
-        <param name="Колір">Бузковий</param>
         <param name="Стан">Новий</param>
         <param name="Комплектація">Клавіатура</param>
         <param name="Призначення">Для ПК</param>
@@ -7765,7 +7697,7 @@
         <picture>https://techgleam.com.ua/content/images/11/igrovaja-provodnaja-magnitnaja-klaviatura-gravastar-mercury-v60-pro-deluxe-edition-magnetic-gravastar-ufo-switch-with-keycap-set-chrome-silver-94727437864284_%2B7f8fb76335.jpg</picture>
         <picture>https://techgleam.com.ua/content/images/11/igrovaja-provodnaja-magnitnaja-klaviatura-gravastar-mercury-v60-pro-deluxe-edition-magnetic-gravastar-ufo-switch-with-keycap-set-chrome-silver-97811102537831_%2Bc967928c24.jpg</picture>
         <param name="Гарантія">6 місяців</param>
-        <param name="Колір">Сріблястий</param>
+        <param name="Колір">Сірий</param>
         <param name="Конструкція клавіш">Магнітна</param>
         <param name="Підключення">Дротове</param>
         <param name="Інтерфейс підключення">USB Type-C</param>
@@ -7777,7 +7709,6 @@
         <param name="Сумісність з ОС">Windows</param>
         <param name="Сумісність з ОС">Mac OS</param>
         <param name="Сумісність з ОС">Linux</param>
-        <param name="Колір">Сірий</param>
         <param name="Стан">Новий</param>
         <param name="Комплектація">Клавіатура</param>
         <param name="Призначення">Для ПК</param>
@@ -7983,7 +7914,6 @@
         <description_ru><p data-end="2351" data-start="2058"><strong data-end="2095" data-start="2058">Logitech G102 Lightsync USB Black</strong> — проводная игровая мышь с оптическим сенсором <strong data-end="2158" data-start="2143">до 8000 DPI</strong>, <strong data-end="2191" data-start="2160">6 программируемыми кнопками</strong>, RGB-подсветкой <strong data-end="2221" data-start="2208">Lightsync</strong> и быстрым откликом для игр и повседневного использования. Оснащена <strong data-end="2318" data-start="2289">32-битным ARM-процессором</strong> и удобным средним форм-фактором.</p>    <p data-end="2372" data-start="2353"><strong data-end="2400" data-start="2373">Logitech G102 Lightsync</strong> — популярная проводная мышь для тех, кто ищет надёжное решение для игр, учёбы и повседневной работы. Модель имеет классическую симметричную форму, удобно лежит в руке и подходит большинству пользователей благодаря <strong data-end="2635" data-start="2615">среднему размеру</strong> и комфортной посадке.</p>    <p data-end="2933" data-start="2659">Мышь оснащена <strong data-end="2696" data-start="2673">оптическим сенсором</strong> с чувствительностью <strong data-end="2732" data-start="2717">до 8000 DPI</strong>, что обеспечивает точный контроль в шутерах, MOBA и других динамичных играх. Диапазон чувствительности — <strong data-end="2860" data-start="2838">от 200 до 8000 DPI</strong>, поэтому можно легко подобрать удобную скорость движения под свой стиль.</p>    <p data-end="3282" data-start="2935"><strong data-end="2963" data-start="2935">6 программируемых кнопок</strong> и <strong data-end="2993" data-start="2966">32-битный ARM-процессор</strong> позволяют настраивать команды, макросы и игровые профили. Подсветка <strong data-end="3079" data-start="3062">Lightsync RGB</strong> добавляет яркости рабочему месту и помогает персонализировать внешний вид устройства.<br data-end="3168" data-start="3165" />  Подключение осуществляется через <strong data-end="3208" data-start="3201">USB</strong>, длина кабеля — <strong data-end="3234" data-start="3225">2.1 м</strong>, поддерживаются <strong data-end="3281" data-start="3251">Windows, macOS и Chrome OS</strong>.</p>    <h3 data-end="3311" data-start="3284">Основные характеристики</h3>    <ul data-end="3874" data-start="3312">   <li data-end="3349" data-start="3312">   <p data-end="3349" data-start="3314"><strong data-end="3325" data-start="3314">Модель:</strong> Logitech G102 Lightsync</p>   </li>   <li data-end="3385" data-start="3350">   <p data-end="3385" data-start="3352"><strong data-end="3374" data-start="3352">Код производителя:</strong> 910-005823</p>   </li>   <li data-end="3419" data-start="3386">   <p data-end="3419" data-start="3388"><strong data-end="3396" data-start="3388">Тип:</strong> проводная игровая мышь</p>   </li>   <li data-end="3440" data-start="3420">   <p data-end="3440" data-start="3422"><strong data-end="3436" data-start="3422">Интерфейс:</strong> USB</p>   </li>   <li data-end="3465" data-start="3441">   <p data-end="3465" data-start="3443"><strong data-end="3454" data-start="3443">Сенсор:</strong> оптический</p>   </li>   <li data-end="3498" data-start="3466">   <p data-end="3498" data-start="3468"><strong data-end="3489" data-start="3468">Максимальное DPI:</strong> <strong data-end="3498" data-start="3490">8000</strong></p>   </li>   <li data-end="3531" data-start="3499">   <p data-end="3531" data-start="3501"><strong data-end="3518" data-start="3501">Диапазон DPI:</strong> <strong data-end="3531" data-start="3519">200–8000</strong></p>   </li>   <li data-end="3562" data-start="3532">   <p data-end="3562" data-start="3534"><strong data-end="3556" data-start="3534">Количество кнопок:</strong> <strong data-end="3562" data-start="3557">6</strong></p>   </li>   <li data-end="3592" data-start="3563">   <p data-end="3592" data-start="3565"><strong data-end="3576" data-start="3565">Кнопки:</strong> программируемые</p>   </li>   <li data-end="3627" data-start="3593">   <p data-end="3627" data-start="3595"><strong data-end="3609" data-start="3595">Процессор:</strong> <strong data-end="3627" data-start="3610">32-битный ARM</strong></p>   </li>   <li data-end="3658" data-start="3628">   <p data-end="3658" data-start="3630"><strong data-end="3644" data-start="3630">Подсветка:</strong> RGB Lightsync</p>   </li>   <li data-end="3699" data-start="3659">   <p data-end="3699" data-start="3661"><strong data-end="3672" data-start="3661">Размер:</strong> <strong data-end="3699" data-start="3673">62.2 × 116.6 × 38.2 мм</strong></p>   </li>   <li data-end="3729" data-start="3700">   <p data-end="3729" data-start="3702"><strong data-end="3719" data-start="3702">Длина кабеля:</strong> <strong data-end="3729" data-start="3720">2.1 м</strong></p>   </li>   <li data-end="3748" data-start="3730">   <p data-end="3748" data-start="3732"><strong data-end="3741" data-start="3732">Цвет:</strong> чёрный</p>   </li>   <li data-end="3797" data-start="3749">   <p data-end="3797" data-start="3751"><strong data-end="3769" data-start="3751">Совместимость:</strong> Windows / macOS / Chrome OS</p>   </li>   <li data-end="3840" data-start="3798">   <p data-end="3840" data-start="3800"><strong data-end="3830" data-start="3800">Страна регистрации бренда:</strong> Швейцария</p>   </li>   <li data-end="3874" data-start="3841">   <p data-end="3874" data-start="3843"><strong data-end="3868" data-start="3843">Страна-производитель:</strong> Китай</p>   </li>  </ul></description_ru>
         <price>999</price>
         <categoryId>1084</categoryId>
-        <vendor>Logitech</vendor>
         <picture>https://techgleam.com.ua/content/images/32/igrovaja-provodnaja-myshka-logitech-g102-lightsync-8000-dpi-black-72189338144463_%2Bf932db9a2b.jpg</picture>
         <picture>https://techgleam.com.ua/content/images/32/igrovaja-provodnaja-myshka-logitech-g102-lightsync-8000-dpi-black-76216668033118_%2Bcc6bb2ee41.jpg</picture>
         <picture>https://techgleam.com.ua/content/images/32/igrovaja-provodnaja-myshka-logitech-g102-lightsync-8000-dpi-black-88222429160008_%2B4237891ce9.jpg</picture>
@@ -8233,7 +8163,6 @@
         <picture>https://techgleam.com.ua/content/images/43/mexanicheskaja-klaviatura-aula-s75-pro-75-tri-rezhima-podkluchenija-seyia-switch-white-blue-51577470258984_%2B8566ca75aa.jpg</picture>
         <picture>https://techgleam.com.ua/content/images/43/mexanicheskaja-klaviatura-aula-s75-pro-75-tri-rezhima-podkluchenija-seyia-switch-white-blue-98641693070935_%2B7ac5acc537.jpg</picture>
         <param name="Гарантія">3 місяці</param>
-        <param name="Колір">Білий</param>
         <param name="Конструкція клавіш">Механічна</param>
         <param name="Підключення">Комбіноване</param>
         <param name="Інтерфейс підключення">Bluetooth</param>
@@ -9273,7 +9202,7 @@
         <picture>https://techgleam.com.ua/content/images/3/grova-bezdrotova-mishka-ipi-qi-pro-tri-rezhimi-pdkluchennja-42000-dpi-sensor-paw3950-purple-95167377722564_%2B060b14f7a4.png</picture>
         <picture>https://techgleam.com.ua/content/images/3/grova-bezdrotova-mishka-ipi-qi-pro-tri-rezhimi-pdkluchennja-42000-dpi-sensor-paw3950-purple-82530435859139_%2Bb6d49402ab.png</picture>
         <param name="Гарантія">6 місяців</param>
-        <param name="Колір">Фіолетовий</param>
+        <param name="Колір">Бузковий</param>
         <param name="Підключення">Комбіноване</param>
         <param name="Сумісність з ОС">Microsoft Windows</param>
         <param name="Сумісність з ОС">Mac OS</param>
@@ -9300,7 +9229,7 @@
         <picture>https://techgleam.com.ua/content/images/4/grova-bezdrotova-mishka-ipi-qi-pro-tri-rezhimi-pdkluchennja-42000-dpi-sensor-paw3950-silver-93772015909025_%2B2eb99a06df.png</picture>
         <picture>https://techgleam.com.ua/content/images/4/grova-bezdrotova-mishka-ipi-qi-pro-tri-rezhimi-pdkluchennja-42000-dpi-sensor-paw3950-silver-54723096526168_%2B6954338e50.png</picture>
         <param name="Гарантія">6 місяців</param>
-        <param name="Колір">Сріблястий</param>
+        <param name="Колір">Сірий</param>
         <param name="Підключення">Комбіноване</param>
         <param name="Сумісність з ОС">Microsoft Windows</param>
         <param name="Сумісність з ОС">Mac OS</param>
@@ -9518,7 +9447,6 @@
         <picture>https://techgleam.com.ua/content/images/30/grova-bezdrotova-mexanchna-klavatura-attack-shark-k86-tri-rezhimi-pdkluchennja-linear-blue-whale-switches-white-blue-48844547335317_%2B9b31d41e6b.jpg</picture>
         <picture>https://techgleam.com.ua/content/images/30/grova-bezdrotova-mexanchna-klavatura-attack-shark-k86-tri-rezhimi-pdkluchennja-linear-blue-whale-switches-white-blue-90743456618862_%2Bea1277d343.jpg</picture>
         <param name="Гарантія">3 місяці</param>
-        <param name="Колір">Білий</param>
         <param name="Конструкція клавіш">Механічна</param>
         <param name="Підключення">Комбіноване</param>
         <param name="Інтерфейс підключення">Bluetooth</param>
@@ -9900,7 +9828,7 @@
         <vendor>ATK</vendor>
         <picture>https://techgleam.com.ua/content/images/43/grova-bezdrotova-mishka-atk-blazing-sky-ghost-tri-rezhimi-pdkluchennja-sensor-paw3950-ultra-42000-dpi-silver-69947462774638_%2B3bc14e2296.jpg</picture>
         <param name="Гарантія">3 місяці</param>
-        <param name="Колір">Сріблястий</param>
+        <param name="Колір">Сірий</param>
         <param name="Підключення">Комбіноване</param>
         <param name="Сумісність з ОС">Microsoft Windows</param>
         <param name="Сумісність з ОС">Mac OS</param>
@@ -10392,7 +10320,7 @@
         <picture>https://techgleam.com.ua/content/images/9/grova-mexanchna-klavatura-kondor-moonlight-x-drotove-pdkluchennja-brown-switch-black-grey-black-51572849674678_%2Bc448826516.jpg</picture>
         <picture>https://techgleam.com.ua/content/images/9/grova-mexanchna-klavatura-kondor-moonlight-x-drotove-pdkluchennja-brown-switch-black-grey-black-62518377539247_%2B592d469feb.jpg</picture>
         <param name="Гарантія">12 місяців</param>
-        <param name="Колір">Сірий</param>
+        <param name="Колір">Темно-сірий</param>
         <param name="Конструкція клавіш">Механічна</param>
         <param name="Підключення">Дротове</param>
         <param name="Інтерфейс підключення">USB Type-C</param>
@@ -10404,7 +10332,6 @@
         <param name="Сумісність з ОС">Windows</param>
         <param name="Сумісність з ОС">Mac OS</param>
         <param name="Сумісність з ОС">Linux</param>
-        <param name="Колір">Темно-сірий</param>
         <param name="Стан">Новий</param>
         <param name="Комплектація">Клавіатура</param>
         <param name="Призначення">Для ПК</param>
@@ -10801,7 +10728,6 @@
         <picture>https://techgleam.com.ua/content/images/25/grova-mexanchna-drotova-klavatura-ajazz-ak690-68-klavsh-hot-swap-rgb-melard-switch-mc-white-blue-59702186543399_%2B6ed811e94f.jpg</picture>
         <picture>https://techgleam.com.ua/content/images/25/grova-mexanchna-drotova-klavatura-ajazz-ak690-68-klavsh-hot-swap-rgb-melard-switch-mc-white-blue-58546030690207_%2B4353e5f26d.jpg</picture>
         <param name="Гарантія">1 місяць</param>
-        <param name="Колір">Білий</param>
         <param name="Конструкція клавіш">Механічна</param>
         <param name="Підключення">Дротове</param>
         <param name="Інтерфейс підключення">USB Type-C</param>
@@ -11133,7 +11059,7 @@
         <picture>https://techgleam.com.ua/content/images/42/grova-mexanchna-klavatura-akko-5075-v3-tri-rezhimi-pdkluchennja-frost-pink-switch-purple-25240406184115_%2Bf1cd6ca00b.png</picture>
         <picture>https://techgleam.com.ua/content/images/42/grova-mexanchna-klavatura-akko-5075-v3-tri-rezhimi-pdkluchennja-frost-pink-switch-purple-51100304576930_%2Bfab2fede6f.png</picture>
         <param name="Гарантія">3 місяці</param>
-        <param name="Колір">Фіолетовий</param>
+        <param name="Колір">Бузковий</param>
         <param name="Конструкція клавіш">Механічна</param>
         <param name="Підключення">Комбіноване</param>
         <param name="Інтерфейс підключення">Bluetooth</param>
@@ -11148,7 +11074,6 @@
         <param name="Сумісність з ОС">Windows</param>
         <param name="Сумісність з ОС">Mac OS</param>
         <param name="Сумісність з ОС">Linux</param>
-        <param name="Колір">Бузковий</param>
         <param name="Стан">Новий</param>
         <param name="Комплектація">Клавіатура</param>
         <param name="Призначення">Для ПК</param>
@@ -11446,7 +11371,7 @@
         <picture>https://techgleam.com.ua/content/images/4/grova-bezdrotova-mishka-attack-shark-x11-ultra-tri-rezhimi-pdkluchennja-carbon-fiber-sensor-paw3950max-42000-dpi-purple-95266018642805_%2Be5cb20f694.jpg</picture>
         <picture>https://techgleam.com.ua/content/images/4/grova-bezdrotova-mishka-attack-shark-x11-ultra-tri-rezhimi-pdkluchennja-carbon-fiber-sensor-paw3950max-42000-dpi-purple-11556664586130_%2B2d979edd17.jpg</picture>
         <param name="Гарантія">3 місяці</param>
-        <param name="Колір">Фіолетовий</param>
+        <param name="Колір">Бузковий</param>
         <param name="Підключення">Комбіноване</param>
         <param name="Сумісність з ОС">Microsoft Windows</param>
         <param name="Сумісність з ОС">Mac OS</param>
@@ -12348,7 +12273,7 @@
         <picture>https://techgleam.com.ua/content/images/43/grova-bezdrotova-mishka-aula-sc620-tri-rezhimi-pdkluchennja-sensor-paw3311-67-g-12000-dpi-purple-25313134841959_%2B8a4b7884f8.jpg</picture>
         <picture>https://techgleam.com.ua/content/images/43/grova-bezdrotova-mishka-aula-sc620-tri-rezhimi-pdkluchennja-sensor-paw3311-67-g-12000-dpi-purple-22991537221693_%2B67b692a8ff.png</picture>
         <param name="Гарантія">1 місяць</param>
-        <param name="Колір">Фіолетовий</param>
+        <param name="Колір">Бузковий</param>
         <param name="Підключення">Комбіноване</param>
         <param name="Сумісність з ОС">Microsoft Windows</param>
         <param name="Сумісність з ОС">Mac OS</param>
@@ -12655,12 +12580,13 @@
         <vendor>Eweadn</vendor>
         <picture>https://techgleam.com.ua/content/images/11/grova-bezdrotova-mishka-eweadn-s9-ultra-plus-tri-rezhimi-pdkluchennja-sensor-paw3950-42000-dpi-silver-34061434715834_%2B3250ea2ba6.png</picture>
         <param name="Гарантія">3 місяці</param>
-        <param name="Колір">Сріблястий</param>
+        <param name="Колір">Сірий</param>
         <param name="Підключення">Комбіноване</param>
         <param name="Сумісність з ОС">Microsoft Windows</param>
         <param name="Сумісність з ОС">Mac OS</param>
         <param name="Сумісність з ОС">Linux</param>
         <param name="Вага">59 г</param>
+        <param name="Колір">Сріблястий</param>
         <param name="Кількість кнопок миші">6</param>
         <param name="Тип датчика">Оптичний</param>
         <param name="Інтерфейс підключення">Bluetooth</param>
@@ -13201,7 +13127,7 @@
         <picture>https://techgleam.com.ua/content/images/25/grova-bezdrotova-mexanchna-klavatura-attack-shark-x85-engukr-tri-rezhimi-pdkluchennja-white-jade-switch-purple-32564355077672_%2Bd3673c3af3.png</picture>
         <picture>https://techgleam.com.ua/content/images/25/grova-bezdrotova-mexanchna-klavatura-attack-shark-x85-engukr-tri-rezhimi-pdkluchennja-white-jade-switch-purple-98497957899462_%2B6e846df99d.png</picture>
         <param name="Гарантія">3 місяці</param>
-        <param name="Колір">Фіолетовий</param>
+        <param name="Колір">Бузковий</param>
         <param name="Конструкція клавіш">Механічна</param>
         <param name="Підключення">Комбіноване</param>
         <param name="Інтерфейс підключення">Bluetooth</param>
@@ -13216,7 +13142,6 @@
         <param name="Сумісність з ОС">Windows</param>
         <param name="Сумісність з ОС">Mac OS</param>
         <param name="Сумісність з ОС">Linux</param>
-        <param name="Колір">Бузковий</param>
         <param name="Стан">Новий</param>
         <param name="Комплектація">Клавіатура</param>
         <param name="Призначення">Для ПК</param>
@@ -13418,7 +13343,7 @@
         <vendor>ATK</vendor>
         <picture>https://techgleam.com.ua/content/images/36/29418969145614_%2B4c6c12ec69.jpg</picture>
         <param name="Гарантія">3 місяці</param>
-        <param name="Колір">Сріблястий</param>
+        <param name="Колір">Сірий</param>
         <param name="Підключення">Комбіноване</param>
         <param name="Сумісність з ОС">Microsoft Windows</param>
         <param name="Сумісність з ОС">Mac OS</param>
@@ -13651,7 +13576,7 @@
         <vendor>ATK</vendor>
         <picture>https://techgleam.com.ua/content/images/49/grova-bezdrotova-mishka-atk-blazing-sky-x1-ultimate-2.0-tri-rezhimi-pdkluchennja-sensor-paw3950-ultra-silver-48879472838488_%2Bea7b857b9c.jpg</picture>
         <param name="Гарантія">3 місяці</param>
-        <param name="Колір">Сріблястий</param>
+        <param name="Колір">Сірий</param>
         <param name="Підключення">Комбіноване</param>
         <param name="Сумісність з ОС">Microsoft Windows</param>
         <param name="Сумісність з ОС">Mac OS</param>
@@ -13721,8 +13646,8 @@
         <param name="Тип">Ігрові (геймерські)</param>
         <country>Китай</country>
       </offer>
-      <offer id="1952" available="true">
-        <availability_status>available</availability_status>
+      <offer id="1952" available="false">
+        <availability_status>temporarily_unavailable</availability_status>
         <name_ua>Ігрова мишка ATTACK SHARK R5 Ultra / Три режими підключення / PAW3950MAX / Carbon Fiber / 39 г / Green</name_ua>
         <name_ru>Игровая мышка ATTACK SHARK R5 Ultra / Три режима подключения / PAW3950MAX / Carbon Fiber / 39 г / Green</name_ru>
         <description_ua><p><strong>ATTACK SHARK R5 Ultra — найлегша ігрова миша з сенсором PAW3950MAX і 8000 Гц бездротово! </strong></p>    <p>ATTACK SHARK R5 Ultra — це ультимативна миша для кіберспорту: неймовірна швидкість, точність і комфорт в одному корпусі з вуглецевого волокна.</p>    <p><strong>Основні характеристики:  </strong></p>    <ul>   <li>Вага: лише 39 г  </li>   <li>Матеріал: корпус із вуглецевого волокна  </li>   <li>Сенсор: PixArt PAW3950MAX  </li>   <li>DPI: до 42000  </li>   <li>Швидкість: до 750 IPS  </li>   <li>Прискорення: до 50G  </li>   <li>Polling Rate: до 8000 Гц (у бездротовому режимі!)  </li>   <li>Перемикачі: Omron (ресурс 100 млн натискань)  </li>   <li>Енкодер: F-Switch E10  </li>   <li>Підключення: USB-C / 2.4G Wireless / Bluetooth 5.2  </li>   <li>Сумісність: Windows / Mac / Android  </li>   <li>Розміри: 119.5×61×36.3 мм</li>  </ul>    <p><strong>Особливості:  </strong></p>    <ul>   <li>Корпус із вуглецевого волокна — міцність та легкість  </li>   <li>Частота 8000 Гц бездротово — миттєва реакція  </li>   <li>Сумісність із веб-драйвером — налаштування RGB, DPI, макросів  </li>   <li>Bluetooth, 2.4G або дротове — універсальна з будь-якими пристроями  </li>   <li>Надійні Omron-світчі + енкодер F-Switch  </li>   <li>Професійний дизайн — ідеальний баланс</li>  </ul></description_ua>
@@ -14897,7 +14822,7 @@
         <picture>https://techgleam.com.ua/content/images/30/magntna-klavatura-aula-hero-68-he-60-drotove-pdkluchennja-dragon-king-switch-purple-63953393559903_%2B73eac609c3.jpg</picture>
         <picture>https://techgleam.com.ua/content/images/30/magntna-klavatura-aula-hero-68-he-60-drotove-pdkluchennja-dragon-king-switch-purple-21542961546347_%2B0ee549c148.jpg</picture>
         <param name="Гарантія">3 місяці</param>
-        <param name="Колір">Фіолетовий</param>
+        <param name="Колір">Бузковий</param>
         <param name="Конструкція клавіш">Магнітна</param>
         <param name="Підключення">Дротове</param>
         <param name="Інтерфейс підключення">USB Type-C</param>
@@ -14909,7 +14834,6 @@
         <param name="Сумісність з ОС">Windows</param>
         <param name="Сумісність з ОС">Mac OS</param>
         <param name="Сумісність з ОС">Linux</param>
-        <param name="Колір">Бузковий</param>
         <param name="Стан">Новий</param>
         <param name="Комплектація">Клавіатура</param>
         <param name="Призначення">Для ПК</param>
@@ -15239,8 +15163,8 @@
         <param name="Вид">Ігрові</param>
         <country>Китай</country>
       </offer>
-      <offer id="2117" available="true">
-        <availability_status>available</availability_status>
+      <offer id="2117" available="false">
+        <availability_status>temporarily_unavailable</availability_status>
         <name_ua>Ігрова бездротова мишка MCHOSE K7 V2 Ultra+ / Три режими підключення / Сенсор PAW3955 TI / 50000 DPI / 8000 Гц / магнітна RGB док-станція / Black</name_ua>
         <name_ru>Игровая беспроводная мышь MCHOSE K7 V2 Ultra+ / Три режима подключения / Сенсор PAW3955 TI / 50000 DPI / 8000 Гц / магнитная RGB док-станция / Black</name_ru>
         <description_ua><p data-end="670" data-start="372"><strong data-end="419" data-start="372">Ігрова бездротова мишка MCHOSE K7 V2 Ultra+</strong> — продуктивна модель для динамічних ігор і щоденної роботи, оснащена флагманським сенсором PAW3955 TI з роздільною здатністю до 50 000 DPI. Частота опитування до 8000 Гц у дротовому та бездротовому режимах забезпечує швидке й точне відстеження рухів.</p>    <p data-end="901" data-start="672">Мишка працює на базі контролера Nordic 54L і технології MCHOSE TOPSPEED Wireless 2.0, що підтримує стабільне з’єднання з мінімальною затримкою. Доступні три режими підключення: USB-кабель, бездротовий зв’язок 2,4 ГГц і Bluetooth.</p>    <p data-end="1140" data-start="903">Симетричний корпус вагою близько 59 г підходить для середньої та великої руки. Покриття Super Glide Glass-Like Coating 2.0 забезпечує приємне ковзання долоні, а механічні перемикачі Omron розраховані на ресурс до 100 мільйонів натискань.</p>    <p data-end="1329" data-start="1142">У комплект входить магнітна RGB док-станція для зручного заряджання. Акумулятор місткістю 500 мА·год забезпечує до 385 годин автономної роботи залежно від вибраного режиму та налаштувань.</p>    <p data-end="1350" data-start="1331"><strong data-end="1350" data-start="1331">Характеристики:</strong></p>    <ul>   <li data-end="1387" data-start="1352">Тип товару: ігрова бездротова мишка</li>   <li data-end="1402" data-start="1389">Бренд: MCHOSE</li>   <li data-end="1424" data-start="1404">Модель: K7 V2 Ultra+</li>   <li data-end="1451" data-start="1426">Форма корпусу: симетрична</li>   <li data-end="1498" data-start="1453">Рекомендований розмір руки: середня та велика</li>   <li data-end="1525" data-start="1500">Сенсор: PixArt PAW3955 TI</li>   <li data-end="1573" data-start="1527">Максимальна роздільна здатність: до 50 000 DPI</li>   <li data-end="1641" data-start="1575">Частота опитування: до 8000 Гц у дротовому та бездротовому режимах</li>   <li data-end="1664" data-start="1643">Контролер: Nordic 54L</li>   <li data-end="1717" data-start="1666">Бездротова технологія: MCHOSE TOPSPEED Wireless 2.0</li>   <li data-end="1759" data-start="1719">Платформа: MCHOSE Shadow Hunter Solution</li>   <li data-end="1806" data-start="1761">Режими підключення: USB / 2,4 ГГц / Bluetooth</li>   <li data-end="1845" data-start="1808">Бездротовий приймач: 8K Nano Receiver</li>   <li data-end="1890" data-start="1847">Перемикачі основних кнопок: механічні Omron</li>   <li data-end="1938" data-start="1892">Ресурс перемикачів: до 100 мільйонів натискань</li>   <li data-end="1992" data-start="1940">Енкодер колеса прокручування: TTC Gold Wheel Encoder</li>   <li data-end="2046" data-start="1994">Покриття корпусу: Super Glide Glass-Like Coating 2.0</li>   <li data-end="2070" data-start="2048">Акумулятор: 500 мА·год</li>   <li data-end="2130" data-start="2072">Автономність: до 385 годин залежно від режиму використання</li>   <li data-end="2181" data-start="2132">Заряджання: USB Type-C / магнітна RGB док-станція</li>   <li data-end="2237" data-start="2183">Програмне забезпечення: M HUB Web Driver / Desktop App</li>   <li data-end="2276" data-start="2239">Розміри: приблизно 127,1×63,8×39,8 мм</li>   <li data-end="2292" data-start="2278">Вага: 59 ± 2 г</li>  </ul></description_ua>
@@ -15393,7 +15317,7 @@
         <picture>https://techgleam.com.ua/content/images/25/bezdrotova-grova-misha-attack-shark-rs3-ultra-tri-rezhimi-pdkluchennja-sensor-paw3955max-52000-dpi-carbon-fiber-silver-87520819005555_%2B69a4518234.jpg</picture>
         <picture>https://techgleam.com.ua/content/images/25/bezdrotova-grova-misha-attack-shark-rs3-ultra-tri-rezhimi-pdkluchennja-sensor-paw3955max-52000-dpi-carbon-fiber-silver-98209023751167_%2Bc459f3aeae.jpg</picture>
         <param name="Гарантія">3 місяці</param>
-        <param name="Колір">Сріблястий</param>
+        <param name="Колір">Сірий</param>
         <param name="Підключення">Комбіноване</param>
         <param name="Сумісність з ОС">Microsoft Windows</param>
         <param name="Сумісність з ОС">Mac OS</param>
@@ -15430,6 +15354,99 @@
         <param name="Сумісність з ОС">Mac OS</param>
         <param name="Сумісність з ОС">Linux</param>
         <param name="Вага">63 г</param>
+        <param name="Тип датчика">Оптичний</param>
+        <param name="Інтерфейс підключення">Bluetooth</param>
+        <param name="Інтерфейс підключення">Радіоінтерфейс</param>
+        <param name="Інтерфейс підключення">USB</param>
+        <param name="Роздільна здатність сенсора">Понад 20000 dpi</param>
+        <param name="Стан">Новий</param>
+        <param name="Тип">Ігрові (геймерські)</param>
+        <country>Китай</country>
+      </offer>
+      <offer id="2132" available="true">
+        <availability_status>available</availability_status>
+        <name_ua>Бездротова ігрова миша Attack Shark V6 / Три режими підключення / Сенсор PAW3311 / 25000 DPI / White</name_ua>
+        <name_ru>Беспроводная игровая мышь Attack Shark V6 / Три режима подключения / Сенсор PAW3311 / 25000 DPI / White</name_ru>
+        <description_ua><p><strong>Бездротова ігрова миша Attack Shark V6 / Три режими підключення / PAW3311 / Магнітна док-станція</strong> — це легка та зручна ігрова миша, створена для щоденного використання, динамічного геймінгу та комфортної роботи. Модель поєднує сучасний дизайн, ергономічну форму, точний сенсор PixArt PAW3311 і зручну RGB док-станцію для заряджання.</p>    <p>Миша підтримує <strong>три режими підключення</strong>: <strong>Bluetooth</strong>, <strong>2.4G</strong> та <strong>дротове USB</strong>. Завдяки цьому її можна легко використовувати як із ПК чи ноутбуком, так і з іншими сумісними пристроями. Підтримка <strong>1000Hz Polling Rate</strong> забезпечує стабільний і швидкий відгук під час гри та повсякденної роботи.</p>    <p>За точність відповідає <strong>сенсор PixArt PAW3311</strong>, який забезпечує хороше відстеження рухів, плавне керування курсором і стабільну роботу в різних сценаріях використання. Додатково миша оснащена <strong>прискоренням 40G</strong>, що робить її більш впевненою в динамічних ігрових моментах.</p>    <p>Модель побудована на <strong>чипі Broadcom BK52820</strong>, оснащена <strong>перемикачами Omron Micro Switches</strong> та <strong>енкодером FSWHE</strong>, що забезпечує надійне натискання кнопок і комфортну прокрутку. Особливістю цієї версії є <strong>магнітна зарядна док-станція з RGB-підсвіткою</strong>, яка не лише додає зручності, а й гарно виглядає на столі.</p>    <p>Attack Shark V6 має <strong>ультралегку конструкцію</strong>, завдяки чому миша добре підходить для тривалих ігрових сесій та швидких рухів. Також модель підтримує <strong>Smart Cloud-Based AI Driver</strong>, що дозволяє налаштовувати параметри миші під власні потреби.</p>    <p><strong>Характеристики:</strong></p>    <ul>   <li>Тип пристрою: ігрова миша</li>   <li>Тип миші: бездротова / дротова</li>   <li>Модель: Attack Shark V6</li>   <li>Тип підключення: комбіноване</li>   <li>Режими підключення: Bluetooth / 2.4G / USB</li>   <li>Сенсор: PixArt PAW3311</li>   <li>Тип сенсора: оптичний</li>   <li>Частота опитування: 1000 Hz</li>   <li>Прискорення: 40G</li>   <li>Чип: Broadcom BK52820</li>   <li>Основні перемикачі: Omron Micro Switches</li>   <li>Енкодер: FSWHE Encoder</li>   <li>Док-станція: магнітна зарядна RGB док-станція</li>   <li>Особливості: три режими підключення, ультралегка конструкція, AI Driver, точний сенсор, RGB док-станція</li>   <li>Призначення: геймінг, робота, повсякденне використання</li>   <li>Країна-виробник: Китай</li>  </ul></description_ua>
+        <description_ru><p><strong>Беспроводная игровая мышь Attack Shark V6 / Три режима подключения / PAW3311 / Магнитная док-станция</strong> — это лёгкая и удобная игровая мышь, созданная для ежедневного использования, динамичного гейминга и комфортной работы. Модель сочетает современный дизайн, эргономичную форму, точный сенсор PixArt PAW3311 и удобную RGB док-станцию для зарядки.</p>    <p>Мышь поддерживает <strong>три режима подключения</strong>: <strong>Bluetooth</strong>, <strong>2.4G</strong> и <strong>проводное USB</strong>. Благодаря этому её можно легко использовать как с ПК или ноутбуком, так и с другими совместимыми устройствами. Поддержка <strong>1000Hz Polling Rate</strong> обеспечивает стабильный и быстрый отклик во время игры и повседневной работы.</p>    <p>За точность отвечает <strong>сенсор PixArt PAW3311</strong>, который обеспечивает хорошее отслеживание движений, плавное управление курсором и стабильную работу в разных сценариях использования. Дополнительно мышь оснащена <strong>ускорением 40G</strong>, что делает её более уверенной в динамичных игровых моментах.</p>    <p>Модель построена на <strong>чипе Broadcom BK52820</strong>, оснащена <strong>переключателями Omron Micro Switches</strong> и <strong>энкодером FSWHE</strong>, что обеспечивает надёжные нажатия кнопок и комфортную прокрутку. Особенность этой версии — <strong>магнитная зарядная док-станция с RGB-подсветкой</strong>, которая не только добавляет удобства, но и отлично смотрится на столе.</p>    <p>Attack Shark V6 имеет <strong>ультралёгкую конструкцию</strong>, благодаря чему мышь хорошо подходит для длительных игровых сессий и быстрых движений. Также модель поддерживает <strong>Smart Cloud-Based AI Driver</strong>, позволяющий настраивать параметры мыши под собственные предпочтения.</p>    <p><strong>Характеристики:</strong></p>    <ul>   <li>Тип устройства: игровая мышь</li>   <li>Тип мыши: беспроводная / проводная</li>   <li>Модель: Attack Shark V6</li>   <li>Тип подключения: комбинированное</li>   <li>Режимы подключения: Bluetooth / 2.4G / USB</li>   <li>Сенсор: PixArt PAW3311</li>   <li>Тип сенсора: оптический</li>   <li>Частота опроса: 1000 Hz</li>   <li>Ускорение: 40G</li>   <li>Чип: Broadcom BK52820</li>   <li>Основные переключатели: Omron Micro Switches</li>   <li>Энкодер: FSWHE Encoder</li>   <li>Док-станция: магнитная зарядная RGB док-станция</li>   <li>Особенности: три режима подключения, ультралёгкая конструкция, AI Driver, точный сенсор, RGB док-станция</li>   <li>Назначение: гейминг, работа, повседневное использование</li>   <li>Страна-производитель: Китай</li>  </ul></description_ru>
+        <price>1499</price>
+        <categoryId>1084</categoryId>
+        <vendor>Attack Shark</vendor>
+        <picture>https://techgleam.com.ua/content/images/33/bezdrotova-grova-misha-attack-shark-v6-tri-rezhimi-pdkluchennja-sensor-paw3311-25000-dpi-white-84194685379778_%2Bc5fd903a6c.jpg</picture>
+        <picture>https://techgleam.com.ua/content/images/33/bezdrotova-grova-misha-attack-shark-v6-tri-rezhimi-pdkluchennja-sensor-paw3311-25000-dpi-white-51493791446101_%2Bd7d5f9221b.jpg</picture>
+        <picture>https://techgleam.com.ua/content/images/33/bezdrotova-grova-misha-attack-shark-v6-tri-rezhimi-pdkluchennja-sensor-paw3311-25000-dpi-white-26441894853536_%2B4615ea0585.jpg</picture>
+        <picture>https://techgleam.com.ua/content/images/33/bezdrotova-grova-misha-attack-shark-v6-tri-rezhimi-pdkluchennja-sensor-paw3311-25000-dpi-white-69080093847536_%2B643d9de4c8.jpg</picture>
+        <picture>https://techgleam.com.ua/content/images/33/bezdrotova-grova-misha-attack-shark-v6-tri-rezhimi-pdkluchennja-sensor-paw3311-25000-dpi-white-28061357828168_%2B5f94e1e13c.jpg</picture>
+        <picture>https://techgleam.com.ua/content/images/33/bezdrotova-grova-misha-attack-shark-v6-tri-rezhimi-pdkluchennja-sensor-paw3311-25000-dpi-white-40880614154478_%2Bff071dc5cc.jpg</picture>
+        <picture>https://techgleam.com.ua/content/images/33/bezdrotova-grova-misha-attack-shark-v6-tri-rezhimi-pdkluchennja-sensor-paw3311-25000-dpi-white-51420076505476_%2Be386c34b65.jpg</picture>
+        <picture>https://techgleam.com.ua/content/images/33/bezdrotova-grova-misha-attack-shark-v6-tri-rezhimi-pdkluchennja-sensor-paw3311-25000-dpi-white-26751823846377_%2Bf315caff5e.jpg</picture>
+        <param name="Гарантія">1 місяць</param>
+        <param name="Колір">Білий</param>
+        <param name="Підключення">Комбіноване</param>
+        <param name="Сумісність з ОС">Microsoft Windows</param>
+        <param name="Сумісність з ОС">Mac OS</param>
+        <param name="Сумісність з ОС">Linux</param>
+        <param name="Вага">65 г</param>
+        <param name="Особливості">З підсвічуванням</param>
+        <param name="Тип датчика">Оптичний</param>
+        <param name="Інтерфейс підключення">Bluetooth</param>
+        <param name="Інтерфейс підключення">Радіоінтерфейс</param>
+        <param name="Інтерфейс підключення">USB</param>
+        <param name="Роздільна здатність сенсора">Понад 20000 dpi</param>
+        <param name="Стан">Новий</param>
+        <param name="Тип">Ігрові (геймерські)</param>
+        <country>Китай</country>
+      </offer>
+      <offer id="2133" available="true">
+        <availability_status>available</availability_status>
+        <name_ua>Бездротова ігрова миша Attack Shark V6 / Три режими підключення / Сенсор PAW3311 / 25000 DPI / Black</name_ua>
+        <name_ru>Беспроводная игровая мышь Attack Shark V6 / Три режима подключения / Сенсор PAW3311 / 25000 DPI / Black</name_ru>
+        <description_ua><p><strong>Бездротова ігрова миша Attack Shark V6 / Три режими підключення / PAW3311 / Магнітна док-станція</strong> — це легка та зручна ігрова миша, створена для щоденного використання, динамічного геймінгу та комфортної роботи. Модель поєднує сучасний дизайн, ергономічну форму, точний сенсор PixArt PAW3311 і зручну RGB док-станцію для заряджання.</p>    <p>Миша підтримує <strong>три режими підключення</strong>: <strong>Bluetooth</strong>, <strong>2.4G</strong> та <strong>дротове USB</strong>. Завдяки цьому її можна легко використовувати як із ПК чи ноутбуком, так і з іншими сумісними пристроями. Підтримка <strong>1000Hz Polling Rate</strong> забезпечує стабільний і швидкий відгук під час гри та повсякденної роботи.</p>    <p>За точність відповідає <strong>сенсор PixArt PAW3311</strong>, який забезпечує хороше відстеження рухів, плавне керування курсором і стабільну роботу в різних сценаріях використання. Додатково миша оснащена <strong>прискоренням 40G</strong>, що робить її більш впевненою в динамічних ігрових моментах.</p>    <p>Модель побудована на <strong>чипі Broadcom BK52820</strong>, оснащена <strong>перемикачами Omron Micro Switches</strong> та <strong>енкодером FSWHE</strong>, що забезпечує надійне натискання кнопок і комфортну прокрутку. Особливістю цієї версії є <strong>магнітна зарядна док-станція з RGB-підсвіткою</strong>, яка не лише додає зручності, а й гарно виглядає на столі.</p>    <p>Attack Shark V6 має <strong>ультралегку конструкцію</strong>, завдяки чому миша добре підходить для тривалих ігрових сесій та швидких рухів. Також модель підтримує <strong>Smart Cloud-Based AI Driver</strong>, що дозволяє налаштовувати параметри миші під власні потреби.</p>    <p><strong>Характеристики:</strong></p>    <ul>   <li>Тип пристрою: ігрова миша</li>   <li>Тип миші: бездротова / дротова</li>   <li>Модель: Attack Shark V6</li>   <li>Тип підключення: комбіноване</li>   <li>Режими підключення: Bluetooth / 2.4G / USB</li>   <li>Сенсор: PixArt PAW3311</li>   <li>Тип сенсора: оптичний</li>   <li>Частота опитування: 1000 Hz</li>   <li>Прискорення: 40G</li>   <li>Чип: Broadcom BK52820</li>   <li>Основні перемикачі: Omron Micro Switches</li>   <li>Енкодер: FSWHE Encoder</li>   <li>Док-станція: магнітна зарядна RGB док-станція</li>   <li>Особливості: три режими підключення, ультралегка конструкція, AI Driver, точний сенсор, RGB док-станція</li>   <li>Призначення: геймінг, робота, повсякденне використання</li>   <li>Країна-виробник: Китай</li>  </ul></description_ua>
+        <description_ru><p><strong>Беспроводная игровая мышь Attack Shark V6 / Три режима подключения / PAW3311 / Магнитная док-станция</strong> — это лёгкая и удобная игровая мышь, созданная для ежедневного использования, динамичного гейминга и комфортной работы. Модель сочетает современный дизайн, эргономичную форму, точный сенсор PixArt PAW3311 и удобную RGB док-станцию для зарядки.</p>    <p>Мышь поддерживает <strong>три режима подключения</strong>: <strong>Bluetooth</strong>, <strong>2.4G</strong> и <strong>проводное USB</strong>. Благодаря этому её можно легко использовать как с ПК или ноутбуком, так и с другими совместимыми устройствами. Поддержка <strong>1000Hz Polling Rate</strong> обеспечивает стабильный и быстрый отклик во время игры и повседневной работы.</p>    <p>За точность отвечает <strong>сенсор PixArt PAW3311</strong>, который обеспечивает хорошее отслеживание движений, плавное управление курсором и стабильную работу в разных сценариях использования. Дополнительно мышь оснащена <strong>ускорением 40G</strong>, что делает её более уверенной в динамичных игровых моментах.</p>    <p>Модель построена на <strong>чипе Broadcom BK52820</strong>, оснащена <strong>переключателями Omron Micro Switches</strong> и <strong>энкодером FSWHE</strong>, что обеспечивает надёжные нажатия кнопок и комфортную прокрутку. Особенность этой версии — <strong>магнитная зарядная док-станция с RGB-подсветкой</strong>, которая не только добавляет удобства, но и отлично смотрится на столе.</p>    <p>Attack Shark V6 имеет <strong>ультралёгкую конструкцию</strong>, благодаря чему мышь хорошо подходит для длительных игровых сессий и быстрых движений. Также модель поддерживает <strong>Smart Cloud-Based AI Driver</strong>, позволяющий настраивать параметры мыши под собственные предпочтения.</p>    <p><strong>Характеристики:</strong></p>    <ul>   <li>Тип устройства: игровая мышь</li>   <li>Тип мыши: беспроводная / проводная</li>   <li>Модель: Attack Shark V6</li>   <li>Тип подключения: комбинированное</li>   <li>Режимы подключения: Bluetooth / 2.4G / USB</li>   <li>Сенсор: PixArt PAW3311</li>   <li>Тип сенсора: оптический</li>   <li>Частота опроса: 1000 Hz</li>   <li>Ускорение: 40G</li>   <li>Чип: Broadcom BK52820</li>   <li>Основные переключатели: Omron Micro Switches</li>   <li>Энкодер: FSWHE Encoder</li>   <li>Док-станция: магнитная зарядная RGB док-станция</li>   <li>Особенности: три режима подключения, ультралёгкая конструкция, AI Driver, точный сенсор, RGB док-станция</li>   <li>Назначение: гейминг, работа, повседневное использование</li>   <li>Страна-производитель: Китай</li>  </ul></description_ru>
+        <price>1499</price>
+        <categoryId>1084</categoryId>
+        <vendor>Attack Shark</vendor>
+        <picture>https://techgleam.com.ua/content/images/34/bezdrotova-grova-misha-attack-shark-v6-tri-rezhimi-pdkluchennja-sensor-paw3311-25000-dpi-black-54893897115128_%2B29d38ee9e9.jpg</picture>
+        <picture>https://techgleam.com.ua/content/images/34/bezdrotova-grova-misha-attack-shark-v6-tri-rezhimi-pdkluchennja-sensor-paw3311-25000-dpi-black-83805624903126_%2Baf01239e27.jpg</picture>
+        <picture>https://techgleam.com.ua/content/images/34/bezdrotova-grova-misha-attack-shark-v6-tri-rezhimi-pdkluchennja-sensor-paw3311-25000-dpi-black-34265265959883_%2B159748dc63.jpg</picture>
+        <param name="Гарантія">1 місяць</param>
+        <param name="Колір">Чорний</param>
+        <param name="Підключення">Комбіноване</param>
+        <param name="Сумісність з ОС">Microsoft Windows</param>
+        <param name="Сумісність з ОС">Mac OS</param>
+        <param name="Сумісність з ОС">Linux</param>
+        <param name="Вага">65 г</param>
+        <param name="Особливості">З підсвічуванням</param>
+        <param name="Тип датчика">Оптичний</param>
+        <param name="Інтерфейс підключення">Bluetooth</param>
+        <param name="Інтерфейс підключення">Радіоінтерфейс</param>
+        <param name="Інтерфейс підключення">USB</param>
+        <param name="Роздільна здатність сенсора">Понад 20000 dpi</param>
+        <param name="Стан">Новий</param>
+        <param name="Тип">Ігрові (геймерські)</param>
+        <country>Китай</country>
+      </offer>
+      <offer id="2134" available="true">
+        <availability_status>available</availability_status>
+        <name_ua>Бездротова ігрова миша Attack Shark V6 / Три режими підключення / Сенсор PAW3311 / 25000 DPI / Pink</name_ua>
+        <name_ru>Беспроводная игровая мышь Attack Shark V6 / Три режима подключения / Сенсор PAW3311 / 25000 DPI / Pink</name_ru>
+        <description_ua><p><strong>Бездротова ігрова миша Attack Shark V6 / Три режими підключення / PAW3311 / Магнітна док-станція</strong> — це легка та зручна ігрова миша, створена для щоденного використання, динамічного геймінгу та комфортної роботи. Модель поєднує сучасний дизайн, ергономічну форму, точний сенсор PixArt PAW3311 і зручну RGB док-станцію для заряджання.</p>    <p>Миша підтримує <strong>три режими підключення</strong>: <strong>Bluetooth</strong>, <strong>2.4G</strong> та <strong>дротове USB</strong>. Завдяки цьому її можна легко використовувати як із ПК чи ноутбуком, так і з іншими сумісними пристроями. Підтримка <strong>1000Hz Polling Rate</strong> забезпечує стабільний і швидкий відгук під час гри та повсякденної роботи.</p>    <p>За точність відповідає <strong>сенсор PixArt PAW3311</strong>, який забезпечує хороше відстеження рухів, плавне керування курсором і стабільну роботу в різних сценаріях використання. Додатково миша оснащена <strong>прискоренням 40G</strong>, що робить її більш впевненою в динамічних ігрових моментах.</p>    <p>Модель побудована на <strong>чипі Broadcom BK52820</strong>, оснащена <strong>перемикачами Omron Micro Switches</strong> та <strong>енкодером FSWHE</strong>, що забезпечує надійне натискання кнопок і комфортну прокрутку. Особливістю цієї версії є <strong>магнітна зарядна док-станція з RGB-підсвіткою</strong>, яка не лише додає зручності, а й гарно виглядає на столі.</p>    <p>Attack Shark V6 має <strong>ультралегку конструкцію</strong>, завдяки чому миша добре підходить для тривалих ігрових сесій та швидких рухів. Також модель підтримує <strong>Smart Cloud-Based AI Driver</strong>, що дозволяє налаштовувати параметри миші під власні потреби.</p>    <p><strong>Характеристики:</strong></p>    <ul>   <li>Тип пристрою: ігрова миша</li>   <li>Тип миші: бездротова / дротова</li>   <li>Модель: Attack Shark V6</li>   <li>Тип підключення: комбіноване</li>   <li>Режими підключення: Bluetooth / 2.4G / USB</li>   <li>Сенсор: PixArt PAW3311</li>   <li>Тип сенсора: оптичний</li>   <li>Частота опитування: 1000 Hz</li>   <li>Прискорення: 40G</li>   <li>Чип: Broadcom BK52820</li>   <li>Основні перемикачі: Omron Micro Switches</li>   <li>Енкодер: FSWHE Encoder</li>   <li>Док-станція: магнітна зарядна RGB док-станція</li>   <li>Особливості: три режими підключення, ультралегка конструкція, AI Driver, точний сенсор, RGB док-станція</li>   <li>Призначення: геймінг, робота, повсякденне використання</li>   <li>Країна-виробник: Китай</li>  </ul></description_ua>
+        <description_ru><p><strong>Беспроводная игровая мышь Attack Shark V6 / Три режима подключения / PAW3311 / Магнитная док-станция</strong> — это лёгкая и удобная игровая мышь, созданная для ежедневного использования, динамичного гейминга и комфортной работы. Модель сочетает современный дизайн, эргономичную форму, точный сенсор PixArt PAW3311 и удобную RGB док-станцию для зарядки.</p>    <p>Мышь поддерживает <strong>три режима подключения</strong>: <strong>Bluetooth</strong>, <strong>2.4G</strong> и <strong>проводное USB</strong>. Благодаря этому её можно легко использовать как с ПК или ноутбуком, так и с другими совместимыми устройствами. Поддержка <strong>1000Hz Polling Rate</strong> обеспечивает стабильный и быстрый отклик во время игры и повседневной работы.</p>    <p>За точность отвечает <strong>сенсор PixArt PAW3311</strong>, который обеспечивает хорошее отслеживание движений, плавное управление курсором и стабильную работу в разных сценариях использования. Дополнительно мышь оснащена <strong>ускорением 40G</strong>, что делает её более уверенной в динамичных игровых моментах.</p>    <p>Модель построена на <strong>чипе Broadcom BK52820</strong>, оснащена <strong>переключателями Omron Micro Switches</strong> и <strong>энкодером FSWHE</strong>, что обеспечивает надёжные нажатия кнопок и комфортную прокрутку. Особенность этой версии — <strong>магнитная зарядная док-станция с RGB-подсветкой</strong>, которая не только добавляет удобства, но и отлично смотрится на столе.</p>    <p>Attack Shark V6 имеет <strong>ультралёгкую конструкцию</strong>, благодаря чему мышь хорошо подходит для длительных игровых сессий и быстрых движений. Также модель поддерживает <strong>Smart Cloud-Based AI Driver</strong>, позволяющий настраивать параметры мыши под собственные предпочтения.</p>    <p><strong>Характеристики:</strong></p>    <ul>   <li>Тип устройства: игровая мышь</li>   <li>Тип мыши: беспроводная / проводная</li>   <li>Модель: Attack Shark V6</li>   <li>Тип подключения: комбинированное</li>   <li>Режимы подключения: Bluetooth / 2.4G / USB</li>   <li>Сенсор: PixArt PAW3311</li>   <li>Тип сенсора: оптический</li>   <li>Частота опроса: 1000 Hz</li>   <li>Ускорение: 40G</li>   <li>Чип: Broadcom BK52820</li>   <li>Основные переключатели: Omron Micro Switches</li>   <li>Энкодер: FSWHE Encoder</li>   <li>Док-станция: магнитная зарядная RGB док-станция</li>   <li>Особенности: три режима подключения, ультралёгкая конструкция, AI Driver, точный сенсор, RGB док-станция</li>   <li>Назначение: гейминг, работа, повседневное использование</li>   <li>Страна-производитель: Китай</li>  </ul></description_ru>
+        <price>1499</price>
+        <categoryId>1084</categoryId>
+        <vendor>Attack Shark</vendor>
+        <picture>https://techgleam.com.ua/content/images/35/bezdrotova-grova-misha-attack-shark-v6-tri-rezhimi-pdkluchennja-sensor-paw3311-25000-dpi-pink-22652855113836_%2B03b239fff7.jpg</picture>
+        <picture>https://techgleam.com.ua/content/images/35/bezdrotova-grova-misha-attack-shark-v6-tri-rezhimi-pdkluchennja-sensor-paw3311-25000-dpi-pink-21907892915702_%2Ba1d76a0664.jpg</picture>
+        <picture>https://techgleam.com.ua/content/images/35/bezdrotova-grova-misha-attack-shark-v6-tri-rezhimi-pdkluchennja-sensor-paw3311-25000-dpi-pink-59394739930050_%2B2a435d1287.jpg</picture>
+        <picture>https://techgleam.com.ua/content/images/35/bezdrotova-grova-misha-attack-shark-v6-tri-rezhimi-pdkluchennja-sensor-paw3311-25000-dpi-pink-48259705637569_%2Baace4e5bdc.jpg</picture>
+        <param name="Гарантія">1 місяць</param>
+        <param name="Колір">Рожевий</param>
+        <param name="Підключення">Комбіноване</param>
+        <param name="Сумісність з ОС">Microsoft Windows</param>
+        <param name="Сумісність з ОС">Mac OS</param>
+        <param name="Сумісність з ОС">Linux</param>
+        <param name="Вага">65 г</param>
+        <param name="Особливості">З підсвічуванням</param>
         <param name="Тип датчика">Оптичний</param>
         <param name="Інтерфейс підключення">Bluetooth</param>
         <param name="Інтерфейс підключення">Радіоінтерфейс</param>
@@ -15572,6 +15589,25 @@
         <picture>https://techgleam.com.ua/content/images/48/32615864747994_%2Bd3747405f1.jpg</picture>
         <picture>https://techgleam.com.ua/content/images/48/99416263460161_%2Bb69792839c.jpg</picture>
         <param name="Гарантія">1 місяць</param>
+        <param name="Колір">Білий</param>
+        <param name="Стан">Новий</param>
+      </offer>
+      <offer id="598" available="false">
+        <availability_status>temporarily_unavailable</availability_status>
+        <name_ua>Настільний цифровий LED-годинник / White</name_ua>
+        <name_ru>Настольные цифровые LED-часы / White</name_ru>
+        <description_ua><p>LED настільний електронний годинник з термометром та датою — стильний функціональний аксесуар, що чудово вписується в сучасний інтер’єр. Великий дисплей з підсвіткою, будильником та індикацією температури дозволяє зручно слідкувати за часом у будь-яку пору доби.</p>    <p><strong>Основні характеристики:</strong></p>    <ul>   <li>Тип дисплея: цифровий, LED  </li>   <li>Часовий формат: 12 / 24 години  </li>   <li>Індикація: час, дата, температура  </li>   <li>Живлення: USB (кабель у комплекті)  </li>   <li>Матеріал: пластик  </li>   <li>Будильник з гучним звуком  </li>   <li>Підсвічування з регулюванням яскравості  </li>   <li>Температурний режим: від 0 до +50°C  </li>   <li>Розміри годинника: 24 х 9,3 х 4 см</li>  </ul>    <p><strong>Комплектація:</strong></p>    <ul>   <li>Електронний годинник  </li>   <li>USB-кабель для живлення  </li>   <li>Інструкція користувача  </li>  </ul></description_ua>
+        <description_ru><p>LED настольные электронные часы с термометром и датой — стильный функциональный аксессуар, который прекрасно вписывается в современный интерьер. Большой дисплей с подсветкой, будильником и индикацией температуры позволяет удобно следить за временем в любое время суток.</p>    <p><strong>Основные характеристики:</strong></p>    <ul>   <li>Тип дисплея: цифровой, LED</li>   <li>Временной формат: 12 / 24 часа</li>   <li>Индикация: время, дата, температура</li>   <li>Питание: USB (кабель в комплекте)</li>   <li>Материал: пластик</li>   <li>Будильник с громким звуком</li>   <li>Подсветка с регулировкой яркости</li>   <li>Tемпературный режим: от 0 до +50°C</li>   <li>Размеры часов: 24 х 9,3 х 4 см</li>  </ul>    <p><strong>Комплектация:</strong></p>    <ul>   <li>Электронные часы</li>   <li>USB-кабель для питания</li>   <li>Инструкция пользователя</li>  </ul>    <p> </p></description_ru>
+        <price>500</price>
+        <categoryId>1090</categoryId>
+        <picture>https://techgleam.com.ua/content/images/49/69036392864921_%2B89d423cdf8.jpg</picture>
+        <picture>https://techgleam.com.ua/content/images/49/59974138387418_%2B7140c68d5d.jpg</picture>
+        <picture>https://techgleam.com.ua/content/images/49/78777059488741_%2B1a7fa5df34.jpg</picture>
+        <picture>https://techgleam.com.ua/content/images/49/15293986488205_%2Be8e56aeb34.jpg</picture>
+        <picture>https://techgleam.com.ua/content/images/49/64726541047638_%2Beabea7c20a.jpg</picture>
+        <picture>https://techgleam.com.ua/content/images/49/96581948304892_%2Bea52785e70.jpg</picture>
+        <picture>https://techgleam.com.ua/content/images/49/34994625002371_%2B3c1aaa9292.jpg</picture>
+        <param name="Гарантія">3 місяці</param>
         <param name="Колір">Білий</param>
         <param name="Стан">Новий</param>
       </offer>
@@ -15900,7 +15936,6 @@
         <picture>https://techgleam.com.ua/content/images/8/13529576955488_%2Bc4232aeed2.jpg</picture>
         <picture>https://techgleam.com.ua/content/images/8/81398541083430_%2Bc372ec95d5.jpg</picture>
         <param name="Гарантія">3 місяці</param>
-        <param name="Колір">Чорний</param>
         <param name="Тип">Повнорозмірні</param>
         <param name="Тип підключення">Комбінований</param>
         <param name="Мікрофон">Зйомний</param>
@@ -15964,7 +15999,6 @@
         <picture>https://techgleam.com.ua/content/images/10/39850700293888_%2B592531ed04.jpg</picture>
         <picture>https://techgleam.com.ua/content/images/10/23942635915061_%2Bf947bb2113.jpg</picture>
         <param name="Гарантія">3 місяці</param>
-        <param name="Колір">Білий</param>
         <param name="Тип">Повнорозмірні</param>
         <param name="Тип підключення">Комбінований</param>
         <param name="Мікрофон">Зйомний</param>
@@ -16056,7 +16090,6 @@
         <picture>https://techgleam.com.ua/content/images/20/15090972903407_%2Bda899e48be.jpg</picture>
         <picture>https://techgleam.com.ua/content/images/20/20250491725495_%2B5559cf84ff.jpg</picture>
         <param name="Гарантія">1 місяць</param>
-        <param name="Колір">Фіолетовий</param>
         <param name="Колір">Бузковий</param>
         <param name="Стан">Новий</param>
         <param name="Призначення">Для клавіатур</param>
@@ -16363,8 +16396,24 @@
         <picture>https://techgleam.com.ua/content/images/8/93428353257578_%2Bbf80b6a59b.jpg</picture>
         <picture>https://techgleam.com.ua/content/images/8/28975587804992_%2B962573770d.jpg</picture>
         <param name="Гарантія">3 місяці</param>
-        <param name="Колір">Чорний</param>
         <param name="Особливості">Ігрові</param>
+      </offer>
+      <offer id="727" available="false">
+        <availability_status>temporarily_unavailable</availability_status>
+        <name_ua>Підставка для ноутбука , Сірий</name_ua>
+        <name_ru>Подставка для ноутбука, Серый</name_ru>
+        <description_ua><p data-end="1730" data-start="1310"><strong> Портативна алюмінієва підставка для ноутбука </strong>— зручне та надійне рішення для роботи за столом і в дорозі. Завдяки <strong data-end="1455" data-start="1424">міцному алюмінієвому сплаву</strong>, нековзним <strong data-end="1492" data-start="1467">силіконовим накладкам</strong> і <strong data-end="1518" data-start="1495">регульованій висоті</strong> ви легко налаштуєте комфортний кут для друку чи перегляду, зменшуючи навантаження на шию та спину. Відкрита конструкція покращує <strong data-end="1670" data-start="1648">циркуляцію повітря</strong>, що допомагає охолодженню ноутбука під час тривалої роботи.</p>    <p data-end="1877" data-start="1732">Підставка швидко <strong data-end="1764" data-start="1749">складається</strong> й займає мінімум місця в сумці або рюкзаку. У комплекті є <strong data-end="1847" data-start="1823">чохол для зберігання</strong>, щоб зручно брати її з собою.</p>    <p data-end="1892" data-start="1879"><strong data-end="1892" data-start="1879"> Основні характеристики:</strong></p>    <p data-end="1947" data-start="1895"> Міцний <strong data-end="1923" data-start="1902">алюмінієвий сплав</strong> + силіконові накладки</p>    <p data-end="2005" data-start="1950"> <strong data-end="1976" data-start="1950">Регульована висота/кут</strong> для оптимальної ергономіки</p>    <p data-end="2058" data-start="2008"> Відкрита конструкція для <strong data-end="2056" data-start="2033">кращого охолодження</strong></p>    <p data-end="2105" data-start="2061"> <strong data-end="2073" data-start="2061">Складана</strong> та легка, разом із <strong data-end="2103" data-start="2093">чохлом</strong></p>    <p data-end="2105" data-start="2061"><strong data-end="2103" data-start="2093">  Переваги покупки у TechGleam:</strong><br />    Оригінальна продукція та перевірена якість  <br />     Консультація та допомога при виборі  <br />     Швидка відправка у день замовлення  <br />     Гарантія на кожну позицію</p></description_ua>
+        <description_ru><p><strong> Портативная алюминиевая подставка для ноутбука </strong>– удобное и надежное решение для работы за столом и в дороге. Благодаря крепкому алюминиевому сплаву, нескользящим силиконовым накладкам и регулируемой высоте вы легко настроите комфортный угол для печати или просмотра, уменьшая нагрузку на шею и спину. Открытая конструкция улучшает циркуляцию воздуха, что помогает охлаждению ноутбука во время продолжительной работы.</p>    <p>Подставка быстро складывается и занимает минимум места в сумке или рюкзаке. В комплекте есть чехол для хранения, чтобы удобно брать его с собой.</p>    <p><strong> Основные характеристики:</strong></p>    <p> Прочный алюминиевый сплав + силиконовые накладки</p>    <p> Регулируемая высота/угол для оптимальной эргономики</p>    <p> Открытая конструкция для лучшего охлаждения</p>    <p> Сложная и легкая, вместе с чехлом</p>    <p><strong>  Преимущества покупки в TechGleam:</strong><br />    Оригинальная продукция и проверенное качество<br />     Консультация и помощь при выборе<br />     Быстрая отправка в день заказа<br />     Гарантия на каждую позицию</p></description_ru>
+        <price>400</price>
+        <categoryId>1090</categoryId>
+        <picture>https://techgleam.com.ua/content/images/28/96634026689244_%2B570b89ae43.jpg</picture>
+        <picture>https://techgleam.com.ua/content/images/28/78043556690788_%2B6526586039.jpg</picture>
+        <picture>https://techgleam.com.ua/content/images/28/30692177521412_%2B7fe3884875.jpg</picture>
+        <picture>https://techgleam.com.ua/content/images/28/98834524374493_%2Bbbc716c980.jpg</picture>
+        <picture>https://techgleam.com.ua/content/images/28/45218777523362_%2Be6a9ba2fbc.jpg</picture>
+        <param name="Гарантія">1 місяць</param>
+        <param name="Колір">Сірий</param>
+        <param name="Стан">Новий</param>
       </offer>
       <offer id="730" available="false">
         <availability_status>temporarily_unavailable</availability_status>
@@ -16759,6 +16808,21 @@
         <picture>https://techgleam.com.ua/content/images/15/56109768525931_%2B134c3e6d1e.png</picture>
         <param name="Колір">Блакитний</param>
       </offer>
+      <offer id="815" available="false">
+        <availability_status>temporarily_unavailable</availability_status>
+        <name_ua>Підставка для ноутбука, Чорний</name_ua>
+        <name_ru>Подставка для ноутбука, Черный</name_ru>
+        <description_ua><p data-end="1730" data-start="1310"><strong> Портативна алюмінієва підставка для ноутбука </strong>— зручне та надійне рішення для роботи за столом і в дорозі. Завдяки <strong data-end="1455" data-start="1424">міцному алюмінієвому сплаву</strong>, нековзним <strong data-end="1492" data-start="1467">силіконовим накладкам</strong> і <strong data-end="1518" data-start="1495">регульованій висоті</strong> ви легко налаштуєте комфортний кут для друку чи перегляду, зменшуючи навантаження на шию та спину. Відкрита конструкція покращує <strong data-end="1670" data-start="1648">циркуляцію повітря</strong>, що допомагає охолодженню ноутбука під час тривалої роботи.</p>    <p data-end="1877" data-start="1732">Підставка швидко <strong data-end="1764" data-start="1749">складається</strong> й займає мінімум місця в сумці або рюкзаку. У комплекті є <strong data-end="1847" data-start="1823">чохол для зберігання</strong>, щоб зручно брати її з собою.</p>    <p data-end="1892" data-start="1879"><strong data-end="1892" data-start="1879"> Основні характеристики:</strong></p>    <p data-end="1947" data-start="1895"> Міцний <strong data-end="1923" data-start="1902">алюмінієвий сплав</strong> + силіконові накладки</p>    <p data-end="2005" data-start="1950"> <strong data-end="1976" data-start="1950">Регульована висота/кут</strong> для оптимальної ергономіки</p>    <p data-end="2058" data-start="2008"> Відкрита конструкція для <strong data-end="2056" data-start="2033">кращого охолодження</strong></p>    <p data-end="2105" data-start="2061"> <strong data-end="2073" data-start="2061">Складана</strong> та легка, разом із <strong data-end="2103" data-start="2093">чохлом</strong></p>    <p data-end="2105" data-start="2061"><strong data-end="2103" data-start="2093">  Переваги покупки у TechGleam:</strong><br />    Оригінальна продукція та перевірена якість  <br />     Консультація та допомога при виборі  <br />     Швидка відправка у день замовлення  <br />     Гарантія на кожну позицію</p></description_ua>
+        <description_ru><p><strong> Портативная алюминиевая подставка для ноутбука </strong>– удобное и надежное решение для работы за столом и в дороге. Благодаря крепкому алюминиевому сплаву, нескользящим силиконовым накладкам и регулируемой высоте вы легко настроите комфортный угол для печати или просмотра, уменьшая нагрузку на шею и спину. Открытая конструкция улучшает циркуляцию воздуха, что помогает охлаждению ноутбука во время продолжительной работы.</p>    <p>Подставка быстро складывается и занимает минимум места в сумке или рюкзаке. В комплекте есть чехол для хранения, чтобы удобно брать его с собой.</p>    <p><strong> Основные характеристики:</strong></p>    <p> Прочный алюминиевый сплав + силиконовые накладки</p>    <p> Регулируемая высота/угол для оптимальной эргономики</p>    <p> Открытая конструкция для лучшего охлаждения</p>    <p> Сложная и легкая, вместе с чехлом</p>    <p><strong>  Преимущества покупки в TechGleam:</strong><br />    Оригинальная продукция и проверенное качество<br />     Консультация и помощь при выборе<br />     Быстрая отправка в день заказа<br />     Гарантия на каждую позицию</p></description_ru>
+        <price>400</price>
+        <categoryId>1090</categoryId>
+        <picture>https://techgleam.com.ua/content/images/16/45173864889956_%2B040df2cf28.png</picture>
+        <picture>https://techgleam.com.ua/content/images/16/63968857127859_%2B12a81cec21.png</picture>
+        <picture>https://techgleam.com.ua/content/images/16/21772776564247_%2B4f032944c4.png</picture>
+        <param name="Гарантія">1 місяць</param>
+        <param name="Колір">Чорний</param>
+        <param name="Стан">Новий</param>
+      </offer>
       <offer id="817" available="false">
         <availability_status>temporarily_unavailable</availability_status>
         <name_ua>Навушники MCHOSE V9 Pro / Бездротова ігрова гарнітура / 2.4G / Bluetooth з мікрофоном / Black</name_ua>
@@ -16879,7 +16943,6 @@
         <categoryId>1093</categoryId>
         <picture>https://techgleam.com.ua/content/images/30/nabor-keykapov-pbt-black-purple-gradient-lines-130-oem-profil-85705492645747_%2B2fa52087ae.png</picture>
         <picture>https://techgleam.com.ua/content/images/30/nabor-keykapov-pbt-black-purple-gradient-lines-130-oem-profil-41776540533092_%2B267ca8d6f5.png</picture>
-        <param name="Колір">Фіолетовий</param>
         <param name="Колір">Бузковий</param>
         <param name="Стан">Новий</param>
         <param name="Призначення">Для клавіатур</param>
@@ -17184,7 +17247,6 @@
         <picture>https://techgleam.com.ua/content/images/9/68639122332017_%2Bbaa14d2fe0.jpg</picture>
         <picture>https://techgleam.com.ua/content/images/9/64232780441992_%2B2ab329f5e0.jpg</picture>
         <picture>https://techgleam.com.ua/content/images/9/42967210667887_%2Bec363374ba.jpg</picture>
-        <param name="Колір">Фіолетовий</param>
         <param name="Колір">Бузковий</param>
         <param name="Стан">Новий</param>
         <param name="Призначення">Для клавіатур</param>
@@ -17229,7 +17291,6 @@
         <categoryId>1093</categoryId>
         <picture>https://techgleam.com.ua/content/images/13/nabor-poluproznachnyx-keykapov-pbt-coulomi-oem-height-122-klavishi-purple-92538409829561_%2B7755184f86.jpeg</picture>
         <param name="Гарантія">3 місяці</param>
-        <param name="Колір">Фіолетовий</param>
         <param name="Колір">Бузковий</param>
         <param name="Стан">Новий</param>
         <param name="Призначення">Для клавіатур</param>
@@ -17457,7 +17518,7 @@
         <picture>https://techgleam.com.ua/content/images/18/igrovye-besprovodnye-naushniki-mchose-v9-turbo-tri-rezhima-podkluchenija-white-gold-91402698378891_%2B9945f34799.jpg</picture>
         <picture>https://techgleam.com.ua/content/images/18/igrovye-besprovodnye-naushniki-mchose-v9-turbo-tri-rezhima-podkluchenija-white-gold-94102885721287_%2B790cc10fa4.jpg</picture>
         <param name="Гарантія">6 місяців</param>
-        <param name="Колір">Біло-золотий</param>
+        <param name="Колір">Білий</param>
         <param name="Тип">Повнорозмірні</param>
         <param name="Тип підключення">Комбінований</param>
         <param name="Мікрофон">Зйомний</param>
@@ -17468,7 +17529,6 @@
         <param name="Довжина кабелю">1.6 м</param>
         <param name="Час роботи">250 годин</param>
         <param name="Вага">320 г</param>
-        <param name="Колір">Білий</param>
         <param name="Стан">Новий</param>
         <param name="Призначення">Геймерські</param>
         <country>Китай</country>
@@ -17618,7 +17678,6 @@
         <picture>https://techgleam.com.ua/content/images/25/led-nochnik-lampa-nastolnaja-usb-lampa-nochnik-360-sensornaja-akkumuljatornaja-dekorativnaja-purple-16372254712215_%2B1df458fdb4.png</picture>
         <picture>https://techgleam.com.ua/content/images/25/led-nochnik-lampa-nastolnaja-usb-lampa-nochnik-360-sensornaja-akkumuljatornaja-dekorativnaja-purple-92001307083809_%2B454058fd62.png</picture>
         <picture>https://techgleam.com.ua/content/images/25/led-nochnik-lampa-nastolnaja-usb-lampa-nochnik-360-sensornaja-akkumuljatornaja-dekorativnaja-purple-35572808157268_%2B6822bb3cdf.png</picture>
-        <param name="Колір">Фіолетовий</param>
         <param name="Колір">Бузковий</param>
         <param name="Стан">Новий</param>
       </offer>
@@ -17765,7 +17824,6 @@
         <categoryId>1089</categoryId>
         <picture>https://techgleam.com.ua/content/images/14/igrovoy-kovrik-blue-white-lines-90x40-sm-white-blue-52966463671957_%2B1f0f5a73b8.jpg</picture>
         <param name="Гарантія">3 місяці</param>
-        <param name="Колір">Білий</param>
         <param name="Особливості">Ігрові</param>
       </offer>
       <offer id="1664" available="true">
@@ -18009,7 +18067,6 @@
         <picture>https://techgleam.com.ua/content/images/17/groviy-kilimok-attack-shark-cm02-4045-sm-purple-12235799068800_%2Bf2f005e251.jpg</picture>
         <picture>https://techgleam.com.ua/content/images/17/groviy-kilimok-attack-shark-cm02-4045-sm-purple-18012958307588_%2Be22a6494f8.jpg</picture>
         <param name="Гарантія">3 місяці</param>
-        <param name="Колір">Фіолетовий</param>
         <param name="Колір">Бузковий</param>
         <param name="Особливості">Ігрові</param>
       </offer>
@@ -18077,7 +18134,6 @@
         <categoryId>1089</categoryId>
         <picture>https://techgleam.com.ua/content/images/21/groviy-kilimok-astral-lines-40x45x4-dark-grey-92625080507477_%2B4550a0bc05.JPG</picture>
         <picture>https://techgleam.com.ua/content/images/21/groviy-kilimok-astral-lines-40x45x4-dark-grey-42355432633453_%2B7eff4196b6.JPG</picture>
-        <param name="Колір">Сірий</param>
         <param name="Колір">Темно-сірий</param>
         <param name="Особливості">Ігрові</param>
       </offer>
@@ -18168,7 +18224,6 @@
         <picture>https://techgleam.com.ua/content/images/31/nabr-keykapv-pbt-purple-gradient-130-side-engraved-foletoviy-oem-komplekt-dlja-ansi-iso-klavatur-18351772572817_%2Bc1e189eb03.jpeg</picture>
         <picture>https://techgleam.com.ua/content/images/31/nabr-keykapv-pbt-purple-gradient-130-side-engraved-foletoviy-oem-komplekt-dlja-ansi-iso-klavatur-89031173497032_%2Bb47b656a72.jpeg</picture>
         <param name="Гарантія">1 місяць</param>
-        <param name="Колір">Фіолетовий</param>
         <param name="Колір">Бузковий</param>
         <param name="Стан">Новий</param>
         <param name="Призначення">Для клавіатур</param>
@@ -18304,7 +18359,6 @@
         <price>620</price>
         <categoryId>1089</categoryId>
         <picture>https://techgleam.com.ua/content/images/29/groviy-kilimok-moonlight-tree-90x40-sm-4-mm-colourful-40940828898449_%2Bb8251c0eb2.jpg</picture>
-        <param name="Колір">Різнокольоровий</param>
         <param name="Колір">В асортименті</param>
         <param name="Особливості">Ігрові</param>
       </offer>
@@ -18461,7 +18515,6 @@
         <price>620</price>
         <categoryId>1089</categoryId>
         <picture>https://techgleam.com.ua/content/images/42/groviy-kilimok-sunset-shore-girl-9040-sm-4-mm-purple-94294903289299_%2Bd63071916b.jpg</picture>
-        <param name="Колір">Фіолетовий</param>
         <param name="Колір">Бузковий</param>
         <param name="Особливості">Ігрові</param>
       </offer>
@@ -18498,7 +18551,6 @@
         <price>620</price>
         <categoryId>1089</categoryId>
         <picture>https://techgleam.com.ua/content/images/45/groviy-kilimok-cosmic-dusk-9040-sm-4-mm-dark-purple-15221882287530_%2B577a453b07.jpg</picture>
-        <param name="Колір">Фіолетовий</param>
         <param name="Колір">Бузковий</param>
         <param name="Особливості">Ігрові</param>
       </offer>
@@ -18571,7 +18623,6 @@
         <price>620</price>
         <categoryId>1089</categoryId>
         <picture>https://techgleam.com.ua/content/images/1/groviy-kilimok-cyber-rail-9040-sm-4-mm-purple-73096758671631_%2B45a89e244e.jpg</picture>
-        <param name="Колір">Фіолетовий</param>
         <param name="Колір">Бузковий</param>
         <param name="Особливості">Ігрові</param>
       </offer>
@@ -18584,7 +18635,6 @@
         <price>620</price>
         <categoryId>1089</categoryId>
         <picture>https://techgleam.com.ua/content/images/2/groviy-kilimok-neon-sky-9040-sm-4-mm-multicolor-92796104376934_%2B0cf7427bfd.jpg</picture>
-        <param name="Колір">Різнокольоровий</param>
         <param name="Колір">В асортименті</param>
         <param name="Особливості">Ігрові</param>
       </offer>
@@ -18687,7 +18737,6 @@
         <price>450</price>
         <categoryId>1089</categoryId>
         <picture>https://techgleam.com.ua/content/images/10/groviy-kilimok-z-anme-titani-epchna-bitva-9040-sm-3-mm-multicolor-81004006678614_%2B5a4c94715c.jpg</picture>
-        <param name="Колір">Різнокольоровий</param>
         <param name="Колір">В асортименті</param>
         <param name="Особливості">Ігрові</param>
       </offer>
@@ -18953,7 +19002,6 @@
         <price>899</price>
         <categoryId>1093</categoryId>
         <picture>https://techgleam.com.ua/content/images/9/kastomn-pbt-keykapi-gengar-pokemon-125-sht.-dlja-mexanchnix-ta-magntnix-klavatur-purple-57559398879275_%2B0be0ebe298.jpg</picture>
-        <param name="Колір">Фіолетовий</param>
         <param name="Колір">Бузковий</param>
         <param name="Стан">Новий</param>
         <param name="Призначення">Для клавіатур</param>
@@ -18984,7 +19032,6 @@
         <price>899</price>
         <categoryId>1093</categoryId>
         <picture>https://techgleam.com.ua/content/images/11/kastomn-pbt-keykapi-cyberpunk--125-sht.-dlja-mexanchnix-ta-magntnix-klavatur-yellow-45958661452637_%2B1ae3c8bd65.png</picture>
-        <param name="Колір">Жовтий</param>
         <param name="Колір">Жёлтый</param>
         <param name="Стан">Новий</param>
         <param name="Призначення">Для клавіатур</param>
@@ -19015,7 +19062,6 @@
         <price>899</price>
         <categoryId>1093</categoryId>
         <picture>https://techgleam.com.ua/content/images/13/kastomn-pbt-keykapi-cyberpunk-125-sht.-english-russian-layout-dlja-mexanchnix-ta-magntnix-klavatur-yellow-59125887780504_%2B551e3bd205.png</picture>
-        <param name="Колір">Жовтий</param>
         <param name="Колір">Жёлтый</param>
         <param name="Стан">Новий</param>
         <param name="Призначення">Для клавіатур</param>
@@ -19577,7 +19623,6 @@
         <picture>https://techgleam.com.ua/content/images/12/kastomn-matov-keykapi-frosted-flowing-rainbow-rhyme-120-klavsh-rayduzhniy-gradent-dlja-mexanchnix-magntnix-klavatur-rainbow-25315482703499_%2Be794dabec0.png</picture>
         <picture>https://techgleam.com.ua/content/images/12/kastomn-matov-keykapi-frosted-flowing-rainbow-rhyme-120-klavsh-rayduzhniy-gradent-dlja-mexanchnix-magntnix-klavatur-rainbow-51938136551781_%2B4a58b189ad.png</picture>
         <picture>https://techgleam.com.ua/content/images/12/kastomn-matov-keykapi-frosted-flowing-rainbow-rhyme-120-klavsh-rayduzhniy-gradent-dlja-mexanchnix-magntnix-klavatur-rainbow-28955752958624_%2Bda8c153c1f.png</picture>
-        <param name="Колір">Різнокольоровий</param>
         <param name="Колір">В асортименті</param>
         <param name="Стан">Новий</param>
         <param name="Призначення">Для клавіатур</param>
@@ -19592,7 +19637,6 @@
         <price>899</price>
         <categoryId>1093</categoryId>
         <picture>https://techgleam.com.ua/content/images/13/kastomn-keykapi-mystery-realm-neon-abyss-129-klavsh-neonovo-foletoviy-dizayn-dlja-mexanchnix-magntnix-klavatur-purple-98350424461723_%2Bde8249e4d9.jpg</picture>
-        <param name="Колір">Фіолетовий</param>
         <param name="Колір">Бузковий</param>
         <param name="Стан">Новий</param>
         <param name="Призначення">Для клавіатур</param>
@@ -19793,7 +19837,6 @@
         <price>539</price>
         <categoryId>1089</categoryId>
         <picture>https://techgleam.com.ua/content/images/28/velikiy-groviy-kilimok-dlja-mish-chainsaw-man-makima-crimson-chaos-9004003-mm-anme-dizayn-dlja-mish-ta-klavaturi-red-black-79327153859828_%2B2a4769ed67.png</picture>
-        <param name="Колір">Чорний</param>
         <param name="Особливості">Ігрові</param>
       </offer>
       <offer id="2035" available="false">
@@ -20418,6 +20461,190 @@
         <param name="Гарантія">1 місяць</param>
         <param name="Колір">Блакитний</param>
         <param name="Особливості">Ігрові</param>
+      </offer>
+      <offer id="2126" available="true">
+        <availability_status>available</availability_status>
+        <name_ua>Бездротові ігрові навушники Attack Shark L30 Pro / Три режими підключення / 7.1 Surround Sound / Знімний мікрофон / Black</name_ua>
+        <name_ru>Беспроводные игровые наушники Attack Shark L30 Pro / Три режима подключения / 7.1 Surround Sound / Съемный микрофон / Black</name_ru>
+        <description_ua><p><strong>Бездротові ігрові навушники Attack Shark L30 Pro / Три режими підключення / 7.1 Surround Sound / Знімний мікрофон / Black</strong> — це сучасна ігрова гарнітура для тих, хто цінує якісний звук, універсальність підключення та комфорт під час довгих ігрових сесій. Модель поєднує стильний дизайн, хорошу ергономіку, потужні 50 мм драйвери та підтримку кількох режимів роботи.</p>    <p>Гарнітура підтримує <strong>три режими підключення</strong>: <strong>2.4GHz</strong>, <strong>Bluetooth</strong> та <strong>3.5mm AUX</strong>, завдяки чому її зручно використовувати з ПК, ноутбуками, консолями, смартфонами та іншими пристроями. Комплектний <strong>2.4G ресивер</strong> забезпечує швидке підключення Plug &amp; Play, а бездротовий радіус роботи становить до <strong>10 метрів</strong>.</p>    <p>Модель оснащена <strong>50 мм драйверами</strong>, які забезпечують насичений, деталізований звук і гарне позиціонування в іграх. Підтримка <strong>7.1 Surround Sound</strong> дозволяє краще орієнтуватися в просторі та чути більше деталей у грі, музиці чи фільмах. Додатковою перевагою є <strong>низька затримка 20 мс</strong>, що особливо важливо для динамічних ігор.</p>    <p>Для голосового спілкування гарнітура отримала <strong>знімний 360° AI Noise-Canceling мікрофон</strong>, який допомагає знизити зайві шуми та покращити чіткість голосу. Завдяки цьому <strong>Attack Shark L30 Pro</strong> добре підходить не лише для геймінгу, а й для голосового чату, стрімів та онлайн-спілкування.</p>    <p>Навушники мають <strong>алюмінієву раму</strong>, регульоване оголів’я та <strong>амбушури з premium protein leather</strong>, що забезпечують комфортну посадку навіть під час тривалого використання. Акумулятор ємністю <strong>1100 mAh</strong> дає змогу довго користуватися гарнітурою без частого заряджання, а підтримка <strong>software-controlled custom EQ</strong> дозволяє гнучко налаштовувати звук під власні вподобання.</p>    <p><strong>Характеристики:</strong></p>    <ul>   <li>Тип пристрою: ігрова гарнітура</li>   <li>Тип: бездротові навушники з мікрофоном</li>   <li>Модель: Attack Shark L30 Pro</li>   <li>Колір: Black</li>   <li>Тип підключення: комбіноване</li>   <li>Режими підключення: 2.4GHz / Bluetooth / 3.5mm AUX</li>   <li>Бездротовий радіус дії: до 10 м</li>   <li>Звук: 7.1 Surround Sound</li>   <li>Драйвери: 50 мм</li>   <li>Затримка: 20 мс</li>   <li>Мікрофон: знімний 360° AI Noise-Canceling</li>   <li>Оголів’я: регульоване</li>   <li>Матеріал амбушур: Premium Protein Leather Ear Cushions</li>   <li>Каркас: Aluminum Alloy Frame</li>   <li>Акумулятор: 1100 mAh</li>   <li>Опір динаміка: 32 Ohms</li>   <li>Опір мікрофона: 2.2K Ohms</li>   <li>Особливості: tri-mode підключення, 7.1 звук, низька затримка, знімний мікрофон, 2.4G ресивер, software-controlled custom EQ, smart power-saving protection</li>   <li>Призначення: геймінг, музика, фільми, голосове спілкування</li>   <li>Країна-виробник: Китай</li>  </ul></description_ua>
+        <description_ru><p><strong>Беспроводные игровые наушники Attack Shark L30 Pro / Три режима подключения / 7.1 Surround Sound / Съемный микрофон / Black</strong> — это современная игровая гарнитура для тех, кто ценит качественный звук, универсальность подключения и комфорт во время длительных игровых сессий. Модель сочетает стильный дизайн, хорошую эргономику, мощные 50 мм драйверы и поддержку нескольких режимов работы.</p>    <p>Гарнитура поддерживает <strong>три режима подключения</strong>: <strong>2.4GHz</strong>, <strong>Bluetooth</strong> и <strong>3.5mm AUX</strong>, благодаря чему её удобно использовать с ПК, ноутбуками, консолями, смартфонами и другими устройствами. Комплектный <strong>2.4G ресивер</strong> обеспечивает быстрое подключение Plug &amp; Play, а радиус беспроводной связи достигает <strong>10 метров</strong>.</p>    <p>Модель оснащена <strong>50 мм драйверами</strong>, которые обеспечивают насыщенный, детализированный звук и хорошее позиционирование в играх. Поддержка <strong>7.1 Surround Sound</strong> позволяет лучше ориентироваться в пространстве и слышать больше деталей в игре, музыке или фильмах. Дополнительным преимуществом является <strong>низкая задержка 20 мс</strong>, что особенно важно для динамичных игр.</p>    <p>Для голосового общения гарнитура получила <strong>съемный 360° AI Noise-Canceling микрофон</strong>, который помогает снизить лишние шумы и улучшить чёткость голоса. Благодаря этому <strong>Attack Shark L30 Pro</strong> отлично подходит не только для гейминга, но и для голосового чата, стримов и онлайн-общения.</p>    <p>Наушники имеют <strong>алюминиевую раму</strong>, регулируемое оголовье и <strong>амбушюры из premium protein leather</strong>, что обеспечивает комфортную посадку даже при длительном использовании. Аккумулятор ёмкостью <strong>1100 mAh</strong> позволяет долго пользоваться гарнитурой без частой зарядки, а поддержка <strong>software-controlled custom EQ</strong> даёт возможность гибко настраивать звук под свои предпочтения.</p>    <p><strong>Характеристики:</strong></p>    <ul>   <li>Тип устройства: игровая гарнитура</li>   <li>Тип: беспроводные наушники с микрофоном</li>   <li>Модель: Attack Shark L30 Pro</li>   <li>Цвет: Black</li>   <li>Тип подключения: комбинированное</li>   <li>Режимы подключения: 2.4GHz / Bluetooth / 3.5mm AUX</li>   <li>Радиус беспроводной связи: до 10 м</li>   <li>Звук: 7.1 Surround Sound</li>   <li>Драйверы: 50 мм</li>   <li>Задержка: 20 мс</li>   <li>Микрофон: съемный 360° AI Noise-Canceling</li>   <li>Оголовье: регулируемое</li>   <li>Материал амбушюр: Premium Protein Leather Ear Cushions</li>   <li>Каркас: Aluminum Alloy Frame</li>   <li>Аккумулятор: 1100 mAh</li>   <li>Сопротивление динамика: 32 Ohms</li>   <li>Сопротивление микрофона: 2.2K Ohms</li>   <li>Особенности: tri-mode подключение, 7.1 звук, низкая задержка, съемный микрофон, 2.4G ресивер, software-controlled custom EQ, smart power-saving protection</li>   <li>Назначение: гейминг, музыка, фильмы, голосовое общение</li>   <li>Страна-производитель: Китай</li>  </ul></description_ru>
+        <price>1999</price>
+        <categoryId>1086</categoryId>
+        <vendor>Attack Shark</vendor>
+        <picture>https://techgleam.com.ua/content/images/27/bezdrotov-grov-navushniki-attack-shark-l30-pro-tri-rezhimi-pdkluchennja-7.1-surround-sound-znmniy-mkrofon-black-49898234012302_%2Bb054d1e9c6.jpg</picture>
+        <picture>https://techgleam.com.ua/content/images/27/bezdrotov-grov-navushniki-attack-shark-l30-pro-tri-rezhimi-pdkluchennja-7.1-surround-sound-znmniy-mkrofon-black-81858011517155_%2B1d58383d7e.jpg</picture>
+        <picture>https://techgleam.com.ua/content/images/27/bezdrotov-grov-navushniki-attack-shark-l30-pro-tri-rezhimi-pdkluchennja-7.1-surround-sound-znmniy-mkrofon-black-81288322160234_%2B2d9b0efc42.jpg</picture>
+        <picture>https://techgleam.com.ua/content/images/27/bezdrotov-grov-navushniki-attack-shark-l30-pro-tri-rezhimi-pdkluchennja-7.1-surround-sound-znmniy-mkrofon-black-57779397201254_%2Bbcf3cca26f.jpg</picture>
+        <picture>https://techgleam.com.ua/content/images/27/bezdrotov-grov-navushniki-attack-shark-l30-pro-tri-rezhimi-pdkluchennja-7.1-surround-sound-znmniy-mkrofon-black-57246249811702_%2B2057d4b006.jpg</picture>
+        <picture>https://techgleam.com.ua/content/images/27/bezdrotov-grov-navushniki-attack-shark-l30-pro-tri-rezhimi-pdkluchennja-7.1-surround-sound-znmniy-mkrofon-black-31586367755371_%2B58769585e9.jpg</picture>
+        <picture>https://techgleam.com.ua/content/images/27/bezdrotov-grov-navushniki-attack-shark-l30-pro-tri-rezhimi-pdkluchennja-7.1-surround-sound-znmniy-mkrofon-black-62912413293770_%2B82650d54c6.jpg</picture>
+        <picture>https://techgleam.com.ua/content/images/27/bezdrotov-grov-navushniki-attack-shark-l30-pro-tri-rezhimi-pdkluchennja-7.1-surround-sound-znmniy-mkrofon-black-78370710496324_%2Bcacd52cd5f.jpg</picture>
+        <picture>https://techgleam.com.ua/content/images/27/bezdrotov-grov-navushniki-attack-shark-l30-pro-tri-rezhimi-pdkluchennja-7.1-surround-sound-znmniy-mkrofon-black-76978293811908_%2B1a3dfee374.jpg</picture>
+        <param name="Гарантія">3 місяці</param>
+        <param name="Колір">Чорний</param>
+        <param name="Тип">Повнорозмірні</param>
+        <param name="Тип підключення">Комбінований</param>
+        <param name="Мікрофон">Зйомний</param>
+        <param name="Інтерфейс зарядного пристрою">USB Type-C</param>
+        <param name="Матеріал амбушюр">Екошкіра</param>
+        <param name="Діапазон частот навушників">20 - 20000 Гц</param>
+        <param name="Кріплення">Оголів&apos;я</param>
+        <param name="Довжина кабелю">1.5 м</param>
+        <param name="Час зарядки">2.5 години</param>
+        <param name="Час роботи">50 годин</param>
+        <param name="Вага">300 г</param>
+        <param name="Стан">Новий</param>
+        <param name="Призначення">Геймерські</param>
+        <country>Китай</country>
+      </offer>
+      <offer id="2127" available="true">
+        <availability_status>available</availability_status>
+        <name_ua>Бездротові ігрові навушники Attack Shark L30 Pro / Три режими підключення / 7.1 Surround Sound / Знімний мікрофон / White</name_ua>
+        <name_ru>Беспроводные игровые наушники Attack Shark L30 Pro / Три режима подключения / 7.1 Surround Sound / Съемный микрофон / White</name_ru>
+        <description_ua><p><strong>Бездротові ігрові навушники Attack Shark L30 Pro / Три режими підключення / 7.1 Surround Sound / Знімний мікрофон / Black</strong> — це сучасна ігрова гарнітура для тих, хто цінує якісний звук, універсальність підключення та комфорт під час довгих ігрових сесій. Модель поєднує стильний дизайн, хорошу ергономіку, потужні 50 мм драйвери та підтримку кількох режимів роботи.</p>    <p>Гарнітура підтримує <strong>три режими підключення</strong>: <strong>2.4GHz</strong>, <strong>Bluetooth</strong> та <strong>3.5mm AUX</strong>, завдяки чому її зручно використовувати з ПК, ноутбуками, консолями, смартфонами та іншими пристроями. Комплектний <strong>2.4G ресивер</strong> забезпечує швидке підключення Plug &amp; Play, а бездротовий радіус роботи становить до <strong>10 метрів</strong>.</p>    <p>Модель оснащена <strong>50 мм драйверами</strong>, які забезпечують насичений, деталізований звук і гарне позиціонування в іграх. Підтримка <strong>7.1 Surround Sound</strong> дозволяє краще орієнтуватися в просторі та чути більше деталей у грі, музиці чи фільмах. Додатковою перевагою є <strong>низька затримка 20 мс</strong>, що особливо важливо для динамічних ігор.</p>    <p>Для голосового спілкування гарнітура отримала <strong>знімний 360° AI Noise-Canceling мікрофон</strong>, який допомагає знизити зайві шуми та покращити чіткість голосу. Завдяки цьому <strong>Attack Shark L30 Pro</strong> добре підходить не лише для геймінгу, а й для голосового чату, стрімів та онлайн-спілкування.</p>    <p>Навушники мають <strong>алюмінієву раму</strong>, регульоване оголів’я та <strong>амбушури з premium protein leather</strong>, що забезпечують комфортну посадку навіть під час тривалого використання. Акумулятор ємністю <strong>1100 mAh</strong> дає змогу довго користуватися гарнітурою без частого заряджання, а підтримка <strong>software-controlled custom EQ</strong> дозволяє гнучко налаштовувати звук під власні вподобання.</p>    <p><strong>Характеристики:</strong></p>    <ul>   <li>Тип пристрою: ігрова гарнітура</li>   <li>Тип: бездротові навушники з мікрофоном</li>   <li>Модель: Attack Shark L30 Pro</li>   <li>Колір: Black</li>   <li>Тип підключення: комбіноване</li>   <li>Режими підключення: 2.4GHz / Bluetooth / 3.5mm AUX</li>   <li>Бездротовий радіус дії: до 10 м</li>   <li>Звук: 7.1 Surround Sound</li>   <li>Драйвери: 50 мм</li>   <li>Затримка: 20 мс</li>   <li>Мікрофон: знімний 360° AI Noise-Canceling</li>   <li>Оголів’я: регульоване</li>   <li>Матеріал амбушур: Premium Protein Leather Ear Cushions</li>   <li>Каркас: Aluminum Alloy Frame</li>   <li>Акумулятор: 1100 mAh</li>   <li>Опір динаміка: 32 Ohms</li>   <li>Опір мікрофона: 2.2K Ohms</li>   <li>Особливості: tri-mode підключення, 7.1 звук, низька затримка, знімний мікрофон, 2.4G ресивер, software-controlled custom EQ, smart power-saving protection</li>   <li>Призначення: геймінг, музика, фільми, голосове спілкування</li>   <li>Країна-виробник: Китай</li>  </ul></description_ua>
+        <description_ru><p><strong>Беспроводные игровые наушники Attack Shark L30 Pro / Три режима подключения / 7.1 Surround Sound / Съемный микрофон / Black</strong> — это современная игровая гарнитура для тех, кто ценит качественный звук, универсальность подключения и комфорт во время длительных игровых сессий. Модель сочетает стильный дизайн, хорошую эргономику, мощные 50 мм драйверы и поддержку нескольких режимов работы.</p>    <p>Гарнитура поддерживает <strong>три режима подключения</strong>: <strong>2.4GHz</strong>, <strong>Bluetooth</strong> и <strong>3.5mm AUX</strong>, благодаря чему её удобно использовать с ПК, ноутбуками, консолями, смартфонами и другими устройствами. Комплектный <strong>2.4G ресивер</strong> обеспечивает быстрое подключение Plug &amp; Play, а радиус беспроводной связи достигает <strong>10 метров</strong>.</p>    <p>Модель оснащена <strong>50 мм драйверами</strong>, которые обеспечивают насыщенный, детализированный звук и хорошее позиционирование в играх. Поддержка <strong>7.1 Surround Sound</strong> позволяет лучше ориентироваться в пространстве и слышать больше деталей в игре, музыке или фильмах. Дополнительным преимуществом является <strong>низкая задержка 20 мс</strong>, что особенно важно для динамичных игр.</p>    <p>Для голосового общения гарнитура получила <strong>съемный 360° AI Noise-Canceling микрофон</strong>, который помогает снизить лишние шумы и улучшить чёткость голоса. Благодаря этому <strong>Attack Shark L30 Pro</strong> отлично подходит не только для гейминга, но и для голосового чата, стримов и онлайн-общения.</p>    <p>Наушники имеют <strong>алюминиевую раму</strong>, регулируемое оголовье и <strong>амбушюры из premium protein leather</strong>, что обеспечивает комфортную посадку даже при длительном использовании. Аккумулятор ёмкостью <strong>1100 mAh</strong> позволяет долго пользоваться гарнитурой без частой зарядки, а поддержка <strong>software-controlled custom EQ</strong> даёт возможность гибко настраивать звук под свои предпочтения.</p>    <p><strong>Характеристики:</strong></p>    <ul>   <li>Тип устройства: игровая гарнитура</li>   <li>Тип: беспроводные наушники с микрофоном</li>   <li>Модель: Attack Shark L30 Pro</li>   <li>Цвет: Black</li>   <li>Тип подключения: комбинированное</li>   <li>Режимы подключения: 2.4GHz / Bluetooth / 3.5mm AUX</li>   <li>Радиус беспроводной связи: до 10 м</li>   <li>Звук: 7.1 Surround Sound</li>   <li>Драйверы: 50 мм</li>   <li>Задержка: 20 мс</li>   <li>Микрофон: съемный 360° AI Noise-Canceling</li>   <li>Оголовье: регулируемое</li>   <li>Материал амбушюр: Premium Protein Leather Ear Cushions</li>   <li>Каркас: Aluminum Alloy Frame</li>   <li>Аккумулятор: 1100 mAh</li>   <li>Сопротивление динамика: 32 Ohms</li>   <li>Сопротивление микрофона: 2.2K Ohms</li>   <li>Особенности: tri-mode подключение, 7.1 звук, низкая задержка, съемный микрофон, 2.4G ресивер, software-controlled custom EQ, smart power-saving protection</li>   <li>Назначение: гейминг, музыка, фильмы, голосовое общение</li>   <li>Страна-производитель: Китай</li>  </ul></description_ru>
+        <price>1999</price>
+        <categoryId>1086</categoryId>
+        <vendor>Attack Shark</vendor>
+        <picture>https://techgleam.com.ua/content/images/28/bezdrotov-grov-navushniki-attack-shark-l30-pro-tri-rezhimi-pdkluchennja-7.1-surround-sound-znmniy-mkrofon-white-78035125793408_%2Be335d8f9a2.jpg</picture>
+        <picture>https://techgleam.com.ua/content/images/28/bezdrotov-grov-navushniki-attack-shark-l30-pro-tri-rezhimi-pdkluchennja-7.1-surround-sound-znmniy-mkrofon-white-19016742331455_%2Be189408f85.jpg</picture>
+        <picture>https://techgleam.com.ua/content/images/28/bezdrotov-grov-navushniki-attack-shark-l30-pro-tri-rezhimi-pdkluchennja-7.1-surround-sound-znmniy-mkrofon-white-27573580449871_%2Bae895a0293.jpg</picture>
+        <picture>https://techgleam.com.ua/content/images/28/bezdrotov-grov-navushniki-attack-shark-l30-pro-tri-rezhimi-pdkluchennja-7.1-surround-sound-znmniy-mkrofon-white-11157308481402_%2Bfe57e04e20.jpg</picture>
+        <picture>https://techgleam.com.ua/content/images/28/bezdrotov-grov-navushniki-attack-shark-l30-pro-tri-rezhimi-pdkluchennja-7.1-surround-sound-znmniy-mkrofon-white-95029518129539_%2B1432095baa.jpg</picture>
+        <picture>https://techgleam.com.ua/content/images/28/bezdrotov-grov-navushniki-attack-shark-l30-pro-tri-rezhimi-pdkluchennja-7.1-surround-sound-znmniy-mkrofon-white-61944256993022_%2B933926b830.jpg</picture>
+        <picture>https://techgleam.com.ua/content/images/28/bezdrotov-grov-navushniki-attack-shark-l30-pro-tri-rezhimi-pdkluchennja-7.1-surround-sound-znmniy-mkrofon-white-98113433441130_%2B5142fd1a01.jpg</picture>
+        <picture>https://techgleam.com.ua/content/images/28/bezdrotov-grov-navushniki-attack-shark-l30-pro-tri-rezhimi-pdkluchennja-7.1-surround-sound-znmniy-mkrofon-white-93163691273982_%2B89d8bb605b.jpg</picture>
+        <picture>https://techgleam.com.ua/content/images/28/bezdrotov-grov-navushniki-attack-shark-l30-pro-tri-rezhimi-pdkluchennja-7.1-surround-sound-znmniy-mkrofon-white-72845057899308_%2B66a8bf01bd.jpg</picture>
+        <param name="Гарантія">3 місяці</param>
+        <param name="Колір">Білий</param>
+        <param name="Тип">Повнорозмірні</param>
+        <param name="Тип підключення">Комбінований</param>
+        <param name="Мікрофон">Зйомний</param>
+        <param name="Інтерфейс зарядного пристрою">USB Type-C</param>
+        <param name="Матеріал амбушюр">Екошкіра</param>
+        <param name="Діапазон частот навушників">20 - 20000 Гц</param>
+        <param name="Кріплення">Оголів&apos;я</param>
+        <param name="Довжина кабелю">1.5 м</param>
+        <param name="Час зарядки">2.5 години</param>
+        <param name="Час роботи">50 годин</param>
+        <param name="Вага">300 г</param>
+        <param name="Стан">Новий</param>
+        <param name="Призначення">Геймерські</param>
+        <country>Китай</country>
+      </offer>
+      <offer id="2128" available="true">
+        <availability_status>available</availability_status>
+        <name_ua>Бездротові ігрові навушники Attack Shark L30 Pro / Три режими підключення / 7.1 Surround Sound / Знімний мікрофон / Black Red</name_ua>
+        <name_ru>Беспроводные игровые наушники Attack Shark L30 Pro / Три режима подключения / 7.1 Surround Sound / Съемный микрофон / Black Red</name_ru>
+        <description_ua><p><strong>Бездротові ігрові навушники Attack Shark L30 Pro / Три режими підключення / 7.1 Surround Sound / Знімний мікрофон / Black</strong> — це сучасна ігрова гарнітура для тих, хто цінує якісний звук, універсальність підключення та комфорт під час довгих ігрових сесій. Модель поєднує стильний дизайн, хорошу ергономіку, потужні 50 мм драйвери та підтримку кількох режимів роботи.</p>    <p>Гарнітура підтримує <strong>три режими підключення</strong>: <strong>2.4GHz</strong>, <strong>Bluetooth</strong> та <strong>3.5mm AUX</strong>, завдяки чому її зручно використовувати з ПК, ноутбуками, консолями, смартфонами та іншими пристроями. Комплектний <strong>2.4G ресивер</strong> забезпечує швидке підключення Plug &amp; Play, а бездротовий радіус роботи становить до <strong>10 метрів</strong>.</p>    <p>Модель оснащена <strong>50 мм драйверами</strong>, які забезпечують насичений, деталізований звук і гарне позиціонування в іграх. Підтримка <strong>7.1 Surround Sound</strong> дозволяє краще орієнтуватися в просторі та чути більше деталей у грі, музиці чи фільмах. Додатковою перевагою є <strong>низька затримка 20 мс</strong>, що особливо важливо для динамічних ігор.</p>    <p>Для голосового спілкування гарнітура отримала <strong>знімний 360° AI Noise-Canceling мікрофон</strong>, який допомагає знизити зайві шуми та покращити чіткість голосу. Завдяки цьому <strong>Attack Shark L30 Pro</strong> добре підходить не лише для геймінгу, а й для голосового чату, стрімів та онлайн-спілкування.</p>    <p>Навушники мають <strong>алюмінієву раму</strong>, регульоване оголів’я та <strong>амбушури з premium protein leather</strong>, що забезпечують комфортну посадку навіть під час тривалого використання. Акумулятор ємністю <strong>1100 mAh</strong> дає змогу довго користуватися гарнітурою без частого заряджання, а підтримка <strong>software-controlled custom EQ</strong> дозволяє гнучко налаштовувати звук під власні вподобання.</p>    <p><strong>Характеристики:</strong></p>    <ul>   <li>Тип пристрою: ігрова гарнітура</li>   <li>Тип: бездротові навушники з мікрофоном</li>   <li>Модель: Attack Shark L30 Pro</li>   <li>Колір: Black</li>   <li>Тип підключення: комбіноване</li>   <li>Режими підключення: 2.4GHz / Bluetooth / 3.5mm AUX</li>   <li>Бездротовий радіус дії: до 10 м</li>   <li>Звук: 7.1 Surround Sound</li>   <li>Драйвери: 50 мм</li>   <li>Затримка: 20 мс</li>   <li>Мікрофон: знімний 360° AI Noise-Canceling</li>   <li>Оголів’я: регульоване</li>   <li>Матеріал амбушур: Premium Protein Leather Ear Cushions</li>   <li>Каркас: Aluminum Alloy Frame</li>   <li>Акумулятор: 1100 mAh</li>   <li>Опір динаміка: 32 Ohms</li>   <li>Опір мікрофона: 2.2K Ohms</li>   <li>Особливості: tri-mode підключення, 7.1 звук, низька затримка, знімний мікрофон, 2.4G ресивер, software-controlled custom EQ, smart power-saving protection</li>   <li>Призначення: геймінг, музика, фільми, голосове спілкування</li>   <li>Країна-виробник: Китай</li>  </ul></description_ua>
+        <description_ru><p><strong>Беспроводные игровые наушники Attack Shark L30 Pro / Три режима подключения / 7.1 Surround Sound / Съемный микрофон / Black</strong> — это современная игровая гарнитура для тех, кто ценит качественный звук, универсальность подключения и комфорт во время длительных игровых сессий. Модель сочетает стильный дизайн, хорошую эргономику, мощные 50 мм драйверы и поддержку нескольких режимов работы.</p>    <p>Гарнитура поддерживает <strong>три режима подключения</strong>: <strong>2.4GHz</strong>, <strong>Bluetooth</strong> и <strong>3.5mm AUX</strong>, благодаря чему её удобно использовать с ПК, ноутбуками, консолями, смартфонами и другими устройствами. Комплектный <strong>2.4G ресивер</strong> обеспечивает быстрое подключение Plug &amp; Play, а радиус беспроводной связи достигает <strong>10 метров</strong>.</p>    <p>Модель оснащена <strong>50 мм драйверами</strong>, которые обеспечивают насыщенный, детализированный звук и хорошее позиционирование в играх. Поддержка <strong>7.1 Surround Sound</strong> позволяет лучше ориентироваться в пространстве и слышать больше деталей в игре, музыке или фильмах. Дополнительным преимуществом является <strong>низкая задержка 20 мс</strong>, что особенно важно для динамичных игр.</p>    <p>Для голосового общения гарнитура получила <strong>съемный 360° AI Noise-Canceling микрофон</strong>, который помогает снизить лишние шумы и улучшить чёткость голоса. Благодаря этому <strong>Attack Shark L30 Pro</strong> отлично подходит не только для гейминга, но и для голосового чата, стримов и онлайн-общения.</p>    <p>Наушники имеют <strong>алюминиевую раму</strong>, регулируемое оголовье и <strong>амбушюры из premium protein leather</strong>, что обеспечивает комфортную посадку даже при длительном использовании. Аккумулятор ёмкостью <strong>1100 mAh</strong> позволяет долго пользоваться гарнитурой без частой зарядки, а поддержка <strong>software-controlled custom EQ</strong> даёт возможность гибко настраивать звук под свои предпочтения.</p>    <p><strong>Характеристики:</strong></p>    <ul>   <li>Тип устройства: игровая гарнитура</li>   <li>Тип: беспроводные наушники с микрофоном</li>   <li>Модель: Attack Shark L30 Pro</li>   <li>Цвет: Black</li>   <li>Тип подключения: комбинированное</li>   <li>Режимы подключения: 2.4GHz / Bluetooth / 3.5mm AUX</li>   <li>Радиус беспроводной связи: до 10 м</li>   <li>Звук: 7.1 Surround Sound</li>   <li>Драйверы: 50 мм</li>   <li>Задержка: 20 мс</li>   <li>Микрофон: съемный 360° AI Noise-Canceling</li>   <li>Оголовье: регулируемое</li>   <li>Материал амбушюр: Premium Protein Leather Ear Cushions</li>   <li>Каркас: Aluminum Alloy Frame</li>   <li>Аккумулятор: 1100 mAh</li>   <li>Сопротивление динамика: 32 Ohms</li>   <li>Сопротивление микрофона: 2.2K Ohms</li>   <li>Особенности: tri-mode подключение, 7.1 звук, низкая задержка, съемный микрофон, 2.4G ресивер, software-controlled custom EQ, smart power-saving protection</li>   <li>Назначение: гейминг, музыка, фильмы, голосовое общение</li>   <li>Страна-производитель: Китай</li>  </ul></description_ru>
+        <price>1999</price>
+        <categoryId>1086</categoryId>
+        <vendor>Attack Shark</vendor>
+        <picture>https://techgleam.com.ua/content/images/29/bezdrotov-grov-navushniki-attack-shark-l30-pro-tri-rezhimi-pdkluchennja-7.1-surround-sound-znmniy-mkrofon-black-red-93516959137036_%2B2dffce9a71.jpg</picture>
+        <picture>https://techgleam.com.ua/content/images/29/bezdrotov-grov-navushniki-attack-shark-l30-pro-tri-rezhimi-pdkluchennja-7.1-surround-sound-znmniy-mkrofon-black-red-74438338416913_%2B999652c0d8.jpg</picture>
+        <picture>https://techgleam.com.ua/content/images/29/bezdrotov-grov-navushniki-attack-shark-l30-pro-tri-rezhimi-pdkluchennja-7.1-surround-sound-znmniy-mkrofon-black-red-16833457932122_%2B58bd1c050e.jpg</picture>
+        <picture>https://techgleam.com.ua/content/images/29/bezdrotov-grov-navushniki-attack-shark-l30-pro-tri-rezhimi-pdkluchennja-7.1-surround-sound-znmniy-mkrofon-black-red-58940651607127_%2B39e0c80e30.jpg</picture>
+        <picture>https://techgleam.com.ua/content/images/29/bezdrotov-grov-navushniki-attack-shark-l30-pro-tri-rezhimi-pdkluchennja-7.1-surround-sound-znmniy-mkrofon-black-red-74284456902712_%2Bb905cd2a8b.jpg</picture>
+        <picture>https://techgleam.com.ua/content/images/29/bezdrotov-grov-navushniki-attack-shark-l30-pro-tri-rezhimi-pdkluchennja-7.1-surround-sound-znmniy-mkrofon-black-red-37904312870171_%2B232636593a.jpg</picture>
+        <picture>https://techgleam.com.ua/content/images/29/bezdrotov-grov-navushniki-attack-shark-l30-pro-tri-rezhimi-pdkluchennja-7.1-surround-sound-znmniy-mkrofon-black-red-25951139667638_%2Bf3e6301cc4.jpg</picture>
+        <picture>https://techgleam.com.ua/content/images/29/bezdrotov-grov-navushniki-attack-shark-l30-pro-tri-rezhimi-pdkluchennja-7.1-surround-sound-znmniy-mkrofon-black-red-30832297358029_%2Be75f040eaf.jpg</picture>
+        <picture>https://techgleam.com.ua/content/images/29/bezdrotov-grov-navushniki-attack-shark-l30-pro-tri-rezhimi-pdkluchennja-7.1-surround-sound-znmniy-mkrofon-black-red-60240893351037_%2Bd7c89a60c1.jpg</picture>
+        <param name="Гарантія">3 місяці</param>
+        <param name="Тип">Повнорозмірні</param>
+        <param name="Тип підключення">Комбінований</param>
+        <param name="Мікрофон">Зйомний</param>
+        <param name="Інтерфейс зарядного пристрою">USB Type-C</param>
+        <param name="Матеріал амбушюр">Екошкіра</param>
+        <param name="Діапазон частот навушників">20 - 20000 Гц</param>
+        <param name="Кріплення">Оголів&apos;я</param>
+        <param name="Довжина кабелю">1.5 м</param>
+        <param name="Час зарядки">2.5 години</param>
+        <param name="Час роботи">50 годин</param>
+        <param name="Вага">300 г</param>
+        <param name="Стан">Новий</param>
+        <param name="Призначення">Геймерські</param>
+        <country>Китай</country>
+      </offer>
+      <offer id="2129" available="true">
+        <availability_status>available</availability_status>
+        <name_ua>Ігрова скляна поверхня ATTACK SHARK CM05 / 450×400 мм / Склопад / Black</name_ua>
+        <name_ru>Игровая стеклянная поверхность ATTACK SHARK CM05 / 450×400 мм / Стеклопад / Black</name_ru>
+        <description_ua><p data-end="1923" data-start="1591"><strong data-end="1649" data-start="1591">Скляний килимок ATTACK SHARK CM05</strong> — вибір для геймерів і креаторів, яким важлива стабільність, точність і контроль.<br data-end="1734" data-start="1731" />  Загартоване скло з нано-текстурою дає <strong data-end="1807" data-start="1772">неймовірно плавне ковзання миші</strong>, а сенсор точно зчитує навіть найменші рухи. Формат <strong data-end="1874" data-start="1860">450×400 мм</strong> дарує простір для різких фліків і рівних треків.</p>    <ul>   <li data-end="2007" data-start="1927"><strong data-end="1940" data-start="1927">Матеріал:</strong> загартоване скло з нано-текстурою — гладке ковзання без залипань</li>   <li data-end="2072" data-start="2010"><strong data-end="2021" data-start="2010">Розмір:</strong> 450×400 мм — багато місця для FPS, MOBA і роботи</li>   <li data-end="2141" data-start="2075"><strong data-end="2086" data-start="2075">Основа:</strong> протиковзке покриття надійно фіксує килимок на столі</li>   <li data-end="2218" data-start="2144"><strong data-end="2163" data-start="2144">Зносостійкість:</strong> не боїться подряпин, вологи й щоденного використання</li>   <li data-end="2286" data-start="2221"><strong data-end="2240" data-start="2221">Простий догляд:</strong> легко очищається, не вбирає запахи й рідини</li>   <li data-end="2382" data-start="2289"><strong data-end="2400" data-start="2385">Сумісність:</strong> коректно працює з усіма сучасними сенсорами мишей</li>  </ul>    <p data-end="2615" data-start="2452">CM05 — це не просто аксесуар, а <strong data-end="2507" data-start="2484">преміальна поверхня</strong>, яка поєднує естетику та продуктивність. Відчуйте стабільність, чистоту ковзання і точність у кожному русі.</p></description_ua>
+        <description_ru><p><strong>Стеклянный коврик ATTACK SHARK CM05 - выбор для геймеров и креаторов, которым важна стабильность, точность и контроль.</strong><br />  Закаленное стекло с нанотекстурой дает невероятно плавное скольжение мыши, а сенсор точно считывает даже малейшие движения. Формат 450×400 мм дарит простор для резких фликов и ровных треков.</p>    <ul>   <li>Материал: закаленное стекло с нано-текстурой — гладкое скольжение без залипаний</li>   <li>Размер: 450×400 мм — много места для FPS, MOBA и работы</li>   <li>Основа: противоскользящее покрытие надежно фиксирует коврик на столе</li>   <li>Износостойкость: не боится царапин, влаги и ежедневного использования</li>   <li>Простой уход: легко очищается, не впитывает запахи и жидкости</li>   <li>Совместимость: корректно работает со всеми современными сенсорами мышей</li>  </ul>    <p>CM05 – это не просто аксессуар, а премиальная поверхность, сочетающая эстетику и производительность. Ощутите стабильность, чистоту скольжения и точность в каждом движении.</p></description_ru>
+        <price>2999</price>
+        <categoryId>1089</categoryId>
+        <vendor>Attack Shark</vendor>
+        <picture>https://techgleam.com.ua/content/images/30/grova-skljana-poverxnja-attack-shark-cm05-450400-mm-sklopad-black-65018143405650_%2B8664082e27.jpg</picture>
+        <picture>https://techgleam.com.ua/content/images/30/grova-skljana-poverxnja-attack-shark-cm05-450400-mm-sklopad-black-55454912931007_%2Ba1f1f62686.jpg</picture>
+        <picture>https://techgleam.com.ua/content/images/30/grova-skljana-poverxnja-attack-shark-cm05-450400-mm-sklopad-black-42430716541033_%2B725e1f7493.jpg</picture>
+        <picture>https://techgleam.com.ua/content/images/30/grova-skljana-poverxnja-attack-shark-cm05-450400-mm-sklopad-black-97182110573125_%2B4b7a6b8be6.jpg</picture>
+        <picture>https://techgleam.com.ua/content/images/30/grova-skljana-poverxnja-attack-shark-cm05-450400-mm-sklopad-black-69034997115432_%2B4f264413d9.jpg</picture>
+        <picture>https://techgleam.com.ua/content/images/30/grova-skljana-poverxnja-attack-shark-cm05-450400-mm-sklopad-black-86016321732111_%2Bc39c30846b.jpg</picture>
+        <picture>https://techgleam.com.ua/content/images/30/grova-skljana-poverxnja-attack-shark-cm05-450400-mm-sklopad-black-77795394500523_%2B691540d574.jpg</picture>
+        <picture>https://techgleam.com.ua/content/images/30/grova-skljana-poverxnja-attack-shark-cm05-450400-mm-sklopad-black-20356336718249_%2B6e1200a500.jpg</picture>
+        <picture>https://techgleam.com.ua/content/images/30/grova-skljana-poverxnja-attack-shark-cm05-450400-mm-sklopad-black-17161245810788_%2B9ea7f26131.jpg</picture>
+        <param name="Гарантія">1 місяць</param>
+        <param name="Колір">Чорний</param>
+        <param name="Особливості">Ігрові</param>
+      </offer>
+      <offer id="2130" available="true">
+        <availability_status>available</availability_status>
+        <name_ua>Ігрова скляна поверхня ATTACK SHARK CM05 / 450×400 мм / Склопад / White</name_ua>
+        <name_ru>Игровая стеклянная поверхность ATTACK SHARK CM05 / 450×400 мм / Стеклопад / White</name_ru>
+        <description_ua><p data-end="1923" data-start="1591"><strong data-end="1649" data-start="1591">Скляний килимок ATTACK SHARK CM05</strong> — вибір для геймерів і креаторів, яким важлива стабільність, точність і контроль.<br data-end="1734" data-start="1731" />  Загартоване скло з нано-текстурою дає <strong data-end="1807" data-start="1772">неймовірно плавне ковзання миші</strong>, а сенсор точно зчитує навіть найменші рухи. Формат <strong data-end="1874" data-start="1860">450×400 мм</strong> дарує простір для різких фліків і рівних треків.</p>    <ul>   <li data-end="2007" data-start="1927"><strong data-end="1940" data-start="1927">Матеріал:</strong> загартоване скло з нано-текстурою — гладке ковзання без залипань</li>   <li data-end="2072" data-start="2010"><strong data-end="2021" data-start="2010">Розмір:</strong> 450×400 мм — багато місця для FPS, MOBA і роботи</li>   <li data-end="2141" data-start="2075"><strong data-end="2086" data-start="2075">Основа:</strong> протиковзке покриття надійно фіксує килимок на столі</li>   <li data-end="2218" data-start="2144"><strong data-end="2163" data-start="2144">Зносостійкість:</strong> не боїться подряпин, вологи й щоденного використання</li>   <li data-end="2286" data-start="2221"><strong data-end="2240" data-start="2221">Простий догляд:</strong> легко очищається, не вбирає запахи й рідини</li>   <li data-end="2382" data-start="2289"><strong data-end="2400" data-start="2385">Сумісність:</strong> коректно працює з усіма сучасними сенсорами мишей</li>  </ul>    <p data-end="2615" data-start="2452">CM05 — це не просто аксесуар, а <strong data-end="2507" data-start="2484">преміальна поверхня</strong>, яка поєднує естетику та продуктивність. Відчуйте стабільність, чистоту ковзання і точність у кожному русі.</p></description_ua>
+        <description_ru><p><strong>Стеклянный коврик ATTACK SHARK CM05 - выбор для геймеров и креаторов, которым важна стабильность, точность и контроль.</strong><br />  Закаленное стекло с нанотекстурой дает невероятно плавное скольжение мыши, а сенсор точно считывает даже малейшие движения. Формат 450×400 мм дарит простор для резких фликов и ровных треков.</p>    <ul>   <li>Материал: закаленное стекло с нано-текстурой — гладкое скольжение без залипаний</li>   <li>Размер: 450×400 мм — много места для FPS, MOBA и работы</li>   <li>Основа: противоскользящее покрытие надежно фиксирует коврик на столе</li>   <li>Износостойкость: не боится царапин, влаги и ежедневного использования</li>   <li>Простой уход: легко очищается, не впитывает запахи и жидкости</li>   <li>Совместимость: корректно работает со всеми современными сенсорами мышей</li>  </ul>    <p>CM05 – это не просто аксессуар, а премиальная поверхность, сочетающая эстетику и производительность. Ощутите стабильность, чистоту скольжения и точность в каждом движении.</p></description_ru>
+        <price>2999</price>
+        <categoryId>1089</categoryId>
+        <vendor>Attack Shark</vendor>
+        <picture>https://techgleam.com.ua/content/images/31/grova-skljana-poverxnja-attack-shark-cm05-450400-mm-sklopad-white-83613126680657_%2Bd6cc42a7bf.jpg</picture>
+        <picture>https://techgleam.com.ua/content/images/31/grova-skljana-poverxnja-attack-shark-cm05-450400-mm-sklopad-white-15683824210617_%2B77b5ab1b63.jpg</picture>
+        <picture>https://techgleam.com.ua/content/images/31/grova-skljana-poverxnja-attack-shark-cm05-450400-mm-sklopad-white-22189719073093_%2Bff13557dbb.jpg</picture>
+        <picture>https://techgleam.com.ua/content/images/31/grova-skljana-poverxnja-attack-shark-cm05-450400-mm-sklopad-white-63210166146030_%2Bbac7169333.jpg</picture>
+        <picture>https://techgleam.com.ua/content/images/31/grova-skljana-poverxnja-attack-shark-cm05-450400-mm-sklopad-white-84186728948856_%2Bee47abbde6.jpg</picture>
+        <picture>https://techgleam.com.ua/content/images/31/grova-skljana-poverxnja-attack-shark-cm05-450400-mm-sklopad-white-68924481561733_%2Bab96e2582c.jpg</picture>
+        <picture>https://techgleam.com.ua/content/images/31/grova-skljana-poverxnja-attack-shark-cm05-450400-mm-sklopad-white-97813157152941_%2Bd1c657f0cc.jpg</picture>
+        <picture>https://techgleam.com.ua/content/images/31/grova-skljana-poverxnja-attack-shark-cm05-450400-mm-sklopad-white-70343829563018_%2B3cd1f33167.jpg</picture>
+        <picture>https://techgleam.com.ua/content/images/31/grova-skljana-poverxnja-attack-shark-cm05-450400-mm-sklopad-white-12094704543256_%2B6061691e00.jpg</picture>
+        <param name="Гарантія">1 місяць</param>
+        <param name="Колір">Білий</param>
+        <param name="Особливості">Ігрові</param>
+      </offer>
+      <offer id="2131" available="true">
+        <availability_status>available</availability_status>
+        <name_ua>Ігрова скляна поверхня ATTACK SHARK CM05 / 450×400 мм / Склопад / White Black</name_ua>
+        <name_ru>Игровая стеклянная поверхность ATTACK SHARK CM05 / 450×400 мм / Стеклопад / White Black</name_ru>
+        <description_ua><p data-end="1923" data-start="1591"><strong data-end="1649" data-start="1591">Скляний килимок ATTACK SHARK CM05</strong> — вибір для геймерів і креаторів, яким важлива стабільність, точність і контроль.<br data-end="1734" data-start="1731" />  Загартоване скло з нано-текстурою дає <strong data-end="1807" data-start="1772">неймовірно плавне ковзання миші</strong>, а сенсор точно зчитує навіть найменші рухи. Формат <strong data-end="1874" data-start="1860">450×400 мм</strong> дарує простір для різких фліків і рівних треків.</p>    <ul>   <li data-end="2007" data-start="1927"><strong data-end="1940" data-start="1927">Матеріал:</strong> загартоване скло з нано-текстурою — гладке ковзання без залипань</li>   <li data-end="2072" data-start="2010"><strong data-end="2021" data-start="2010">Розмір:</strong> 450×400 мм — багато місця для FPS, MOBA і роботи</li>   <li data-end="2141" data-start="2075"><strong data-end="2086" data-start="2075">Основа:</strong> протиковзке покриття надійно фіксує килимок на столі</li>   <li data-end="2218" data-start="2144"><strong data-end="2163" data-start="2144">Зносостійкість:</strong> не боїться подряпин, вологи й щоденного використання</li>   <li data-end="2286" data-start="2221"><strong data-end="2240" data-start="2221">Простий догляд:</strong> легко очищається, не вбирає запахи й рідини</li>   <li data-end="2382" data-start="2289"><strong data-end="2400" data-start="2385">Сумісність:</strong> коректно працює з усіма сучасними сенсорами мишей</li>  </ul>    <p data-end="2615" data-start="2452">CM05 — це не просто аксесуар, а <strong data-end="2507" data-start="2484">преміальна поверхня</strong>, яка поєднує естетику та продуктивність. Відчуйте стабільність, чистоту ковзання і точність у кожному русі.</p></description_ua>
+        <description_ru><p><strong>Стеклянный коврик ATTACK SHARK CM05 - выбор для геймеров и креаторов, которым важна стабильность, точность и контроль.</strong><br />  Закаленное стекло с нанотекстурой дает невероятно плавное скольжение мыши, а сенсор точно считывает даже малейшие движения. Формат 450×400 мм дарит простор для резких фликов и ровных треков.</p>    <ul>   <li>Материал: закаленное стекло с нано-текстурой — гладкое скольжение без залипаний</li>   <li>Размер: 450×400 мм — много места для FPS, MOBA и работы</li>   <li>Основа: противоскользящее покрытие надежно фиксирует коврик на столе</li>   <li>Износостойкость: не боится царапин, влаги и ежедневного использования</li>   <li>Простой уход: легко очищается, не впитывает запахи и жидкости</li>   <li>Совместимость: корректно работает со всеми современными сенсорами мышей</li>  </ul>    <p>CM05 – это не просто аксессуар, а премиальная поверхность, сочетающая эстетику и производительность. Ощутите стабильность, чистоту скольжения и точность в каждом движении.</p></description_ru>
+        <price>2999</price>
+        <categoryId>1089</categoryId>
+        <vendor>Attack Shark</vendor>
+        <picture>https://techgleam.com.ua/content/images/32/grova-skljana-poverxnja-attack-shark-cm05-450400-mm-sklopad-white-black-37951907378582_%2Be5894dd3ca.jpg</picture>
+        <param name="Гарантія">1 місяць</param>
+        <param name="Колір">Чорний</param>
+        <param name="Особливості">Ігрові</param>
+      </offer>
+      <offer id="2135" available="true">
+        <availability_status>available</availability_status>
+        <name_ua>Килимок для миші Musashi The Lone Samurai / Самурайський мінімалістичний дизайн / 40x45x4 мм / Black White</name_ua>
+        <name_ru>Коврик для мыши Musashi The Lone Samurai / Самурайский минималистичный дизайн / 40x45x4 мм / Black White</name_ru>
+        <description_ua><p><strong>Килимок для миші Musashi The Lone Samurai / Самурайський мінімалістичний дизайн / 40x45x4 мм / Black White</strong> — стильний ігровий та робочий килимок із лаконічним чорно-білим артом у самурайській тематиці. Дизайн із образом самотнього воїна Musashi робить цей аксесуар чудовим доповненням до мінімалістичного, аніме або японського сетапу.</p>    <p>Поверхня килимка забезпечує плавне та точне ковзання миші, що підходить як для повсякденної роботи, так і для ігор. Розмір <strong>40x45 см</strong> дає достатньо простору для комфортного керування, а товщина <strong>4 мм</strong> допомагає краще згладжувати нерівності столу та підвищує комфорт під час тривалого використання.</p>    <p>Нековзка основа сприяє стабільному розташуванню килимка на поверхні столу, а прошиті краї допомагають довше зберігати акуратний вигляд під час активної експлуатації.</p>    <p><strong>Характеристики</strong></p>    <ul>   <li>Тип товару: килимок для миші</li>   <li>Дизайн: Musashi The Lone Samurai</li>   <li>Тематика: самурай, японський стиль, мінімалізм</li>   <li>Колір: Black White</li>   <li>Розмір: 40x45 см</li>   <li>Товщина: 4 мм</li>   <li>Форма: прямокутна</li>   <li>Матеріал поверхні: тканинна</li>   <li>Основа: протиковзка гумова</li>   <li>Особливості: прошиті краї, комфортна товщина, плавне ковзання миші</li>   <li>Призначення: для миші, для роботи, для ігор, для сетапу</li>  </ul></description_ua>
+        <description_ru><p><strong>Коврик для мыши Musashi The Lone Samurai / Самурайский минималистичный дизайн / 40x45x4 мм / Black White</strong> — стильный игровой и рабочий коврик с лаконичным чёрно-белым артом в самурайской тематике. Дизайн с образом одинокого воина Musashi делает этот аксессуар отличным дополнением к минималистичному, аниме или японскому сетапу.</p>    <p>Поверхность коврика обеспечивает плавное и точное скольжение мыши, что подходит как для повседневной работы, так и для игр. Размер <strong>40x45 см</strong> даёт достаточно пространства для комфортного управления, а толщина <strong>4 мм</strong> помогает лучше сглаживать неровности стола и повышает комфорт во время длительного использования.</p>    <p>Нескользящая основа способствует стабильному размещению коврика на столе, а прошитые края помогают дольше сохранять аккуратный внешний вид при активной эксплуатации.</p>    <p><strong>Характеристики</strong></p>    <ul>   <li>Тип товара: коврик для мыши</li>   <li>Дизайн: Musashi The Lone Samurai</li>   <li>Тематика: самурай, японский стиль, минимализм</li>   <li>Цвет: Black White</li>   <li>Размер: 40x45 см</li>   <li>Толщина: 4 мм</li>   <li>Форма: прямоугольная</li>   <li>Материал поверхности: тканевый</li>   <li>Основа: противоскользящая резиновая</li>   <li>Особенности: прошитые края, комфортная толщина, плавное скольжение мыши</li>   <li>Назначение: для мыши, для работы, для игр, для сетапа</li>  </ul></description_ru>
+        <price>620</price>
+        <categoryId>1089</categoryId>
+        <picture>https://techgleam.com.ua/content/images/36/kilimok-dlja-mish-musashi-the-lone-samurai-samurayskiy-mnmalstichniy-dizayn-40x45x4-mm-black-white-62300939964773_%2B1b4e196978.png</picture>
+        <param name="Колір">Чорний</param>
+      </offer>
+      <offer id="2136" available="true">
+        <availability_status>available</availability_status>
+        <name_ua>Килимок для миші Musashi Manga / Манґа-дизайн / 40x45x4 мм / Black White</name_ua>
+        <name_ru>Коврик для мыши Musashi Manga / Манга-дизайн / 40x45x4 мм / Black White</name_ru>
+        <description_ua><p><strong>Килимок для миші Musashi Manga / Манґа-дизайн / 40x45x4 мм / Black White</strong> — стильний килимок для миші з атмосферним чорно-білим принтом у стилі манґи. Дизайн із образом Musashi, динамічними сценами та манґа-панелями чудово підійде для шанувальників японської естетики, самурайської тематики та мінімалістичних монохромних сетапів.</p>    <p>Розмір <strong>40x45 см</strong> забезпечує достатньо простору для комфортного керування мишкою, а товщина <strong>4 мм</strong> додає м’якості та допомагає згладжувати нерівності поверхні столу. Килимок підходить як для роботи, так і для ігор, забезпечуючи плавне та точне ковзання миші.</p>    <p>Завдяки протиковзкій основі килимок добре фіксується на столі, а прошиті краї допомагають зберігати охайний вигляд навіть при активному щоденному використанні.</p>    <p><strong>Характеристики:</strong></p>    <ul>   <li>Тип товару: килимок для миші</li>   <li>Дизайн: Musashi Manga</li>   <li>Тематика: манґа, самурай, японський стиль</li>   <li>Колір: Black White</li>   <li>Розмір: 40x45 см</li>   <li>Товщина: 4 мм</li>   <li>Форма: прямокутна</li>   <li>Матеріал поверхні: тканинна</li>   <li>Основа: протиковзка гумова</li>   <li>Особливості: манґа-принт, прошиті краї, плавне ковзання, комфортна товщина</li>   <li>Призначення: для миші, для роботи, для ігор, для сетапу</li>  </ul></description_ua>
+        <description_ru><p><strong>Коврик для мыши Musashi Manga / Манга-дизайн / 40x45x4 мм / Black White</strong> — стильный коврик для мыши с атмосферным чёрно-белым принтом в стиле манги. Дизайн с образом Musashi, динамичными сценами и манга-панелями отлично подойдёт для поклонников японской эстетики, самурайской тематики и минималистичных монохромных сетапов.</p>    <p>Размер <strong>40x45 см</strong> обеспечивает достаточно пространства для комфортного управления мышью, а толщина <strong>4 мм</strong> добавляет мягкости и помогает сглаживать неровности поверхности стола. Коврик подходит как для работы, так и для игр, обеспечивая плавное и точное скольжение мыши.</p>    <p>Благодаря нескользящей основе коврик хорошо фиксируется на столе, а прошитые края помогают сохранять аккуратный внешний вид даже при активном ежедневном использовании.</p>    <p><strong>Характеристики:</strong></p>    <ul>   <li>Тип товара: коврик для мыши</li>   <li>Дизайн: Musashi Manga</li>   <li>Тематика: манга, самурай, японский стиль</li>   <li>Цвет: Black White</li>   <li>Размер: 40x45 см</li>   <li>Толщина: 4 мм</li>   <li>Форма: прямоугольная</li>   <li>Материал поверхности: тканевый</li>   <li>Основа: противоскользящая резиновая</li>   <li>Особенности: манга-принт, прошитые края, плавное скольжение, комфортная толщина</li>   <li>Назначение: для мыши, для работы, для игр, для сетапа</li>  </ul></description_ru>
+        <price>620</price>
+        <categoryId>1089</categoryId>
+        <picture>https://techgleam.com.ua/content/images/37/kilimok-dlja-mish-musashi-manga-mana-dizayn-40x45x4-mm-black-white-68819292983096_%2Beea8411b10.png</picture>
+        <param name="Колір">Чорний</param>
       </offer>
     </offers>
   </shop>
