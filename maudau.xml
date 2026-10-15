@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<yml_catalog date="2026-10-15 16:23">
+<yml_catalog date="2026-10-15 17:23">
   <shop>
     <categories>
       <category id="1082" portal_id="1839">Клавіатури</category>
@@ -12118,8 +12118,8 @@
         <param name="Тип">Ігрові (геймерські)</param>
         <country>Китай</country>
       </offer>
-      <offer id="1837" available="false">
-        <availability_status>temporarily_unavailable</availability_status>
+      <offer id="1837" available="true">
+        <availability_status>available</availability_status>
         <name_ua>Ігрова механічна клавіатура AULA F75 / ENG + RUS / Leobog Axis Reaper Switch / Black</name_ua>
         <name_ru>Игровая механическая клавиатура AULA F75 / ENG + RUS / Leobog Axis Reaper Switch / Black</name_ru>
         <description_ua><p><strong>Механічна клавіатура AULA F75 </strong></p>    <p>AULA F75 — це універсальна клавіатура для роботи, навчання та ігор, що поєднує компактність, ергономіку та сучасні функції.</p>    <p><strong>Основні характеристики:</strong></p>    <ul>   <li>Тип: Механічна клавіатура, 75% форм-фактор </li>   <li>Розкладка: англійська</li>   <li>Підключення: Bluetooth 5.0 / 2.4 ГГц / USB Type-C  </li>   <li>Сумісність: Windows, Mac, iOS, Android, PS, Xbox  </li>   <li>5-шарова система шумопоглинання для комфортного набору тексту  </li>   <li>Мультимедійне колесо для зручного керування гучністю та підсвіткою</li>   <li>Акумулятор: 4000 мА·год, забезпечує тривалий час автономної роботи.</li>  </ul>    <p><strong>RGB-підсвітка:</strong><br />  • 15 режимів  <br />  • 16.8 млн кольорів  <br />  • Музичний режим реагує на ритм відтворюваної музики</p>    <p><strong>Комплектація:</strong></p>    <ul>   <li>Клавіатура AULA F75  </li>   <li>Кабель USB Type-C  </li>   <li>USB-адаптер 2.4 ГГц  </li>   <li>Захисна накладка від пилу  </li>   <li>4 запасні перемикачі  </li>   <li>Пуллер  </li>   <li>Інструкція користувача</li>  </ul></description_ua>
@@ -14864,8 +14864,8 @@
         <param name="Призначення">Для ПК</param>
         <country>Китай</country>
       </offer>
-      <offer id="2080" available="true">
-        <availability_status>available</availability_status>
+      <offer id="2080" available="false">
+        <availability_status>temporarily_unavailable</availability_status>
         <name_ua>Ігрова бездротова механічна клавіатура Aula F108 Pro / Три режими підключення / Caramel Latte Switch / Pink</name_ua>
         <name_ru>Игровая беспроводная механическая клавиатура Aula F108 Pro / Три режима подключения / Caramel Latte Switch / Pink</name_ru>
         <description_ua><p data-end="2209" data-start="2138"><strong data-end="2209" data-start="2138">AULA F108PRO — потужний повнорозмірний інструмент для гри та роботи</strong></p>    <p data-end="2209" data-start="2138"><strong data-end="2209" data-start="2138">Основні характеристики:</strong></p>    <ul>   <li><strong data-end="2253" data-start="2213">Повнорозмірний формат 108 клавіш</strong> — зручне розміщення стрілок, цифрового блоку та мультимедіа.</li>   <li><strong data-end="2342" data-start="2317">Інформаційний дисплей</strong> на верхній панелі: час/дата, індикатор заряду, підключення та режим роботи.</li>   <li><strong data-end="2442" data-start="2421">Обертовий енкодер</strong> — швидке регулювання гучності/яскравості або інші дії (програмується).</li>   <li><strong>Три</strong><strong data-end="2542" data-start="2516"> режими підключення</strong>: 2.4 ГГц <strong data-end="2570" data-start="2556">бездротове</strong> (через ресивер) + <strong data-end="2606" data-start="2589">дротове USB-C</strong> (стабільність і нульова затримка)+ Bluetooth</li>   <li><strong data-end="2673" data-start="2644">Яскраве RGB-підсвічування</strong> з ефектами та можливістю налаштування.</li>   <li><strong data-end="2746" data-start="2715">Програмовані гарячі клавіші</strong> та макроси — під свої задачі в іграх, редакторах, офісі.</li>   <li><strong data-end="2820" data-start="2806">Сумісність</strong>: Windows / macOS / Android.</li>   <li><strong data-end="3036" data-start="3024">Дисплей:</strong> системна інформація (час, батарея, підключення)</li>   <li><strong data-end="3102" data-start="3089">Живлення:</strong> Li-ion 3.7 V</li>   <li><strong data-end="3252" data-start="3235">Автономність:</strong> близько <strong data-end="3271" data-start="3261">10 год</strong> у типовому пресеті підсвітки</li>   <li><strong data-end="3318" data-start="3305">Габарити:</strong> <strong data-end="3352" data-start="3319">445.17 × 138.89 × 41.35 ±1 мм</strong></li>   <li><strong data-end="3392" data-start="3383">Вага:</strong> ~930 г (без кабелю/ресивера) / ~978 г (з кабелем/ресивером)</li>   <li><strong data-end="3475" data-start="3457">Підсвічування:</strong> RGB</li>   <li><strong data-end="3509" data-start="3484">Інтерфейс заряджання:</strong> USB-C</li>  </ul>    <p data-end="3538" data-start="3517"><strong data-end="3538" data-start="3517">Комплектація:</strong></p>    <ul>   <li data-end="3570" data-start="3541">Клавіатура <strong data-end="3568" data-start="3552">AULA F108PRO</strong></li>   <li data-end="3620" data-start="3573">USB-C кабель для заряджання/провідного режиму</li>   <li data-end="3666" data-start="3623">2.4 ГГц ресивер (для бездротового режиму)</li>  </ul></description_ua>
@@ -15915,8 +15915,8 @@
         <param name="Призначення">Геймерські</param>
         <country>Китай</country>
       </offer>
-      <offer id="656" available="false">
-        <availability_status>temporarily_unavailable</availability_status>
+      <offer id="656" available="true">
+        <availability_status>available</availability_status>
         <name_ua>Навушники MCHOSE V9 Pro / Бездротова ігрова гарнітура / 2.4G / Bluetooth з мікрофоном / White</name_ua>
         <name_ru>Наушники MCHOSE V9 Pro / Беспроводная игровая гарнитура / 2.4G / Bluetooth с микрофоном / White</name_ru>
         <description_ua><p><strong data-end="27" data-start="3">MCHOSE V9 Pro</strong><strong>— </strong>бездротова ігрова гарнітура, що дарує максимальний комфорт і точне позиціонування звуків у грі.<br data-end="128" data-start="125" />  53-мм біоцелюлозні драйвери + підтримка 7.1 забезпечують чисте й об’ємне звучання, а ємний акумулятор дозволяє грати <strong data-end="261" data-start="245">до 250 годин</strong> без підзарядки. Must-have аксесуар для стрімів, матчів і щоденних дзвінків!</p>    <h3 data-end="374" data-start="344">Основні характеристики:</h3>    <ul>   <li>Тип підключення: 2.4 ГГц / Bluetooth 5.3 / дротове USB-C</li>   <li>Сумісність: ПК, ноутбук, PS4/PS5, Nintendo Switch, смартфони</li>   <li>Драйвери: 53 мм біоцелюлозні — детальний бас і чисті верхи</li>   <li>Звук: об’ємний 7.1, точне позиціонування кроків і пострілів</li>   <li>Мікрофон: знімний, на гнучкій штанзі, AI-шумопридушення, швидке mute</li>   <li>Керування: коліщатко гучності й кнопки на чаші</li>   <li>Акумулятор: 2000 мА·год, до 250 год роботи</li>   <li>Комфорт: м’які амбушури з пам’яттю форми, регульоване наголів’я, легка посадка</li>   <li>Конструкція: складана, зносостійке покриття </li>  </ul>    <p><strong>Комплектація:</strong></p>    <ul>   <li>Гарнітура MCHOSE V9 Pro </li>   <li>2.4 ГГц USB-A ресивер</li>   <li>Кабель USB</li>   <li>Знімний мікрофон</li>   <li>Інструкція користувача</li>  </ul></description_ua>
