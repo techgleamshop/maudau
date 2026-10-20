@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<yml_catalog date="2026-10-20 03:23">
+<yml_catalog date="2026-10-20 04:23">
   <shop>
     <categories>
       <category id="1082" portal_id="1839">Клавіатури</category>
@@ -1285,8 +1285,8 @@
         <param name="Колір">Чорний</param>
         <param name="Стан">Новий</param>
       </offer>
-      <offer id="595" available="true">
-        <availability_status>available</availability_status>
+      <offer id="595" available="false">
+        <availability_status>temporarily_unavailable</availability_status>
         <name_ua>Металевий USB HUB 8-в-1 - Type-C, USB 3.0, SD/TF, PD, AUX, Сірий</name_ua>
         <name_ru>Металлический USB HUB 8-в-1 - Type-C, USB 3.0, SD/TF, PD, AUX, Серый</name_ru>
         <description_ua><p><strong>  Універсальний металевий USB-хаб 8-в-1 з підтримкою Type-C та USB-A    </strong></p>    <p><strong>Цей USB-хаб — </strong>ідеальне рішення для розширення можливостей ноутбука чи ПК. Завдяки комбінованому підключенню Type-C + USB-A він сумісний майже з будь-яким пристроєм.</p>    <p><strong>Інтерфейси:</strong></p>    <ul>   <li>  USB Type-C  </li>   <li>  USB Type-A  </li>   <li>  4x USB 3.0  </li>   <li>  microSD (TF)  </li>   <li>  SD  </li>   <li>  AUX 3.5 мм  </li>   <li>  Type-C PD</li>  </ul></description_ua>
