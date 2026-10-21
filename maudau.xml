@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<yml_catalog date="2026-10-21 13:23">
+<yml_catalog date="2026-10-21 15:23">
   <shop>
     <categories>
       <category id="1082" portal_id="1839">Клавіатури</category>
@@ -14829,8 +14829,8 @@
         <param name="Тип">Ігрові (геймерські)</param>
         <country>Китай</country>
       </offer>
-      <offer id="2079" available="true">
-        <availability_status>available</availability_status>
+      <offer id="2079" available="false">
+        <availability_status>temporarily_unavailable</availability_status>
         <name_ua>Магнітна клавіатура AULA HERO 68 HE / 60% / Дротове підключення / Dragon King Switch / Purple</name_ua>
         <name_ru>Магнитная клавиатура AULA HERO 68 HE / 60% / Проводное подключение / Dragon King Switch / Purple</name_ru>
         <description_ua><p data-end="1927" data-start="1644"><strong data-end="1669" data-start="1644">AULA HERO 68 HE</strong> — компактна <strong data-end="1689" data-start="1682">60%</strong> клавіатура, створена для максимальної швидкості та контролю.<br data-end="1753" data-start="1750" />  Магнітні <strong data-end="1791" data-start="1762">лінійні свічі Hall Effect</strong> забезпечують надточне спрацювання без дербунсу, а частота опитування <strong data-end="1870" data-start="1861">8 кГц</strong> і відгук <strong data-end="1892" data-start="1880">0.125 мс</strong> миттєво передають кожен рух у гру.</p>    <p data-end="1950" data-start="1929"><strong data-end="1950" data-start="1929">Ключові переваги:</strong></p>    <ul>   <li data-end="1950" data-start="1929"><strong data-end="1986" data-start="1953">Hall Effect (магнітні свічі):</strong> плавний хід, довговічність, висока стабільність і точність натискань</li>   <li data-end="2143" data-start="2060"><strong data-end="2081" data-start="2060">Лінійний профіль:</strong> ідеально для FPS, швидких стрейфів і комбінованих натискань</li>   <li data-end="2207" data-start="2146"><strong data-end="2167" data-start="2146">8 кГц / 0.125 мс:</strong> мінімальна затримка для про-рівня гри</li>   <li data-end="2284" data-start="2210"><strong data-end="2232" data-start="2210">RGB-підсвічування:</strong> багаті ефекти, налаштування яскравості та режимів</li>   <li data-end="2365" data-start="2287"><strong data-end="2303" data-start="2287">PBT-клавіші:</strong> шорстка текстура, не стираються, зберігають символьний друк</li>   <li data-end="2444" data-start="2368"><strong data-end="2397" data-start="2368">Металева позиційна плита:</strong> жорсткість конструкції, тихий та рівний звук</li>   <li data-end="2530" data-start="2447"><strong data-end="2475" data-start="2447">Ергономічний корпус 60%:</strong> більше місця для миші, ідеально для невеликих столів</li>   <li data-end="2615" data-start="2533"><strong data-end="2562" data-start="2533">Повна сумісність та NKRO:</strong> без фантомних натискань під час швидких комбінацій</li>   <li data-end="2699" data-start="2618"><strong data-end="2652" data-start="2618">Підтримка гібридних пристроїв:</strong> ПК/ноутбук, можливі різні сценарії підключення</li>   <li data-end="2863" data-start="2701"><strong data-end="2743" data-start="2728">Тип свічів:</strong> лінійні, магнітні (Hall Effect)</li>   <li data-end="2863" data-start="2701"><strong data-end="2795" data-start="2778">Кому підійде:</strong> FPS/МОВА, стрімери, кіберспорт, ентузіасти мінімалістичних сетапів.</li>  </ul></description_ua>
