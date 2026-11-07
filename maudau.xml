@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<yml_catalog date="2026-11-07 19:23">
+<yml_catalog date="2026-11-07 20:23">
   <shop>
     <categories>
       <category id="1082" portal_id="1839">Клавіатури</category>
@@ -13,6 +13,78 @@
       <category id="1093" portal_id="2675">Кейкапи</category>
     </categories>
     <offers>
+      <offer id="516" available="true">
+        <availability_status>available</availability_status>
+        <name_ua>Ігрова механічна бездротова клавіатура AJAZZ AK820 Pro / Три режими підключення / Gift Switch / Grey</name_ua>
+        <name_ru>Игровая механическая беспроводная клавиатура AJAZZ AK820 Pro / Три режима подключения / Gift Switch / Grey</name_ru>
+        <description_ua><p><strong>Механічна клавіатура Ajazz AK820 Pro</strong></p>    <p>Ajazz AK820 Pro — клавіатура з TFT-дисплеєм, трьома режимами підключення та продуманим дизайном для комфортної роботи і гри.</p>    <p><strong>Основні характеристики:</strong></p>    <ul>   <li>Екран: 0.85” TFT — заряд, час, тип з'єднання, RGB  </li>   <li>Підключення: USB-C / Bluetooth 5.1 / 2.4GHz Wireless  </li>   <li>Акумулятор: 4000 mAh  </li>   <li>Кейкапи: PBT, OEM профіль  </li>   <li>Монтаж: Gasket + Flex-cut  </li>   <li>RGB-підсвічування: 1.6 млн кольорів  </li>   <li>Хотсвап: підтримка зміни перемикачів  </li>   <li>Платформа: Mac / Window</li>  </ul>    <p><strong>Особливості:</strong></p>    <ul>   <li>Швидке перемикання між режимами  </li>   <li>Налаштування RGB та функцій прямо з дисплея  </li>   <li>Плавний набір без вібрацій  </li>   <li>Plate-mounted стабілізатори  </li>   <li>Енкодер для керування звуком</li>  </ul></description_ua>
+        <description_ru><p><strong>Механическая клавиатура Ajazz AK820 Pro</strong></p>    <p>Ajazz AK820 Pro — клавиатура с TFT-дисплеем, тремя режимами подключения и продуманным дизайном для комфортной работы и игры.</p>    <p><strong>Основные характеристики:</strong></p>    <ul>   <li>Экран: 0,85” TFT — заряд, время, тип соединения, RGB  </li>   <li>Подключение: USB-C / Bluetooth 5.1 / 2,4 ГГц Wireless  </li>   <li>Аккумулятор: 4000 мАч  </li>   <li>Кейкапы: PBT, OEM профиль  </li>   <li>Монтаж: Gasket + Flex-cut  </li>   <li>RGB-подсветка: 1,6 млн цветов  </li>   <li>Хотсвап: поддержка смены переключателей  </li>   <li>Платформа: Mac / Window</li>  </ul>    <p><strong>Особенности:</strong></p>    <ul>   <li>Быстрое переключение между режимами  </li>   <li>Настройка RGB и функций прямо с дисплея  </li>   <li>Плавный набор без вибраций  </li>   <li>Plate-mounted стабилизаторы  </li>   <li>Энкодер для управления звуком</li>  </ul></description_ru>
+        <price>2599</price>
+        <old_price>3199</old_price>
+        <categoryId>1082</categoryId>
+        <vendor>Ajazz</vendor>
+        <picture>https://techgleam.com.ua/content/images/17/92189704769828_%2Bd523971fdd.jpg</picture>
+        <picture>https://techgleam.com.ua/content/images/17/34850046643959_%2Bd52dbdd3df.jpg</picture>
+        <picture>https://techgleam.com.ua/content/images/17/59711399557306_%2B095034f2f3.jpg</picture>
+        <picture>https://techgleam.com.ua/content/images/17/37910971797102_%2B768ad3a42e.jpg</picture>
+        <picture>https://techgleam.com.ua/content/images/17/12119937203114_%2B6f36c7d963.jpg</picture>
+        <picture>https://techgleam.com.ua/content/images/17/60905091298950_%2B45d931b946.jpg</picture>
+        <param name="Гарантія">1 місяць</param>
+        <param name="Колір">Сірий</param>
+        <param name="Конструкція клавіш">Механічна</param>
+        <param name="Підключення">Комбіноване</param>
+        <param name="Інтерфейс підключення">Bluetooth</param>
+        <param name="Інтерфейс підключення">Радіоінтерфейс</param>
+        <param name="Інтерфейс підключення">USB</param>
+        <param name="Розкладка">Eng</param>
+        <param name="Форм-фактор">Компактні</param>
+        <param name="Колір підсвічування">RGB</param>
+        <param name="Підсвічування клавіш">Є</param>
+        <param name="Матеріал корпусу">Пластик</param>
+        <param name="Живлення">Акумулятор</param>
+        <param name="Сумісність з ОС">Windows</param>
+        <param name="Сумісність з ОС">Mac OS</param>
+        <param name="Сумісність з ОС">Linux</param>
+        <param name="Стан">Новий</param>
+        <param name="Комплектація">Клавіатура</param>
+        <param name="Призначення">Для ПК</param>
+        <param name="Вид">Ігрові</param>
+        <country>Китай</country>
+      </offer>
+      <offer id="520" available="true">
+        <availability_status>available</availability_status>
+        <name_ua>Ігрова магнітна клавіатура Attack Shark X68 / Дротове підключення / Magnetic Switch / White</name_ua>
+        <name_ru>Игровая магнитная клавиатура Attack Shark X68 / Проводное подключение / Magnetic Switch / White</name_ru>
+        <description_ua><p><strong>Магнітна клавіатура ATTACK SHARK X68 HE </strong></p>    <p>ATTACK SHARK X68 HE — компактна магнітна клавіатура для геймерів та користувачів, яким потрібна максимальна швидкість, чутливість та точність у кожному натисканні.</p>    <p><strong>Основні характеристики:</strong></p>    <ul>   <li>Тип: Магнітна клавіатура (Hall Effect), 65%, 66 клавіш  </li>   <li>Перемикачі: Магнітні, Hot-Swappable  </li>   <li>Підключення: USB-C  </li>   <li>Polling Rate: 8000 Гц  </li>   <li>Rapid Trigger: чутливість від 0.01 мм  </li>   <li>Кейкапи: PBT Double-shot  </li>   <li>Підсвітка: RGB, 16 млн кольорів</li>  </ul>    <p><strong>Особливості:</strong></p>    <ul>   <li>Підтримка Snap Tap, Mod-Tap, Toggle Key, DKS  </li>   <li>Регулювання точки спрацювання (0.1–3.4 мм)  </li>   <li>Унікальний світловий ефект при натисканні  </li>   <li>Повне налаштування через веб-драйвер  </li>   <li>Вбудована памʼять для профілів</li>  </ul>    <p><strong>Комплектація:</strong></p>    <ul>   <li>Клавіатура ATTACK SHARK X68 HE  </li>   <li>Інструмент для зняття кейкапів та перемикачів  </li>   <li>Кабель USB-C  </li>   <li>Інструкція користувача</li>  </ul>    <p>Вага: 600 г  <br />  Розміри: 10,2 x 3,8 x 29,1 см</p></description_ua>
+        <description_ru><p><strong>Магнитная клавиатура ATTACK SHARK X68 HE </strong></p>    <p>ATTACK SHARK X68 HE — компактная магнитная клавиатура для геймеров и пользователей, которым нужна максимальная скорость, чувствительность и точность при каждом нажатии.</p>    <p><strong>Основные характеристики:</strong></p>    <ul>   <li>Тип: Магнитная клавиатура (Hall Effect), 65%, 66 клавиш</li>   <li>Переключатели: Магнитные, Hot-Swappable</li>   <li>Подключение: USB-C</li>   <li>Polling Rate: 8000 Гц</li>   <li>Rapid Trigger: чувствительность от 0,01 мм</li>   <li>Кейкапы: PBT Double-shot</li>   <li>Подсветка: RGB, 16 млн цветов</li>  </ul>    <p><strong>Особенности:</strong></p>    <ul>   <li>Поддержка Snap Tap, Mod-Tap, Toggle Key, DKS</li>   <li>Регулировка точки срабатывания (0,1–3,4 мм)</li>   <li>Уникальный световой эффект при нажатии</li>   <li>Полная настройка через веб-драйвер</li>   <li>Встроенная память для профилей</li>  </ul>    <p><strong>Комплектация:</strong></p>    <ul>   <li>Клавиатура ATTACK SHARK X68 HE</li>   <li>Инструмент для снятия кейкапов и переключателей</li>   <li>Кабель USB-C</li>   <li>Инструкция пользователя</li>  </ul>    <p>Вес: 600 г</p>    <p>Размеры: 10,2 x 3,8 x 29,1 см</p></description_ru>
+        <price>2399</price>
+        <old_price>2699</old_price>
+        <categoryId>1082</categoryId>
+        <vendor>Attack Shark</vendor>
+        <picture>https://techgleam.com.ua/content/images/21/83707614733849_%2B9802827f27.jpg</picture>
+        <picture>https://techgleam.com.ua/content/images/21/54489569455003_%2B6c83b533c3.jpg</picture>
+        <picture>https://techgleam.com.ua/content/images/21/98207765172936_%2Bad7f9fa050.jpg</picture>
+        <picture>https://techgleam.com.ua/content/images/21/64884114280091_%2Bcb6e3bf1a1.jpg</picture>
+        <picture>https://techgleam.com.ua/content/images/21/57074229703462_%2B75e81c58f3.jpg</picture>
+        <param name="Гарантія">3 місяці</param>
+        <param name="Колір">Білий</param>
+        <param name="Конструкція клавіш">Магнітна</param>
+        <param name="Підключення">Дротове</param>
+        <param name="Інтерфейс підключення">USB Type-C</param>
+        <param name="Розкладка">Eng</param>
+        <param name="Форм-фактор">Компактні</param>
+        <param name="Колір підсвічування">RGB</param>
+        <param name="Підсвічування клавіш">Є</param>
+        <param name="Матеріал корпусу">Пластик</param>
+        <param name="Сумісність з ОС">Windows</param>
+        <param name="Сумісність з ОС">Mac OS</param>
+        <param name="Сумісність з ОС">Linux</param>
+        <param name="Стан">Новий</param>
+        <param name="Комплектація">Клавіатура</param>
+        <param name="Призначення">Для ПК</param>
+        <param name="Вид">Ігрові</param>
+        <country>Китай</country>
+      </offer>
       <offer id="534" available="true">
         <availability_status>available</availability_status>
         <name_ua>Ігрова магнітна клавіатура Attack Shark X82 Pro / Три режими підключення / Magnetic Switch / White</name_ua>
@@ -336,6 +408,42 @@
         <param name="Вид">Ігрові</param>
         <country>Китай</country>
       </offer>
+      <offer id="711" available="true">
+        <availability_status>available</availability_status>
+        <name_ua>Ігрова дротова магнітна клавіатура Attack Shark R82 / Дротове підключення / Magnetic Switch / Black</name_ua>
+        <name_ru>Игровая проводная магнитная клавиатура Attack Shark R82 / Проводное подключение / Magnetic Switch / Black</name_ru>
+        <description_ua><p data-end="2328" data-start="1932"><strong data-end="1955" data-start="1932">ATTACK SHARK R82 HE</strong> — це <strong data-end="1997" data-start="1961">компактна 75% дротова клавіатура</strong> на <strong data-end="2033" data-start="2001">магнітних Hall-effect свічах</strong> із фокусом на швидкість, точність і кастомізацію.<br data-end="2086" data-start="2083" />  Завдяки <strong data-end="2131" data-start="2094">Rapid Trigger з точністю 0.005 мм</strong> і частоті опитування <strong data-end="2174" data-start="2153">8000 Гц (0.08 мс)</strong> клавіатура миттєво фіксує кожну дію та дозволяє повторно спрацьовувати без повного відпускання — ідеально для FPS, ритм-ігор та кіберспортивної динаміки.</p>    <h3 data-end="2350" data-start="2330">Основні характеристики:</h3>    <ul>   <li data-end="2439" data-start="2353"><strong data-end="2374" data-start="2353">Hall-effect свічі</strong> — плавний хід, надійність, відсутність механічного “дебаунсу”.</li>   <li data-end="2530" data-start="2442"><strong data-end="2468" data-start="2442">Rapid Trigger 0.005 мм</strong> — ультрашвидкі повторні спрацювання та мінімальна затримка.</li>   <li data-end="2613" data-start="2533"><strong data-end="2561" data-start="2533">Polling 8000 Гц (0.08 мс)</strong> — стабільне опитування для максимальної чуйності.</li>   <li data-end="2695" data-start="2616"><strong data-end="2660" data-start="2616">Регульована точка спрацювання 0.1–3.4 мм</strong> — під себе, під гру чи завдання.</li>   <li data-end="2793" data-start="2698">Підтримка <strong data-end="2752" data-start="2708">Snap Tap / Last Keystroke Prioritization</strong> — пріоритизація останнього натискання.</li>   <li data-end="2896" data-start="2796"><strong data-end="2832" data-start="2796">DKS (One Key — Multiple Actions)</strong>, <strong data-end="2840" data-start="2834">MT</strong>, <strong data-end="2849" data-start="2842">TGL</strong> — одна клавіша, кілька дій, шарові сценарії.</li>   <li data-end="2971" data-start="2899"><strong data-end="2933" data-start="2899">5-шарова акустична оптимізація</strong> — чистіший звук, приємніший фідбек.</li>   <li data-end="3032" data-start="2974"><strong data-end="2991" data-start="2974">RGB-підсвітка</strong> з ефектами та гнучкими налаштуваннями.</li>   <li data-end="3124" data-start="3035"><strong data-end="3068" data-start="3035">Web-драйвер + on-board memory</strong> — профілі та макроси зберігаються прямо в клавіатурі.</li>   <li data-end="3201" data-start="3127"><strong data-end="3151" data-start="3127">NKRO / Anti-Ghosting</strong> — коректна реєстрація натискань у пікові моменти.</li>   <li data-end="3201" data-start="3127"><strong data-end="3219" data-start="3203">Підключення:</strong> дротове, <strong data-end="3238" data-start="3229">USB-C</strong>.</li>   <li data-end="3201" data-start="3127"><strong data-end="3258" data-start="3242">Форм-фактор:</strong> <strong data-end="3266" data-start="3259">75%</strong> (повноцінні стрілки та ряд F-клавіш).</li>   <li data-end="3201" data-start="3127"><strong data-end="3322" data-start="3307">Сумісність:</strong> Windows / macOS (через стандартні драйвери; веб-інструменти керування).</li>   <li data-end="3201" data-start="3127"><strong data-end="3410" data-start="3397">Комплект:</strong> клавіатура ATTACK SHARK R82 HE, кабель USB-C, інструкція.</li>  </ul>    <p data-end="3201" data-start="3127">Якщо вам потрібна надточна клавіатура з магнітними свічами, гнучкою актуацією та режимами на кшталт <strong data-end="3581" data-start="3574">DKS</strong> — <strong data-end="3594" data-start="3584">R82 HE</strong> створена для швидкості та перемог.</p></description_ua>
+        <description_ru><p><strong>ATTACK SHARK R82 HE – это компактная 75% проводная клавиатура на магнитных Hall-effect свечах с фокусом на скорость, точность и кастомизацию.</strong><br />  Благодаря Rapid Trigger с точностью 0.005 мм и частоте опроса 8000 Гц (0.08 мс), клавиатура мгновенно фиксирует каждое действие и позволяет повторно срабатывать без полного отпуска — идеально для FPS, ритм-игр и киберспортивной динамики.</p>    <p><strong>Основные характеристики:</strong></p>    <ul>   <li>Hall-effect свечи — плавный ход, надежность, отсутствие механического дебаунса.</li>   <li>Rapid Trigger 0.005 мм — ультрабыстрые повторные срабатывания и минимальная задержка.</li>   <li>Polling 8000 Гц (0.08 мс) — стабильный опрос для максимальной отзывчивости.</li>   <li>Регулируемая точка срабатывания 0.1–3.4 мм – под себя, под игру или задания.</li>   <li>Поддержка Snap Tap / Last Keystroke Prioritization — приоритет последнего нажатия.</li>   <li>DKS (One Key — Multiple Actions), MT, TGL — одна клавиша, несколько действий, шаровые сценарии.</li>   <li>5-слойная акустическая оптимизация — более чистый звук, более приятный фидбек.</li>   <li>RGB-подсветка с эффектами и гибкими настройками.</li>   <li>Web-драйвер + on-board memory – профили и макросы хранятся прямо в клавиатуре.</li>   <li>NKRO / Anti-Ghosting – корректная регистрация нажатий в пиковые моменты.</li>   <li>Подключение: проводное, USB-C.</li>   <li>Форм-фактор: 75% (полноценные стрелки и ряд F-клавиш).</li>   <li>Совместимость: Windows/macOS (через стандартные драйверы; веб-инструменты управления).</li>   <li>Комплект: клавиатура ATTACK SHARK R82 HE, кабель USB-C, инструкция.</li>  </ul>    <p>Если вам нужна сверхточная клавиатура с магнитными свечами, гибкой актуацией и режимами типа DKS — R82 HE создана для скорости и побед.</p></description_ru>
+        <price>2699</price>
+        <old_price>3199</old_price>
+        <categoryId>1082</categoryId>
+        <vendor>Attack Shark</vendor>
+        <picture>https://techgleam.com.ua/content/images/12/64043419020846_%2B821edfd035.jpg</picture>
+        <picture>https://techgleam.com.ua/content/images/12/31582098789009_%2Bf5c3a80568.jpg</picture>
+        <picture>https://techgleam.com.ua/content/images/12/12074405055782_%2B2a93685df6.jpg</picture>
+        <picture>https://techgleam.com.ua/content/images/12/66409074529670_%2Bbe0d06bf6c.jpg</picture>
+        <picture>https://techgleam.com.ua/content/images/12/74353734785911_%2B74a9260d58.jpg</picture>
+        <picture>https://techgleam.com.ua/content/images/12/12094532921613_%2Bb54732832d.jpg</picture>
+        <picture>https://techgleam.com.ua/content/images/12/11252532243449_%2B303c572ae2.jpg</picture>
+        <param name="Гарантія">3 місяці</param>
+        <param name="Колір">Чорний</param>
+        <param name="Конструкція клавіш">Магнітна</param>
+        <param name="Підключення">Дротове</param>
+        <param name="Інтерфейс підключення">USB Type-C</param>
+        <param name="Розкладка">Eng</param>
+        <param name="Форм-фактор">Компактні</param>
+        <param name="Колір підсвічування">RGB</param>
+        <param name="Підсвічування клавіш">Є</param>
+        <param name="Матеріал корпусу">Пластик</param>
+        <param name="Сумісність з ОС">Windows</param>
+        <param name="Сумісність з ОС">Mac OS</param>
+        <param name="Сумісність з ОС">Linux</param>
+        <param name="Стан">Новий</param>
+        <param name="Комплектація">Клавіатура</param>
+        <param name="Призначення">Для ПК</param>
+        <param name="Вид">Ігрові</param>
+        <country>Китай</country>
+      </offer>
       <offer id="723" available="true">
         <availability_status>available</availability_status>
         <name_ua>Ігрова мишка ATTACK SHARK X3 / Три режими підключення / Сенсор PAW3395 / 49 г / Red</name_ua>
@@ -460,46 +568,6 @@
         <param name="Роздільна здатність сенсора">Понад 20000 dpi</param>
         <param name="Стан">Новий</param>
         <param name="Тип">Ігрові (геймерські)</param>
-        <country>Китай</country>
-      </offer>
-      <offer id="985" available="true">
-        <availability_status>available</availability_status>
-        <name_ua>Ігрова механічна клавіатура Attack Shark X66 / 60% / Три режими підключення / Strawberry Switch / Pink</name_ua>
-        <name_ru>Игровая механическая клавиатура Attack Shark X66 / 60% / Три режима подключения / Strawberry Switch / Pink</name_ru>
-        <description_ua><p><strong>Attack Shark X66 — 60% механічна клавіатура з RGB та металевим регулятором гучності</strong></p>    <p>Максимум стилю, кастомізації й портативності! X66 — це вибір для геймерів і ентузіастів, які цінують якість, дизайн і тишу при наборі.</p>    <p><strong>Основні характеристики:  </strong></p>    <ul>   <li>Формат: 60% (66 клавіш)  </li>   <li>Tип перемикачів: Лінійні Strawberry (попередньо змащені)  </li>   <li>Конструкція: Gasket + 5-шарова система шумопоглинання  </li>   <li>Підключення: Bluetooth / 2.4 ГГц / USB Type-C  </li>   <li>Регулятор гучності: металевий, з анодованим покриттям  </li>   <li>Hot-Swap: підтримка 3-pin / 5-pin  </li>   <li>RGB-підсвітка: 16.8 млн кольорів, 18 ефектів, музичний режим  </li>   <li>Матеріал кейкапів: PBT із боковим друком  </li>   <li>PCB: подвійне чорне масло з прорізами під кожну клавішу  </li>   <li>Акумулятор: 3000 мАг, індикація заряду через FN + Backspace  </li>   <li>Сумісність: Windows / macOS (перемикається однією кнопкою)  </li>  </ul>    <p><strong>Комплектація:  </strong></p>    <ul>   <li>Клавіатура Attack Shark X66  </li>   <li>USB Type-C кабель  </li>   <li>Бездротовий ресивер 2.4 ГГц  </li>   <li>Інструкція користувача</li>   <li>Пулер</li>  </ul></description_ua>
-        <description_ru><p>Attack Shark X66 – 60% механическая клавиатура с RGB и металлическим регулятором громкости</p>    <p>Максимум стиля, кастомизации и портативности! X66 – это выбор для геймеров и энтузиастов, ценящих качество, дизайн и тишину при наборе.</p>    <p>Основные характеристики:</p>    <ul>   <li>Формат: 60% (66 клавиш)</li>   <li>Тип переключателей: Линейные Strawberry (предварительно смазанные)</li>   <li>Конструкция: Gasket + 5-слойная система шумопоглощения</li>   <li>Подключение: Bluetooth/2.4 ГГц/USB Type-C</li>   <li>Регулятор громкости: металлический, с анодированным покрытием</li>   <li>Hot-Swap: поддержка 3-pin/5-pin</li>   <li>RGB-подсветка: 16.8 млн цветов, 18 эффектов, музыкальный режим</li>   <li>Материал кейкапов: PBT с боковой печатью</li>   <li>PCB: двойное черное масло с прорезями под каждую клавишу</li>   <li>Аккумулятор: 3000 мАч, индикация заряда через FN+Backspace</li>   <li>Совместимость: Windows/macOS (переключается одной кнопкой)</li>  </ul>    <p>Комплектация:</p>    <ul>   <li>Клавиатура Attack Shark X66</li>   <li>USB Type-C кабель</li>   <li>Беспроводной ресивер 2.4 ГГц</li>   <li>Руководство пользователя</li>   <li>Пуллер</li>  </ul></description_ru>
-        <price>2399</price>
-        <old_price>2699</old_price>
-        <categoryId>1082</categoryId>
-        <vendor>Attack Shark</vendor>
-        <picture>https://techgleam.com.ua/content/images/36/igrovaja-mexanicheskaja-klaviatura-attack-shark-x66-60-tri-rezhima-podkluchenija-strawberry-switch-pink-42527542987294_%2Babbf8afc58.jpg</picture>
-        <picture>https://techgleam.com.ua/content/images/36/igrovaja-mexanicheskaja-klaviatura-attack-shark-x66-60-tri-rezhima-podkluchenija-strawberry-switch-pink-31141395616171_%2Baa33ca8d5d.jpg</picture>
-        <picture>https://techgleam.com.ua/content/images/36/igrovaja-mexanicheskaja-klaviatura-attack-shark-x66-60-tri-rezhima-podkluchenija-strawberry-switch-pink-48524456326872_%2B4a1d0f8090.jpg</picture>
-        <picture>https://techgleam.com.ua/content/images/36/igrovaja-mexanicheskaja-klaviatura-attack-shark-x66-60-tri-rezhima-podkluchenija-strawberry-switch-pink-88179278589269_%2Bb5e8aa8d74.jpg</picture>
-        <picture>https://techgleam.com.ua/content/images/36/igrovaja-mexanicheskaja-klaviatura-attack-shark-x66-60-tri-rezhima-podkluchenija-strawberry-switch-pink-47307121124939_%2Bb66d7a16a4.jpg</picture>
-        <picture>https://techgleam.com.ua/content/images/36/igrovaja-mexanicheskaja-klaviatura-attack-shark-x66-60-tri-rezhima-podkluchenija-strawberry-switch-pink-29149455090024_%2B1c575d8685.jpg</picture>
-        <picture>https://techgleam.com.ua/content/images/36/igrovaja-mexanicheskaja-klaviatura-attack-shark-x66-60-tri-rezhima-podkluchenija-strawberry-switch-pink-82344970820494_%2B558848ef80.jpg</picture>
-        <picture>https://techgleam.com.ua/content/images/36/igrovaja-mexanicheskaja-klaviatura-attack-shark-x66-60-tri-rezhima-podkluchenija-strawberry-switch-pink-56829034061843_%2Bae02ff35d2.jpg</picture>
-        <picture>https://techgleam.com.ua/content/images/36/igrovaja-mexanicheskaja-klaviatura-attack-shark-x66-60-tri-rezhima-podkluchenija-strawberry-switch-pink-58703820768231_%2Bec68f6b597.jpg</picture>
-        <param name="Гарантія">3 місяці</param>
-        <param name="Колір">Рожевий</param>
-        <param name="Конструкція клавіш">Механічна</param>
-        <param name="Підключення">Комбіноване</param>
-        <param name="Інтерфейс підключення">Bluetooth</param>
-        <param name="Інтерфейс підключення">Радіоінтерфейс</param>
-        <param name="Інтерфейс підключення">USB</param>
-        <param name="Розкладка">Eng</param>
-        <param name="Форм-фактор">Компактні</param>
-        <param name="Колір підсвічування">RGB</param>
-        <param name="Підсвічування клавіш">Є</param>
-        <param name="Матеріал корпусу">Пластик</param>
-        <param name="Сумісність з ОС">Windows</param>
-        <param name="Сумісність з ОС">Mac OS</param>
-        <param name="Сумісність з ОС">Chrome OS</param>
-        <param name="Стан">Новий</param>
-        <param name="Комплектація">Клавіатура</param>
-        <param name="Призначення">Для ПК</param>
-        <param name="Вид">Ігрові</param>
         <country>Китай</country>
       </offer>
       <offer id="1043" available="true">
@@ -782,6 +850,41 @@
         <param name="Роздільна здатність сенсора">16001 - 20000 dpi</param>
         <param name="Стан">Новий</param>
         <param name="Тип">Ігрові (геймерські)</param>
+        <country>Китай</country>
+      </offer>
+      <offer id="1627" available="true">
+        <availability_status>available</availability_status>
+        <name_ua>Ігрова дротова магнітна клавіатура Ajazz AK029 / Ice Island Switch / White Lines</name_ua>
+        <name_ru>Игровая проводная магнитная клавиатура Ajazz AK029 / Ice Island Switch / White Lines</name_ru>
+        <description_ua><p data-end="2083" data-start="1756"><strong data-end="1771" data-start="1756">AJAZZ AK029</strong> — це <strong data-end="1812" data-start="1777">компактна дротова клавіатура</strong> на <strong data-end="1829" data-start="1816">29 клавіш </strong>на <strong data-end="1880" data-start="1846">магнітних Ice Island</strong> Switch<b> </b>.<br data-end="1884" data-start="1881" />  Завдяки <strong data-end="1926" data-start="1892">регульованій точці спрацювання</strong> та <strong data-end="1954" data-start="1930">режиму Rapid Trigger</strong> кожне натискання/відпускання фіксується швидше й точніше, що особливо корисно в FPS, ритм-іграх і для гарячих дій у застосунках.</p>    <h3 data-end="2105" data-start="2085">Основні характеристики:</h3>    <ul>   <li data-end="2210" data-start="2108"><strong data-end="2138" data-start="2108">Магнітні Ice Island Switch</strong> — плавний хід, висока надійність, відсутність механічного “дебаунсу”.</li>   <li data-end="2210" data-start="2108"><strong data-end="2246" data-start="2213">Регульована точка спрацювання</strong> + <strong data-end="2266" data-start="2249">Rapid Trigger</strong> — швидкі повторні спрацювання без повного відпускання клавіші.</li>   <li data-end="2210" data-start="2108"><strong data-end="2366" data-start="2334">Форм-фактор ≈20% (29 клавіш)</strong> — мінімум місця, максимум продуктивності для макросів і хоткеїв.</li>   <li data-end="2210" data-start="2108"><strong data-end="2453" data-start="2436">RGB-підсвітка</strong> з ефектами та налаштуваннями яскравості/швидкості.</li>   <li data-end="2210" data-start="2108"><strong data-end="2540" data-start="2509">USB-C (дротове підключення)</strong> — стабільний зв’язок і низька затримка.</li>   <li data-end="2210" data-start="2108"><strong data-end="2617" data-start="2585">ПЗ із профілями та макросами</strong> — швидка автоматизація дій у іграх і професійних програмах.</li>   <li data-end="2210" data-start="2108"><strong data-end="2862" data-start="2846">У комплекті:</strong> кейпад AJAZZ AK029, кабель USB-C, інструкція.</li>   <li data-end="2210" data-start="2108"><strong data-end="2928" data-start="2913">Сумісність:</strong> Windows / macOS та інші ОС із підтримкою стандартних USB-клавіатур.</li>   <li data-end="2210" data-start="2108"><strong>Кейкапи</strong>: Double Shot PBT / профіль Cherry</li>   <li data-end="2210" data-start="2108"><strong>RT / Scan Rate:</strong> 0.01 мм / key, 128 кГц (8 кГц)</li>   <li data-end="2210" data-start="2108"><strong>Розміри: </strong>155х122х33 мм</li>   <li data-end="2210" data-start="2108"><strong>Вага</strong>: 300 г</li>  </ul></description_ua>
+        <description_ru><p><strong>AJAZZ AK029 — это компактная проводная клавиатура на 29 клавиш на магнитных Ice Island Switch.</strong><br />  Благодаря регулируемой точке срабатывания и режиму Rapid Trigger каждое нажатие/отпуск фиксируется быстрее и точнее, что особенно полезно в FPS, ритм-играх и для горячих действий в приложениях.</p>    <p><strong>Основные характеристики:</strong></p>    <ul>   <li>Магнитные Ice Island Switch — плавный ход, высокая надежность, отсутствие механического &quot;дебаунса&quot;.</li>   <li>Регулируемая точка срабатывания + Rapid Trigger – быстрые повторные срабатывания без полного отпускания клавиши.</li>   <li>Форм-фактор ≈20% (29 клавиш) — минимум места, максимум производительности для макросов и хоткеев.</li>   <li>RGB-подсветка с эффектами и настройками яркости/скорости.</li>   <li>USB-C (проводное подключение) — стабильная связь и низкая задержка.</li>   <li>ПО с профилями и макросами — быстрая автоматизация действий в играх и профессиональных программах.</li>   <li>В комплекте: кейпад AJAZZ AK029, кабель USB-C, инструкция.</li>   <li>Совместимость: Windows/macOS и другие ОС с поддержкой стандартных USB-клавиатур.</li>   <li>Кейкапы: Double Shot PBT / профиль Cherry</li>   <li>RT/Scan Rate: 0.01 мм/key, 128 кГц (8 кГц)</li>   <li>Размеры: 155х122х33 мм</li>   <li>Вес: 300 г</li>  </ul></description_ru>
+        <price>1500</price>
+        <old_price>1800</old_price>
+        <categoryId>1082</categoryId>
+        <vendor>Ajazz</vendor>
+        <picture>https://techgleam.com.ua/content/images/28/igrovaja-provodnaja-magnitnaja-klaviatura-ajazz-ak029-ice-island-switch-white-lines-90508915245077_%2Bf81270578b.jpg</picture>
+        <picture>https://techgleam.com.ua/content/images/28/igrovaja-provodnaja-magnitnaja-klaviatura-ajazz-ak029-ice-island-switch-white-lines-99139379533102_%2B08674b2830.jpg</picture>
+        <picture>https://techgleam.com.ua/content/images/28/igrovaja-provodnaja-magnitnaja-klaviatura-ajazz-ak029-ice-island-switch-white-lines-76197359606806_%2Bb6df7a3980.jpg</picture>
+        <picture>https://techgleam.com.ua/content/images/28/igrovaja-provodnaja-magnitnaja-klaviatura-ajazz-ak029-ice-island-switch-white-lines-51203089974310_%2B44d723f94e.jpg</picture>
+        <picture>https://techgleam.com.ua/content/images/28/igrovaja-provodnaja-magnitnaja-klaviatura-ajazz-ak029-ice-island-switch-white-lines-80177765468261_%2Bb39a0e430c.jpg</picture>
+        <picture>https://techgleam.com.ua/content/images/28/igrovaja-provodnaja-magnitnaja-klaviatura-ajazz-ak029-ice-island-switch-white-lines-38391295103289_%2B8c2cef07d5.jpg</picture>
+        <param name="Гарантія">1 місяць</param>
+        <param name="Колір">Білий</param>
+        <param name="Конструкція клавіш">Магнітна</param>
+        <param name="Підключення">Дротове</param>
+        <param name="Інтерфейс підключення">USB Type-C</param>
+        <param name="Розкладка">Eng</param>
+        <param name="Форм-фактор">Ультракомпактні</param>
+        <param name="Колір підсвічування">RGB</param>
+        <param name="Підсвічування клавіш">Є</param>
+        <param name="Матеріал корпусу">Пластик</param>
+        <param name="Сумісність з ОС">Windows</param>
+        <param name="Сумісність з ОС">Mac OS</param>
+        <param name="Сумісність з ОС">Linux</param>
+        <param name="Стан">Новий</param>
+        <param name="Комплектація">Клавіатура</param>
+        <param name="Призначення">Для ПК</param>
+        <param name="Вид">Ігрові</param>
         <country>Китай</country>
       </offer>
       <offer id="1650" available="true">
@@ -2339,6 +2442,35 @@
         <param name="Сумісність з ОС">Linux</param>
         <param name="Стан">Новий</param>
       </offer>
+      <offer id="2029" available="true">
+        <availability_status>available</availability_status>
+        <name_ua>Ігрова бездротова мишка MCHOSE K7 V2 Ultra+ / Три режими підключення / Сенсор PAW3955 TI / 50000 DPI / 8000 Гц / магнітна RGB док-станція / Blue</name_ua>
+        <name_ru>Игровая беспроводная мышь MCHOSE K7 V2 Ultra+ / Три режима подключения / Сенсор PAW3955 TI / 50000 DPI / 8000 Гц / магнитная RGB док-станция / Blue</name_ru>
+        <description_ua><p data-end="670" data-start="372"><strong data-end="419" data-start="372">Ігрова бездротова мишка MCHOSE K7 V2 Ultra+</strong> — продуктивна модель для динамічних ігор і щоденної роботи, оснащена флагманським сенсором PAW3955 TI з роздільною здатністю до 50 000 DPI. Частота опитування до 8000 Гц у дротовому та бездротовому режимах забезпечує швидке й точне відстеження рухів.</p>    <p data-end="901" data-start="672">Мишка працює на базі контролера Nordic 54L і технології MCHOSE TOPSPEED Wireless 2.0, що підтримує стабільне з’єднання з мінімальною затримкою. Доступні три режими підключення: USB-кабель, бездротовий зв’язок 2,4 ГГц і Bluetooth.</p>    <p data-end="1140" data-start="903">Симетричний корпус вагою близько 59 г підходить для середньої та великої руки. Покриття Super Glide Glass-Like Coating 2.0 забезпечує приємне ковзання долоні, а механічні перемикачі Omron розраховані на ресурс до 100 мільйонів натискань.</p>    <p data-end="1329" data-start="1142">У комплект входить магнітна RGB док-станція для зручного заряджання. Акумулятор місткістю 500 мА·год забезпечує до 385 годин автономної роботи залежно від вибраного режиму та налаштувань.</p>    <p data-end="1350" data-start="1331"><strong data-end="1350" data-start="1331">Характеристики:</strong></p>    <ul>   <li data-end="1387" data-start="1352">Тип товару: ігрова бездротова мишка</li>   <li data-end="1402" data-start="1389">Бренд: MCHOSE</li>   <li data-end="1424" data-start="1404">Модель: K7 V2 Ultra+</li>   <li data-end="1451" data-start="1426">Форма корпусу: симетрична</li>   <li data-end="1498" data-start="1453">Рекомендований розмір руки: середня та велика</li>   <li data-end="1525" data-start="1500">Сенсор: PixArt PAW3955 TI</li>   <li data-end="1573" data-start="1527">Максимальна роздільна здатність: до 50 000 DPI</li>   <li data-end="1641" data-start="1575">Частота опитування: до 8000 Гц у дротовому та бездротовому режимах</li>   <li data-end="1664" data-start="1643">Контролер: Nordic 54L</li>   <li data-end="1717" data-start="1666">Бездротова технологія: MCHOSE TOPSPEED Wireless 2.0</li>   <li data-end="1759" data-start="1719">Платформа: MCHOSE Shadow Hunter Solution</li>   <li data-end="1806" data-start="1761">Режими підключення: USB / 2,4 ГГц / Bluetooth</li>   <li data-end="1845" data-start="1808">Бездротовий приймач: 8K Nano Receiver</li>   <li data-end="1890" data-start="1847">Перемикачі основних кнопок: механічні Omron</li>   <li data-end="1938" data-start="1892">Ресурс перемикачів: до 100 мільйонів натискань</li>   <li data-end="1992" data-start="1940">Енкодер колеса прокручування: TTC Gold Wheel Encoder</li>   <li data-end="2046" data-start="1994">Покриття корпусу: Super Glide Glass-Like Coating 2.0</li>   <li data-end="2070" data-start="2048">Акумулятор: 500 мА·год</li>   <li data-end="2130" data-start="2072">Автономність: до 385 годин залежно від режиму використання</li>   <li data-end="2181" data-start="2132">Заряджання: USB Type-C / магнітна RGB док-станція</li>   <li data-end="2237" data-start="2183">Програмне забезпечення: M HUB Web Driver / Desktop App</li>   <li data-end="2276" data-start="2239">Розміри: приблизно 127,1×63,8×39,8 мм</li>   <li data-end="2292" data-start="2278">Вага: 59 ± 2 г</li>  </ul></description_ua>
+        <description_ru><p data-end="2832" data-start="2529"><strong data-end="2578" data-start="2529">Игровая беспроводная мышь MCHOSE K7 V2 Ultra+</strong> — производительная модель для динамичных игр и повседневной работы, оснащенная флагманским сенсором PAW3955 TI с разрешением до 50 000 DPI. Частота опроса до 8000 Гц в проводном и беспроводном режимах обеспечивает быстрое и точное отслеживание движений.</p>    <p data-end="3068" data-start="2834">Мышь работает на базе контроллера Nordic 54L и технологии MCHOSE TOPSPEED Wireless 2.0, поддерживающей стабильное соединение с минимальной задержкой. Доступны три режима подключения: USB-кабель, беспроводная связь 2,4 ГГц и Bluetooth.</p>    <p data-end="3310" data-start="3070">Симметричный корпус весом около 59 г подходит для средней и большой руки. Покрытие Super Glide Glass-Like Coating 2.0 обеспечивает приятное скольжение ладони, а механические переключатели Omron рассчитаны на ресурс до 100 миллионов нажатий.</p>    <p data-end="3497" data-start="3312">В комплект входит магнитная RGB док-станция для удобной зарядки. Аккумулятор емкостью 500 мА·ч обеспечивает до 385 часов автономной работы в зависимости от выбранного режима и настроек.</p>    <p data-end="3518" data-start="3499"><strong data-end="3518" data-start="3499">Характеристики:</strong></p>    <ul>   <li data-end="3557" data-start="3520">Тип товара: игровая беспроводная мышь</li>   <li data-end="3572" data-start="3559">Бренд: MCHOSE</li>   <li data-end="3594" data-start="3574">Модель: K7 V2 Ultra+</li>   <li data-end="3623" data-start="3596">Форма корпуса: симметричная</li>   <li data-end="3669" data-start="3625">Рекомендуемый размер руки: средняя и большая</li>   <li data-end="3696" data-start="3671">Сенсор: PixArt PAW3955 TI</li>   <li data-end="3736" data-start="3698">Максимальное разрешение: до 50 000 DPI</li>   <li data-end="3799" data-start="3738">Частота опроса: до 8000 Гц в проводном и беспроводном режимах</li>   <li data-end="3823" data-start="3801">Контроллер: Nordic 54L</li>   <li data-end="3878" data-start="3825">Беспроводная технология: MCHOSE TOPSPEED Wireless 2.0</li>   <li data-end="3920" data-start="3880">Платформа: MCHOSE Shadow Hunter Solution</li>   <li data-end="3967" data-start="3922">Режимы подключения: USB / 2,4 ГГц / Bluetooth</li>   <li data-end="4008" data-start="3969">Беспроводной приемник: 8K Nano Receiver</li>   <li data-end="4059" data-start="4010">Переключатели основных кнопок: механические Omron</li>   <li data-end="4108" data-start="4061">Ресурс переключателей: до 100 миллионов нажатий</li>   <li data-end="4158" data-start="4110">Энкодер колеса прокрутки: TTC Gold Wheel Encoder</li>   <li data-end="4212" data-start="4160">Покрытие корпуса: Super Glide Glass-Like Coating 2.0</li>   <li data-end="4235" data-start="4214">Аккумулятор: 500 мА·ч</li>   <li data-end="4301" data-start="4237">Автономность: до 385 часов в зависимости от режима использования</li>   <li data-end="4350" data-start="4303">Зарядка: USB Type-C / магнитная RGB док-станция</li>   <li data-end="4407" data-start="4352">Программное обеспечение: M HUB Web Driver / Desktop App</li>   <li data-end="4451" data-start="4409">Размеры: приблизительно 127,1×63,8×39,8 мм</li>   <li data-end="4466" data-start="4453">Вес: 59 ± 2 г</li>  </ul></description_ru>
+        <price>4199</price>
+        <old_price>4499</old_price>
+        <categoryId>1084</categoryId>
+        <vendor>Mchose</vendor>
+        <picture>https://techgleam.com.ua/content/images/30/grova-bezdrotova-mishka-mchose-k7-v2-ultra-tri-rezhimi-pdkluchennja-sensor-paw3955-ti-50000-dpi-8000-gc-magntna-rgb-dok-stancja-blue-53188612304497_%2Ba1a3c1b757.jpg</picture>
+        <picture>https://techgleam.com.ua/content/images/30/grova-bezdrotova-mishka-mchose-k7-v2-ultra-tri-rezhimi-pdkluchennja-sensor-paw3955-ti-50000-dpi-8000-gc-magntna-rgb-dok-stancja-blue-74105798616582_%2B10f5ca1507.jpg</picture>
+        <param name="Гарантія">3 місяці</param>
+        <param name="Колір">Блакитний</param>
+        <param name="Підключення">Комбіноване</param>
+        <param name="Сумісність з ОС">Microsoft Windows</param>
+        <param name="Сумісність з ОС">Mac OS</param>
+        <param name="Сумісність з ОС">Linux</param>
+        <param name="Вага">59 г</param>
+        <param name="Кількість кнопок миші">6</param>
+        <param name="Тип датчика">Оптичний</param>
+        <param name="Інтерфейс підключення">Bluetooth</param>
+        <param name="Інтерфейс підключення">Радіоінтерфейс</param>
+        <param name="Інтерфейс підключення">USB</param>
+        <param name="Роздільна здатність сенсора">Понад 20000 dpi</param>
+        <param name="Стан">Новий</param>
+        <param name="Тип">Ігрові (геймерські)</param>
+        <country>Китай</country>
+      </offer>
       <offer id="2034" available="true">
         <availability_status>available</availability_status>
         <name_ua>Бездротова клавіатура Proove Gaming Coupe / Eng+Ukr / Три режими підключення / Huano Kobe Switch / Black/Purple</name_ua>
@@ -3418,44 +3550,6 @@
         <param name="Вид">Ігрові</param>
         <country>Китай</country>
       </offer>
-      <offer id="516" available="false">
-        <availability_status>temporarily_unavailable</availability_status>
-        <name_ua>Ігрова механічна бездротова клавіатура AJAZZ AK820 Pro / Три режими підключення / Gift Switch / Grey</name_ua>
-        <name_ru>Игровая механическая беспроводная клавиатура AJAZZ AK820 Pro / Три режима подключения / Gift Switch / Grey</name_ru>
-        <description_ua><p><strong>Механічна клавіатура Ajazz AK820 Pro</strong></p>    <p>Ajazz AK820 Pro — клавіатура з TFT-дисплеєм, трьома режимами підключення та продуманим дизайном для комфортної роботи і гри.</p>    <p><strong>Основні характеристики:</strong></p>    <ul>   <li>Екран: 0.85” TFT — заряд, час, тип з'єднання, RGB  </li>   <li>Підключення: USB-C / Bluetooth 5.1 / 2.4GHz Wireless  </li>   <li>Акумулятор: 4000 mAh  </li>   <li>Кейкапи: PBT, OEM профіль  </li>   <li>Монтаж: Gasket + Flex-cut  </li>   <li>RGB-підсвічування: 1.6 млн кольорів  </li>   <li>Хотсвап: підтримка зміни перемикачів  </li>   <li>Платформа: Mac / Window</li>  </ul>    <p><strong>Особливості:</strong></p>    <ul>   <li>Швидке перемикання між режимами  </li>   <li>Налаштування RGB та функцій прямо з дисплея  </li>   <li>Плавний набір без вібрацій  </li>   <li>Plate-mounted стабілізатори  </li>   <li>Енкодер для керування звуком</li>  </ul></description_ua>
-        <description_ru><p><strong>Механическая клавиатура Ajazz AK820 Pro</strong></p>    <p>Ajazz AK820 Pro — клавиатура с TFT-дисплеем, тремя режимами подключения и продуманным дизайном для комфортной работы и игры.</p>    <p><strong>Основные характеристики:</strong></p>    <ul>   <li>Экран: 0,85” TFT — заряд, время, тип соединения, RGB  </li>   <li>Подключение: USB-C / Bluetooth 5.1 / 2,4 ГГц Wireless  </li>   <li>Аккумулятор: 4000 мАч  </li>   <li>Кейкапы: PBT, OEM профиль  </li>   <li>Монтаж: Gasket + Flex-cut  </li>   <li>RGB-подсветка: 1,6 млн цветов  </li>   <li>Хотсвап: поддержка смены переключателей  </li>   <li>Платформа: Mac / Window</li>  </ul>    <p><strong>Особенности:</strong></p>    <ul>   <li>Быстрое переключение между режимами  </li>   <li>Настройка RGB и функций прямо с дисплея  </li>   <li>Плавный набор без вибраций  </li>   <li>Plate-mounted стабилизаторы  </li>   <li>Энкодер для управления звуком</li>  </ul></description_ru>
-        <price>2299</price>
-        <old_price>2499</old_price>
-        <categoryId>1082</categoryId>
-        <vendor>Ajazz</vendor>
-        <picture>https://techgleam.com.ua/content/images/17/92189704769828_%2Bd523971fdd.jpg</picture>
-        <picture>https://techgleam.com.ua/content/images/17/34850046643959_%2Bd52dbdd3df.jpg</picture>
-        <picture>https://techgleam.com.ua/content/images/17/59711399557306_%2B095034f2f3.jpg</picture>
-        <picture>https://techgleam.com.ua/content/images/17/37910971797102_%2B768ad3a42e.jpg</picture>
-        <picture>https://techgleam.com.ua/content/images/17/12119937203114_%2B6f36c7d963.jpg</picture>
-        <picture>https://techgleam.com.ua/content/images/17/60905091298950_%2B45d931b946.jpg</picture>
-        <param name="Гарантія">1 місяць</param>
-        <param name="Колір">Сірий</param>
-        <param name="Конструкція клавіш">Механічна</param>
-        <param name="Підключення">Комбіноване</param>
-        <param name="Інтерфейс підключення">Bluetooth</param>
-        <param name="Інтерфейс підключення">Радіоінтерфейс</param>
-        <param name="Інтерфейс підключення">USB</param>
-        <param name="Розкладка">Eng</param>
-        <param name="Форм-фактор">Компактні</param>
-        <param name="Колір підсвічування">RGB</param>
-        <param name="Підсвічування клавіш">Є</param>
-        <param name="Матеріал корпусу">Пластик</param>
-        <param name="Живлення">Акумулятор</param>
-        <param name="Сумісність з ОС">Windows</param>
-        <param name="Сумісність з ОС">Mac OS</param>
-        <param name="Сумісність з ОС">Linux</param>
-        <param name="Стан">Новий</param>
-        <param name="Комплектація">Клавіатура</param>
-        <param name="Призначення">Для ПК</param>
-        <param name="Вид">Ігрові</param>
-        <country>Китай</country>
-      </offer>
       <offer id="517" available="false">
         <availability_status>temporarily_unavailable</availability_status>
         <name_ua>Ігрова магнітна клавіатура Attack Shark X68 / Дротове підключення / Magnetic Switch / Black Lines</name_ua>
@@ -3555,40 +3649,6 @@
         <param name="Сумісність з ОС">Mac OS</param>
         <param name="Сумісність з ОС">Linux</param>
         <param name="Колір">Темно-сірий</param>
-        <param name="Стан">Новий</param>
-        <param name="Комплектація">Клавіатура</param>
-        <param name="Призначення">Для ПК</param>
-        <param name="Вид">Ігрові</param>
-        <country>Китай</country>
-      </offer>
-      <offer id="520" available="false">
-        <availability_status>temporarily_unavailable</availability_status>
-        <name_ua>Ігрова магнітна клавіатура Attack Shark X68 / Дротове підключення / Magnetic Switch / White</name_ua>
-        <name_ru>Игровая магнитная клавиатура Attack Shark X68 / Проводное подключение / Magnetic Switch / White</name_ru>
-        <description_ua><p><strong>Магнітна клавіатура ATTACK SHARK X68 HE </strong></p>    <p>ATTACK SHARK X68 HE — компактна магнітна клавіатура для геймерів та користувачів, яким потрібна максимальна швидкість, чутливість та точність у кожному натисканні.</p>    <p><strong>Основні характеристики:</strong></p>    <ul>   <li>Тип: Магнітна клавіатура (Hall Effect), 65%, 66 клавіш  </li>   <li>Перемикачі: Магнітні, Hot-Swappable  </li>   <li>Підключення: USB-C  </li>   <li>Polling Rate: 8000 Гц  </li>   <li>Rapid Trigger: чутливість від 0.01 мм  </li>   <li>Кейкапи: PBT Double-shot  </li>   <li>Підсвітка: RGB, 16 млн кольорів</li>  </ul>    <p><strong>Особливості:</strong></p>    <ul>   <li>Підтримка Snap Tap, Mod-Tap, Toggle Key, DKS  </li>   <li>Регулювання точки спрацювання (0.1–3.4 мм)  </li>   <li>Унікальний світловий ефект при натисканні  </li>   <li>Повне налаштування через веб-драйвер  </li>   <li>Вбудована памʼять для профілів</li>  </ul>    <p><strong>Комплектація:</strong></p>    <ul>   <li>Клавіатура ATTACK SHARK X68 HE  </li>   <li>Інструмент для зняття кейкапів та перемикачів  </li>   <li>Кабель USB-C  </li>   <li>Інструкція користувача</li>  </ul>    <p>Вага: 600 г  <br />  Розміри: 10,2 x 3,8 x 29,1 см</p></description_ua>
-        <description_ru><p><strong>Магнитная клавиатура ATTACK SHARK X68 HE </strong></p>    <p>ATTACK SHARK X68 HE — компактная магнитная клавиатура для геймеров и пользователей, которым нужна максимальная скорость, чувствительность и точность при каждом нажатии.</p>    <p><strong>Основные характеристики:</strong></p>    <ul>   <li>Тип: Магнитная клавиатура (Hall Effect), 65%, 66 клавиш</li>   <li>Переключатели: Магнитные, Hot-Swappable</li>   <li>Подключение: USB-C</li>   <li>Polling Rate: 8000 Гц</li>   <li>Rapid Trigger: чувствительность от 0,01 мм</li>   <li>Кейкапы: PBT Double-shot</li>   <li>Подсветка: RGB, 16 млн цветов</li>  </ul>    <p><strong>Особенности:</strong></p>    <ul>   <li>Поддержка Snap Tap, Mod-Tap, Toggle Key, DKS</li>   <li>Регулировка точки срабатывания (0,1–3,4 мм)</li>   <li>Уникальный световой эффект при нажатии</li>   <li>Полная настройка через веб-драйвер</li>   <li>Встроенная память для профилей</li>  </ul>    <p><strong>Комплектация:</strong></p>    <ul>   <li>Клавиатура ATTACK SHARK X68 HE</li>   <li>Инструмент для снятия кейкапов и переключателей</li>   <li>Кабель USB-C</li>   <li>Инструкция пользователя</li>  </ul>    <p>Вес: 600 г</p>    <p>Размеры: 10,2 x 3,8 x 29,1 см</p></description_ru>
-        <price>2399</price>
-        <old_price>2699</old_price>
-        <categoryId>1082</categoryId>
-        <vendor>Attack Shark</vendor>
-        <picture>https://techgleam.com.ua/content/images/21/83707614733849_%2B9802827f27.jpg</picture>
-        <picture>https://techgleam.com.ua/content/images/21/54489569455003_%2B6c83b533c3.jpg</picture>
-        <picture>https://techgleam.com.ua/content/images/21/98207765172936_%2Bad7f9fa050.jpg</picture>
-        <picture>https://techgleam.com.ua/content/images/21/64884114280091_%2Bcb6e3bf1a1.jpg</picture>
-        <picture>https://techgleam.com.ua/content/images/21/57074229703462_%2B75e81c58f3.jpg</picture>
-        <param name="Гарантія">3 місяці</param>
-        <param name="Колір">Білий</param>
-        <param name="Конструкція клавіш">Магнітна</param>
-        <param name="Підключення">Дротове</param>
-        <param name="Інтерфейс підключення">USB Type-C</param>
-        <param name="Розкладка">Eng</param>
-        <param name="Форм-фактор">Компактні</param>
-        <param name="Колір підсвічування">RGB</param>
-        <param name="Підсвічування клавіш">Є</param>
-        <param name="Матеріал корпусу">Пластик</param>
-        <param name="Сумісність з ОС">Windows</param>
-        <param name="Сумісність з ОС">Mac OS</param>
-        <param name="Сумісність з ОС">Linux</param>
         <param name="Стан">Новий</param>
         <param name="Комплектація">Клавіатура</param>
         <param name="Призначення">Для ПК</param>
@@ -5026,8 +5086,8 @@
         <name_ru>Игровая механическая беспроводная клавиатура AJAZZ AK820 Pro / Три режима подключения / Gift Switch / White</name_ru>
         <description_ua><p><strong>Механічна клавіатура Ajazz AK820 Pro</strong></p>    <p>Ajazz AK820 Pro — клавіатура з TFT-дисплеєм, трьома режимами підключення та продуманим дизайном для комфортної роботи і гри.</p>    <p><strong>Основні характеристики:</strong></p>    <ul>   <li>Екран: 0.85” TFT — заряд, час, тип з'єднання, RGB  </li>   <li>Підключення: USB-C / Bluetooth 5.1 / 2.4GHz Wireless  </li>   <li>Акумулятор: 4000 mAh  </li>   <li>Кейкапи: PBT, OEM профіль  </li>   <li>Монтаж: Gasket + Flex-cut  </li>   <li>RGB-підсвічування: 1.6 млн кольорів  </li>   <li>Хотсвап: підтримка зміни перемикачів  </li>   <li>Платформа: Mac / Window</li>  </ul>    <p><strong>Особливості:</strong></p>    <ul>   <li>Швидке перемикання між режимами  </li>   <li>Налаштування RGB та функцій прямо з дисплея  </li>   <li>Плавний набір без вібрацій  </li>   <li>Plate-mounted стабілізатори  </li>   <li>Енкодер для керування звуком</li>  </ul></description_ua>
         <description_ru><p><strong>Механическая клавиатура Ajazz AK820 Pro</strong></p>    <p>Ajazz AK820 Pro — клавиатура с TFT-дисплеем, тремя режимами подключения и продуманным дизайном для комфортной работы и игры.</p>    <p><strong>Основные характеристики:</strong></p>    <ul>   <li>Экран: 0,85” TFT — заряд, время, тип соединения, RGB  </li>   <li>Подключение: USB-C / Bluetooth 5.1 / 2,4 ГГц Wireless  </li>   <li>Аккумулятор: 4000 мАч  </li>   <li>Кейкапы: PBT, OEM профиль  </li>   <li>Монтаж: Gasket + Flex-cut  </li>   <li>RGB-подсветка: 1,6 млн цветов  </li>   <li>Хотсвап: поддержка смены переключателей  </li>   <li>Платформа: Mac / Window</li>  </ul>    <p><strong>Особенности:</strong></p>    <ul>   <li>Быстрое переключение между режимами  </li>   <li>Настройка RGB и функций прямо с дисплея  </li>   <li>Плавный набор без вибраций  </li>   <li>Plate-mounted стабилизаторы  </li>   <li>Энкодер для управления звуком</li>  </ul></description_ru>
-        <price>2299</price>
-        <old_price>2499</old_price>
+        <price>2599</price>
+        <old_price>3199</old_price>
         <categoryId>1082</categoryId>
         <vendor>Ajazz</vendor>
         <picture>https://techgleam.com.ua/content/images/26/82329186451188_%2Bb13ae21d5a.jpg</picture>
@@ -5259,50 +5319,14 @@
         <param name="Тип">Ігрові (геймерські)</param>
         <country>Китай</country>
       </offer>
-      <offer id="711" available="false">
-        <availability_status>temporarily_unavailable</availability_status>
-        <name_ua>Ігрова дротова магнітна клавіатура Attack Shark R82 / Дротове підключення / Magnetic Switch / Black</name_ua>
-        <name_ru>Игровая проводная магнитная клавиатура Attack Shark R82 / Проводное подключение / Magnetic Switch / Black</name_ru>
-        <description_ua><p data-end="2328" data-start="1932"><strong data-end="1955" data-start="1932">ATTACK SHARK R82 HE</strong> — це <strong data-end="1997" data-start="1961">компактна 75% дротова клавіатура</strong> на <strong data-end="2033" data-start="2001">магнітних Hall-effect свічах</strong> із фокусом на швидкість, точність і кастомізацію.<br data-end="2086" data-start="2083" />  Завдяки <strong data-end="2131" data-start="2094">Rapid Trigger з точністю 0.005 мм</strong> і частоті опитування <strong data-end="2174" data-start="2153">8000 Гц (0.08 мс)</strong> клавіатура миттєво фіксує кожну дію та дозволяє повторно спрацьовувати без повного відпускання — ідеально для FPS, ритм-ігор та кіберспортивної динаміки.</p>    <h3 data-end="2350" data-start="2330">Основні характеристики:</h3>    <ul>   <li data-end="2439" data-start="2353"><strong data-end="2374" data-start="2353">Hall-effect свічі</strong> — плавний хід, надійність, відсутність механічного “дебаунсу”.</li>   <li data-end="2530" data-start="2442"><strong data-end="2468" data-start="2442">Rapid Trigger 0.005 мм</strong> — ультрашвидкі повторні спрацювання та мінімальна затримка.</li>   <li data-end="2613" data-start="2533"><strong data-end="2561" data-start="2533">Polling 8000 Гц (0.08 мс)</strong> — стабільне опитування для максимальної чуйності.</li>   <li data-end="2695" data-start="2616"><strong data-end="2660" data-start="2616">Регульована точка спрацювання 0.1–3.4 мм</strong> — під себе, під гру чи завдання.</li>   <li data-end="2793" data-start="2698">Підтримка <strong data-end="2752" data-start="2708">Snap Tap / Last Keystroke Prioritization</strong> — пріоритизація останнього натискання.</li>   <li data-end="2896" data-start="2796"><strong data-end="2832" data-start="2796">DKS (One Key — Multiple Actions)</strong>, <strong data-end="2840" data-start="2834">MT</strong>, <strong data-end="2849" data-start="2842">TGL</strong> — одна клавіша, кілька дій, шарові сценарії.</li>   <li data-end="2971" data-start="2899"><strong data-end="2933" data-start="2899">5-шарова акустична оптимізація</strong> — чистіший звук, приємніший фідбек.</li>   <li data-end="3032" data-start="2974"><strong data-end="2991" data-start="2974">RGB-підсвітка</strong> з ефектами та гнучкими налаштуваннями.</li>   <li data-end="3124" data-start="3035"><strong data-end="3068" data-start="3035">Web-драйвер + on-board memory</strong> — профілі та макроси зберігаються прямо в клавіатурі.</li>   <li data-end="3201" data-start="3127"><strong data-end="3151" data-start="3127">NKRO / Anti-Ghosting</strong> — коректна реєстрація натискань у пікові моменти.</li>   <li data-end="3201" data-start="3127"><strong data-end="3219" data-start="3203">Підключення:</strong> дротове, <strong data-end="3238" data-start="3229">USB-C</strong>.</li>   <li data-end="3201" data-start="3127"><strong data-end="3258" data-start="3242">Форм-фактор:</strong> <strong data-end="3266" data-start="3259">75%</strong> (повноцінні стрілки та ряд F-клавіш).</li>   <li data-end="3201" data-start="3127"><strong data-end="3322" data-start="3307">Сумісність:</strong> Windows / macOS (через стандартні драйвери; веб-інструменти керування).</li>   <li data-end="3201" data-start="3127"><strong data-end="3410" data-start="3397">Комплект:</strong> клавіатура ATTACK SHARK R82 HE, кабель USB-C, інструкція.</li>  </ul>    <p data-end="3201" data-start="3127">Якщо вам потрібна надточна клавіатура з магнітними свічами, гнучкою актуацією та режимами на кшталт <strong data-end="3581" data-start="3574">DKS</strong> — <strong data-end="3594" data-start="3584">R82 HE</strong> створена для швидкості та перемог.</p></description_ua>
-        <description_ru><p><strong>ATTACK SHARK R82 HE – это компактная 75% проводная клавиатура на магнитных Hall-effect свечах с фокусом на скорость, точность и кастомизацию.</strong><br />  Благодаря Rapid Trigger с точностью 0.005 мм и частоте опроса 8000 Гц (0.08 мс), клавиатура мгновенно фиксирует каждое действие и позволяет повторно срабатывать без полного отпуска — идеально для FPS, ритм-игр и киберспортивной динамики.</p>    <p><strong>Основные характеристики:</strong></p>    <ul>   <li>Hall-effect свечи — плавный ход, надежность, отсутствие механического дебаунса.</li>   <li>Rapid Trigger 0.005 мм — ультрабыстрые повторные срабатывания и минимальная задержка.</li>   <li>Polling 8000 Гц (0.08 мс) — стабильный опрос для максимальной отзывчивости.</li>   <li>Регулируемая точка срабатывания 0.1–3.4 мм – под себя, под игру или задания.</li>   <li>Поддержка Snap Tap / Last Keystroke Prioritization — приоритет последнего нажатия.</li>   <li>DKS (One Key — Multiple Actions), MT, TGL — одна клавиша, несколько действий, шаровые сценарии.</li>   <li>5-слойная акустическая оптимизация — более чистый звук, более приятный фидбек.</li>   <li>RGB-подсветка с эффектами и гибкими настройками.</li>   <li>Web-драйвер + on-board memory – профили и макросы хранятся прямо в клавиатуре.</li>   <li>NKRO / Anti-Ghosting – корректная регистрация нажатий в пиковые моменты.</li>   <li>Подключение: проводное, USB-C.</li>   <li>Форм-фактор: 75% (полноценные стрелки и ряд F-клавиш).</li>   <li>Совместимость: Windows/macOS (через стандартные драйверы; веб-инструменты управления).</li>   <li>Комплект: клавиатура ATTACK SHARK R82 HE, кабель USB-C, инструкция.</li>  </ul>    <p>Если вам нужна сверхточная клавиатура с магнитными свечами, гибкой актуацией и режимами типа DKS — R82 HE создана для скорости и побед.</p></description_ru>
-        <price>2599</price>
-        <old_price>2999</old_price>
-        <categoryId>1082</categoryId>
-        <vendor>Attack Shark</vendor>
-        <picture>https://techgleam.com.ua/content/images/12/64043419020846_%2B821edfd035.jpg</picture>
-        <picture>https://techgleam.com.ua/content/images/12/31582098789009_%2Bf5c3a80568.jpg</picture>
-        <picture>https://techgleam.com.ua/content/images/12/12074405055782_%2B2a93685df6.jpg</picture>
-        <picture>https://techgleam.com.ua/content/images/12/66409074529670_%2Bbe0d06bf6c.jpg</picture>
-        <picture>https://techgleam.com.ua/content/images/12/74353734785911_%2B74a9260d58.jpg</picture>
-        <picture>https://techgleam.com.ua/content/images/12/12094532921613_%2Bb54732832d.jpg</picture>
-        <picture>https://techgleam.com.ua/content/images/12/11252532243449_%2B303c572ae2.jpg</picture>
-        <param name="Гарантія">3 місяці</param>
-        <param name="Колір">Чорний</param>
-        <param name="Конструкція клавіш">Магнітна</param>
-        <param name="Підключення">Дротове</param>
-        <param name="Інтерфейс підключення">USB Type-C</param>
-        <param name="Розкладка">Eng</param>
-        <param name="Форм-фактор">Компактні</param>
-        <param name="Колір підсвічування">RGB</param>
-        <param name="Підсвічування клавіш">Є</param>
-        <param name="Матеріал корпусу">Пластик</param>
-        <param name="Сумісність з ОС">Windows</param>
-        <param name="Сумісність з ОС">Mac OS</param>
-        <param name="Сумісність з ОС">Linux</param>
-        <param name="Стан">Новий</param>
-        <param name="Комплектація">Клавіатура</param>
-        <param name="Призначення">Для ПК</param>
-        <param name="Вид">Ігрові</param>
-        <country>Китай</country>
-      </offer>
       <offer id="712" available="false">
         <availability_status>temporarily_unavailable</availability_status>
         <name_ua>Ігрова дротова магнітна клавіатура Attack Shark R82 / Дротове підключення / Magnetic Switch / White</name_ua>
         <name_ru>Игровая проводная магнитная клавиатура Attack Shark R82 / Проводное подключение / Magnetic Switch / White</name_ru>
         <description_ua><p data-end="2328" data-start="1932"><strong data-end="1955" data-start="1932">ATTACK SHARK R82 HE</strong> — це <strong data-end="1997" data-start="1961">компактна 75% дротова клавіатура</strong> на <strong data-end="2033" data-start="2001">магнітних Hall-effect свічах</strong> із фокусом на швидкість, точність і кастомізацію.<br data-end="2086" data-start="2083" />  Завдяки <strong data-end="2131" data-start="2094">Rapid Trigger з точністю 0.005 мм</strong> і частоті опитування <strong data-end="2174" data-start="2153">8000 Гц (0.08 мс)</strong> клавіатура миттєво фіксує кожну дію та дозволяє повторно спрацьовувати без повного відпускання — ідеально для FPS, ритм-ігор та кіберспортивної динаміки.</p>    <h3 data-end="2350" data-start="2330">Основні характеристики:</h3>    <ul>   <li data-end="2439" data-start="2353"><strong data-end="2374" data-start="2353">Hall-effect свічі</strong> — плавний хід, надійність, відсутність механічного “дебаунсу”.</li>   <li data-end="2530" data-start="2442"><strong data-end="2468" data-start="2442">Rapid Trigger 0.005 мм</strong> — ультрашвидкі повторні спрацювання та мінімальна затримка.</li>   <li data-end="2613" data-start="2533"><strong data-end="2561" data-start="2533">Polling 8000 Гц (0.08 мс)</strong> — стабільне опитування для максимальної чуйності.</li>   <li data-end="2695" data-start="2616"><strong data-end="2660" data-start="2616">Регульована точка спрацювання 0.1–3.4 мм</strong> — під себе, під гру чи завдання.</li>   <li data-end="2793" data-start="2698">Підтримка <strong data-end="2752" data-start="2708">Snap Tap / Last Keystroke Prioritization</strong> — пріоритизація останнього натискання.</li>   <li data-end="2896" data-start="2796"><strong data-end="2832" data-start="2796">DKS (One Key — Multiple Actions)</strong>, <strong data-end="2840" data-start="2834">MT</strong>, <strong data-end="2849" data-start="2842">TGL</strong> — одна клавіша, кілька дій, шарові сценарії.</li>   <li data-end="2971" data-start="2899"><strong data-end="2933" data-start="2899">5-шарова акустична оптимізація</strong> — чистіший звук, приємніший фідбек.</li>   <li data-end="3032" data-start="2974"><strong data-end="2991" data-start="2974">RGB-підсвітка</strong> з ефектами та гнучкими налаштуваннями.</li>   <li data-end="3124" data-start="3035"><strong data-end="3068" data-start="3035">Web-драйвер + on-board memory</strong> — профілі та макроси зберігаються прямо в клавіатурі.</li>   <li data-end="3201" data-start="3127"><strong data-end="3151" data-start="3127">NKRO / Anti-Ghosting</strong> — коректна реєстрація натискань у пікові моменти.</li>   <li data-end="3201" data-start="3127"><strong data-end="3219" data-start="3203">Підключення:</strong> дротове, <strong data-end="3238" data-start="3229">USB-C</strong>.</li>   <li data-end="3201" data-start="3127"><strong data-end="3258" data-start="3242">Форм-фактор:</strong> <strong data-end="3266" data-start="3259">75%</strong> (повноцінні стрілки та ряд F-клавіш).</li>   <li data-end="3201" data-start="3127"><strong data-end="3322" data-start="3307">Сумісність:</strong> Windows / macOS (через стандартні драйвери; веб-інструменти керування).</li>   <li data-end="3201" data-start="3127"><strong data-end="3410" data-start="3397">Комплект:</strong> клавіатура ATTACK SHARK R82 HE, кабель USB-C, інструкція.</li>  </ul>    <p data-end="3201" data-start="3127">Якщо вам потрібна надточна клавіатура з магнітними свічами, гнучкою актуацією та режимами на кшталт <strong data-end="3581" data-start="3574">DKS</strong> — <strong data-end="3594" data-start="3584">R82 HE</strong> створена для швидкості та перемог.</p></description_ua>
         <description_ru><p><strong>ATTACK SHARK R82 HE – это компактная 75% проводная клавиатура на магнитных Hall-effect свечах с фокусом на скорость, точность и кастомизацию.</strong><br />  Благодаря Rapid Trigger с точностью 0.005 мм и частоте опроса 8000 Гц (0.08 мс), клавиатура мгновенно фиксирует каждое действие и позволяет повторно срабатывать без полного отпуска — идеально для FPS, ритм-игр и киберспортивной динамики.</p>    <p><strong>Основные характеристики:</strong></p>    <ul>   <li>Hall-effect свечи — плавный ход, надежность, отсутствие механического дебаунса.</li>   <li>Rapid Trigger 0.005 мм — ультрабыстрые повторные срабатывания и минимальная задержка.</li>   <li>Polling 8000 Гц (0.08 мс) — стабильный опрос для максимальной отзывчивости.</li>   <li>Регулируемая точка срабатывания 0.1–3.4 мм – под себя, под игру или задания.</li>   <li>Поддержка Snap Tap / Last Keystroke Prioritization — приоритет последнего нажатия.</li>   <li>DKS (One Key — Multiple Actions), MT, TGL — одна клавиша, несколько действий, шаровые сценарии.</li>   <li>5-слойная акустическая оптимизация — более чистый звук, более приятный фидбек.</li>   <li>RGB-подсветка с эффектами и гибкими настройками.</li>   <li>Web-драйвер + on-board memory – профили и макросы хранятся прямо в клавиатуре.</li>   <li>NKRO / Anti-Ghosting – корректная регистрация нажатий в пиковые моменты.</li>   <li>Подключение: проводное, USB-C.</li>   <li>Форм-фактор: 75% (полноценные стрелки и ряд F-клавиш).</li>   <li>Совместимость: Windows/macOS (через стандартные драйверы; веб-инструменты управления).</li>   <li>Комплект: клавиатура ATTACK SHARK R82 HE, кабель USB-C, инструкция.</li>  </ul>    <p>Если вам нужна сверхточная клавиатура с магнитными свечами, гибкой актуацией и режимами типа DKS — R82 HE создана для скорости и побед.</p></description_ru>
-        <price>2699</price>
-        <old_price>2999</old_price>
+        <price>2799</price>
+        <old_price>3199</old_price>
         <categoryId>1082</categoryId>
         <vendor>Attack Shark</vendor>
         <picture>https://techgleam.com.ua/content/images/13/57017183395431_%2B3ce9535198.jpg</picture>
@@ -5337,8 +5361,8 @@
         <name_ru>Игровая проводная магнитная клавиатура Attack Shark R82 / Проводное подключение / Magnetic Switch / Pink</name_ru>
         <description_ua><p data-end="2328" data-start="1932"><strong data-end="1955" data-start="1932">ATTACK SHARK R82 HE</strong> — це <strong data-end="1997" data-start="1961">компактна 75% дротова клавіатура</strong> на <strong data-end="2033" data-start="2001">магнітних Hall-effect свічах</strong> із фокусом на швидкість, точність і кастомізацію.<br data-end="2086" data-start="2083" />  Завдяки <strong data-end="2131" data-start="2094">Rapid Trigger з точністю 0.005 мм</strong> і частоті опитування <strong data-end="2174" data-start="2153">8000 Гц (0.08 мс)</strong> клавіатура миттєво фіксує кожну дію та дозволяє повторно спрацьовувати без повного відпускання — ідеально для FPS, ритм-ігор та кіберспортивної динаміки.</p>    <h3 data-end="2350" data-start="2330">Основні характеристики:</h3>    <ul>   <li data-end="2439" data-start="2353"><strong data-end="2374" data-start="2353">Hall-effect свічі</strong> — плавний хід, надійність, відсутність механічного “дебаунсу”.</li>   <li data-end="2530" data-start="2442"><strong data-end="2468" data-start="2442">Rapid Trigger 0.005 мм</strong> — ультрашвидкі повторні спрацювання та мінімальна затримка.</li>   <li data-end="2613" data-start="2533"><strong data-end="2561" data-start="2533">Polling 8000 Гц (0.08 мс)</strong> — стабільне опитування для максимальної чуйності.</li>   <li data-end="2695" data-start="2616"><strong data-end="2660" data-start="2616">Регульована точка спрацювання 0.1–3.4 мм</strong> — під себе, під гру чи завдання.</li>   <li data-end="2793" data-start="2698">Підтримка <strong data-end="2752" data-start="2708">Snap Tap / Last Keystroke Prioritization</strong> — пріоритизація останнього натискання.</li>   <li data-end="2896" data-start="2796"><strong data-end="2832" data-start="2796">DKS (One Key — Multiple Actions)</strong>, <strong data-end="2840" data-start="2834">MT</strong>, <strong data-end="2849" data-start="2842">TGL</strong> — одна клавіша, кілька дій, шарові сценарії.</li>   <li data-end="2971" data-start="2899"><strong data-end="2933" data-start="2899">5-шарова акустична оптимізація</strong> — чистіший звук, приємніший фідбек.</li>   <li data-end="3032" data-start="2974"><strong data-end="2991" data-start="2974">RGB-підсвітка</strong> з ефектами та гнучкими налаштуваннями.</li>   <li data-end="3124" data-start="3035"><strong data-end="3068" data-start="3035">Web-драйвер + on-board memory</strong> — профілі та макроси зберігаються прямо в клавіатурі.</li>   <li data-end="3201" data-start="3127"><strong data-end="3151" data-start="3127">NKRO / Anti-Ghosting</strong> — коректна реєстрація натискань у пікові моменти.</li>   <li data-end="3201" data-start="3127"><strong data-end="3219" data-start="3203">Підключення:</strong> дротове, <strong data-end="3238" data-start="3229">USB-C</strong>.</li>   <li data-end="3201" data-start="3127"><strong data-end="3258" data-start="3242">Форм-фактор:</strong> <strong data-end="3266" data-start="3259">75%</strong> (повноцінні стрілки та ряд F-клавіш).</li>   <li data-end="3201" data-start="3127"><strong data-end="3322" data-start="3307">Сумісність:</strong> Windows / macOS (через стандартні драйвери; веб-інструменти керування).</li>   <li data-end="3201" data-start="3127"><strong data-end="3410" data-start="3397">Комплект:</strong> клавіатура ATTACK SHARK R82 HE, кабель USB-C, інструкція.</li>  </ul>    <p data-end="3201" data-start="3127">Якщо вам потрібна надточна клавіатура з магнітними свічами, гнучкою актуацією та режимами на кшталт <strong data-end="3581" data-start="3574">DKS</strong> — <strong data-end="3594" data-start="3584">R82 HE</strong> створена для швидкості та перемог.</p></description_ua>
         <description_ru><p><strong>ATTACK SHARK R82 HE – это компактная 75% проводная клавиатура на магнитных Hall-effect свечах с фокусом на скорость, точность и кастомизацию.</strong><br />  Благодаря Rapid Trigger с точностью 0.005 мм и частоте опроса 8000 Гц (0.08 мс), клавиатура мгновенно фиксирует каждое действие и позволяет повторно срабатывать без полного отпуска — идеально для FPS, ритм-игр и киберспортивной динамики.</p>    <p><strong>Основные характеристики:</strong></p>    <ul>   <li>Hall-effect свечи — плавный ход, надежность, отсутствие механического дебаунса.</li>   <li>Rapid Trigger 0.005 мм — ультрабыстрые повторные срабатывания и минимальная задержка.</li>   <li>Polling 8000 Гц (0.08 мс) — стабильный опрос для максимальной отзывчивости.</li>   <li>Регулируемая точка срабатывания 0.1–3.4 мм – под себя, под игру или задания.</li>   <li>Поддержка Snap Tap / Last Keystroke Prioritization — приоритет последнего нажатия.</li>   <li>DKS (One Key — Multiple Actions), MT, TGL — одна клавиша, несколько действий, шаровые сценарии.</li>   <li>5-слойная акустическая оптимизация — более чистый звук, более приятный фидбек.</li>   <li>RGB-подсветка с эффектами и гибкими настройками.</li>   <li>Web-драйвер + on-board memory – профили и макросы хранятся прямо в клавиатуре.</li>   <li>NKRO / Anti-Ghosting – корректная регистрация нажатий в пиковые моменты.</li>   <li>Подключение: проводное, USB-C.</li>   <li>Форм-фактор: 75% (полноценные стрелки и ряд F-клавиш).</li>   <li>Совместимость: Windows/macOS (через стандартные драйверы; веб-инструменты управления).</li>   <li>Комплект: клавиатура ATTACK SHARK R82 HE, кабель USB-C, инструкция.</li>  </ul>    <p>Если вам нужна сверхточная клавиатура с магнитными свечами, гибкой актуацией и режимами типа DKS — R82 HE создана для скорости и побед.</p></description_ru>
-        <price>2699</price>
-        <old_price>2999</old_price>
+        <price>2799</price>
+        <old_price>3199</old_price>
         <categoryId>1082</categoryId>
         <vendor>Attack Shark</vendor>
         <picture>https://techgleam.com.ua/content/images/14/78155548553958_%2B6ef166d7f7.jpg</picture>
@@ -6858,6 +6882,46 @@
         <picture>https://techgleam.com.ua/content/images/35/igrovaja-mexanicheskaja-klaviatura-ajazz-ak820-max-plus-tri-rezhima-podkluchenija-black-yellow-15272142339986_%2B4ac7867b0a.jpg</picture>
         <param name="Гарантія">1 місяць</param>
         <param name="Колір">Чорний</param>
+        <param name="Конструкція клавіш">Механічна</param>
+        <param name="Підключення">Комбіноване</param>
+        <param name="Інтерфейс підключення">Bluetooth</param>
+        <param name="Інтерфейс підключення">Радіоінтерфейс</param>
+        <param name="Інтерфейс підключення">USB</param>
+        <param name="Розкладка">Eng</param>
+        <param name="Форм-фактор">Компактні</param>
+        <param name="Колір підсвічування">RGB</param>
+        <param name="Підсвічування клавіш">Є</param>
+        <param name="Матеріал корпусу">Пластик</param>
+        <param name="Сумісність з ОС">Windows</param>
+        <param name="Сумісність з ОС">Mac OS</param>
+        <param name="Сумісність з ОС">Chrome OS</param>
+        <param name="Стан">Новий</param>
+        <param name="Комплектація">Клавіатура</param>
+        <param name="Призначення">Для ПК</param>
+        <param name="Вид">Ігрові</param>
+        <country>Китай</country>
+      </offer>
+      <offer id="985" available="false">
+        <availability_status>temporarily_unavailable</availability_status>
+        <name_ua>Ігрова механічна клавіатура Attack Shark X66 / 60% / Три режими підключення / Strawberry Switch / Pink</name_ua>
+        <name_ru>Игровая механическая клавиатура Attack Shark X66 / 60% / Три режима подключения / Strawberry Switch / Pink</name_ru>
+        <description_ua><p><strong>Attack Shark X66 — 60% механічна клавіатура з RGB та металевим регулятором гучності</strong></p>    <p>Максимум стилю, кастомізації й портативності! X66 — це вибір для геймерів і ентузіастів, які цінують якість, дизайн і тишу при наборі.</p>    <p><strong>Основні характеристики:  </strong></p>    <ul>   <li>Формат: 60% (66 клавіш)  </li>   <li>Tип перемикачів: Лінійні Strawberry (попередньо змащені)  </li>   <li>Конструкція: Gasket + 5-шарова система шумопоглинання  </li>   <li>Підключення: Bluetooth / 2.4 ГГц / USB Type-C  </li>   <li>Регулятор гучності: металевий, з анодованим покриттям  </li>   <li>Hot-Swap: підтримка 3-pin / 5-pin  </li>   <li>RGB-підсвітка: 16.8 млн кольорів, 18 ефектів, музичний режим  </li>   <li>Матеріал кейкапів: PBT із боковим друком  </li>   <li>PCB: подвійне чорне масло з прорізами під кожну клавішу  </li>   <li>Акумулятор: 3000 мАг, індикація заряду через FN + Backspace  </li>   <li>Сумісність: Windows / macOS (перемикається однією кнопкою)  </li>  </ul>    <p><strong>Комплектація:  </strong></p>    <ul>   <li>Клавіатура Attack Shark X66  </li>   <li>USB Type-C кабель  </li>   <li>Бездротовий ресивер 2.4 ГГц  </li>   <li>Інструкція користувача</li>   <li>Пулер</li>  </ul></description_ua>
+        <description_ru><p>Attack Shark X66 – 60% механическая клавиатура с RGB и металлическим регулятором громкости</p>    <p>Максимум стиля, кастомизации и портативности! X66 – это выбор для геймеров и энтузиастов, ценящих качество, дизайн и тишину при наборе.</p>    <p>Основные характеристики:</p>    <ul>   <li>Формат: 60% (66 клавиш)</li>   <li>Тип переключателей: Линейные Strawberry (предварительно смазанные)</li>   <li>Конструкция: Gasket + 5-слойная система шумопоглощения</li>   <li>Подключение: Bluetooth/2.4 ГГц/USB Type-C</li>   <li>Регулятор громкости: металлический, с анодированным покрытием</li>   <li>Hot-Swap: поддержка 3-pin/5-pin</li>   <li>RGB-подсветка: 16.8 млн цветов, 18 эффектов, музыкальный режим</li>   <li>Материал кейкапов: PBT с боковой печатью</li>   <li>PCB: двойное черное масло с прорезями под каждую клавишу</li>   <li>Аккумулятор: 3000 мАч, индикация заряда через FN+Backspace</li>   <li>Совместимость: Windows/macOS (переключается одной кнопкой)</li>  </ul>    <p>Комплектация:</p>    <ul>   <li>Клавиатура Attack Shark X66</li>   <li>USB Type-C кабель</li>   <li>Беспроводной ресивер 2.4 ГГц</li>   <li>Руководство пользователя</li>   <li>Пуллер</li>  </ul></description_ru>
+        <price>2399</price>
+        <old_price>2699</old_price>
+        <categoryId>1082</categoryId>
+        <vendor>Attack Shark</vendor>
+        <picture>https://techgleam.com.ua/content/images/36/igrovaja-mexanicheskaja-klaviatura-attack-shark-x66-60-tri-rezhima-podkluchenija-strawberry-switch-pink-42527542987294_%2Babbf8afc58.jpg</picture>
+        <picture>https://techgleam.com.ua/content/images/36/igrovaja-mexanicheskaja-klaviatura-attack-shark-x66-60-tri-rezhima-podkluchenija-strawberry-switch-pink-31141395616171_%2Baa33ca8d5d.jpg</picture>
+        <picture>https://techgleam.com.ua/content/images/36/igrovaja-mexanicheskaja-klaviatura-attack-shark-x66-60-tri-rezhima-podkluchenija-strawberry-switch-pink-48524456326872_%2B4a1d0f8090.jpg</picture>
+        <picture>https://techgleam.com.ua/content/images/36/igrovaja-mexanicheskaja-klaviatura-attack-shark-x66-60-tri-rezhima-podkluchenija-strawberry-switch-pink-88179278589269_%2Bb5e8aa8d74.jpg</picture>
+        <picture>https://techgleam.com.ua/content/images/36/igrovaja-mexanicheskaja-klaviatura-attack-shark-x66-60-tri-rezhima-podkluchenija-strawberry-switch-pink-47307121124939_%2Bb66d7a16a4.jpg</picture>
+        <picture>https://techgleam.com.ua/content/images/36/igrovaja-mexanicheskaja-klaviatura-attack-shark-x66-60-tri-rezhima-podkluchenija-strawberry-switch-pink-29149455090024_%2B1c575d8685.jpg</picture>
+        <picture>https://techgleam.com.ua/content/images/36/igrovaja-mexanicheskaja-klaviatura-attack-shark-x66-60-tri-rezhima-podkluchenija-strawberry-switch-pink-82344970820494_%2B558848ef80.jpg</picture>
+        <picture>https://techgleam.com.ua/content/images/36/igrovaja-mexanicheskaja-klaviatura-attack-shark-x66-60-tri-rezhima-podkluchenija-strawberry-switch-pink-56829034061843_%2Bae02ff35d2.jpg</picture>
+        <picture>https://techgleam.com.ua/content/images/36/igrovaja-mexanicheskaja-klaviatura-attack-shark-x66-60-tri-rezhima-podkluchenija-strawberry-switch-pink-58703820768231_%2Bec68f6b597.jpg</picture>
+        <param name="Гарантія">3 місяці</param>
+        <param name="Колір">Рожевий</param>
         <param name="Конструкція клавіш">Механічна</param>
         <param name="Підключення">Комбіноване</param>
         <param name="Інтерфейс підключення">Bluetooth</param>
@@ -10262,41 +10326,6 @@
         <param name="Тип">Ігрові (геймерські)</param>
         <country>Китай</country>
       </offer>
-      <offer id="1627" available="false">
-        <availability_status>temporarily_unavailable</availability_status>
-        <name_ua>Ігрова дротова магнітна клавіатура Ajazz AK029 / Ice Island Switch / White Lines</name_ua>
-        <name_ru>Игровая проводная магнитная клавиатура Ajazz AK029 / Ice Island Switch / White Lines</name_ru>
-        <description_ua><p data-end="2083" data-start="1756"><strong data-end="1771" data-start="1756">AJAZZ AK029</strong> — це <strong data-end="1812" data-start="1777">компактна дротова клавіатура</strong> на <strong data-end="1829" data-start="1816">29 клавіш </strong>на <strong data-end="1880" data-start="1846">магнітних Ice Island</strong> Switch<b> </b>.<br data-end="1884" data-start="1881" />  Завдяки <strong data-end="1926" data-start="1892">регульованій точці спрацювання</strong> та <strong data-end="1954" data-start="1930">режиму Rapid Trigger</strong> кожне натискання/відпускання фіксується швидше й точніше, що особливо корисно в FPS, ритм-іграх і для гарячих дій у застосунках.</p>    <h3 data-end="2105" data-start="2085">Основні характеристики:</h3>    <ul>   <li data-end="2210" data-start="2108"><strong data-end="2138" data-start="2108">Магнітні Ice Island Switch</strong> — плавний хід, висока надійність, відсутність механічного “дебаунсу”.</li>   <li data-end="2210" data-start="2108"><strong data-end="2246" data-start="2213">Регульована точка спрацювання</strong> + <strong data-end="2266" data-start="2249">Rapid Trigger</strong> — швидкі повторні спрацювання без повного відпускання клавіші.</li>   <li data-end="2210" data-start="2108"><strong data-end="2366" data-start="2334">Форм-фактор ≈20% (29 клавіш)</strong> — мінімум місця, максимум продуктивності для макросів і хоткеїв.</li>   <li data-end="2210" data-start="2108"><strong data-end="2453" data-start="2436">RGB-підсвітка</strong> з ефектами та налаштуваннями яскравості/швидкості.</li>   <li data-end="2210" data-start="2108"><strong data-end="2540" data-start="2509">USB-C (дротове підключення)</strong> — стабільний зв’язок і низька затримка.</li>   <li data-end="2210" data-start="2108"><strong data-end="2617" data-start="2585">ПЗ із профілями та макросами</strong> — швидка автоматизація дій у іграх і професійних програмах.</li>   <li data-end="2210" data-start="2108"><strong data-end="2862" data-start="2846">У комплекті:</strong> кейпад AJAZZ AK029, кабель USB-C, інструкція.</li>   <li data-end="2210" data-start="2108"><strong data-end="2928" data-start="2913">Сумісність:</strong> Windows / macOS та інші ОС із підтримкою стандартних USB-клавіатур.</li>   <li data-end="2210" data-start="2108"><strong>Кейкапи</strong>: Double Shot PBT / профіль Cherry</li>   <li data-end="2210" data-start="2108"><strong>RT / Scan Rate:</strong> 0.01 мм / key, 128 кГц (8 кГц)</li>   <li data-end="2210" data-start="2108"><strong>Розміри: </strong>155х122х33 мм</li>   <li data-end="2210" data-start="2108"><strong>Вага</strong>: 300 г</li>  </ul></description_ua>
-        <description_ru><p><strong>AJAZZ AK029 — это компактная проводная клавиатура на 29 клавиш на магнитных Ice Island Switch.</strong><br />  Благодаря регулируемой точке срабатывания и режиму Rapid Trigger каждое нажатие/отпуск фиксируется быстрее и точнее, что особенно полезно в FPS, ритм-играх и для горячих действий в приложениях.</p>    <p><strong>Основные характеристики:</strong></p>    <ul>   <li>Магнитные Ice Island Switch — плавный ход, высокая надежность, отсутствие механического &quot;дебаунса&quot;.</li>   <li>Регулируемая точка срабатывания + Rapid Trigger – быстрые повторные срабатывания без полного отпускания клавиши.</li>   <li>Форм-фактор ≈20% (29 клавиш) — минимум места, максимум производительности для макросов и хоткеев.</li>   <li>RGB-подсветка с эффектами и настройками яркости/скорости.</li>   <li>USB-C (проводное подключение) — стабильная связь и низкая задержка.</li>   <li>ПО с профилями и макросами — быстрая автоматизация действий в играх и профессиональных программах.</li>   <li>В комплекте: кейпад AJAZZ AK029, кабель USB-C, инструкция.</li>   <li>Совместимость: Windows/macOS и другие ОС с поддержкой стандартных USB-клавиатур.</li>   <li>Кейкапы: Double Shot PBT / профиль Cherry</li>   <li>RT/Scan Rate: 0.01 мм/key, 128 кГц (8 кГц)</li>   <li>Размеры: 155х122х33 мм</li>   <li>Вес: 300 г</li>  </ul></description_ru>
-        <price>1500</price>
-        <old_price>1800</old_price>
-        <categoryId>1082</categoryId>
-        <vendor>Ajazz</vendor>
-        <picture>https://techgleam.com.ua/content/images/28/igrovaja-provodnaja-magnitnaja-klaviatura-ajazz-ak029-ice-island-switch-white-lines-90508915245077_%2Bf81270578b.jpg</picture>
-        <picture>https://techgleam.com.ua/content/images/28/igrovaja-provodnaja-magnitnaja-klaviatura-ajazz-ak029-ice-island-switch-white-lines-99139379533102_%2B08674b2830.jpg</picture>
-        <picture>https://techgleam.com.ua/content/images/28/igrovaja-provodnaja-magnitnaja-klaviatura-ajazz-ak029-ice-island-switch-white-lines-76197359606806_%2Bb6df7a3980.jpg</picture>
-        <picture>https://techgleam.com.ua/content/images/28/igrovaja-provodnaja-magnitnaja-klaviatura-ajazz-ak029-ice-island-switch-white-lines-51203089974310_%2B44d723f94e.jpg</picture>
-        <picture>https://techgleam.com.ua/content/images/28/igrovaja-provodnaja-magnitnaja-klaviatura-ajazz-ak029-ice-island-switch-white-lines-80177765468261_%2Bb39a0e430c.jpg</picture>
-        <picture>https://techgleam.com.ua/content/images/28/igrovaja-provodnaja-magnitnaja-klaviatura-ajazz-ak029-ice-island-switch-white-lines-38391295103289_%2B8c2cef07d5.jpg</picture>
-        <param name="Гарантія">1 місяць</param>
-        <param name="Колір">Білий</param>
-        <param name="Конструкція клавіш">Магнітна</param>
-        <param name="Підключення">Дротове</param>
-        <param name="Інтерфейс підключення">USB Type-C</param>
-        <param name="Розкладка">Eng</param>
-        <param name="Форм-фактор">Ультракомпактні</param>
-        <param name="Колір підсвічування">RGB</param>
-        <param name="Підсвічування клавіш">Є</param>
-        <param name="Матеріал корпусу">Пластик</param>
-        <param name="Сумісність з ОС">Windows</param>
-        <param name="Сумісність з ОС">Mac OS</param>
-        <param name="Сумісність з ОС">Linux</param>
-        <param name="Стан">Новий</param>
-        <param name="Комплектація">Клавіатура</param>
-        <param name="Призначення">Для ПК</param>
-        <param name="Вид">Ігрові</param>
-        <country>Китай</country>
-      </offer>
       <offer id="1628" available="false">
         <availability_status>temporarily_unavailable</availability_status>
         <name_ua>Ігрова механічна дротова клавіатура Ajazz Ak690 / 68 клавіш / Hot-Swap / RGB / Peach Mist Switch / White</name_ua>
@@ -11612,8 +11641,8 @@
         <name_ru>Игровая проводная магнитная клавиатура Attack Shark R82 / Проводное подключение / Magnetic Switch / Grey</name_ru>
         <description_ua><p data-end="2328" data-start="1932"><strong data-end="1955" data-start="1932">ATTACK SHARK R82 HE</strong> — це <strong data-end="1997" data-start="1961">компактна 75% дротова клавіатура</strong> на <strong data-end="2033" data-start="2001">магнітних Hall-effect свічах</strong> із фокусом на швидкість, точність і кастомізацію.<br data-end="2086" data-start="2083" />  Завдяки <strong data-end="2131" data-start="2094">Rapid Trigger з точністю 0.005 мм</strong> і частоті опитування <strong data-end="2174" data-start="2153">8000 Гц (0.08 мс)</strong> клавіатура миттєво фіксує кожну дію та дозволяє повторно спрацьовувати без повного відпускання — ідеально для FPS, ритм-ігор та кіберспортивної динаміки.</p>    <h3 data-end="2350" data-start="2330">Основні характеристики:</h3>    <ul>   <li data-end="2439" data-start="2353"><strong data-end="2374" data-start="2353">Hall-effect свічі</strong> — плавний хід, надійність, відсутність механічного “дебаунсу”.</li>   <li data-end="2530" data-start="2442"><strong data-end="2468" data-start="2442">Rapid Trigger 0.005 мм</strong> — ультрашвидкі повторні спрацювання та мінімальна затримка.</li>   <li data-end="2613" data-start="2533"><strong data-end="2561" data-start="2533">Polling 8000 Гц (0.08 мс)</strong> — стабільне опитування для максимальної чуйності.</li>   <li data-end="2695" data-start="2616"><strong data-end="2660" data-start="2616">Регульована точка спрацювання 0.1–3.4 мм</strong> — під себе, під гру чи завдання.</li>   <li data-end="2793" data-start="2698">Підтримка <strong data-end="2752" data-start="2708">Snap Tap / Last Keystroke Prioritization</strong> — пріоритизація останнього натискання.</li>   <li data-end="2896" data-start="2796"><strong data-end="2832" data-start="2796">DKS (One Key — Multiple Actions)</strong>, <strong data-end="2840" data-start="2834">MT</strong>, <strong data-end="2849" data-start="2842">TGL</strong> — одна клавіша, кілька дій, шарові сценарії.</li>   <li data-end="2971" data-start="2899"><strong data-end="2933" data-start="2899">5-шарова акустична оптимізація</strong> — чистіший звук, приємніший фідбек.</li>   <li data-end="3032" data-start="2974"><strong data-end="2991" data-start="2974">RGB-підсвітка</strong> з ефектами та гнучкими налаштуваннями.</li>   <li data-end="3124" data-start="3035"><strong data-end="3068" data-start="3035">Web-драйвер + on-board memory</strong> — профілі та макроси зберігаються прямо в клавіатурі.</li>   <li data-end="3201" data-start="3127"><strong data-end="3151" data-start="3127">NKRO / Anti-Ghosting</strong> — коректна реєстрація натискань у пікові моменти.</li>   <li data-end="3201" data-start="3127"><strong data-end="3219" data-start="3203">Підключення:</strong> дротове, <strong data-end="3238" data-start="3229">USB-C</strong>.</li>   <li data-end="3201" data-start="3127"><strong data-end="3258" data-start="3242">Форм-фактор:</strong> <strong data-end="3266" data-start="3259">75%</strong> (повноцінні стрілки та ряд F-клавіш).</li>   <li data-end="3201" data-start="3127"><strong data-end="3322" data-start="3307">Сумісність:</strong> Windows / macOS (через стандартні драйвери; веб-інструменти керування).</li>   <li data-end="3201" data-start="3127"><strong data-end="3410" data-start="3397">Комплект:</strong> клавіатура ATTACK SHARK R82 HE, кабель USB-C, інструкція.</li>  </ul>    <p data-end="3201" data-start="3127">Якщо вам потрібна надточна клавіатура з магнітними свічами, гнучкою актуацією та режимами на кшталт <strong data-end="3581" data-start="3574">DKS</strong> — <strong data-end="3594" data-start="3584">R82 HE</strong> створена для швидкості та перемог.</p></description_ua>
         <description_ru><p><strong>ATTACK SHARK R82 HE – это компактная 75% проводная клавиатура на магнитных Hall-effect свечах с фокусом на скорость, точность и кастомизацию.</strong><br />  Благодаря Rapid Trigger с точностью 0.005 мм и частоте опроса 8000 Гц (0.08 мс), клавиатура мгновенно фиксирует каждое действие и позволяет повторно срабатывать без полного отпуска — идеально для FPS, ритм-игр и киберспортивной динамики.</p>    <p><strong>Основные характеристики:</strong></p>    <ul>   <li>Hall-effect свечи — плавный ход, надежность, отсутствие механического дебаунса.</li>   <li>Rapid Trigger 0.005 мм — ультрабыстрые повторные срабатывания и минимальная задержка.</li>   <li>Polling 8000 Гц (0.08 мс) — стабильный опрос для максимальной отзывчивости.</li>   <li>Регулируемая точка срабатывания 0.1–3.4 мм – под себя, под игру или задания.</li>   <li>Поддержка Snap Tap / Last Keystroke Prioritization — приоритет последнего нажатия.</li>   <li>DKS (One Key — Multiple Actions), MT, TGL — одна клавиша, несколько действий, шаровые сценарии.</li>   <li>5-слойная акустическая оптимизация — более чистый звук, более приятный фидбек.</li>   <li>RGB-подсветка с эффектами и гибкими настройками.</li>   <li>Web-драйвер + on-board memory – профили и макросы хранятся прямо в клавиатуре.</li>   <li>NKRO / Anti-Ghosting – корректная регистрация нажатий в пиковые моменты.</li>   <li>Подключение: проводное, USB-C.</li>   <li>Форм-фактор: 75% (полноценные стрелки и ряд F-клавиш).</li>   <li>Совместимость: Windows/macOS (через стандартные драйверы; веб-инструменты управления).</li>   <li>Комплект: клавиатура ATTACK SHARK R82 HE, кабель USB-C, инструкция.</li>  </ul>    <p>Если вам нужна сверхточная клавиатура с магнитными свечами, гибкой актуацией и режимами типа DKS — R82 HE создана для скорости и побед.</p></description_ru>
-        <price>2699</price>
-        <old_price>2999</old_price>
+        <price>2799</price>
+        <old_price>3199</old_price>
         <categoryId>1082</categoryId>
         <vendor>Attack Shark</vendor>
         <picture>https://techgleam.com.ua/content/images/6/grova-drotova-magntna-klavatura-attack-shark-r82-drotove-pdkluchennja-magnetic-switch-grey-56485578061650_%2B203129c647.jpg</picture>
@@ -13327,8 +13356,8 @@
         <name_ru>Игровая механическая беспроводная клавиатура AJAZZ AK820 Pro / Три режима подключения / Flying Fish Switch / Grey</name_ru>
         <description_ua><p><strong>Механічна клавіатура Ajazz AK820 Pro</strong></p>    <p>Ajazz AK820 Pro — клавіатура з TFT-дисплеєм, трьома режимами підключення та продуманим дизайном для комфортної роботи і гри.</p>    <p><strong>Основні характеристики:</strong></p>    <ul>   <li>Екран: 0.85” TFT — заряд, час, тип з'єднання, RGB  </li>   <li>Підключення: USB-C / Bluetooth 5.1 / 2.4GHz Wireless  </li>   <li>Акумулятор: 4000 mAh  </li>   <li>Кейкапи: PBT, OEM профіль  </li>   <li>Монтаж: Gasket + Flex-cut  </li>   <li>RGB-підсвічування: 1.6 млн кольорів  </li>   <li>Хотсвап: підтримка зміни перемикачів  </li>   <li>Платформа: Mac / Window</li>  </ul>    <p><strong>Особливості:</strong></p>    <ul>   <li>Швидке перемикання між режимами  </li>   <li>Налаштування RGB та функцій прямо з дисплея  </li>   <li>Плавний набір без вібрацій  </li>   <li>Plate-mounted стабілізатори  </li>   <li>Енкодер для керування звуком</li>  </ul></description_ua>
         <description_ru><p><strong>Механическая клавиатура Ajazz AK820 Pro</strong></p>    <p>Ajazz AK820 Pro — клавиатура с TFT-дисплеем, тремя режимами подключения и продуманным дизайном для комфортной работы и игры.</p>    <p><strong>Основные характеристики:</strong></p>    <ul>   <li>Экран: 0,85” TFT — заряд, время, тип соединения, RGB  </li>   <li>Подключение: USB-C / Bluetooth 5.1 / 2,4 ГГц Wireless  </li>   <li>Аккумулятор: 4000 мАч  </li>   <li>Кейкапы: PBT, OEM профиль  </li>   <li>Монтаж: Gasket + Flex-cut  </li>   <li>RGB-подсветка: 1,6 млн цветов  </li>   <li>Хотсвап: поддержка смены переключателей  </li>   <li>Платформа: Mac / Window</li>  </ul>    <p><strong>Особенности:</strong></p>    <ul>   <li>Быстрое переключение между режимами  </li>   <li>Настройка RGB и функций прямо с дисплея  </li>   <li>Плавный набор без вибраций  </li>   <li>Plate-mounted стабилизаторы  </li>   <li>Энкодер для управления звуком</li>  </ul></description_ru>
-        <price>2299</price>
-        <old_price>2499</old_price>
+        <price>2499</price>
+        <old_price>2899</old_price>
         <categoryId>1082</categoryId>
         <vendor>Ajazz</vendor>
         <picture>https://techgleam.com.ua/content/images/16/76520230817407_%2B78adf841bb.png</picture>
@@ -13365,8 +13394,8 @@
         <name_ru>Игровая механическая беспроводная клавиатура AJAZZ AK820 Pro / Три режима подключения / Flying Fish Switch / White</name_ru>
         <description_ua><p><strong>Механічна клавіатура Ajazz AK820 Pro</strong></p>    <p>Ajazz AK820 Pro — клавіатура з TFT-дисплеєм, трьома режимами підключення та продуманим дизайном для комфортної роботи і гри.</p>    <p><strong>Основні характеристики:</strong></p>    <ul>   <li>Екран: 0.85” TFT — заряд, час, тип з'єднання, RGB  </li>   <li>Підключення: USB-C / Bluetooth 5.1 / 2.4GHz Wireless  </li>   <li>Акумулятор: 4000 mAh  </li>   <li>Кейкапи: PBT, OEM профіль  </li>   <li>Монтаж: Gasket + Flex-cut  </li>   <li>RGB-підсвічування: 1.6 млн кольорів  </li>   <li>Хотсвап: підтримка зміни перемикачів  </li>   <li>Платформа: Mac / Window</li>  </ul>    <p><strong>Особливості:</strong></p>    <ul>   <li>Швидке перемикання між режимами  </li>   <li>Налаштування RGB та функцій прямо з дисплея  </li>   <li>Плавний набір без вібрацій  </li>   <li>Plate-mounted стабілізатори  </li>   <li>Енкодер для керування звуком</li>  </ul></description_ua>
         <description_ru><p><strong>Механическая клавиатура Ajazz AK820 Pro</strong></p>    <p>Ajazz AK820 Pro — клавиатура с TFT-дисплеем, тремя режимами подключения и продуманным дизайном для комфортной работы и игры.</p>    <p><strong>Основные характеристики:</strong></p>    <ul>   <li>Экран: 0,85” TFT — заряд, время, тип соединения, RGB  </li>   <li>Подключение: USB-C / Bluetooth 5.1 / 2,4 ГГц Wireless  </li>   <li>Аккумулятор: 4000 мАч  </li>   <li>Кейкапы: PBT, OEM профиль  </li>   <li>Монтаж: Gasket + Flex-cut  </li>   <li>RGB-подсветка: 1,6 млн цветов  </li>   <li>Хотсвап: поддержка смены переключателей  </li>   <li>Платформа: Mac / Window</li>  </ul>    <p><strong>Особенности:</strong></p>    <ul>   <li>Быстрое переключение между режимами  </li>   <li>Настройка RGB и функций прямо с дисплея  </li>   <li>Плавный набор без вибраций  </li>   <li>Plate-mounted стабилизаторы  </li>   <li>Энкодер для управления звуком</li>  </ul></description_ru>
-        <price>2299</price>
-        <old_price>2499</old_price>
+        <price>2499</price>
+        <old_price>2899</old_price>
         <categoryId>1082</categoryId>
         <vendor>Ajazz</vendor>
         <picture>https://techgleam.com.ua/content/images/17/98854514386962_%2B3c08bae531.png</picture>
@@ -14908,35 +14937,6 @@
         <param name="Тип">Ігрові (геймерські)</param>
         <country>Китай</country>
       </offer>
-      <offer id="2029" available="false">
-        <availability_status>temporarily_unavailable</availability_status>
-        <name_ua>Ігрова бездротова мишка MCHOSE K7 V2 Ultra+ / Три режими підключення / Сенсор PAW3955 TI / 50000 DPI / 8000 Гц / магнітна RGB док-станція / Blue</name_ua>
-        <name_ru>Игровая беспроводная мышь MCHOSE K7 V2 Ultra+ / Три режима подключения / Сенсор PAW3955 TI / 50000 DPI / 8000 Гц / магнитная RGB док-станция / Blue</name_ru>
-        <description_ua><p data-end="670" data-start="372"><strong data-end="419" data-start="372">Ігрова бездротова мишка MCHOSE K7 V2 Ultra+</strong> — продуктивна модель для динамічних ігор і щоденної роботи, оснащена флагманським сенсором PAW3955 TI з роздільною здатністю до 50 000 DPI. Частота опитування до 8000 Гц у дротовому та бездротовому режимах забезпечує швидке й точне відстеження рухів.</p>    <p data-end="901" data-start="672">Мишка працює на базі контролера Nordic 54L і технології MCHOSE TOPSPEED Wireless 2.0, що підтримує стабільне з’єднання з мінімальною затримкою. Доступні три режими підключення: USB-кабель, бездротовий зв’язок 2,4 ГГц і Bluetooth.</p>    <p data-end="1140" data-start="903">Симетричний корпус вагою близько 59 г підходить для середньої та великої руки. Покриття Super Glide Glass-Like Coating 2.0 забезпечує приємне ковзання долоні, а механічні перемикачі Omron розраховані на ресурс до 100 мільйонів натискань.</p>    <p data-end="1329" data-start="1142">У комплект входить магнітна RGB док-станція для зручного заряджання. Акумулятор місткістю 500 мА·год забезпечує до 385 годин автономної роботи залежно від вибраного режиму та налаштувань.</p>    <p data-end="1350" data-start="1331"><strong data-end="1350" data-start="1331">Характеристики:</strong></p>    <ul>   <li data-end="1387" data-start="1352">Тип товару: ігрова бездротова мишка</li>   <li data-end="1402" data-start="1389">Бренд: MCHOSE</li>   <li data-end="1424" data-start="1404">Модель: K7 V2 Ultra+</li>   <li data-end="1451" data-start="1426">Форма корпусу: симетрична</li>   <li data-end="1498" data-start="1453">Рекомендований розмір руки: середня та велика</li>   <li data-end="1525" data-start="1500">Сенсор: PixArt PAW3955 TI</li>   <li data-end="1573" data-start="1527">Максимальна роздільна здатність: до 50 000 DPI</li>   <li data-end="1641" data-start="1575">Частота опитування: до 8000 Гц у дротовому та бездротовому режимах</li>   <li data-end="1664" data-start="1643">Контролер: Nordic 54L</li>   <li data-end="1717" data-start="1666">Бездротова технологія: MCHOSE TOPSPEED Wireless 2.0</li>   <li data-end="1759" data-start="1719">Платформа: MCHOSE Shadow Hunter Solution</li>   <li data-end="1806" data-start="1761">Режими підключення: USB / 2,4 ГГц / Bluetooth</li>   <li data-end="1845" data-start="1808">Бездротовий приймач: 8K Nano Receiver</li>   <li data-end="1890" data-start="1847">Перемикачі основних кнопок: механічні Omron</li>   <li data-end="1938" data-start="1892">Ресурс перемикачів: до 100 мільйонів натискань</li>   <li data-end="1992" data-start="1940">Енкодер колеса прокручування: TTC Gold Wheel Encoder</li>   <li data-end="2046" data-start="1994">Покриття корпусу: Super Glide Glass-Like Coating 2.0</li>   <li data-end="2070" data-start="2048">Акумулятор: 500 мА·год</li>   <li data-end="2130" data-start="2072">Автономність: до 385 годин залежно від режиму використання</li>   <li data-end="2181" data-start="2132">Заряджання: USB Type-C / магнітна RGB док-станція</li>   <li data-end="2237" data-start="2183">Програмне забезпечення: M HUB Web Driver / Desktop App</li>   <li data-end="2276" data-start="2239">Розміри: приблизно 127,1×63,8×39,8 мм</li>   <li data-end="2292" data-start="2278">Вага: 59 ± 2 г</li>  </ul></description_ua>
-        <description_ru><p data-end="2832" data-start="2529"><strong data-end="2578" data-start="2529">Игровая беспроводная мышь MCHOSE K7 V2 Ultra+</strong> — производительная модель для динамичных игр и повседневной работы, оснащенная флагманским сенсором PAW3955 TI с разрешением до 50 000 DPI. Частота опроса до 8000 Гц в проводном и беспроводном режимах обеспечивает быстрое и точное отслеживание движений.</p>    <p data-end="3068" data-start="2834">Мышь работает на базе контроллера Nordic 54L и технологии MCHOSE TOPSPEED Wireless 2.0, поддерживающей стабильное соединение с минимальной задержкой. Доступны три режима подключения: USB-кабель, беспроводная связь 2,4 ГГц и Bluetooth.</p>    <p data-end="3310" data-start="3070">Симметричный корпус весом около 59 г подходит для средней и большой руки. Покрытие Super Glide Glass-Like Coating 2.0 обеспечивает приятное скольжение ладони, а механические переключатели Omron рассчитаны на ресурс до 100 миллионов нажатий.</p>    <p data-end="3497" data-start="3312">В комплект входит магнитная RGB док-станция для удобной зарядки. Аккумулятор емкостью 500 мА·ч обеспечивает до 385 часов автономной работы в зависимости от выбранного режима и настроек.</p>    <p data-end="3518" data-start="3499"><strong data-end="3518" data-start="3499">Характеристики:</strong></p>    <ul>   <li data-end="3557" data-start="3520">Тип товара: игровая беспроводная мышь</li>   <li data-end="3572" data-start="3559">Бренд: MCHOSE</li>   <li data-end="3594" data-start="3574">Модель: K7 V2 Ultra+</li>   <li data-end="3623" data-start="3596">Форма корпуса: симметричная</li>   <li data-end="3669" data-start="3625">Рекомендуемый размер руки: средняя и большая</li>   <li data-end="3696" data-start="3671">Сенсор: PixArt PAW3955 TI</li>   <li data-end="3736" data-start="3698">Максимальное разрешение: до 50 000 DPI</li>   <li data-end="3799" data-start="3738">Частота опроса: до 8000 Гц в проводном и беспроводном режимах</li>   <li data-end="3823" data-start="3801">Контроллер: Nordic 54L</li>   <li data-end="3878" data-start="3825">Беспроводная технология: MCHOSE TOPSPEED Wireless 2.0</li>   <li data-end="3920" data-start="3880">Платформа: MCHOSE Shadow Hunter Solution</li>   <li data-end="3967" data-start="3922">Режимы подключения: USB / 2,4 ГГц / Bluetooth</li>   <li data-end="4008" data-start="3969">Беспроводной приемник: 8K Nano Receiver</li>   <li data-end="4059" data-start="4010">Переключатели основных кнопок: механические Omron</li>   <li data-end="4108" data-start="4061">Ресурс переключателей: до 100 миллионов нажатий</li>   <li data-end="4158" data-start="4110">Энкодер колеса прокрутки: TTC Gold Wheel Encoder</li>   <li data-end="4212" data-start="4160">Покрытие корпуса: Super Glide Glass-Like Coating 2.0</li>   <li data-end="4235" data-start="4214">Аккумулятор: 500 мА·ч</li>   <li data-end="4301" data-start="4237">Автономность: до 385 часов в зависимости от режима использования</li>   <li data-end="4350" data-start="4303">Зарядка: USB Type-C / магнитная RGB док-станция</li>   <li data-end="4407" data-start="4352">Программное обеспечение: M HUB Web Driver / Desktop App</li>   <li data-end="4451" data-start="4409">Размеры: приблизительно 127,1×63,8×39,8 мм</li>   <li data-end="4466" data-start="4453">Вес: 59 ± 2 г</li>  </ul></description_ru>
-        <price>4199</price>
-        <old_price>4499</old_price>
-        <categoryId>1084</categoryId>
-        <vendor>Mchose</vendor>
-        <picture>https://techgleam.com.ua/content/images/30/grova-bezdrotova-mishka-mchose-k7-v2-ultra-tri-rezhimi-pdkluchennja-sensor-paw3955-ti-50000-dpi-8000-gc-magntna-rgb-dok-stancja-blue-53188612304497_%2Ba1a3c1b757.jpg</picture>
-        <picture>https://techgleam.com.ua/content/images/30/grova-bezdrotova-mishka-mchose-k7-v2-ultra-tri-rezhimi-pdkluchennja-sensor-paw3955-ti-50000-dpi-8000-gc-magntna-rgb-dok-stancja-blue-74105798616582_%2B10f5ca1507.jpg</picture>
-        <param name="Гарантія">3 місяці</param>
-        <param name="Колір">Блакитний</param>
-        <param name="Підключення">Комбіноване</param>
-        <param name="Сумісність з ОС">Microsoft Windows</param>
-        <param name="Сумісність з ОС">Mac OS</param>
-        <param name="Сумісність з ОС">Linux</param>
-        <param name="Вага">59 г</param>
-        <param name="Кількість кнопок миші">6</param>
-        <param name="Тип датчика">Оптичний</param>
-        <param name="Інтерфейс підключення">Bluetooth</param>
-        <param name="Інтерфейс підключення">Радіоінтерфейс</param>
-        <param name="Інтерфейс підключення">USB</param>
-        <param name="Роздільна здатність сенсора">Понад 20000 dpi</param>
-        <param name="Стан">Новий</param>
-        <param name="Тип">Ігрові (геймерські)</param>
-        <country>Китай</country>
-      </offer>
       <offer id="2030" available="false">
         <availability_status>temporarily_unavailable</availability_status>
         <name_ua>Бездротова ігрова миша Proove Gaming Jester 8K / Три режими підключення / Сенсор PixArt PAW3395 / 26000 DPI / Black</name_ua>
@@ -15696,36 +15696,6 @@
         <param name="Призначення">Геймерські</param>
         <country>Китай</country>
       </offer>
-      <offer id="658" available="true">
-        <availability_status>available</availability_status>
-        <name_ua>Навушники MCHOSE V9 Pro / Бездротова ігрова гарнітура / 2.4G / Bluetooth з мікрофоном / Pink</name_ua>
-        <name_ru>Наушники MCHOSE V9 Pro / Беспроводная игровая гарнитура / 2.4G / Bluetooth с микрофоном / Pink</name_ru>
-        <description_ua><p><strong data-end="27" data-start="3">MCHOSE V9 Pro</strong><strong>— </strong>бездротова ігрова гарнітура, що дарує максимальний комфорт і точне позиціонування звуків у грі.<br data-end="128" data-start="125" />  53-мм біоцелюлозні драйвери + підтримка 7.1 забезпечують чисте й об’ємне звучання, а ємний акумулятор дозволяє грати <strong data-end="261" data-start="245">до 250 годин</strong> без підзарядки. Must-have аксесуар для стрімів, матчів і щоденних дзвінків!</p>    <h3 data-end="374" data-start="344">Основні характеристики:</h3>    <ul>   <li>Тип підключення: 2.4 ГГц / Bluetooth 5.3 / дротове USB-C</li>   <li>Сумісність: ПК, ноутбук, PS4/PS5, Nintendo Switch, смартфони</li>   <li>Драйвери: 53 мм біоцелюлозні — детальний бас і чисті верхи</li>   <li>Звук: об’ємний 7.1, точне позиціонування кроків і пострілів</li>   <li>Мікрофон: знімний, на гнучкій штанзі, AI-шумопридушення, швидке mute</li>   <li>Керування: коліщатко гучності й кнопки на чаші</li>   <li>Акумулятор: 2000 мА·год, до 250 год роботи</li>   <li>Комфорт: м’які амбушури з пам’яттю форми, регульоване наголів’я, легка посадка</li>   <li>Конструкція: складана, зносостійке покриття </li>  </ul>    <p><strong>Комплектація:</strong></p>    <ul>   <li>Гарнітура MCHOSE V9 Pro </li>   <li>2.4 ГГц USB-A ресивер</li>   <li>Кабель USB</li>   <li>Знімний мікрофон</li>   <li>Інструкція користувача</li>  </ul></description_ua>
-        <description_ru><p><strong>MCHOSE V9 Pro— беспроводная игровая гарнитура, дающая максимальный комфорт и точное позиционирование звуков в игре.</strong><br />  53-мм биоцеллюлозный драйвер + поддержка 7.1 обеспечивают чистое и объемное звучание, а емкий аккумулятор позволяет играть до 250 часов без подзарядки. Must-have аксессуар для стримов, матчей и ежедневных звонков!</p>    <p><strong>Основные характеристики:</strong></p>    <ul>   <li>Тип подключения: 2.4 ГГц/Bluetooth 5.3/проводное USB-C</li>   <li>Совместимость: ПК, ноутбук, PS4/PS5, Nintendo Switch, смартфоны</li>   <li>Драйверы: 53 мм биоцеллюлозные - подробный бас и чистые верха.</li>   <li>Звук: объемный 7.1, точное позиционирование шагов и выстрелов</li>   <li>Микрофон: съемный, на гибкой штанге, AI-шумоподавление, быстрое mute</li>   <li>Управление: колесико громкости и кнопки на чаше</li>   <li>Аккумулятор: 2000 мА·ч, до 250 ч работы</li>   <li>Комфорт: мягкие амбушюры с памятью формы, регулируемое оголовье, легкая посадка</li>   <li>Конструкция: складная, износостойкое покрытие</li>  </ul>    <p><strong>   Комплектация:</strong></p>    <ul>   <li>Гарнитура MCHOSE V9 Pro</li>   <li>2.4 ГГц USB-A ресивер</li>   <li>Кабель USB</li>   <li>Съемный микрофон</li>   <li>Руководство пользователя</li>  </ul></description_ru>
-        <price>2599</price>
-        <old_price>2999</old_price>
-        <categoryId>1086</categoryId>
-        <vendor>Mchose</vendor>
-        <picture>https://techgleam.com.ua/content/images/9/29361228343385_%2Bf5021e232a.jpg</picture>
-        <param name="Гарантія">3 місяці</param>
-        <param name="Колір">Рожевий</param>
-        <param name="Тип">Повнорозмірні</param>
-        <param name="Тип підключення">Комбінований</param>
-        <param name="Мікрофон">Зйомний</param>
-        <param name="Інтерфейс зарядного пристрою">USB Type-C</param>
-        <param name="Матеріал амбушюр">Екошкіра</param>
-        <param name="Чутливість навушників">95 дБ</param>
-        <param name="Чутливість навушників">120 дБ</param>
-        <param name="Діапазон частот навушників">20 - 20000 Гц</param>
-        <param name="Кріплення">Оголів&apos;я</param>
-        <param name="Довжина кабелю">1.8 м</param>
-        <param name="Час зарядки">2.5 години</param>
-        <param name="Час роботи">250 годин</param>
-        <param name="Вага">265 г</param>
-        <param name="Стан">Новий</param>
-        <param name="Призначення">Геймерські</param>
-        <country>Китай</country>
-      </offer>
       <offer id="662" available="true">
         <availability_status>available</availability_status>
         <name_ua>Ігровий килимок Attack Shark CM02 / 40*45 см / White</name_ua>
@@ -15915,6 +15885,40 @@
         <param name="Гарантія">3 місяці</param>
         <param name="Колір">Помаранчевий</param>
         <param name="Особливості">Ігрові</param>
+      </offer>
+      <offer id="817" available="true">
+        <availability_status>available</availability_status>
+        <name_ua>Навушники MCHOSE V9 Pro / Бездротова ігрова гарнітура / 2.4G / Bluetooth з мікрофоном / Black</name_ua>
+        <name_ru>Наушники MCHOSE V9 Pro / Беспроводная игровая гарнитура / 2.4G / Bluetooth с микрофоном / Black</name_ru>
+        <description_ua><p><strong data-end="27" data-start="3">MCHOSE V9 Pro</strong><strong>— </strong>бездротова ігрова гарнітура, що дарує максимальний комфорт і точне позиціонування звуків у грі.<br data-end="128" data-start="125" />  53-мм біоцелюлозні драйвери + підтримка 7.1 забезпечують чисте й об’ємне звучання, а ємний акумулятор дозволяє грати <strong data-end="261" data-start="245">до 250 годин</strong> без підзарядки. Must-have аксесуар для стрімів, матчів і щоденних дзвінків!</p>    <h3 data-end="374" data-start="344">Основні характеристики:</h3>    <ul>   <li>Тип підключення: 2.4 ГГц / Bluetooth 5.3 / дротове USB-C</li>   <li>Сумісність: ПК, ноутбук, PS4/PS5, Nintendo Switch, смартфони</li>   <li>Драйвери: 53 мм біоцелюлозні — детальний бас і чисті верхи</li>   <li>Звук: об’ємний 7.1, точне позиціонування кроків і пострілів</li>   <li>Мікрофон: знімний, на гнучкій штанзі, AI-шумопридушення, швидке mute</li>   <li>Керування: коліщатко гучності й кнопки на чаші</li>   <li>Акумулятор: 2000 мА·год, до 250 год роботи</li>   <li>Комфорт: м’які амбушури з пам’яттю форми, регульоване наголів’я, легка посадка</li>   <li>Конструкція: складана, зносостійке покриття </li>  </ul>    <p><strong>Комплектація:</strong></p>    <ul>   <li>Гарнітура MCHOSE V9 Pro </li>   <li>2.4 ГГц USB-A ресивер</li>   <li>Кабель USB</li>   <li>Знімний мікрофон</li>   <li>Інструкція користувача</li>  </ul></description_ua>
+        <description_ru><p><strong>MCHOSE V9 Pro— беспроводная игровая гарнитура, дающая максимальный комфорт и точное позиционирование звуков в игре.</strong><br />  53-мм биоцеллюлозный драйвер + поддержка 7.1 обеспечивают чистое и объемное звучание, а емкий аккумулятор позволяет играть до 250 часов без подзарядки. Must-have аксессуар для стримов, матчей и ежедневных звонков!</p>    <p><strong>Основные характеристики:</strong></p>    <ul>   <li>Тип подключения: 2.4 ГГц/Bluetooth 5.3/проводное USB-C</li>   <li>Совместимость: ПК, ноутбук, PS4/PS5, Nintendo Switch, смартфоны</li>   <li>Драйверы: 53 мм биоцеллюлозные - подробный бас и чистые верха.</li>   <li>Звук: объемный 7.1, точное позиционирование шагов и выстрелов</li>   <li>Микрофон: съемный, на гибкой штанге, AI-шумоподавление, быстрое mute</li>   <li>Управление: колесико громкости и кнопки на чаше</li>   <li>Аккумулятор: 2000 мА·ч, до 250 ч работы</li>   <li>Комфорт: мягкие амбушюры с памятью формы, регулируемое оголовье, легкая посадка</li>   <li>Конструкция: складная, износостойкое покрытие</li>  </ul>    <p><strong>   Комплектация:</strong></p>    <ul>   <li>Гарнитура MCHOSE V9 Pro</li>   <li>2.4 ГГц USB-A ресивер</li>   <li>Кабель USB</li>   <li>Съемный микрофон</li>   <li>Руководство пользователя</li>  </ul></description_ru>
+        <price>2599</price>
+        <old_price>2999</old_price>
+        <categoryId>1086</categoryId>
+        <vendor>Mchose</vendor>
+        <picture>https://techgleam.com.ua/content/images/18/naushniki-mchose-v9-pro-besprovodnaja-igrovaja-garnitura-2.4g-bluetooth-s-mikrofonom-black-78605005933552_%2B8e6c5613d7.jpg</picture>
+        <picture>https://techgleam.com.ua/content/images/18/naushniki-mchose-v9-pro-besprovodnaja-igrovaja-garnitura-2.4g-bluetooth-s-mikrofonom-black-59580316949290_%2B482fc1a38f.jpg</picture>
+        <picture>https://techgleam.com.ua/content/images/18/naushniki-mchose-v9-pro-besprovodnaja-igrovaja-garnitura-2.4g-bluetooth-s-mikrofonom-black-34194936465981_%2B2c5197a451.jpg</picture>
+        <picture>https://techgleam.com.ua/content/images/18/naushniki-mchose-v9-pro-besprovodnaja-igrovaja-garnitura-2.4g-bluetooth-s-mikrofonom-black-77332366649508_%2Ba390d5fda2.jpg</picture>
+        <picture>https://techgleam.com.ua/content/images/18/naushniki-mchose-v9-pro-besprovodnaja-igrovaja-garnitura-2.4g-bluetooth-s-mikrofonom-black-48269148024345_%2Bd9fb7d203f.jpg</picture>
+        <param name="Гарантія">3 місяці</param>
+        <param name="Колір">Чорний</param>
+        <param name="Тип">Повнорозмірні</param>
+        <param name="Тип підключення">Комбінований</param>
+        <param name="Мікрофон">Зйомний</param>
+        <param name="Інтерфейс зарядного пристрою">USB Type-C</param>
+        <param name="Матеріал амбушюр">Екошкіра</param>
+        <param name="Чутливість навушників">95 дБ</param>
+        <param name="Чутливість навушників">120 дБ</param>
+        <param name="Діапазон частот навушників">20 - 20000 Гц</param>
+        <param name="Кріплення">Оголів&apos;я</param>
+        <param name="Довжина кабелю">1.8 м</param>
+        <param name="Час зарядки">2.5 години</param>
+        <param name="Час роботи">250 годин</param>
+        <param name="Вага">265 г</param>
+        <param name="Стан">Новий</param>
+        <param name="Призначення">Геймерські</param>
+        <country>Китай</country>
       </offer>
       <offer id="1070" available="true">
         <availability_status>available</availability_status>
@@ -16182,25 +16186,6 @@
         <param name="Колір">Блакитний</param>
         <param name="Особливості">Ігрові</param>
       </offer>
-      <offer id="1723" available="true">
-        <availability_status>available</availability_status>
-        <name_ua>Ігровий килимок Attack Shark CM02 / 40*45 см / Pink Lines</name_ua>
-        <name_ru>Игровой коврик Attack Shark CM02 / 40*45 см / Pink Lines</name_ru>
-        <description_ua><p><strong>Ігровий килимок Attack Shark CM02 — точність, комфорт, надійність!</strong></p>    <p>Attack Shark CM02 — професійний килимок для миші з оптимальними розмірами, ідеальною текстурою та преміальними матеріалами. Створений для геймерів, які не йдуть на компроміси.</p>    <p><strong>Основні характеристики:</strong></p>    <ul>   <li>Розміри: 450 × 400 мм — достатньо простору для низького DPI  </li>   <li>Товщина: 4 мм — зменшення навантаження на зап’ястя  </li>   <li>Поверхня: текстурована мікрофібра — баланс швидкості й контролю  </li>   <li>Основа: щільна гума з антиковзким покриттям  </li>   <li>Водостійке покриття 5S — захист від пролиття та забруднень  </li>   <li>Посилені краї: міцна прошивка без обтріпування  </li>  </ul>    <p>Підійде для геймерів, дизайнерів і всіх, хто цінує комфорт у роботі за ПК.</p></description_ua>
-        <description_ru><p><strong>Игровой коврик Attack Shark CM02 – точность, комфорт, надежность!</strong></p>    <p>Attack Shark CM02 – профессиональный коврик для мыши с оптимальными размерами, идеальной текстурой и премиальными материалами. Созданий для геймеров, не идущих на компромисс.</p>    <p><strong>Основные характеристики:</strong></p>    <ul>   <li>Размеры: 450 × 400 мм – достаточно простора для низкого DPI</li>   <li>Толщина: 4 мм – уменьшение нагрузки на запястье</li>   <li>Поверхность: текстурированная микрофибра – баланс скорости и контроля</li>   <li>Основание: плотная резина с антискользящим покрытием</li>   <li>Водостойкое покрытие 5S — защита от пролива и загрязнений</li>   <li>Усиленные края: прочная прошивка без обтрепки</li>  </ul>    <p>Подойдет для геймеров, дизайнеров и всех, кто ценит комфорт в работе за ПК.</p></description_ru>
-        <price>699</price>
-        <categoryId>1089</categoryId>
-        <vendor>Attack Shark</vendor>
-        <picture>https://techgleam.com.ua/content/images/24/groviy-kilimok-attack-shark-cm02-4045-sm-pink-lines-58854003039870_%2Ba6fdecbcb5.jpg</picture>
-        <picture>https://techgleam.com.ua/content/images/24/groviy-kilimok-attack-shark-cm02-4045-sm-pink-lines-75161403848135_%2Bd58dd3a214.jpg</picture>
-        <picture>https://techgleam.com.ua/content/images/24/groviy-kilimok-attack-shark-cm02-4045-sm-pink-lines-86426220698442_%2B8ba10c2918.jpg</picture>
-        <picture>https://techgleam.com.ua/content/images/24/groviy-kilimok-attack-shark-cm02-4045-sm-pink-lines-33516662607549_%2B552f33c5ee.jpg</picture>
-        <picture>https://techgleam.com.ua/content/images/24/groviy-kilimok-attack-shark-cm02-4045-sm-pink-lines-81418103991721_%2B67b3259ba1.jpg</picture>
-        <picture>https://techgleam.com.ua/content/images/24/groviy-kilimok-attack-shark-cm02-4045-sm-pink-lines-70036678657630_%2B86c539e733.jpg</picture>
-        <param name="Гарантія">3 місяці</param>
-        <param name="Колір">Рожевий</param>
-        <param name="Особливості">Ігрові</param>
-      </offer>
       <offer id="1782" available="true">
         <availability_status>available</availability_status>
         <name_ua>Донгл EWEADN S9 / 8K Wireless Dongle для ігрових мишок / Black</name_ua>
@@ -16289,6 +16274,18 @@
         <categoryId>1089</categoryId>
         <picture>https://techgleam.com.ua/content/images/35/groviy-kilimok-cyber-gamer-girl-9040-sm-4-mm-black-42738568611087_%2Bdc0afc8068.jpg</picture>
         <param name="Колір">Чорний</param>
+        <param name="Особливості">Ігрові</param>
+      </offer>
+      <offer id="1886" available="true">
+        <availability_status>available</availability_status>
+        <name_ua>Ігровий килимок Sakura Room 90×40 см / 4 мм / Beige</name_ua>
+        <name_ru>Игровой коврик Sakura Room 90×40 см / 4 мм / Beige</name_ru>
+        <description_ua><p data-end="496" data-start="217"><strong data-end="266" data-start="217">Ігровий килимок Sakura Room 90 × 40 см / 4 мм</strong> — великий desk mat із затишним художнім принтом, який гарно доповнить робоче місце, домашній сетап або ігрову зону. Завдяки розміру <strong data-end="413" data-start="399">90 × 40 см</strong> килимок зручно використовувати для миші, клавіатури, ноутбука та інших аксесуарів.</p>    <p data-end="752" data-start="498">Дизайн виконаний у вигляді <strong data-end="573" data-start="525">світлої кімнати з панорамним видом на сакуру</strong>, теплим сонячним освітленням і спокійною атмосферою. Такий принт додає робочому столу затишку, візуальної легкості та добре поєднується зі світлими або мінімалістичними сетапами.</p>    <p data-end="1002" data-start="754">Товщина <strong data-end="770" data-start="762">4 мм</strong> забезпечує комфорт для рук під час тривалого користування, а гладка поверхня сприяє плавному ковзанню миші та точному керуванню курсором. Килимок також допомагає захистити поверхню столу від подряпин, потертостей і щоденного зносу.</p>    <p data-end="1031" data-start="1004"><strong data-end="1031" data-start="1004">Основні характеристики:</strong></p>    <ul data-end="1410" data-start="1032">   <li data-end="1073" data-section-id="cutkdz" data-start="1032">Тип: великий ігровий килимок / desk mat</li>   <li data-end="1098" data-section-id="e9x8d2" data-start="1074">Розмір: <strong data-end="1098" data-start="1084">90 × 40 см</strong></li>   <li data-end="1118" data-section-id="16oq4tw" data-start="1099">Товщина: <strong data-end="1118" data-start="1110">4 мм</strong></li>   <li data-end="1169" data-section-id="fusky" data-start="1119">Дизайн: <strong data-end="1169" data-start="1129">кімната / сакура / затишний інтер’єр</strong></li>   <li data-end="1193" data-section-id="1g4ahnv" data-start="1170">Колір: <strong data-end="1193" data-start="1179">Beige</strong></li>   <li data-end="1239" data-section-id="glkby" data-start="1194">Призначення: для миші, клавіатури, ноутбука</li>   <li data-end="1288" data-section-id="6htqgf" data-start="1240">Поверхня: гладка для комфортного ковзання миші</li>   <li data-end="1329" data-section-id="197k0f9" data-start="1289">Підходить для роботи, навчання та ігор</li>   <li data-end="1354" data-section-id="r0tp0q" data-start="1330">Захищає поверхню столу</li>   <li data-end="1410" data-section-id="ko55ox" data-start="1355">Добре доповнює світлий, домашній або естетичний сетап</li>  </ul></description_ua>
+        <description_ru><p data-end="1722" data-start="1437"><strong data-end="1485" data-start="1437">Игровой коврик Sakura Room 90 × 40 см / 4 мм</strong> — большой desk mat с уютным художественным принтом, который хорошо дополнит рабочее место, домашний сетап или игровую зону. Благодаря размеру <strong data-end="1642" data-start="1628">90 × 40 см</strong> коврик удобно использовать для мыши, клавиатуры, ноутбука и других аксессуаров.</p>    <p data-end="1974" data-start="1724">Дизайн выполнен в виде <strong data-end="1795" data-start="1747">светлой комнаты с панорамным видом на сакуру</strong>, теплым солнечным освещением и спокойной атмосферой. Такой принт добавляет рабочему столу уюта, визуальной легкости и хорошо сочетается со светлыми или минималистичными сетапами.</p>    <p data-end="2243" data-start="1976">Толщина <strong data-end="1992" data-start="1984">4 мм</strong> обеспечивает комфорт для рук во время длительного использования, а гладкая поверхность способствует плавному скольжению мыши и точному управлению курсором. Коврик также помогает защитить поверхность стола от царапин, потертостей и ежедневного износа.</p>    <p data-end="2273" data-start="2245"><strong data-end="2273" data-start="2245">Основные характеристики:</strong></p>    <ul data-end="2653" data-start="2274">   <li data-end="2314" data-section-id="5wxevu" data-start="2274">Тип: большой игровой коврик / desk mat</li>   <li data-end="2339" data-section-id="hzlyxn" data-start="2315">Размер: <strong data-end="2339" data-start="2325">90 × 40 см</strong></li>   <li data-end="2359" data-section-id="hekdkt" data-start="2340">Толщина: <strong data-end="2359" data-start="2351">4 мм</strong></li>   <li data-end="2408" data-section-id="35na21" data-start="2360">Дизайн: <strong data-end="2408" data-start="2370">комната / сакура / уютный интерьер</strong></li>   <li data-end="2431" data-section-id="jpaazl" data-start="2409">Цвет:<strong data-end="2431" data-start="2417"> Beige</strong></li>   <li data-end="2476" data-section-id="edgqor" data-start="2432">Назначение: для мыши, клавиатуры, ноутбука</li>   <li data-end="2531" data-section-id="4a2aue" data-start="2477">Поверхность: гладкая для комфортного скольжения мыши</li>   <li data-end="2566" data-section-id="66v362" data-start="2532">Подходит для работы, учебы и игр</li>   <li data-end="2595" data-section-id="gchsq1" data-start="2567">Защищает поверхность стола</li>   <li data-end="2653" data-section-id="xqca2e" data-start="2596">Хорошо дополняет светлый, домашний или эстетичный сетап</li>  </ul></description_ru>
+        <price>620</price>
+        <categoryId>1089</categoryId>
+        <picture>https://techgleam.com.ua/content/images/37/groviy-kilimok-sakura-room-9040-sm-4-mm-beige-68665488878392_%2B1e74e13541.jpg</picture>
+        <param name="Колір">Бежевий</param>
         <param name="Особливості">Ігрові</param>
       </offer>
       <offer id="1889" available="true">
@@ -16837,6 +16834,32 @@
         <picture>https://techgleam.com.ua/content/images/28/velikiy-groviy-kilimok-dlja-mish-chainsaw-man-makima-crimson-chaos-9004003-mm-anme-dizayn-dlja-mish-ta-klavaturi-red-black-79327153859828_%2B2a4769ed67.png</picture>
         <param name="Колір">Чорний</param>
         <param name="Особливості">Ігрові</param>
+      </offer>
+      <offer id="2035" available="true">
+        <availability_status>available</availability_status>
+        <name_ua>Бездротова ігрова гарнітура Proove Gaming Bliss / Два режими підключення / з мікрофоном / Black</name_ua>
+        <name_ru>Беспроводная игровая гарнитура Proove Gaming Bliss / Два режима подключения / с микрофоном / Black</name_ru>
+        <description_ua><p>Proove Gaming Bliss   надійна гарнітура для ігрового досвіду!</p><p><strong>Функціонал.</strong> Proove Gaming Bliss   це бездротова ігрова гарнітура, розроблена для повного занурення в ігровий процес. Завдяки високоякісному звуку та глибоким басам вона передає кожну деталь гри, а всеспрямований мікрофон забезпечує чіткий голосовий зв язок. </p><p><strong>Особливості.</strong> Модель відрізняється комфортною посадкою з м'якими амбушурами, які ідеально підходять для тривалих ігрових сесій. Вбудовані функції шумопоглинання гарантують чистоту звуку, навіть у гучних умовах, а зручні кнопки управління дозволяють швидко регулювати звук або вимикати мікрофон. </p><p><strong>Дизайн.</strong> Гарнітура виконана в сучасному геймерському стилі з агресивними лініями та світлодіодним підсвічуванням. Міцна конструкція поєднується з легкістю і зручністю, що робить її ідеальною для активного використання. Навушники сумісні з фірмовим застосунком Proove, що відкриває розширені можливості налаштування. Користувачі можуть персоналізувати звучання через еквалайзер та змінювати елементи керування під власні вподобання.</p><p><strong>Характеристики:</strong></p><ul><li><strong>Матеріал:</strong> ABS</li><li><strong>Версія Bluetooth:</strong> 5.4</li><li><strong>Протоколи:</strong> A2DP, HFP, HSP, AVRCP</li><li><strong>Декодер:</strong> SBC</li><li><strong>Розмір динаміка:</strong> Ø40мм</li><li><strong>Порт:</strong> Type-C</li><li><strong>Чутливість динаміка:</strong> 112 3дБ</li><li><strong>Чутливість мікрофона:</strong> -42 3дБ</li><li><strong>Тип батареї:</strong> літієва</li><li><strong>Ємність акумулятора:</strong> 600мАг</li><li><strong>Час роботи:</strong> ~34 год</li><li><strong>Час заряджання:</strong> 2 год</li><li><strong>Режими роботи:</strong> Bluetooth, AUX</li><li><strong>Робоча напруга:</strong> 3.7V</li><li><strong>Діапазон частот:</strong> 20Гц-20кГц</li><li><strong>Опір:</strong> 32Ω 15%</li><li><strong>Розмір продукту:</strong> 185x82.5x193мм</li><li><strong>Вага:</strong> 230г</li></ul></description_ua>
+        <description_ru><p>Proove Gaming Bliss   надежная гарнитура для игрового опыта! Серия Proove Gaming изменит игровой опыт настоящих геймеров раз и навсегда. Высокое качество, комфорт, внимание к деталям создают идеальную компьютерную периферию и погружают во вселенную самых любимых игр.</p><p><strong>Функционал.</strong> Proove Gaming Bliss   это беспроводная игровая гарнитура, разработанная для полного погружения в игровой процесс. Благодаря высококачественному звуку и глубоким басам она передает каждую деталь игры, а всенаправленный микрофон обеспечивает четкую голосовую связь. </p><p><strong>Особенности.</strong> Модель отличается комфортной посадкой с мягкими амбушурами, идеально подходящими для длительных игровых сессий. Встроенные функции шумопоглощения гарантируют чистоту звука даже в громких условиях, а удобные кнопки управления позволяют быстро регулировать звук или выключать микрофон. </p><p><strong>Дизайн.</strong> Гарнитура выполнена в современном геймерском стиле с агрессивными линиями и светодиодной подсветкой. Прочная конструкция сочетается с легкостью и удобством, что делает идеальной для активного использования. Наушники совместимы с фирменным приложением Proove, которое открывает расширенные возможности настройки. Пользователи могут персонализировать звучание с помощью эквалайзера и менять элементы управления под свои предпочтения.</p><p><strong>Характеристики:</strong></p><ul><li><strong>Материал:</strong> ABS</li><li><strong>Версия Bluetooth:</strong> 5.4</li><li><strong>Протоколы:</strong> A2DP, HFP, HSP, AVRCP</li><li><strong>Декодер:</strong> SBC</li><li><strong>Размер динамика:</strong> Ø40мм</li><li><strong>Порт:</strong> Type-C</li><li><strong>Чувствительность динамика:</strong> 112 3Дб</li><li><strong>Чувствительность микрофона:</strong> -42 3Дб</li><li><strong>Тип батареи:</strong> литиевая</li><li><strong>Емкость аккумулятора:</strong> 800 мАч</li><li><strong>Время работы(Bluetooth):</strong> ~40 ч</li><li><strong>Время работы(2.4 ГГц):</strong> ~30 ч</li><li><strong>Время зарядки:</strong> ~2 ч</li><li><strong>Режимы работы:</strong> 2.4ГГц, Bluetooth, AUX</li><li><strong>Рабочее напряжение:</strong> 5V</li><li><strong>Диапазон частот:</strong> 20Гц-20кГц</li><li><strong>Сопротивление:</strong> 32Ω 15%</li><li><strong>Размер продукта:</strong> 150x185x50мм</li><li><strong>Вес:</strong> 278.5г</li></ul></description_ru>
+        <price>1399</price>
+        <old_price>1899</old_price>
+        <categoryId>1086</categoryId>
+        <vendor>Proove Gaming</vendor>
+        <picture>https://techgleam.com.ua/content/images/36/58773722717506_%2B4e78288604.jpg</picture>
+        <param name="Гарантія">12 місяців</param>
+        <param name="Тип">Повнорозмірні</param>
+        <param name="Мікрофон">Да</param>
+        <param name="Інтерфейс зарядного пристрою">USB Type-C</param>
+        <param name="Матеріал амбушюр">Искусственная кожа</param>
+        <param name="Чутливість навушників">112дБ</param>
+        <param name="Діапазон частот навушників">20 - 20000 Гц</param>
+        <param name="Кріплення">Оголів&apos;я</param>
+        <param name="Час зарядки">2 години</param>
+        <param name="Час роботи">34 години</param>
+        <param name="Вага">230 г</param>
+        <param name="Стан">Новий</param>
+        <param name="Призначення">Геймерські</param>
+        <country>Китай</country>
       </offer>
       <offer id="2036" available="true">
         <availability_status>available</availability_status>
@@ -17818,6 +17841,36 @@
         <param name="Призначення">Геймерські</param>
         <country>Китай</country>
       </offer>
+      <offer id="658" available="false">
+        <availability_status>temporarily_unavailable</availability_status>
+        <name_ua>Навушники MCHOSE V9 Pro / Бездротова ігрова гарнітура / 2.4G / Bluetooth з мікрофоном / Pink</name_ua>
+        <name_ru>Наушники MCHOSE V9 Pro / Беспроводная игровая гарнитура / 2.4G / Bluetooth с микрофоном / Pink</name_ru>
+        <description_ua><p><strong data-end="27" data-start="3">MCHOSE V9 Pro</strong><strong>— </strong>бездротова ігрова гарнітура, що дарує максимальний комфорт і точне позиціонування звуків у грі.<br data-end="128" data-start="125" />  53-мм біоцелюлозні драйвери + підтримка 7.1 забезпечують чисте й об’ємне звучання, а ємний акумулятор дозволяє грати <strong data-end="261" data-start="245">до 250 годин</strong> без підзарядки. Must-have аксесуар для стрімів, матчів і щоденних дзвінків!</p>    <h3 data-end="374" data-start="344">Основні характеристики:</h3>    <ul>   <li>Тип підключення: 2.4 ГГц / Bluetooth 5.3 / дротове USB-C</li>   <li>Сумісність: ПК, ноутбук, PS4/PS5, Nintendo Switch, смартфони</li>   <li>Драйвери: 53 мм біоцелюлозні — детальний бас і чисті верхи</li>   <li>Звук: об’ємний 7.1, точне позиціонування кроків і пострілів</li>   <li>Мікрофон: знімний, на гнучкій штанзі, AI-шумопридушення, швидке mute</li>   <li>Керування: коліщатко гучності й кнопки на чаші</li>   <li>Акумулятор: 2000 мА·год, до 250 год роботи</li>   <li>Комфорт: м’які амбушури з пам’яттю форми, регульоване наголів’я, легка посадка</li>   <li>Конструкція: складана, зносостійке покриття </li>  </ul>    <p><strong>Комплектація:</strong></p>    <ul>   <li>Гарнітура MCHOSE V9 Pro </li>   <li>2.4 ГГц USB-A ресивер</li>   <li>Кабель USB</li>   <li>Знімний мікрофон</li>   <li>Інструкція користувача</li>  </ul></description_ua>
+        <description_ru><p><strong>MCHOSE V9 Pro— беспроводная игровая гарнитура, дающая максимальный комфорт и точное позиционирование звуков в игре.</strong><br />  53-мм биоцеллюлозный драйвер + поддержка 7.1 обеспечивают чистое и объемное звучание, а емкий аккумулятор позволяет играть до 250 часов без подзарядки. Must-have аксессуар для стримов, матчей и ежедневных звонков!</p>    <p><strong>Основные характеристики:</strong></p>    <ul>   <li>Тип подключения: 2.4 ГГц/Bluetooth 5.3/проводное USB-C</li>   <li>Совместимость: ПК, ноутбук, PS4/PS5, Nintendo Switch, смартфоны</li>   <li>Драйверы: 53 мм биоцеллюлозные - подробный бас и чистые верха.</li>   <li>Звук: объемный 7.1, точное позиционирование шагов и выстрелов</li>   <li>Микрофон: съемный, на гибкой штанге, AI-шумоподавление, быстрое mute</li>   <li>Управление: колесико громкости и кнопки на чаше</li>   <li>Аккумулятор: 2000 мА·ч, до 250 ч работы</li>   <li>Комфорт: мягкие амбушюры с памятью формы, регулируемое оголовье, легкая посадка</li>   <li>Конструкция: складная, износостойкое покрытие</li>  </ul>    <p><strong>   Комплектация:</strong></p>    <ul>   <li>Гарнитура MCHOSE V9 Pro</li>   <li>2.4 ГГц USB-A ресивер</li>   <li>Кабель USB</li>   <li>Съемный микрофон</li>   <li>Руководство пользователя</li>  </ul></description_ru>
+        <price>2599</price>
+        <old_price>2999</old_price>
+        <categoryId>1086</categoryId>
+        <vendor>Mchose</vendor>
+        <picture>https://techgleam.com.ua/content/images/9/29361228343385_%2Bf5021e232a.jpg</picture>
+        <param name="Гарантія">3 місяці</param>
+        <param name="Колір">Рожевий</param>
+        <param name="Тип">Повнорозмірні</param>
+        <param name="Тип підключення">Комбінований</param>
+        <param name="Мікрофон">Зйомний</param>
+        <param name="Інтерфейс зарядного пристрою">USB Type-C</param>
+        <param name="Матеріал амбушюр">Екошкіра</param>
+        <param name="Чутливість навушників">95 дБ</param>
+        <param name="Чутливість навушників">120 дБ</param>
+        <param name="Діапазон частот навушників">20 - 20000 Гц</param>
+        <param name="Кріплення">Оголів&apos;я</param>
+        <param name="Довжина кабелю">1.8 м</param>
+        <param name="Час зарядки">2.5 години</param>
+        <param name="Час роботи">250 годин</param>
+        <param name="Вага">265 г</param>
+        <param name="Стан">Новий</param>
+        <param name="Призначення">Геймерські</param>
+        <country>Китай</country>
+      </offer>
       <offer id="659" available="false">
         <availability_status>temporarily_unavailable</availability_status>
         <name_ua>Навушники MCHOSE V9 Pro / Бездротова ігрова гарнітура / 2.4G / Bluetooth з мікрофоном / White Blue</name_ua>
@@ -18507,40 +18560,6 @@
         <param name="Гарантія">1 місяць</param>
         <param name="Колір">Чорний</param>
         <param name="Стан">Новий</param>
-      </offer>
-      <offer id="817" available="false">
-        <availability_status>temporarily_unavailable</availability_status>
-        <name_ua>Навушники MCHOSE V9 Pro / Бездротова ігрова гарнітура / 2.4G / Bluetooth з мікрофоном / Black</name_ua>
-        <name_ru>Наушники MCHOSE V9 Pro / Беспроводная игровая гарнитура / 2.4G / Bluetooth с микрофоном / Black</name_ru>
-        <description_ua><p><strong data-end="27" data-start="3">MCHOSE V9 Pro</strong><strong>— </strong>бездротова ігрова гарнітура, що дарує максимальний комфорт і точне позиціонування звуків у грі.<br data-end="128" data-start="125" />  53-мм біоцелюлозні драйвери + підтримка 7.1 забезпечують чисте й об’ємне звучання, а ємний акумулятор дозволяє грати <strong data-end="261" data-start="245">до 250 годин</strong> без підзарядки. Must-have аксесуар для стрімів, матчів і щоденних дзвінків!</p>    <h3 data-end="374" data-start="344">Основні характеристики:</h3>    <ul>   <li>Тип підключення: 2.4 ГГц / Bluetooth 5.3 / дротове USB-C</li>   <li>Сумісність: ПК, ноутбук, PS4/PS5, Nintendo Switch, смартфони</li>   <li>Драйвери: 53 мм біоцелюлозні — детальний бас і чисті верхи</li>   <li>Звук: об’ємний 7.1, точне позиціонування кроків і пострілів</li>   <li>Мікрофон: знімний, на гнучкій штанзі, AI-шумопридушення, швидке mute</li>   <li>Керування: коліщатко гучності й кнопки на чаші</li>   <li>Акумулятор: 2000 мА·год, до 250 год роботи</li>   <li>Комфорт: м’які амбушури з пам’яттю форми, регульоване наголів’я, легка посадка</li>   <li>Конструкція: складана, зносостійке покриття </li>  </ul>    <p><strong>Комплектація:</strong></p>    <ul>   <li>Гарнітура MCHOSE V9 Pro </li>   <li>2.4 ГГц USB-A ресивер</li>   <li>Кабель USB</li>   <li>Знімний мікрофон</li>   <li>Інструкція користувача</li>  </ul></description_ua>
-        <description_ru><p><strong>MCHOSE V9 Pro— беспроводная игровая гарнитура, дающая максимальный комфорт и точное позиционирование звуков в игре.</strong><br />  53-мм биоцеллюлозный драйвер + поддержка 7.1 обеспечивают чистое и объемное звучание, а емкий аккумулятор позволяет играть до 250 часов без подзарядки. Must-have аксессуар для стримов, матчей и ежедневных звонков!</p>    <p><strong>Основные характеристики:</strong></p>    <ul>   <li>Тип подключения: 2.4 ГГц/Bluetooth 5.3/проводное USB-C</li>   <li>Совместимость: ПК, ноутбук, PS4/PS5, Nintendo Switch, смартфоны</li>   <li>Драйверы: 53 мм биоцеллюлозные - подробный бас и чистые верха.</li>   <li>Звук: объемный 7.1, точное позиционирование шагов и выстрелов</li>   <li>Микрофон: съемный, на гибкой штанге, AI-шумоподавление, быстрое mute</li>   <li>Управление: колесико громкости и кнопки на чаше</li>   <li>Аккумулятор: 2000 мА·ч, до 250 ч работы</li>   <li>Комфорт: мягкие амбушюры с памятью формы, регулируемое оголовье, легкая посадка</li>   <li>Конструкция: складная, износостойкое покрытие</li>  </ul>    <p><strong>   Комплектация:</strong></p>    <ul>   <li>Гарнитура MCHOSE V9 Pro</li>   <li>2.4 ГГц USB-A ресивер</li>   <li>Кабель USB</li>   <li>Съемный микрофон</li>   <li>Руководство пользователя</li>  </ul></description_ru>
-        <price>2599</price>
-        <old_price>2999</old_price>
-        <categoryId>1086</categoryId>
-        <vendor>Mchose</vendor>
-        <picture>https://techgleam.com.ua/content/images/18/naushniki-mchose-v9-pro-besprovodnaja-igrovaja-garnitura-2.4g-bluetooth-s-mikrofonom-black-78605005933552_%2B8e6c5613d7.jpg</picture>
-        <picture>https://techgleam.com.ua/content/images/18/naushniki-mchose-v9-pro-besprovodnaja-igrovaja-garnitura-2.4g-bluetooth-s-mikrofonom-black-59580316949290_%2B482fc1a38f.jpg</picture>
-        <picture>https://techgleam.com.ua/content/images/18/naushniki-mchose-v9-pro-besprovodnaja-igrovaja-garnitura-2.4g-bluetooth-s-mikrofonom-black-34194936465981_%2B2c5197a451.jpg</picture>
-        <picture>https://techgleam.com.ua/content/images/18/naushniki-mchose-v9-pro-besprovodnaja-igrovaja-garnitura-2.4g-bluetooth-s-mikrofonom-black-77332366649508_%2Ba390d5fda2.jpg</picture>
-        <picture>https://techgleam.com.ua/content/images/18/naushniki-mchose-v9-pro-besprovodnaja-igrovaja-garnitura-2.4g-bluetooth-s-mikrofonom-black-48269148024345_%2Bd9fb7d203f.jpg</picture>
-        <param name="Гарантія">3 місяці</param>
-        <param name="Колір">Чорний</param>
-        <param name="Тип">Повнорозмірні</param>
-        <param name="Тип підключення">Комбінований</param>
-        <param name="Мікрофон">Зйомний</param>
-        <param name="Інтерфейс зарядного пристрою">USB Type-C</param>
-        <param name="Матеріал амбушюр">Екошкіра</param>
-        <param name="Чутливість навушників">95 дБ</param>
-        <param name="Чутливість навушників">120 дБ</param>
-        <param name="Діапазон частот навушників">20 - 20000 Гц</param>
-        <param name="Кріплення">Оголів&apos;я</param>
-        <param name="Довжина кабелю">1.8 м</param>
-        <param name="Час зарядки">2.5 години</param>
-        <param name="Час роботи">250 годин</param>
-        <param name="Вага">265 г</param>
-        <param name="Стан">Новий</param>
-        <param name="Призначення">Геймерські</param>
-        <country>Китай</country>
       </offer>
       <offer id="824" available="false">
         <availability_status>temporarily_unavailable</availability_status>
@@ -19592,6 +19611,25 @@
         <param name="Колір">Сірий</param>
         <param name="Особливості">Ігрові</param>
       </offer>
+      <offer id="1723" available="false">
+        <availability_status>temporarily_unavailable</availability_status>
+        <name_ua>Ігровий килимок Attack Shark CM02 / 40*45 см / Pink Lines</name_ua>
+        <name_ru>Игровой коврик Attack Shark CM02 / 40*45 см / Pink Lines</name_ru>
+        <description_ua><p><strong>Ігровий килимок Attack Shark CM02 — точність, комфорт, надійність!</strong></p>    <p>Attack Shark CM02 — професійний килимок для миші з оптимальними розмірами, ідеальною текстурою та преміальними матеріалами. Створений для геймерів, які не йдуть на компроміси.</p>    <p><strong>Основні характеристики:</strong></p>    <ul>   <li>Розміри: 450 × 400 мм — достатньо простору для низького DPI  </li>   <li>Товщина: 4 мм — зменшення навантаження на зап’ястя  </li>   <li>Поверхня: текстурована мікрофібра — баланс швидкості й контролю  </li>   <li>Основа: щільна гума з антиковзким покриттям  </li>   <li>Водостійке покриття 5S — захист від пролиття та забруднень  </li>   <li>Посилені краї: міцна прошивка без обтріпування  </li>  </ul>    <p>Підійде для геймерів, дизайнерів і всіх, хто цінує комфорт у роботі за ПК.</p></description_ua>
+        <description_ru><p><strong>Игровой коврик Attack Shark CM02 – точность, комфорт, надежность!</strong></p>    <p>Attack Shark CM02 – профессиональный коврик для мыши с оптимальными размерами, идеальной текстурой и премиальными материалами. Созданий для геймеров, не идущих на компромисс.</p>    <p><strong>Основные характеристики:</strong></p>    <ul>   <li>Размеры: 450 × 400 мм – достаточно простора для низкого DPI</li>   <li>Толщина: 4 мм – уменьшение нагрузки на запястье</li>   <li>Поверхность: текстурированная микрофибра – баланс скорости и контроля</li>   <li>Основание: плотная резина с антискользящим покрытием</li>   <li>Водостойкое покрытие 5S — защита от пролива и загрязнений</li>   <li>Усиленные края: прочная прошивка без обтрепки</li>  </ul>    <p>Подойдет для геймеров, дизайнеров и всех, кто ценит комфорт в работе за ПК.</p></description_ru>
+        <price>699</price>
+        <categoryId>1089</categoryId>
+        <vendor>Attack Shark</vendor>
+        <picture>https://techgleam.com.ua/content/images/24/groviy-kilimok-attack-shark-cm02-4045-sm-pink-lines-58854003039870_%2Ba6fdecbcb5.jpg</picture>
+        <picture>https://techgleam.com.ua/content/images/24/groviy-kilimok-attack-shark-cm02-4045-sm-pink-lines-75161403848135_%2Bd58dd3a214.jpg</picture>
+        <picture>https://techgleam.com.ua/content/images/24/groviy-kilimok-attack-shark-cm02-4045-sm-pink-lines-86426220698442_%2B8ba10c2918.jpg</picture>
+        <picture>https://techgleam.com.ua/content/images/24/groviy-kilimok-attack-shark-cm02-4045-sm-pink-lines-33516662607549_%2B552f33c5ee.jpg</picture>
+        <picture>https://techgleam.com.ua/content/images/24/groviy-kilimok-attack-shark-cm02-4045-sm-pink-lines-81418103991721_%2B67b3259ba1.jpg</picture>
+        <picture>https://techgleam.com.ua/content/images/24/groviy-kilimok-attack-shark-cm02-4045-sm-pink-lines-70036678657630_%2B86c539e733.jpg</picture>
+        <param name="Гарантія">3 місяці</param>
+        <param name="Колір">Рожевий</param>
+        <param name="Особливості">Ігрові</param>
+      </offer>
       <offer id="1749" available="false">
         <availability_status>temporarily_unavailable</availability_status>
         <name_ua>Ігрові бездротові навушники AULA G7 Pro / Три режими підключення / White</name_ua>
@@ -19764,18 +19802,6 @@
         <categoryId>1089</categoryId>
         <picture>https://techgleam.com.ua/content/images/36/groviy-kilimok-sunny-white-cat-9040-sm-4-mm-green-81752008589377_%2Bf2b6648d03.jpg</picture>
         <param name="Колір">Зелений</param>
-        <param name="Особливості">Ігрові</param>
-      </offer>
-      <offer id="1886" available="false">
-        <availability_status>temporarily_unavailable</availability_status>
-        <name_ua>Ігровий килимок Sakura Room 90×40 см / 4 мм / Beige</name_ua>
-        <name_ru>Игровой коврик Sakura Room 90×40 см / 4 мм / Beige</name_ru>
-        <description_ua><p data-end="496" data-start="217"><strong data-end="266" data-start="217">Ігровий килимок Sakura Room 90 × 40 см / 4 мм</strong> — великий desk mat із затишним художнім принтом, який гарно доповнить робоче місце, домашній сетап або ігрову зону. Завдяки розміру <strong data-end="413" data-start="399">90 × 40 см</strong> килимок зручно використовувати для миші, клавіатури, ноутбука та інших аксесуарів.</p>    <p data-end="752" data-start="498">Дизайн виконаний у вигляді <strong data-end="573" data-start="525">світлої кімнати з панорамним видом на сакуру</strong>, теплим сонячним освітленням і спокійною атмосферою. Такий принт додає робочому столу затишку, візуальної легкості та добре поєднується зі світлими або мінімалістичними сетапами.</p>    <p data-end="1002" data-start="754">Товщина <strong data-end="770" data-start="762">4 мм</strong> забезпечує комфорт для рук під час тривалого користування, а гладка поверхня сприяє плавному ковзанню миші та точному керуванню курсором. Килимок також допомагає захистити поверхню столу від подряпин, потертостей і щоденного зносу.</p>    <p data-end="1031" data-start="1004"><strong data-end="1031" data-start="1004">Основні характеристики:</strong></p>    <ul data-end="1410" data-start="1032">   <li data-end="1073" data-section-id="cutkdz" data-start="1032">Тип: великий ігровий килимок / desk mat</li>   <li data-end="1098" data-section-id="e9x8d2" data-start="1074">Розмір: <strong data-end="1098" data-start="1084">90 × 40 см</strong></li>   <li data-end="1118" data-section-id="16oq4tw" data-start="1099">Товщина: <strong data-end="1118" data-start="1110">4 мм</strong></li>   <li data-end="1169" data-section-id="fusky" data-start="1119">Дизайн: <strong data-end="1169" data-start="1129">кімната / сакура / затишний інтер’єр</strong></li>   <li data-end="1193" data-section-id="1g4ahnv" data-start="1170">Колір: <strong data-end="1193" data-start="1179">Beige</strong></li>   <li data-end="1239" data-section-id="glkby" data-start="1194">Призначення: для миші, клавіатури, ноутбука</li>   <li data-end="1288" data-section-id="6htqgf" data-start="1240">Поверхня: гладка для комфортного ковзання миші</li>   <li data-end="1329" data-section-id="197k0f9" data-start="1289">Підходить для роботи, навчання та ігор</li>   <li data-end="1354" data-section-id="r0tp0q" data-start="1330">Захищає поверхню столу</li>   <li data-end="1410" data-section-id="ko55ox" data-start="1355">Добре доповнює світлий, домашній або естетичний сетап</li>  </ul></description_ua>
-        <description_ru><p data-end="1722" data-start="1437"><strong data-end="1485" data-start="1437">Игровой коврик Sakura Room 90 × 40 см / 4 мм</strong> — большой desk mat с уютным художественным принтом, который хорошо дополнит рабочее место, домашний сетап или игровую зону. Благодаря размеру <strong data-end="1642" data-start="1628">90 × 40 см</strong> коврик удобно использовать для мыши, клавиатуры, ноутбука и других аксессуаров.</p>    <p data-end="1974" data-start="1724">Дизайн выполнен в виде <strong data-end="1795" data-start="1747">светлой комнаты с панорамным видом на сакуру</strong>, теплым солнечным освещением и спокойной атмосферой. Такой принт добавляет рабочему столу уюта, визуальной легкости и хорошо сочетается со светлыми или минималистичными сетапами.</p>    <p data-end="2243" data-start="1976">Толщина <strong data-end="1992" data-start="1984">4 мм</strong> обеспечивает комфорт для рук во время длительного использования, а гладкая поверхность способствует плавному скольжению мыши и точному управлению курсором. Коврик также помогает защитить поверхность стола от царапин, потертостей и ежедневного износа.</p>    <p data-end="2273" data-start="2245"><strong data-end="2273" data-start="2245">Основные характеристики:</strong></p>    <ul data-end="2653" data-start="2274">   <li data-end="2314" data-section-id="5wxevu" data-start="2274">Тип: большой игровой коврик / desk mat</li>   <li data-end="2339" data-section-id="hzlyxn" data-start="2315">Размер: <strong data-end="2339" data-start="2325">90 × 40 см</strong></li>   <li data-end="2359" data-section-id="hekdkt" data-start="2340">Толщина: <strong data-end="2359" data-start="2351">4 мм</strong></li>   <li data-end="2408" data-section-id="35na21" data-start="2360">Дизайн: <strong data-end="2408" data-start="2370">комната / сакура / уютный интерьер</strong></li>   <li data-end="2431" data-section-id="jpaazl" data-start="2409">Цвет:<strong data-end="2431" data-start="2417"> Beige</strong></li>   <li data-end="2476" data-section-id="edgqor" data-start="2432">Назначение: для мыши, клавиатуры, ноутбука</li>   <li data-end="2531" data-section-id="4a2aue" data-start="2477">Поверхность: гладкая для комфортного скольжения мыши</li>   <li data-end="2566" data-section-id="66v362" data-start="2532">Подходит для работы, учебы и игр</li>   <li data-end="2595" data-section-id="gchsq1" data-start="2567">Защищает поверхность стола</li>   <li data-end="2653" data-section-id="xqca2e" data-start="2596">Хорошо дополняет светлый, домашний или эстетичный сетап</li>  </ul></description_ru>
-        <price>620</price>
-        <categoryId>1089</categoryId>
-        <picture>https://techgleam.com.ua/content/images/37/groviy-kilimok-sakura-room-9040-sm-4-mm-beige-68665488878392_%2B1e74e13541.jpg</picture>
-        <param name="Колір">Бежевий</param>
         <param name="Особливості">Ігрові</param>
       </offer>
       <offer id="1887" available="false">
@@ -20611,32 +20637,6 @@
         <picture>https://techgleam.com.ua/content/images/24/velikiy-groviy-kilimok-dlja-mish-chainsaw-man-makima-neon-collage-9004003-mm-mana-dizayn-dlja-mish-ta-klavaturi-black-white-13043449258761_%2B731b0b5ac2.png</picture>
         <param name="Колір">Чорний</param>
         <param name="Особливості">Ігрові</param>
-      </offer>
-      <offer id="2035" available="false">
-        <availability_status>temporarily_unavailable</availability_status>
-        <name_ua>Бездротова ігрова гарнітура Proove Gaming Bliss / Два режими підключення / з мікрофоном / Black</name_ua>
-        <name_ru>Беспроводная игровая гарнитура Proove Gaming Bliss / Два режима подключения / с микрофоном / Black</name_ru>
-        <description_ua><p>Proove Gaming Bliss   надійна гарнітура для ігрового досвіду!</p><p><strong>Функціонал.</strong> Proove Gaming Bliss   це бездротова ігрова гарнітура, розроблена для повного занурення в ігровий процес. Завдяки високоякісному звуку та глибоким басам вона передає кожну деталь гри, а всеспрямований мікрофон забезпечує чіткий голосовий зв язок. </p><p><strong>Особливості.</strong> Модель відрізняється комфортною посадкою з м'якими амбушурами, які ідеально підходять для тривалих ігрових сесій. Вбудовані функції шумопоглинання гарантують чистоту звуку, навіть у гучних умовах, а зручні кнопки управління дозволяють швидко регулювати звук або вимикати мікрофон. </p><p><strong>Дизайн.</strong> Гарнітура виконана в сучасному геймерському стилі з агресивними лініями та світлодіодним підсвічуванням. Міцна конструкція поєднується з легкістю і зручністю, що робить її ідеальною для активного використання. Навушники сумісні з фірмовим застосунком Proove, що відкриває розширені можливості налаштування. Користувачі можуть персоналізувати звучання через еквалайзер та змінювати елементи керування під власні вподобання.</p><p><strong>Характеристики:</strong></p><ul><li><strong>Матеріал:</strong> ABS</li><li><strong>Версія Bluetooth:</strong> 5.4</li><li><strong>Протоколи:</strong> A2DP, HFP, HSP, AVRCP</li><li><strong>Декодер:</strong> SBC</li><li><strong>Розмір динаміка:</strong> Ø40мм</li><li><strong>Порт:</strong> Type-C</li><li><strong>Чутливість динаміка:</strong> 112 3дБ</li><li><strong>Чутливість мікрофона:</strong> -42 3дБ</li><li><strong>Тип батареї:</strong> літієва</li><li><strong>Ємність акумулятора:</strong> 600мАг</li><li><strong>Час роботи:</strong> ~34 год</li><li><strong>Час заряджання:</strong> 2 год</li><li><strong>Режими роботи:</strong> Bluetooth, AUX</li><li><strong>Робоча напруга:</strong> 3.7V</li><li><strong>Діапазон частот:</strong> 20Гц-20кГц</li><li><strong>Опір:</strong> 32Ω 15%</li><li><strong>Розмір продукту:</strong> 185x82.5x193мм</li><li><strong>Вага:</strong> 230г</li></ul></description_ua>
-        <description_ru><p>Proove Gaming Bliss   надежная гарнитура для игрового опыта! Серия Proove Gaming изменит игровой опыт настоящих геймеров раз и навсегда. Высокое качество, комфорт, внимание к деталям создают идеальную компьютерную периферию и погружают во вселенную самых любимых игр.</p><p><strong>Функционал.</strong> Proove Gaming Bliss   это беспроводная игровая гарнитура, разработанная для полного погружения в игровой процесс. Благодаря высококачественному звуку и глубоким басам она передает каждую деталь игры, а всенаправленный микрофон обеспечивает четкую голосовую связь. </p><p><strong>Особенности.</strong> Модель отличается комфортной посадкой с мягкими амбушурами, идеально подходящими для длительных игровых сессий. Встроенные функции шумопоглощения гарантируют чистоту звука даже в громких условиях, а удобные кнопки управления позволяют быстро регулировать звук или выключать микрофон. </p><p><strong>Дизайн.</strong> Гарнитура выполнена в современном геймерском стиле с агрессивными линиями и светодиодной подсветкой. Прочная конструкция сочетается с легкостью и удобством, что делает идеальной для активного использования. Наушники совместимы с фирменным приложением Proove, которое открывает расширенные возможности настройки. Пользователи могут персонализировать звучание с помощью эквалайзера и менять элементы управления под свои предпочтения.</p><p><strong>Характеристики:</strong></p><ul><li><strong>Материал:</strong> ABS</li><li><strong>Версия Bluetooth:</strong> 5.4</li><li><strong>Протоколы:</strong> A2DP, HFP, HSP, AVRCP</li><li><strong>Декодер:</strong> SBC</li><li><strong>Размер динамика:</strong> Ø40мм</li><li><strong>Порт:</strong> Type-C</li><li><strong>Чувствительность динамика:</strong> 112 3Дб</li><li><strong>Чувствительность микрофона:</strong> -42 3Дб</li><li><strong>Тип батареи:</strong> литиевая</li><li><strong>Емкость аккумулятора:</strong> 800 мАч</li><li><strong>Время работы(Bluetooth):</strong> ~40 ч</li><li><strong>Время работы(2.4 ГГц):</strong> ~30 ч</li><li><strong>Время зарядки:</strong> ~2 ч</li><li><strong>Режимы работы:</strong> 2.4ГГц, Bluetooth, AUX</li><li><strong>Рабочее напряжение:</strong> 5V</li><li><strong>Диапазон частот:</strong> 20Гц-20кГц</li><li><strong>Сопротивление:</strong> 32Ω 15%</li><li><strong>Размер продукта:</strong> 150x185x50мм</li><li><strong>Вес:</strong> 278.5г</li></ul></description_ru>
-        <price>1399</price>
-        <old_price>1899</old_price>
-        <categoryId>1086</categoryId>
-        <vendor>Proove Gaming</vendor>
-        <picture>https://techgleam.com.ua/content/images/36/58773722717506_%2B4e78288604.jpg</picture>
-        <param name="Гарантія">12 місяців</param>
-        <param name="Тип">Повнорозмірні</param>
-        <param name="Мікрофон">Да</param>
-        <param name="Інтерфейс зарядного пристрою">USB Type-C</param>
-        <param name="Матеріал амбушюр">Искусственная кожа</param>
-        <param name="Чутливість навушників">112дБ</param>
-        <param name="Діапазон частот навушників">20 - 20000 Гц</param>
-        <param name="Кріплення">Оголів&apos;я</param>
-        <param name="Час зарядки">2 години</param>
-        <param name="Час роботи">34 години</param>
-        <param name="Вага">230 г</param>
-        <param name="Стан">Новий</param>
-        <param name="Призначення">Геймерські</param>
-        <country>Китай</country>
       </offer>
       <offer id="2037" available="false">
         <availability_status>temporarily_unavailable</availability_status>
