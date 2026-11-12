@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<yml_catalog date="2026-11-12 10:23">
+<yml_catalog date="2026-11-12 16:23">
   <shop>
     <categories>
       <category id="1082" portal_id="1839">Клавіатури</category>
@@ -13,44 +13,6 @@
       <category id="1093" portal_id="2675">Кейкапи</category>
     </categories>
     <offers>
-      <offer id="516" available="true">
-        <availability_status>available</availability_status>
-        <name_ua>Ігрова механічна бездротова клавіатура AJAZZ AK820 Pro / Три режими підключення / Gift Switch / Grey</name_ua>
-        <name_ru>Игровая механическая беспроводная клавиатура AJAZZ AK820 Pro / Три режима подключения / Gift Switch / Grey</name_ru>
-        <description_ua><p><strong>Механічна клавіатура Ajazz AK820 Pro</strong></p>    <p>Ajazz AK820 Pro — клавіатура з TFT-дисплеєм, трьома режимами підключення та продуманим дизайном для комфортної роботи і гри.</p>    <p><strong>Основні характеристики:</strong></p>    <ul>   <li>Екран: 0.85” TFT — заряд, час, тип з'єднання, RGB  </li>   <li>Підключення: USB-C / Bluetooth 5.1 / 2.4GHz Wireless  </li>   <li>Акумулятор: 4000 mAh  </li>   <li>Кейкапи: PBT, OEM профіль  </li>   <li>Монтаж: Gasket + Flex-cut  </li>   <li>RGB-підсвічування: 1.6 млн кольорів  </li>   <li>Хотсвап: підтримка зміни перемикачів  </li>   <li>Платформа: Mac / Window</li>  </ul>    <p><strong>Особливості:</strong></p>    <ul>   <li>Швидке перемикання між режимами  </li>   <li>Налаштування RGB та функцій прямо з дисплея  </li>   <li>Плавний набір без вібрацій  </li>   <li>Plate-mounted стабілізатори  </li>   <li>Енкодер для керування звуком</li>  </ul></description_ua>
-        <description_ru><p><strong>Механическая клавиатура Ajazz AK820 Pro</strong></p>    <p>Ajazz AK820 Pro — клавиатура с TFT-дисплеем, тремя режимами подключения и продуманным дизайном для комфортной работы и игры.</p>    <p><strong>Основные характеристики:</strong></p>    <ul>   <li>Экран: 0,85” TFT — заряд, время, тип соединения, RGB  </li>   <li>Подключение: USB-C / Bluetooth 5.1 / 2,4 ГГц Wireless  </li>   <li>Аккумулятор: 4000 мАч  </li>   <li>Кейкапы: PBT, OEM профиль  </li>   <li>Монтаж: Gasket + Flex-cut  </li>   <li>RGB-подсветка: 1,6 млн цветов  </li>   <li>Хотсвап: поддержка смены переключателей  </li>   <li>Платформа: Mac / Window</li>  </ul>    <p><strong>Особенности:</strong></p>    <ul>   <li>Быстрое переключение между режимами  </li>   <li>Настройка RGB и функций прямо с дисплея  </li>   <li>Плавный набор без вибраций  </li>   <li>Plate-mounted стабилизаторы  </li>   <li>Энкодер для управления звуком</li>  </ul></description_ru>
-        <price>2599</price>
-        <old_price>3199</old_price>
-        <categoryId>1082</categoryId>
-        <vendor>Ajazz</vendor>
-        <picture>https://techgleam.com.ua/content/images/17/92189704769828_%2Bd523971fdd.jpg</picture>
-        <picture>https://techgleam.com.ua/content/images/17/34850046643959_%2Bd52dbdd3df.jpg</picture>
-        <picture>https://techgleam.com.ua/content/images/17/59711399557306_%2B095034f2f3.jpg</picture>
-        <picture>https://techgleam.com.ua/content/images/17/37910971797102_%2B768ad3a42e.jpg</picture>
-        <picture>https://techgleam.com.ua/content/images/17/12119937203114_%2B6f36c7d963.jpg</picture>
-        <picture>https://techgleam.com.ua/content/images/17/60905091298950_%2B45d931b946.jpg</picture>
-        <param name="Гарантія">1 місяць</param>
-        <param name="Колір">Сірий</param>
-        <param name="Конструкція клавіш">Механічна</param>
-        <param name="Підключення">Комбіноване</param>
-        <param name="Інтерфейс підключення">Bluetooth</param>
-        <param name="Інтерфейс підключення">Радіоінтерфейс</param>
-        <param name="Інтерфейс підключення">USB</param>
-        <param name="Розкладка">Eng</param>
-        <param name="Форм-фактор">Компактні</param>
-        <param name="Колір підсвічування">RGB</param>
-        <param name="Підсвічування клавіш">Є</param>
-        <param name="Матеріал корпусу">Пластик</param>
-        <param name="Живлення">Акумулятор</param>
-        <param name="Сумісність з ОС">Windows</param>
-        <param name="Сумісність з ОС">Mac OS</param>
-        <param name="Сумісність з ОС">Linux</param>
-        <param name="Стан">Новий</param>
-        <param name="Комплектація">Клавіатура</param>
-        <param name="Призначення">Для ПК</param>
-        <param name="Вид">Ігрові</param>
-        <country>Китай</country>
-      </offer>
       <offer id="519" available="true">
         <availability_status>available</availability_status>
         <name_ua>Ігрова магнітна клавіатура Attack Shark X68 / Дротове підключення / Magnetic Switch / Black Gradient</name_ua>
@@ -1035,6 +997,41 @@
         <param name="Роздільна здатність сенсора">Понад 20000 dpi</param>
         <param name="Стан">Новий</param>
         <param name="Тип">Ігрові (геймерські)</param>
+        <country>Китай</country>
+      </offer>
+      <offer id="1724" available="true">
+        <availability_status>available</availability_status>
+        <name_ua>Магнітна клавіатура AULA HERO 68 HE / 60% / Дротове підключення / Dragon King Magnetic Switch / Red Lines</name_ua>
+        <name_ru>Магнитная клавиатура AULA HERO 68 HE / 60% / Проводное подключение /  Dragon King Magnetic Switch / Red Lines</name_ru>
+        <description_ua><p data-end="1927" data-start="1644"><strong data-end="1669" data-start="1644">AULA HERO 68 HE</strong> — компактна <strong data-end="1689" data-start="1682">60%</strong> клавіатура, створена для максимальної швидкості та контролю.<br data-end="1753" data-start="1750" />  Магнітні <strong data-end="1791" data-start="1762">лінійні свічі Hall Effect</strong> забезпечують надточне спрацювання без дербунсу, а частота опитування <strong data-end="1870" data-start="1861">8 кГц</strong> і відгук <strong data-end="1892" data-start="1880">0.125 мс</strong> миттєво передають кожен рух у гру.</p>    <p data-end="1950" data-start="1929"><strong data-end="1950" data-start="1929">Ключові переваги:</strong></p>    <ul>   <li data-end="1950" data-start="1929"><strong data-end="1986" data-start="1953">Hall Effect (магнітні свічі):</strong> плавний хід, довговічність, висока стабільність і точність натискань</li>   <li data-end="2143" data-start="2060"><strong data-end="2081" data-start="2060">Лінійний профіль:</strong> ідеально для FPS, швидких стрейфів і комбінованих натискань</li>   <li data-end="2207" data-start="2146"><strong data-end="2167" data-start="2146">8 кГц / 0.125 мс:</strong> мінімальна затримка для про-рівня гри</li>   <li data-end="2284" data-start="2210"><strong data-end="2232" data-start="2210">RGB-підсвічування:</strong> багаті ефекти, налаштування яскравості та режимів</li>   <li data-end="2365" data-start="2287"><strong data-end="2303" data-start="2287">PBT-клавіші:</strong> шорстка текстура, не стираються, зберігають символьний друк</li>   <li data-end="2444" data-start="2368"><strong data-end="2397" data-start="2368">Металева позиційна плита:</strong> жорсткість конструкції, тихий та рівний звук</li>   <li data-end="2530" data-start="2447"><strong data-end="2475" data-start="2447">Ергономічний корпус 60%:</strong> більше місця для миші, ідеально для невеликих столів</li>   <li data-end="2615" data-start="2533"><strong data-end="2562" data-start="2533">Повна сумісність та NKRO:</strong> без фантомних натискань під час швидких комбінацій</li>   <li data-end="2699" data-start="2618"><strong data-end="2652" data-start="2618">Підтримка гібридних пристроїв:</strong> ПК/ноутбук, можливі різні сценарії підключення</li>   <li data-end="2863" data-start="2701"><strong data-end="2743" data-start="2728">Тип свічів:</strong> лінійні, магнітні (Hall Effect)</li>   <li data-end="2863" data-start="2701"><strong data-end="2795" data-start="2778">Кому підійде:</strong> FPS/МОВА, стрімери, кіберспорт, ентузіасти мінімалістичних сетапів.</li>  </ul></description_ua>
+        <description_ru><p><strong>AULA HERO 68 HE – компактная 60% клавиатура, созданная для максимальной скорости и контроля.</strong><br />  Магнитные линейные свечи Hall Effect обеспечивают сверхточную износ без дербунса, а частота опроса 8 кГц и отклик 0.125 мс мгновенно передают каждое движение в игру.</p>    <p><strong>Ключевые преимущества:</strong></p>    <ul>   <li>Hall Effect (магнитные свечи): плавный ход, долговечность, высокая стабильность и точность нажатий</li>   <li>Линейный профиль: идеально для FPS, быстрых стрейфов и комбинированных нажатий</li>   <li>8 кГц / 0.125 мс: минимальная задержка для уровня игры</li>   <li>RGB-подсветка: богатые эффекты, настройка яркости и режимов</li>   <li>PBT-клавиши: шероховатая текстура, не стираются, сохраняют символьную печать</li>   <li>Металлическая позиционная плита: жесткость конструкции, тихий и ровный звук</li>   <li>Эргономичный корпус 60%: больше места для мыши, идеально для небольших столов</li>   <li>Полная совместимость и NKRO: без фантомных нажатий во время быстрых комбинаций</li>   <li>Поддержка гибридных устройств: ПК/ноутбук, возможны разные сценарии подключения</li>   <li>Тип свечей: линейные, магнитные (Hall Effect)</li>   <li>Кому подойдет: FPS/ЯЗЫК, стримеры, киберспорт, энтузиасты минималистических сетапов.</li>  </ul></description_ru>
+        <price>2799</price>
+        <categoryId>1082</categoryId>
+        <vendor>Aula</vendor>
+        <picture>https://techgleam.com.ua/content/images/25/magntna-klavatura-aula-hero-68-he-60-drotove-pdkluchennja-sea-emperor-magnetic-switch-red-lines-69925840268324_%2B5814031ce8.jpg</picture>
+        <picture>https://techgleam.com.ua/content/images/25/magntna-klavatura-aula-hero-68-he-60-drotove-pdkluchennja-sea-emperor-magnetic-switch-red-lines-67706704267734_%2B7f2a0b3a0e.jpg</picture>
+        <picture>https://techgleam.com.ua/content/images/25/magntna-klavatura-aula-hero-68-he-60-drotove-pdkluchennja-sea-emperor-magnetic-switch-red-lines-90612858451004_%2B96685267af.jpg</picture>
+        <picture>https://techgleam.com.ua/content/images/25/magntna-klavatura-aula-hero-68-he-60-drotove-pdkluchennja-sea-emperor-magnetic-switch-red-lines-46967120609061_%2Bab82613872.jpg</picture>
+        <picture>https://techgleam.com.ua/content/images/25/magntna-klavatura-aula-hero-68-he-60-drotove-pdkluchennja-sea-emperor-magnetic-switch-red-lines-72349849381193_%2B5b30f72d61.jpg</picture>
+        <picture>https://techgleam.com.ua/content/images/25/magntna-klavatura-aula-hero-68-he-60-drotove-pdkluchennja-sea-emperor-magnetic-switch-red-lines-83096658303860_%2B40554a8807.jpg</picture>
+        <picture>https://techgleam.com.ua/content/images/25/magntna-klavatura-aula-hero-68-he-60-drotove-pdkluchennja-sea-emperor-magnetic-switch-red-lines-39965730781137_%2B7aebe51117.jpg</picture>
+        <picture>https://techgleam.com.ua/content/images/25/magntna-klavatura-aula-hero-68-he-60-drotove-pdkluchennja-sea-emperor-magnetic-switch-red-lines-39253555074922_%2Be6917fa72f.jpg</picture>
+        <param name="Гарантія">3 місяці</param>
+        <param name="Колір">Червоний</param>
+        <param name="Конструкція клавіш">Магнітна</param>
+        <param name="Підключення">Дротове</param>
+        <param name="Інтерфейс підключення">USB Type-C</param>
+        <param name="Розкладка">Eng</param>
+        <param name="Форм-фактор">Компактні</param>
+        <param name="Колір підсвічування">RGB</param>
+        <param name="Підсвічування клавіш">Є</param>
+        <param name="Матеріал корпусу">Пластик</param>
+        <param name="Сумісність з ОС">Windows</param>
+        <param name="Сумісність з ОС">Mac OS</param>
+        <param name="Сумісність з ОС">Linux</param>
+        <param name="Стан">Новий</param>
+        <param name="Комплектація">Клавіатура</param>
+        <param name="Призначення">Для ПК</param>
         <country>Китай</country>
       </offer>
       <offer id="1730" available="true">
@@ -3033,6 +3030,41 @@
         <param name="Тип">Ігрові (геймерські)</param>
         <country>Китай</country>
       </offer>
+      <offer id="2079" available="true">
+        <availability_status>available</availability_status>
+        <name_ua>Магнітна клавіатура AULA HERO 68 HE / 60% / Дротове підключення / Dragon King Switch / Purple</name_ua>
+        <name_ru>Магнитная клавиатура AULA HERO 68 HE / 60% / Проводное подключение / Dragon King Switch / Purple</name_ru>
+        <description_ua><p data-end="1927" data-start="1644"><strong data-end="1669" data-start="1644">AULA HERO 68 HE</strong> — компактна <strong data-end="1689" data-start="1682">60%</strong> клавіатура, створена для максимальної швидкості та контролю.<br data-end="1753" data-start="1750" />  Магнітні <strong data-end="1791" data-start="1762">лінійні свічі Hall Effect</strong> забезпечують надточне спрацювання без дербунсу, а частота опитування <strong data-end="1870" data-start="1861">8 кГц</strong> і відгук <strong data-end="1892" data-start="1880">0.125 мс</strong> миттєво передають кожен рух у гру.</p>    <p data-end="1950" data-start="1929"><strong data-end="1950" data-start="1929">Ключові переваги:</strong></p>    <ul>   <li data-end="1950" data-start="1929"><strong data-end="1986" data-start="1953">Hall Effect (магнітні свічі):</strong> плавний хід, довговічність, висока стабільність і точність натискань</li>   <li data-end="2143" data-start="2060"><strong data-end="2081" data-start="2060">Лінійний профіль:</strong> ідеально для FPS, швидких стрейфів і комбінованих натискань</li>   <li data-end="2207" data-start="2146"><strong data-end="2167" data-start="2146">8 кГц / 0.125 мс:</strong> мінімальна затримка для про-рівня гри</li>   <li data-end="2284" data-start="2210"><strong data-end="2232" data-start="2210">RGB-підсвічування:</strong> багаті ефекти, налаштування яскравості та режимів</li>   <li data-end="2365" data-start="2287"><strong data-end="2303" data-start="2287">PBT-клавіші:</strong> шорстка текстура, не стираються, зберігають символьний друк</li>   <li data-end="2444" data-start="2368"><strong data-end="2397" data-start="2368">Металева позиційна плита:</strong> жорсткість конструкції, тихий та рівний звук</li>   <li data-end="2530" data-start="2447"><strong data-end="2475" data-start="2447">Ергономічний корпус 60%:</strong> більше місця для миші, ідеально для невеликих столів</li>   <li data-end="2615" data-start="2533"><strong data-end="2562" data-start="2533">Повна сумісність та NKRO:</strong> без фантомних натискань під час швидких комбінацій</li>   <li data-end="2699" data-start="2618"><strong data-end="2652" data-start="2618">Підтримка гібридних пристроїв:</strong> ПК/ноутбук, можливі різні сценарії підключення</li>   <li data-end="2863" data-start="2701"><strong data-end="2743" data-start="2728">Тип свічів:</strong> лінійні, магнітні (Hall Effect)</li>   <li data-end="2863" data-start="2701"><strong data-end="2795" data-start="2778">Кому підійде:</strong> FPS/МОВА, стрімери, кіберспорт, ентузіасти мінімалістичних сетапів.</li>  </ul></description_ua>
+        <description_ru><p><strong>AULA HERO 68 HE – компактная 60% клавиатура, созданная для максимальной скорости и контроля.</strong><br />  Магнитные линейные свечи Hall Effect обеспечивают сверхточную износ без дербунса, а частота опроса 8 кГц и отклик 0.125 мс мгновенно передают каждое движение в игру.</p>    <p><strong>Ключевые преимущества:</strong></p>    <ul>   <li>Hall Effect (магнитные свечи): плавный ход, долговечность, высокая стабильность и точность нажатий</li>   <li>Линейный профиль: идеально для FPS, быстрых стрейфов и комбинированных нажатий</li>   <li>8 кГц / 0.125 мс: минимальная задержка для уровня игры</li>   <li>RGB-подсветка: богатые эффекты, настройка яркости и режимов</li>   <li>PBT-клавиши: шероховатая текстура, не стираются, сохраняют символьную печать</li>   <li>Металлическая позиционная плита: жесткость конструкции, тихий и ровный звук</li>   <li>Эргономичный корпус 60%: больше места для мыши, идеально для небольших столов</li>   <li>Полная совместимость и NKRO: без фантомных нажатий во время быстрых комбинаций</li>   <li>Поддержка гибридных устройств: ПК/ноутбук, возможны разные сценарии подключения</li>   <li>Тип свечей: линейные, магнитные (Hall Effect)</li>   <li>Кому подойдет: FPS/ЯЗЫК, стримеры, киберспорт, энтузиасты минималистических сетапов.</li>  </ul></description_ru>
+        <price>2799</price>
+        <categoryId>1082</categoryId>
+        <vendor>Aula</vendor>
+        <picture>https://techgleam.com.ua/content/images/30/magntna-klavatura-aula-hero-68-he-60-drotove-pdkluchennja-dragon-king-switch-purple-48468865997222_%2Bdb2c56aabd.jpg</picture>
+        <picture>https://techgleam.com.ua/content/images/30/magntna-klavatura-aula-hero-68-he-60-drotove-pdkluchennja-dragon-king-switch-purple-78344323553719_%2Ba920b7cba0.jpg</picture>
+        <picture>https://techgleam.com.ua/content/images/30/magntna-klavatura-aula-hero-68-he-60-drotove-pdkluchennja-dragon-king-switch-purple-62490457379877_%2B8ce1640979.jpg</picture>
+        <picture>https://techgleam.com.ua/content/images/30/magntna-klavatura-aula-hero-68-he-60-drotove-pdkluchennja-dragon-king-switch-purple-23738929643163_%2B93dab7e918.jpg</picture>
+        <picture>https://techgleam.com.ua/content/images/30/magntna-klavatura-aula-hero-68-he-60-drotove-pdkluchennja-dragon-king-switch-purple-53545235317374_%2Beafa367fc2.jpg</picture>
+        <picture>https://techgleam.com.ua/content/images/30/magntna-klavatura-aula-hero-68-he-60-drotove-pdkluchennja-dragon-king-switch-purple-63953393559903_%2B73eac609c3.jpg</picture>
+        <picture>https://techgleam.com.ua/content/images/30/magntna-klavatura-aula-hero-68-he-60-drotove-pdkluchennja-dragon-king-switch-purple-21542961546347_%2B0ee549c148.jpg</picture>
+        <param name="Гарантія">3 місяці</param>
+        <param name="Колір">Фіолетовий</param>
+        <param name="Конструкція клавіш">Магнітна</param>
+        <param name="Підключення">Дротове</param>
+        <param name="Інтерфейс підключення">USB Type-C</param>
+        <param name="Розкладка">Eng</param>
+        <param name="Форм-фактор">Компактні</param>
+        <param name="Колір підсвічування">RGB</param>
+        <param name="Підсвічування клавіш">Є</param>
+        <param name="Матеріал корпусу">Пластик</param>
+        <param name="Сумісність з ОС">Windows</param>
+        <param name="Сумісність з ОС">Mac OS</param>
+        <param name="Сумісність з ОС">Linux</param>
+        <param name="Колір">Бузковий</param>
+        <param name="Стан">Новий</param>
+        <param name="Комплектація">Клавіатура</param>
+        <param name="Призначення">Для ПК</param>
+        <country>Китай</country>
+      </offer>
       <offer id="2084" available="true">
         <availability_status>available</availability_status>
         <name_ua>Бездротова ігрова миша MCHOSE A5 V3 / Сенсор PAW3395 / 26000 DPI / Три режими підключення / Black</name_ua>
@@ -3675,6 +3707,44 @@
         <param name="Колір підсвічування">RGB</param>
         <param name="Підсвічування клавіш">Є</param>
         <param name="Матеріал корпусу">Пластик</param>
+        <param name="Сумісність з ОС">Windows</param>
+        <param name="Сумісність з ОС">Mac OS</param>
+        <param name="Сумісність з ОС">Linux</param>
+        <param name="Стан">Новий</param>
+        <param name="Комплектація">Клавіатура</param>
+        <param name="Призначення">Для ПК</param>
+        <param name="Вид">Ігрові</param>
+        <country>Китай</country>
+      </offer>
+      <offer id="516" available="false">
+        <availability_status>temporarily_unavailable</availability_status>
+        <name_ua>Ігрова механічна бездротова клавіатура AJAZZ AK820 Pro / Три режими підключення / Gift Switch / Grey</name_ua>
+        <name_ru>Игровая механическая беспроводная клавиатура AJAZZ AK820 Pro / Три режима подключения / Gift Switch / Grey</name_ru>
+        <description_ua><p><strong>Механічна клавіатура Ajazz AK820 Pro</strong></p>    <p>Ajazz AK820 Pro — клавіатура з TFT-дисплеєм, трьома режимами підключення та продуманим дизайном для комфортної роботи і гри.</p>    <p><strong>Основні характеристики:</strong></p>    <ul>   <li>Екран: 0.85” TFT — заряд, час, тип з'єднання, RGB  </li>   <li>Підключення: USB-C / Bluetooth 5.1 / 2.4GHz Wireless  </li>   <li>Акумулятор: 4000 mAh  </li>   <li>Кейкапи: PBT, OEM профіль  </li>   <li>Монтаж: Gasket + Flex-cut  </li>   <li>RGB-підсвічування: 1.6 млн кольорів  </li>   <li>Хотсвап: підтримка зміни перемикачів  </li>   <li>Платформа: Mac / Window</li>  </ul>    <p><strong>Особливості:</strong></p>    <ul>   <li>Швидке перемикання між режимами  </li>   <li>Налаштування RGB та функцій прямо з дисплея  </li>   <li>Плавний набір без вібрацій  </li>   <li>Plate-mounted стабілізатори  </li>   <li>Енкодер для керування звуком</li>  </ul></description_ua>
+        <description_ru><p><strong>Механическая клавиатура Ajazz AK820 Pro</strong></p>    <p>Ajazz AK820 Pro — клавиатура с TFT-дисплеем, тремя режимами подключения и продуманным дизайном для комфортной работы и игры.</p>    <p><strong>Основные характеристики:</strong></p>    <ul>   <li>Экран: 0,85” TFT — заряд, время, тип соединения, RGB  </li>   <li>Подключение: USB-C / Bluetooth 5.1 / 2,4 ГГц Wireless  </li>   <li>Аккумулятор: 4000 мАч  </li>   <li>Кейкапы: PBT, OEM профиль  </li>   <li>Монтаж: Gasket + Flex-cut  </li>   <li>RGB-подсветка: 1,6 млн цветов  </li>   <li>Хотсвап: поддержка смены переключателей  </li>   <li>Платформа: Mac / Window</li>  </ul>    <p><strong>Особенности:</strong></p>    <ul>   <li>Быстрое переключение между режимами  </li>   <li>Настройка RGB и функций прямо с дисплея  </li>   <li>Плавный набор без вибраций  </li>   <li>Plate-mounted стабилизаторы  </li>   <li>Энкодер для управления звуком</li>  </ul></description_ru>
+        <price>2599</price>
+        <old_price>3199</old_price>
+        <categoryId>1082</categoryId>
+        <vendor>Ajazz</vendor>
+        <picture>https://techgleam.com.ua/content/images/17/92189704769828_%2Bd523971fdd.jpg</picture>
+        <picture>https://techgleam.com.ua/content/images/17/34850046643959_%2Bd52dbdd3df.jpg</picture>
+        <picture>https://techgleam.com.ua/content/images/17/59711399557306_%2B095034f2f3.jpg</picture>
+        <picture>https://techgleam.com.ua/content/images/17/37910971797102_%2B768ad3a42e.jpg</picture>
+        <picture>https://techgleam.com.ua/content/images/17/12119937203114_%2B6f36c7d963.jpg</picture>
+        <picture>https://techgleam.com.ua/content/images/17/60905091298950_%2B45d931b946.jpg</picture>
+        <param name="Гарантія">1 місяць</param>
+        <param name="Колір">Сірий</param>
+        <param name="Конструкція клавіш">Механічна</param>
+        <param name="Підключення">Комбіноване</param>
+        <param name="Інтерфейс підключення">Bluetooth</param>
+        <param name="Інтерфейс підключення">Радіоінтерфейс</param>
+        <param name="Інтерфейс підключення">USB</param>
+        <param name="Розкладка">Eng</param>
+        <param name="Форм-фактор">Компактні</param>
+        <param name="Колір підсвічування">RGB</param>
+        <param name="Підсвічування клавіш">Є</param>
+        <param name="Матеріал корпусу">Пластик</param>
+        <param name="Живлення">Акумулятор</param>
         <param name="Сумісність з ОС">Windows</param>
         <param name="Сумісність з ОС">Mac OS</param>
         <param name="Сумісність з ОС">Linux</param>
@@ -4643,26 +4713,6 @@
         <picture>https://techgleam.com.ua/content/images/19/64738188658246_%2Bcc65d833e4.jpg</picture>
         <param name="Гарантія">3 місяці</param>
         <param name="Колір">Білий</param>
-        <param name="Стан">Новий</param>
-      </offer>
-      <offer id="621" available="false">
-        <availability_status>temporarily_unavailable</availability_status>
-        <name_ua>Стрім-консоль AJAZZ AKP153 / 15 клавіш / TFT-дисплей / Підтримка OBS та макросів / Black</name_ua>
-        <name_ru>Стрим-консоль AJAZZ AKP153 Black / 15 клавиш /TFT-дисплей /поддержка OBS и макросов / Black</name_ru>
-        <description_ua><p><strong>Настільна стрім-консоль AJAZZ AKP153  — контроль на кінчиках пальців!</strong></p>    <p>Професійна стрім-консоль із 16 програмованими клавішами, TFT-дисплеєм і підтримкою OBS, Light Control та іншого стрімінгового софту. Ідеальний вибір для контент-мейкерів, дизайнерів, відеоредакторів, геймерів і всіх, хто автоматизує свою роботу.</p>    <p><strong>Основні характеристики:</strong></p>    <ul>   <li>Кількість клавіш: 16 програмованих кнопок Switch Blade</li>   <li>Підтримка макросів: запуск програм, керування OBS, браузер, звук, світло</li>   <li>Дисплей: кольоровий TFT — підтримує кастомні іконки та GIF</li>   <li>Кут нахилу: 40°, знімна підставка, нековзка основа</li>   <li>Сумісність: Windows 7+, MacOS 10.13+, Android, iOS</li>   <li>Інтеграції: OBS Studio, Light Control та інші — через плагіни або кастомні конфігурації</li>   <li>Матеріал: метал + пластик — міцність і стиль в одному корпусі</li>   <li>Підключення: USB (кабель у комплекті, в оплітці)</li>   <li>Розміри: 191 × 135 × 77 мм</li>   <li>Вага: 330 g</li>  </ul></description_ua>
-        <description_ru><p><strong>Настольная стрим-консоль AJAZZ AKP153  – контроль на кончиках пальцев!</strong></p>    <p>Профессиональная стрим-консоль с 16 программируемыми клавишами, TFT-дисплеем и поддержкой OBS, Light Control и другого стримингового софта. Идеальный выбор для контент-мейкеров, дизайнеров, видеоредакторов, геймеров и всех, кто автоматизирует свою работу.</p>    <p><strong>Основные характеристики:</strong></p>    <ul>   <li>Количество клавиш: 16 программируемых кнопок Switch Blade</li>   <li>Поддержка макросов: запуск программ, управление OBS, браузер, звук, свет</li>   <li>Дисплей: цветовой TFT – поддерживает кастомные иконки и GIF</li>   <li>Угол наклона: 40°, съемная подставка, нескользящая основа</li>   <li>Совместимость: Windows 7+, MacOS 10.13+, Android, iOS</li>   <li>Интеграции: OBS Studio, Light Control и другие — через плагины или кастомные конфигурации</li>   <li>Материал: металл + пластик – прочность и стиль в одном корпусе</li>   <li>Подключение: USB (кабель в комплекте, оплетка)</li>   <li>Размеры: 191×135×77 мм</li>   <li>Вес: 330 г</li>  </ul></description_ru>
-        <price>2799</price>
-        <categoryId>1090</categoryId>
-        <vendor>Ajazz</vendor>
-        <picture>https://techgleam.com.ua/content/images/22/86847755007390_%2B38fa5f6877.jpg</picture>
-        <picture>https://techgleam.com.ua/content/images/22/38397221231299_%2B9c781d8245.jpg</picture>
-        <picture>https://techgleam.com.ua/content/images/22/20028608702570_%2B4e313f289c.jpg</picture>
-        <picture>https://techgleam.com.ua/content/images/22/63305759095028_%2B5344285fd4.jpg</picture>
-        <picture>https://techgleam.com.ua/content/images/22/61235266769053_%2B336f79f05a.jpg</picture>
-        <picture>https://techgleam.com.ua/content/images/22/67170702490701_%2Bf3fa0de4b9.jpg</picture>
-        <picture>https://techgleam.com.ua/content/images/22/13542570369095_%2Bb187683b18.jpg</picture>
-        <param name="Гарантія">3 місяці</param>
-        <param name="Колір">Чорний</param>
         <param name="Стан">Новий</param>
       </offer>
       <offer id="633" available="false">
@@ -10822,6 +10872,27 @@
         <param name="Призначення">Для ПК</param>
         <country>Китай</country>
       </offer>
+      <offer id="1643" available="false">
+        <availability_status>temporarily_unavailable</availability_status>
+        <name_ua>Стрім-консоль AJAZZ AKP153 / 15 клавіш / TFT-дисплей / Підтримка OBS та макросів / White</name_ua>
+        <name_ru>Стрим-консоль AJAZZ AKP153 Black / 15 клавиш /TFT-дисплей /поддержка OBS и макросов / White</name_ru>
+        <description_ua><p><strong>Настільна стрім-консоль AJAZZ AKP153  — контроль на кінчиках пальців!</strong></p>    <p>Професійна стрім-консоль із 16 програмованими клавішами, TFT-дисплеєм і підтримкою OBS, Light Control та іншого стрімінгового софту. Ідеальний вибір для контент-мейкерів, дизайнерів, відеоредакторів, геймерів і всіх, хто автоматизує свою роботу.</p>    <p><strong>Основні характеристики:</strong></p>    <ul>   <li>Кількість клавіш: 16 програмованих кнопок Switch Blade</li>   <li>Підтримка макросів: запуск програм, керування OBS, браузер, звук, світло</li>   <li>Дисплей: кольоровий TFT — підтримує кастомні іконки та GIF</li>   <li>Кут нахилу: 40°, знімна підставка, нековзка основа</li>   <li>Сумісність: Windows 7+, MacOS 10.13+, Android, iOS</li>   <li>Інтеграції: OBS Studio, Light Control та інші — через плагіни або кастомні конфігурації</li>   <li>Матеріал: метал + пластик — міцність і стиль в одному корпусі</li>   <li>Підключення: USB (кабель у комплекті, в оплітці)</li>   <li>Розміри: 191 × 135 × 77 мм</li>   <li>Вага: 330 g</li>  </ul></description_ua>
+        <description_ru><p><strong>Настольная стрим-консоль AJAZZ AKP153  – контроль на кончиках пальцев!</strong></p>    <p>Профессиональная стрим-консоль с 16 программируемыми клавишами, TFT-дисплеем и поддержкой OBS, Light Control и другого стримингового софта. Идеальный выбор для контент-мейкеров, дизайнеров, видеоредакторов, геймеров и всех, кто автоматизирует свою работу.</p>    <p><strong>Основные характеристики:</strong></p>    <ul>   <li>Количество клавиш: 16 программируемых кнопок Switch Blade</li>   <li>Поддержка макросов: запуск программ, управление OBS, браузер, звук, свет</li>   <li>Дисплей: цветовой TFT – поддерживает кастомные иконки и GIF</li>   <li>Угол наклона: 40°, съемная подставка, нескользящая основа</li>   <li>Совместимость: Windows 7+, MacOS 10.13+, Android, iOS</li>   <li>Интеграции: OBS Studio, Light Control и другие — через плагины или кастомные конфигурации</li>   <li>Материал: металл + пластик – прочность и стиль в одном корпусе</li>   <li>Подключение: USB (кабель в комплекте, оплетка)</li>   <li>Размеры: 191×135×77 мм</li>   <li>Вес: 330 г</li>  </ul></description_ru>
+        <price>2799</price>
+        <categoryId>1090</categoryId>
+        <vendor>Ajazz</vendor>
+        <picture>https://techgleam.com.ua/content/images/44/strim-konsol-ajazz-akp153-black-15-klavish-tft-displey-podderzhka-obs-i-makrosov-white-58156692757049_%2Bbe367922fc.jpg</picture>
+        <picture>https://techgleam.com.ua/content/images/44/strim-konsol-ajazz-akp153-black-15-klavish-tft-displey-podderzhka-obs-i-makrosov-white-68974275292015_%2B7e20bfbe7c.jpg</picture>
+        <picture>https://techgleam.com.ua/content/images/44/strim-konsol-ajazz-akp153-black-15-klavish-tft-displey-podderzhka-obs-i-makrosov-white-28046264463166_%2B8fe0ecb4e3.jpg</picture>
+        <picture>https://techgleam.com.ua/content/images/44/strim-konsol-ajazz-akp153-black-15-klavish-tft-displey-podderzhka-obs-i-makrosov-white-24365815329209_%2Bb44954dada.jpg</picture>
+        <picture>https://techgleam.com.ua/content/images/44/strim-konsol-ajazz-akp153-black-15-klavish-tft-displey-podderzhka-obs-i-makrosov-white-88889462353989_%2B247ac941c3.jpg</picture>
+        <picture>https://techgleam.com.ua/content/images/44/strim-konsol-ajazz-akp153-black-15-klavish-tft-displey-podderzhka-obs-i-makrosov-white-63526643314682_%2B6cdde0073e.jpg</picture>
+        <picture>https://techgleam.com.ua/content/images/44/strim-konsol-ajazz-akp153-black-15-klavish-tft-displey-podderzhka-obs-i-makrosov-white-47752363156754_%2B532787a7a2.jpg</picture>
+        <picture>https://techgleam.com.ua/content/images/44/strim-konsol-ajazz-akp153-black-15-klavish-tft-displey-podderzhka-obs-i-makrosov-white-71908713900892_%2Bd569589063.jpg</picture>
+        <param name="Гарантія">3 місяці</param>
+        <param name="Колір">Білий</param>
+        <param name="Стан">Новий</param>
+      </offer>
       <offer id="1646" available="false">
         <availability_status>temporarily_unavailable</availability_status>
         <name_ua>Ігрова дротова мишка Миша Razer DeathAdder Essential / 6400 DPI / Black</name_ua>
@@ -11769,41 +11840,6 @@
         <param name="Комплектація">Клавіатура</param>
         <param name="Призначення">Для ПК</param>
         <param name="Вид">Ігрові</param>
-        <country>Китай</country>
-      </offer>
-      <offer id="1724" available="false">
-        <availability_status>temporarily_unavailable</availability_status>
-        <name_ua>Магнітна клавіатура AULA HERO 68 HE / 60% / Дротове підключення / Dragon King Magnetic Switch / Red Lines</name_ua>
-        <name_ru>Магнитная клавиатура AULA HERO 68 HE / 60% / Проводное подключение /  Dragon King Magnetic Switch / Red Lines</name_ru>
-        <description_ua><p data-end="1927" data-start="1644"><strong data-end="1669" data-start="1644">AULA HERO 68 HE</strong> — компактна <strong data-end="1689" data-start="1682">60%</strong> клавіатура, створена для максимальної швидкості та контролю.<br data-end="1753" data-start="1750" />  Магнітні <strong data-end="1791" data-start="1762">лінійні свічі Hall Effect</strong> забезпечують надточне спрацювання без дербунсу, а частота опитування <strong data-end="1870" data-start="1861">8 кГц</strong> і відгук <strong data-end="1892" data-start="1880">0.125 мс</strong> миттєво передають кожен рух у гру.</p>    <p data-end="1950" data-start="1929"><strong data-end="1950" data-start="1929">Ключові переваги:</strong></p>    <ul>   <li data-end="1950" data-start="1929"><strong data-end="1986" data-start="1953">Hall Effect (магнітні свічі):</strong> плавний хід, довговічність, висока стабільність і точність натискань</li>   <li data-end="2143" data-start="2060"><strong data-end="2081" data-start="2060">Лінійний профіль:</strong> ідеально для FPS, швидких стрейфів і комбінованих натискань</li>   <li data-end="2207" data-start="2146"><strong data-end="2167" data-start="2146">8 кГц / 0.125 мс:</strong> мінімальна затримка для про-рівня гри</li>   <li data-end="2284" data-start="2210"><strong data-end="2232" data-start="2210">RGB-підсвічування:</strong> багаті ефекти, налаштування яскравості та режимів</li>   <li data-end="2365" data-start="2287"><strong data-end="2303" data-start="2287">PBT-клавіші:</strong> шорстка текстура, не стираються, зберігають символьний друк</li>   <li data-end="2444" data-start="2368"><strong data-end="2397" data-start="2368">Металева позиційна плита:</strong> жорсткість конструкції, тихий та рівний звук</li>   <li data-end="2530" data-start="2447"><strong data-end="2475" data-start="2447">Ергономічний корпус 60%:</strong> більше місця для миші, ідеально для невеликих столів</li>   <li data-end="2615" data-start="2533"><strong data-end="2562" data-start="2533">Повна сумісність та NKRO:</strong> без фантомних натискань під час швидких комбінацій</li>   <li data-end="2699" data-start="2618"><strong data-end="2652" data-start="2618">Підтримка гібридних пристроїв:</strong> ПК/ноутбук, можливі різні сценарії підключення</li>   <li data-end="2863" data-start="2701"><strong data-end="2743" data-start="2728">Тип свічів:</strong> лінійні, магнітні (Hall Effect)</li>   <li data-end="2863" data-start="2701"><strong data-end="2795" data-start="2778">Кому підійде:</strong> FPS/МОВА, стрімери, кіберспорт, ентузіасти мінімалістичних сетапів.</li>  </ul></description_ua>
-        <description_ru><p><strong>AULA HERO 68 HE – компактная 60% клавиатура, созданная для максимальной скорости и контроля.</strong><br />  Магнитные линейные свечи Hall Effect обеспечивают сверхточную износ без дербунса, а частота опроса 8 кГц и отклик 0.125 мс мгновенно передают каждое движение в игру.</p>    <p><strong>Ключевые преимущества:</strong></p>    <ul>   <li>Hall Effect (магнитные свечи): плавный ход, долговечность, высокая стабильность и точность нажатий</li>   <li>Линейный профиль: идеально для FPS, быстрых стрейфов и комбинированных нажатий</li>   <li>8 кГц / 0.125 мс: минимальная задержка для уровня игры</li>   <li>RGB-подсветка: богатые эффекты, настройка яркости и режимов</li>   <li>PBT-клавиши: шероховатая текстура, не стираются, сохраняют символьную печать</li>   <li>Металлическая позиционная плита: жесткость конструкции, тихий и ровный звук</li>   <li>Эргономичный корпус 60%: больше места для мыши, идеально для небольших столов</li>   <li>Полная совместимость и NKRO: без фантомных нажатий во время быстрых комбинаций</li>   <li>Поддержка гибридных устройств: ПК/ноутбук, возможны разные сценарии подключения</li>   <li>Тип свечей: линейные, магнитные (Hall Effect)</li>   <li>Кому подойдет: FPS/ЯЗЫК, стримеры, киберспорт, энтузиасты минималистических сетапов.</li>  </ul></description_ru>
-        <price>2799</price>
-        <categoryId>1082</categoryId>
-        <vendor>Aula</vendor>
-        <picture>https://techgleam.com.ua/content/images/25/magntna-klavatura-aula-hero-68-he-60-drotove-pdkluchennja-sea-emperor-magnetic-switch-red-lines-69925840268324_%2B5814031ce8.jpg</picture>
-        <picture>https://techgleam.com.ua/content/images/25/magntna-klavatura-aula-hero-68-he-60-drotove-pdkluchennja-sea-emperor-magnetic-switch-red-lines-67706704267734_%2B7f2a0b3a0e.jpg</picture>
-        <picture>https://techgleam.com.ua/content/images/25/magntna-klavatura-aula-hero-68-he-60-drotove-pdkluchennja-sea-emperor-magnetic-switch-red-lines-90612858451004_%2B96685267af.jpg</picture>
-        <picture>https://techgleam.com.ua/content/images/25/magntna-klavatura-aula-hero-68-he-60-drotove-pdkluchennja-sea-emperor-magnetic-switch-red-lines-46967120609061_%2Bab82613872.jpg</picture>
-        <picture>https://techgleam.com.ua/content/images/25/magntna-klavatura-aula-hero-68-he-60-drotove-pdkluchennja-sea-emperor-magnetic-switch-red-lines-72349849381193_%2B5b30f72d61.jpg</picture>
-        <picture>https://techgleam.com.ua/content/images/25/magntna-klavatura-aula-hero-68-he-60-drotove-pdkluchennja-sea-emperor-magnetic-switch-red-lines-83096658303860_%2B40554a8807.jpg</picture>
-        <picture>https://techgleam.com.ua/content/images/25/magntna-klavatura-aula-hero-68-he-60-drotove-pdkluchennja-sea-emperor-magnetic-switch-red-lines-39965730781137_%2B7aebe51117.jpg</picture>
-        <picture>https://techgleam.com.ua/content/images/25/magntna-klavatura-aula-hero-68-he-60-drotove-pdkluchennja-sea-emperor-magnetic-switch-red-lines-39253555074922_%2Be6917fa72f.jpg</picture>
-        <param name="Гарантія">3 місяці</param>
-        <param name="Колір">Червоний</param>
-        <param name="Конструкція клавіш">Магнітна</param>
-        <param name="Підключення">Дротове</param>
-        <param name="Інтерфейс підключення">USB Type-C</param>
-        <param name="Розкладка">Eng</param>
-        <param name="Форм-фактор">Компактні</param>
-        <param name="Колір підсвічування">RGB</param>
-        <param name="Підсвічування клавіш">Є</param>
-        <param name="Матеріал корпусу">Пластик</param>
-        <param name="Сумісність з ОС">Windows</param>
-        <param name="Сумісність з ОС">Mac OS</param>
-        <param name="Сумісність з ОС">Linux</param>
-        <param name="Стан">Новий</param>
-        <param name="Комплектація">Клавіатура</param>
-        <param name="Призначення">Для ПК</param>
         <country>Китай</country>
       </offer>
       <offer id="1726" available="false">
@@ -15281,41 +15317,6 @@
         <param name="Тип">Ігрові (геймерські)</param>
         <country>Китай</country>
       </offer>
-      <offer id="2079" available="false">
-        <availability_status>temporarily_unavailable</availability_status>
-        <name_ua>Магнітна клавіатура AULA HERO 68 HE / 60% / Дротове підключення / Dragon King Switch / Purple</name_ua>
-        <name_ru>Магнитная клавиатура AULA HERO 68 HE / 60% / Проводное подключение / Dragon King Switch / Purple</name_ru>
-        <description_ua><p data-end="1927" data-start="1644"><strong data-end="1669" data-start="1644">AULA HERO 68 HE</strong> — компактна <strong data-end="1689" data-start="1682">60%</strong> клавіатура, створена для максимальної швидкості та контролю.<br data-end="1753" data-start="1750" />  Магнітні <strong data-end="1791" data-start="1762">лінійні свічі Hall Effect</strong> забезпечують надточне спрацювання без дербунсу, а частота опитування <strong data-end="1870" data-start="1861">8 кГц</strong> і відгук <strong data-end="1892" data-start="1880">0.125 мс</strong> миттєво передають кожен рух у гру.</p>    <p data-end="1950" data-start="1929"><strong data-end="1950" data-start="1929">Ключові переваги:</strong></p>    <ul>   <li data-end="1950" data-start="1929"><strong data-end="1986" data-start="1953">Hall Effect (магнітні свічі):</strong> плавний хід, довговічність, висока стабільність і точність натискань</li>   <li data-end="2143" data-start="2060"><strong data-end="2081" data-start="2060">Лінійний профіль:</strong> ідеально для FPS, швидких стрейфів і комбінованих натискань</li>   <li data-end="2207" data-start="2146"><strong data-end="2167" data-start="2146">8 кГц / 0.125 мс:</strong> мінімальна затримка для про-рівня гри</li>   <li data-end="2284" data-start="2210"><strong data-end="2232" data-start="2210">RGB-підсвічування:</strong> багаті ефекти, налаштування яскравості та режимів</li>   <li data-end="2365" data-start="2287"><strong data-end="2303" data-start="2287">PBT-клавіші:</strong> шорстка текстура, не стираються, зберігають символьний друк</li>   <li data-end="2444" data-start="2368"><strong data-end="2397" data-start="2368">Металева позиційна плита:</strong> жорсткість конструкції, тихий та рівний звук</li>   <li data-end="2530" data-start="2447"><strong data-end="2475" data-start="2447">Ергономічний корпус 60%:</strong> більше місця для миші, ідеально для невеликих столів</li>   <li data-end="2615" data-start="2533"><strong data-end="2562" data-start="2533">Повна сумісність та NKRO:</strong> без фантомних натискань під час швидких комбінацій</li>   <li data-end="2699" data-start="2618"><strong data-end="2652" data-start="2618">Підтримка гібридних пристроїв:</strong> ПК/ноутбук, можливі різні сценарії підключення</li>   <li data-end="2863" data-start="2701"><strong data-end="2743" data-start="2728">Тип свічів:</strong> лінійні, магнітні (Hall Effect)</li>   <li data-end="2863" data-start="2701"><strong data-end="2795" data-start="2778">Кому підійде:</strong> FPS/МОВА, стрімери, кіберспорт, ентузіасти мінімалістичних сетапів.</li>  </ul></description_ua>
-        <description_ru><p><strong>AULA HERO 68 HE – компактная 60% клавиатура, созданная для максимальной скорости и контроля.</strong><br />  Магнитные линейные свечи Hall Effect обеспечивают сверхточную износ без дербунса, а частота опроса 8 кГц и отклик 0.125 мс мгновенно передают каждое движение в игру.</p>    <p><strong>Ключевые преимущества:</strong></p>    <ul>   <li>Hall Effect (магнитные свечи): плавный ход, долговечность, высокая стабильность и точность нажатий</li>   <li>Линейный профиль: идеально для FPS, быстрых стрейфов и комбинированных нажатий</li>   <li>8 кГц / 0.125 мс: минимальная задержка для уровня игры</li>   <li>RGB-подсветка: богатые эффекты, настройка яркости и режимов</li>   <li>PBT-клавиши: шероховатая текстура, не стираются, сохраняют символьную печать</li>   <li>Металлическая позиционная плита: жесткость конструкции, тихий и ровный звук</li>   <li>Эргономичный корпус 60%: больше места для мыши, идеально для небольших столов</li>   <li>Полная совместимость и NKRO: без фантомных нажатий во время быстрых комбинаций</li>   <li>Поддержка гибридных устройств: ПК/ноутбук, возможны разные сценарии подключения</li>   <li>Тип свечей: линейные, магнитные (Hall Effect)</li>   <li>Кому подойдет: FPS/ЯЗЫК, стримеры, киберспорт, энтузиасты минималистических сетапов.</li>  </ul></description_ru>
-        <price>2799</price>
-        <categoryId>1082</categoryId>
-        <vendor>Aula</vendor>
-        <picture>https://techgleam.com.ua/content/images/30/magntna-klavatura-aula-hero-68-he-60-drotove-pdkluchennja-dragon-king-switch-purple-48468865997222_%2Bdb2c56aabd.jpg</picture>
-        <picture>https://techgleam.com.ua/content/images/30/magntna-klavatura-aula-hero-68-he-60-drotove-pdkluchennja-dragon-king-switch-purple-78344323553719_%2Ba920b7cba0.jpg</picture>
-        <picture>https://techgleam.com.ua/content/images/30/magntna-klavatura-aula-hero-68-he-60-drotove-pdkluchennja-dragon-king-switch-purple-62490457379877_%2B8ce1640979.jpg</picture>
-        <picture>https://techgleam.com.ua/content/images/30/magntna-klavatura-aula-hero-68-he-60-drotove-pdkluchennja-dragon-king-switch-purple-23738929643163_%2B93dab7e918.jpg</picture>
-        <picture>https://techgleam.com.ua/content/images/30/magntna-klavatura-aula-hero-68-he-60-drotove-pdkluchennja-dragon-king-switch-purple-53545235317374_%2Beafa367fc2.jpg</picture>
-        <picture>https://techgleam.com.ua/content/images/30/magntna-klavatura-aula-hero-68-he-60-drotove-pdkluchennja-dragon-king-switch-purple-63953393559903_%2B73eac609c3.jpg</picture>
-        <picture>https://techgleam.com.ua/content/images/30/magntna-klavatura-aula-hero-68-he-60-drotove-pdkluchennja-dragon-king-switch-purple-21542961546347_%2B0ee549c148.jpg</picture>
-        <param name="Гарантія">3 місяці</param>
-        <param name="Колір">Фіолетовий</param>
-        <param name="Конструкція клавіш">Магнітна</param>
-        <param name="Підключення">Дротове</param>
-        <param name="Інтерфейс підключення">USB Type-C</param>
-        <param name="Розкладка">Eng</param>
-        <param name="Форм-фактор">Компактні</param>
-        <param name="Колір підсвічування">RGB</param>
-        <param name="Підсвічування клавіш">Є</param>
-        <param name="Матеріал корпусу">Пластик</param>
-        <param name="Сумісність з ОС">Windows</param>
-        <param name="Сумісність з ОС">Mac OS</param>
-        <param name="Сумісність з ОС">Linux</param>
-        <param name="Колір">Бузковий</param>
-        <param name="Стан">Новий</param>
-        <param name="Комплектація">Клавіатура</param>
-        <param name="Призначення">Для ПК</param>
-        <country>Китай</country>
-      </offer>
       <offer id="2080" available="false">
         <availability_status>temporarily_unavailable</availability_status>
         <name_ua>Ігрова бездротова механічна клавіатура Aula F108 Pro / Три режими підключення / Caramel Latte Switch / Pink</name_ua>
@@ -17728,6 +17729,26 @@
         <param name="Колір">Білий</param>
         <param name="Стан">Новий</param>
       </offer>
+      <offer id="621" available="false">
+        <availability_status>temporarily_unavailable</availability_status>
+        <name_ua>Стрім-консоль AJAZZ AKP153 / 15 клавіш / TFT-дисплей / Підтримка OBS та макросів / Black</name_ua>
+        <name_ru>Стрим-консоль AJAZZ AKP153 Black / 15 клавиш /TFT-дисплей /поддержка OBS и макросов / Black</name_ru>
+        <description_ua><p><strong>Настільна стрім-консоль AJAZZ AKP153  — контроль на кінчиках пальців!</strong></p>    <p>Професійна стрім-консоль із 16 програмованими клавішами, TFT-дисплеєм і підтримкою OBS, Light Control та іншого стрімінгового софту. Ідеальний вибір для контент-мейкерів, дизайнерів, відеоредакторів, геймерів і всіх, хто автоматизує свою роботу.</p>    <p><strong>Основні характеристики:</strong></p>    <ul>   <li>Кількість клавіш: 16 програмованих кнопок Switch Blade</li>   <li>Підтримка макросів: запуск програм, керування OBS, браузер, звук, світло</li>   <li>Дисплей: кольоровий TFT — підтримує кастомні іконки та GIF</li>   <li>Кут нахилу: 40°, знімна підставка, нековзка основа</li>   <li>Сумісність: Windows 7+, MacOS 10.13+, Android, iOS</li>   <li>Інтеграції: OBS Studio, Light Control та інші — через плагіни або кастомні конфігурації</li>   <li>Матеріал: метал + пластик — міцність і стиль в одному корпусі</li>   <li>Підключення: USB (кабель у комплекті, в оплітці)</li>   <li>Розміри: 191 × 135 × 77 мм</li>   <li>Вага: 330 g</li>  </ul></description_ua>
+        <description_ru><p><strong>Настольная стрим-консоль AJAZZ AKP153  – контроль на кончиках пальцев!</strong></p>    <p>Профессиональная стрим-консоль с 16 программируемыми клавишами, TFT-дисплеем и поддержкой OBS, Light Control и другого стримингового софта. Идеальный выбор для контент-мейкеров, дизайнеров, видеоредакторов, геймеров и всех, кто автоматизирует свою работу.</p>    <p><strong>Основные характеристики:</strong></p>    <ul>   <li>Количество клавиш: 16 программируемых кнопок Switch Blade</li>   <li>Поддержка макросов: запуск программ, управление OBS, браузер, звук, свет</li>   <li>Дисплей: цветовой TFT – поддерживает кастомные иконки и GIF</li>   <li>Угол наклона: 40°, съемная подставка, нескользящая основа</li>   <li>Совместимость: Windows 7+, MacOS 10.13+, Android, iOS</li>   <li>Интеграции: OBS Studio, Light Control и другие — через плагины или кастомные конфигурации</li>   <li>Материал: металл + пластик – прочность и стиль в одном корпусе</li>   <li>Подключение: USB (кабель в комплекте, оплетка)</li>   <li>Размеры: 191×135×77 мм</li>   <li>Вес: 330 г</li>  </ul></description_ru>
+        <price>2799</price>
+        <categoryId>1090</categoryId>
+        <vendor>Ajazz</vendor>
+        <picture>https://techgleam.com.ua/content/images/22/86847755007390_%2B38fa5f6877.jpg</picture>
+        <picture>https://techgleam.com.ua/content/images/22/38397221231299_%2B9c781d8245.jpg</picture>
+        <picture>https://techgleam.com.ua/content/images/22/20028608702570_%2B4e313f289c.jpg</picture>
+        <picture>https://techgleam.com.ua/content/images/22/63305759095028_%2B5344285fd4.jpg</picture>
+        <picture>https://techgleam.com.ua/content/images/22/61235266769053_%2B336f79f05a.jpg</picture>
+        <picture>https://techgleam.com.ua/content/images/22/67170702490701_%2Bf3fa0de4b9.jpg</picture>
+        <picture>https://techgleam.com.ua/content/images/22/13542570369095_%2Bb187683b18.jpg</picture>
+        <param name="Гарантія">3 місяці</param>
+        <param name="Колір">Чорний</param>
+        <param name="Стан">Новий</param>
+      </offer>
       <offer id="622" available="false">
         <availability_status>temporarily_unavailable</availability_status>
         <name_ua>LED настільний електронний годинник / Bеликий дисплей / USB живлення / While</name_ua>
@@ -19404,27 +19425,6 @@
         <param name="Гарантія">1 місяць</param>
         <param name="Стан">Новий</param>
         <param name="Тип">Геймпади</param>
-      </offer>
-      <offer id="1643" available="false">
-        <availability_status>temporarily_unavailable</availability_status>
-        <name_ua>Стрім-консоль AJAZZ AKP153 / 15 клавіш / TFT-дисплей / Підтримка OBS та макросів / White</name_ua>
-        <name_ru>Стрим-консоль AJAZZ AKP153 Black / 15 клавиш /TFT-дисплей /поддержка OBS и макросов / White</name_ru>
-        <description_ua><p><strong>Настільна стрім-консоль AJAZZ AKP153  — контроль на кінчиках пальців!</strong></p>    <p>Професійна стрім-консоль із 16 програмованими клавішами, TFT-дисплеєм і підтримкою OBS, Light Control та іншого стрімінгового софту. Ідеальний вибір для контент-мейкерів, дизайнерів, відеоредакторів, геймерів і всіх, хто автоматизує свою роботу.</p>    <p><strong>Основні характеристики:</strong></p>    <ul>   <li>Кількість клавіш: 16 програмованих кнопок Switch Blade</li>   <li>Підтримка макросів: запуск програм, керування OBS, браузер, звук, світло</li>   <li>Дисплей: кольоровий TFT — підтримує кастомні іконки та GIF</li>   <li>Кут нахилу: 40°, знімна підставка, нековзка основа</li>   <li>Сумісність: Windows 7+, MacOS 10.13+, Android, iOS</li>   <li>Інтеграції: OBS Studio, Light Control та інші — через плагіни або кастомні конфігурації</li>   <li>Матеріал: метал + пластик — міцність і стиль в одному корпусі</li>   <li>Підключення: USB (кабель у комплекті, в оплітці)</li>   <li>Розміри: 191 × 135 × 77 мм</li>   <li>Вага: 330 g</li>  </ul></description_ua>
-        <description_ru><p><strong>Настольная стрим-консоль AJAZZ AKP153  – контроль на кончиках пальцев!</strong></p>    <p>Профессиональная стрим-консоль с 16 программируемыми клавишами, TFT-дисплеем и поддержкой OBS, Light Control и другого стримингового софта. Идеальный выбор для контент-мейкеров, дизайнеров, видеоредакторов, геймеров и всех, кто автоматизирует свою работу.</p>    <p><strong>Основные характеристики:</strong></p>    <ul>   <li>Количество клавиш: 16 программируемых кнопок Switch Blade</li>   <li>Поддержка макросов: запуск программ, управление OBS, браузер, звук, свет</li>   <li>Дисплей: цветовой TFT – поддерживает кастомные иконки и GIF</li>   <li>Угол наклона: 40°, съемная подставка, нескользящая основа</li>   <li>Совместимость: Windows 7+, MacOS 10.13+, Android, iOS</li>   <li>Интеграции: OBS Studio, Light Control и другие — через плагины или кастомные конфигурации</li>   <li>Материал: металл + пластик – прочность и стиль в одном корпусе</li>   <li>Подключение: USB (кабель в комплекте, оплетка)</li>   <li>Размеры: 191×135×77 мм</li>   <li>Вес: 330 г</li>  </ul></description_ru>
-        <price>2799</price>
-        <categoryId>1090</categoryId>
-        <vendor>Ajazz</vendor>
-        <picture>https://techgleam.com.ua/content/images/44/strim-konsol-ajazz-akp153-black-15-klavish-tft-displey-podderzhka-obs-i-makrosov-white-58156692757049_%2Bbe367922fc.jpg</picture>
-        <picture>https://techgleam.com.ua/content/images/44/strim-konsol-ajazz-akp153-black-15-klavish-tft-displey-podderzhka-obs-i-makrosov-white-68974275292015_%2B7e20bfbe7c.jpg</picture>
-        <picture>https://techgleam.com.ua/content/images/44/strim-konsol-ajazz-akp153-black-15-klavish-tft-displey-podderzhka-obs-i-makrosov-white-28046264463166_%2B8fe0ecb4e3.jpg</picture>
-        <picture>https://techgleam.com.ua/content/images/44/strim-konsol-ajazz-akp153-black-15-klavish-tft-displey-podderzhka-obs-i-makrosov-white-24365815329209_%2Bb44954dada.jpg</picture>
-        <picture>https://techgleam.com.ua/content/images/44/strim-konsol-ajazz-akp153-black-15-klavish-tft-displey-podderzhka-obs-i-makrosov-white-88889462353989_%2B247ac941c3.jpg</picture>
-        <picture>https://techgleam.com.ua/content/images/44/strim-konsol-ajazz-akp153-black-15-klavish-tft-displey-podderzhka-obs-i-makrosov-white-63526643314682_%2B6cdde0073e.jpg</picture>
-        <picture>https://techgleam.com.ua/content/images/44/strim-konsol-ajazz-akp153-black-15-klavish-tft-displey-podderzhka-obs-i-makrosov-white-47752363156754_%2B532787a7a2.jpg</picture>
-        <picture>https://techgleam.com.ua/content/images/44/strim-konsol-ajazz-akp153-black-15-klavish-tft-displey-podderzhka-obs-i-makrosov-white-71908713900892_%2Bd569589063.jpg</picture>
-        <param name="Гарантія">3 місяці</param>
-        <param name="Колір">Білий</param>
-        <param name="Стан">Новий</param>
       </offer>
       <offer id="1644" available="false">
         <availability_status>temporarily_unavailable</availability_status>
