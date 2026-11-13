@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<yml_catalog date="2026-11-13 01:23">
+<yml_catalog date="2026-11-13 03:23">
   <shop>
     <categories>
       <category id="1082" portal_id="1839">Клавіатури</category>
@@ -42,40 +42,6 @@
         <param name="Сумісність з ОС">Mac OS</param>
         <param name="Сумісність з ОС">Linux</param>
         <param name="Колір">Темно-сірий</param>
-        <param name="Стан">Новий</param>
-        <param name="Комплектація">Клавіатура</param>
-        <param name="Призначення">Для ПК</param>
-        <param name="Вид">Ігрові</param>
-        <country>Китай</country>
-      </offer>
-      <offer id="520" available="true">
-        <availability_status>available</availability_status>
-        <name_ua>Ігрова магнітна клавіатура Attack Shark X68 / Дротове підключення / Magnetic Switch / White</name_ua>
-        <name_ru>Игровая магнитная клавиатура Attack Shark X68 / Проводное подключение / Magnetic Switch / White</name_ru>
-        <description_ua><p><strong>Магнітна клавіатура ATTACK SHARK X68 HE </strong></p>    <p>ATTACK SHARK X68 HE — компактна магнітна клавіатура для геймерів та користувачів, яким потрібна максимальна швидкість, чутливість та точність у кожному натисканні.</p>    <p><strong>Основні характеристики:</strong></p>    <ul>   <li>Тип: Магнітна клавіатура (Hall Effect), 65%, 66 клавіш  </li>   <li>Перемикачі: Магнітні, Hot-Swappable  </li>   <li>Підключення: USB-C  </li>   <li>Polling Rate: 8000 Гц  </li>   <li>Rapid Trigger: чутливість від 0.01 мм  </li>   <li>Кейкапи: PBT Double-shot  </li>   <li>Підсвітка: RGB, 16 млн кольорів</li>  </ul>    <p><strong>Особливості:</strong></p>    <ul>   <li>Підтримка Snap Tap, Mod-Tap, Toggle Key, DKS  </li>   <li>Регулювання точки спрацювання (0.1–3.4 мм)  </li>   <li>Унікальний світловий ефект при натисканні  </li>   <li>Повне налаштування через веб-драйвер  </li>   <li>Вбудована памʼять для профілів</li>  </ul>    <p><strong>Комплектація:</strong></p>    <ul>   <li>Клавіатура ATTACK SHARK X68 HE  </li>   <li>Інструмент для зняття кейкапів та перемикачів  </li>   <li>Кабель USB-C  </li>   <li>Інструкція користувача</li>  </ul>    <p>Вага: 600 г  <br />  Розміри: 10,2 x 3,8 x 29,1 см</p></description_ua>
-        <description_ru><p><strong>Магнитная клавиатура ATTACK SHARK X68 HE </strong></p>    <p>ATTACK SHARK X68 HE — компактная магнитная клавиатура для геймеров и пользователей, которым нужна максимальная скорость, чувствительность и точность при каждом нажатии.</p>    <p><strong>Основные характеристики:</strong></p>    <ul>   <li>Тип: Магнитная клавиатура (Hall Effect), 65%, 66 клавиш</li>   <li>Переключатели: Магнитные, Hot-Swappable</li>   <li>Подключение: USB-C</li>   <li>Polling Rate: 8000 Гц</li>   <li>Rapid Trigger: чувствительность от 0,01 мм</li>   <li>Кейкапы: PBT Double-shot</li>   <li>Подсветка: RGB, 16 млн цветов</li>  </ul>    <p><strong>Особенности:</strong></p>    <ul>   <li>Поддержка Snap Tap, Mod-Tap, Toggle Key, DKS</li>   <li>Регулировка точки срабатывания (0,1–3,4 мм)</li>   <li>Уникальный световой эффект при нажатии</li>   <li>Полная настройка через веб-драйвер</li>   <li>Встроенная память для профилей</li>  </ul>    <p><strong>Комплектация:</strong></p>    <ul>   <li>Клавиатура ATTACK SHARK X68 HE</li>   <li>Инструмент для снятия кейкапов и переключателей</li>   <li>Кабель USB-C</li>   <li>Инструкция пользователя</li>  </ul>    <p>Вес: 600 г</p>    <p>Размеры: 10,2 x 3,8 x 29,1 см</p></description_ru>
-        <price>2399</price>
-        <old_price>2699</old_price>
-        <categoryId>1082</categoryId>
-        <vendor>Attack Shark</vendor>
-        <picture>https://techgleam.com.ua/content/images/21/83707614733849_%2B9802827f27.jpg</picture>
-        <picture>https://techgleam.com.ua/content/images/21/54489569455003_%2B6c83b533c3.jpg</picture>
-        <picture>https://techgleam.com.ua/content/images/21/98207765172936_%2Bad7f9fa050.jpg</picture>
-        <picture>https://techgleam.com.ua/content/images/21/64884114280091_%2Bcb6e3bf1a1.jpg</picture>
-        <picture>https://techgleam.com.ua/content/images/21/57074229703462_%2B75e81c58f3.jpg</picture>
-        <param name="Гарантія">3 місяці</param>
-        <param name="Колір">Білий</param>
-        <param name="Конструкція клавіш">Магнітна</param>
-        <param name="Підключення">Дротове</param>
-        <param name="Інтерфейс підключення">USB Type-C</param>
-        <param name="Розкладка">Eng</param>
-        <param name="Форм-фактор">Компактні</param>
-        <param name="Колір підсвічування">RGB</param>
-        <param name="Підсвічування клавіш">Є</param>
-        <param name="Матеріал корпусу">Пластик</param>
-        <param name="Сумісність з ОС">Windows</param>
-        <param name="Сумісність з ОС">Mac OS</param>
-        <param name="Сумісність з ОС">Linux</param>
         <param name="Стан">Новий</param>
         <param name="Комплектація">Клавіатура</param>
         <param name="Призначення">Для ПК</param>
@@ -406,42 +372,6 @@
         <param name="Вид">Ігрові</param>
         <country>Китай</country>
       </offer>
-      <offer id="711" available="true">
-        <availability_status>available</availability_status>
-        <name_ua>Ігрова дротова магнітна клавіатура Attack Shark R82 / Дротове підключення / Magnetic Switch / Black</name_ua>
-        <name_ru>Игровая проводная магнитная клавиатура Attack Shark R82 / Проводное подключение / Magnetic Switch / Black</name_ru>
-        <description_ua><p data-end="2328" data-start="1932"><strong data-end="1955" data-start="1932">ATTACK SHARK R82 HE</strong> — це <strong data-end="1997" data-start="1961">компактна 75% дротова клавіатура</strong> на <strong data-end="2033" data-start="2001">магнітних Hall-effect свічах</strong> із фокусом на швидкість, точність і кастомізацію.<br data-end="2086" data-start="2083" />  Завдяки <strong data-end="2131" data-start="2094">Rapid Trigger з точністю 0.005 мм</strong> і частоті опитування <strong data-end="2174" data-start="2153">8000 Гц (0.08 мс)</strong> клавіатура миттєво фіксує кожну дію та дозволяє повторно спрацьовувати без повного відпускання — ідеально для FPS, ритм-ігор та кіберспортивної динаміки.</p>    <h3 data-end="2350" data-start="2330">Основні характеристики:</h3>    <ul>   <li data-end="2439" data-start="2353"><strong data-end="2374" data-start="2353">Hall-effect свічі</strong> — плавний хід, надійність, відсутність механічного “дебаунсу”.</li>   <li data-end="2530" data-start="2442"><strong data-end="2468" data-start="2442">Rapid Trigger 0.005 мм</strong> — ультрашвидкі повторні спрацювання та мінімальна затримка.</li>   <li data-end="2613" data-start="2533"><strong data-end="2561" data-start="2533">Polling 8000 Гц (0.08 мс)</strong> — стабільне опитування для максимальної чуйності.</li>   <li data-end="2695" data-start="2616"><strong data-end="2660" data-start="2616">Регульована точка спрацювання 0.1–3.4 мм</strong> — під себе, під гру чи завдання.</li>   <li data-end="2793" data-start="2698">Підтримка <strong data-end="2752" data-start="2708">Snap Tap / Last Keystroke Prioritization</strong> — пріоритизація останнього натискання.</li>   <li data-end="2896" data-start="2796"><strong data-end="2832" data-start="2796">DKS (One Key — Multiple Actions)</strong>, <strong data-end="2840" data-start="2834">MT</strong>, <strong data-end="2849" data-start="2842">TGL</strong> — одна клавіша, кілька дій, шарові сценарії.</li>   <li data-end="2971" data-start="2899"><strong data-end="2933" data-start="2899">5-шарова акустична оптимізація</strong> — чистіший звук, приємніший фідбек.</li>   <li data-end="3032" data-start="2974"><strong data-end="2991" data-start="2974">RGB-підсвітка</strong> з ефектами та гнучкими налаштуваннями.</li>   <li data-end="3124" data-start="3035"><strong data-end="3068" data-start="3035">Web-драйвер + on-board memory</strong> — профілі та макроси зберігаються прямо в клавіатурі.</li>   <li data-end="3201" data-start="3127"><strong data-end="3151" data-start="3127">NKRO / Anti-Ghosting</strong> — коректна реєстрація натискань у пікові моменти.</li>   <li data-end="3201" data-start="3127"><strong data-end="3219" data-start="3203">Підключення:</strong> дротове, <strong data-end="3238" data-start="3229">USB-C</strong>.</li>   <li data-end="3201" data-start="3127"><strong data-end="3258" data-start="3242">Форм-фактор:</strong> <strong data-end="3266" data-start="3259">75%</strong> (повноцінні стрілки та ряд F-клавіш).</li>   <li data-end="3201" data-start="3127"><strong data-end="3322" data-start="3307">Сумісність:</strong> Windows / macOS (через стандартні драйвери; веб-інструменти керування).</li>   <li data-end="3201" data-start="3127"><strong data-end="3410" data-start="3397">Комплект:</strong> клавіатура ATTACK SHARK R82 HE, кабель USB-C, інструкція.</li>  </ul>    <p data-end="3201" data-start="3127">Якщо вам потрібна надточна клавіатура з магнітними свічами, гнучкою актуацією та режимами на кшталт <strong data-end="3581" data-start="3574">DKS</strong> — <strong data-end="3594" data-start="3584">R82 HE</strong> створена для швидкості та перемог.</p></description_ua>
-        <description_ru><p><strong>ATTACK SHARK R82 HE – это компактная 75% проводная клавиатура на магнитных Hall-effect свечах с фокусом на скорость, точность и кастомизацию.</strong><br />  Благодаря Rapid Trigger с точностью 0.005 мм и частоте опроса 8000 Гц (0.08 мс), клавиатура мгновенно фиксирует каждое действие и позволяет повторно срабатывать без полного отпуска — идеально для FPS, ритм-игр и киберспортивной динамики.</p>    <p><strong>Основные характеристики:</strong></p>    <ul>   <li>Hall-effect свечи — плавный ход, надежность, отсутствие механического дебаунса.</li>   <li>Rapid Trigger 0.005 мм — ультрабыстрые повторные срабатывания и минимальная задержка.</li>   <li>Polling 8000 Гц (0.08 мс) — стабильный опрос для максимальной отзывчивости.</li>   <li>Регулируемая точка срабатывания 0.1–3.4 мм – под себя, под игру или задания.</li>   <li>Поддержка Snap Tap / Last Keystroke Prioritization — приоритет последнего нажатия.</li>   <li>DKS (One Key — Multiple Actions), MT, TGL — одна клавиша, несколько действий, шаровые сценарии.</li>   <li>5-слойная акустическая оптимизация — более чистый звук, более приятный фидбек.</li>   <li>RGB-подсветка с эффектами и гибкими настройками.</li>   <li>Web-драйвер + on-board memory – профили и макросы хранятся прямо в клавиатуре.</li>   <li>NKRO / Anti-Ghosting – корректная регистрация нажатий в пиковые моменты.</li>   <li>Подключение: проводное, USB-C.</li>   <li>Форм-фактор: 75% (полноценные стрелки и ряд F-клавиш).</li>   <li>Совместимость: Windows/macOS (через стандартные драйверы; веб-инструменты управления).</li>   <li>Комплект: клавиатура ATTACK SHARK R82 HE, кабель USB-C, инструкция.</li>  </ul>    <p>Если вам нужна сверхточная клавиатура с магнитными свечами, гибкой актуацией и режимами типа DKS — R82 HE создана для скорости и побед.</p></description_ru>
-        <price>2699</price>
-        <old_price>3199</old_price>
-        <categoryId>1082</categoryId>
-        <vendor>Attack Shark</vendor>
-        <picture>https://techgleam.com.ua/content/images/12/64043419020846_%2B821edfd035.jpg</picture>
-        <picture>https://techgleam.com.ua/content/images/12/31582098789009_%2Bf5c3a80568.jpg</picture>
-        <picture>https://techgleam.com.ua/content/images/12/12074405055782_%2B2a93685df6.jpg</picture>
-        <picture>https://techgleam.com.ua/content/images/12/66409074529670_%2Bbe0d06bf6c.jpg</picture>
-        <picture>https://techgleam.com.ua/content/images/12/74353734785911_%2B74a9260d58.jpg</picture>
-        <picture>https://techgleam.com.ua/content/images/12/12094532921613_%2Bb54732832d.jpg</picture>
-        <picture>https://techgleam.com.ua/content/images/12/11252532243449_%2B303c572ae2.jpg</picture>
-        <param name="Гарантія">3 місяці</param>
-        <param name="Колір">Чорний</param>
-        <param name="Конструкція клавіш">Магнітна</param>
-        <param name="Підключення">Дротове</param>
-        <param name="Інтерфейс підключення">USB Type-C</param>
-        <param name="Розкладка">Eng</param>
-        <param name="Форм-фактор">Компактні</param>
-        <param name="Колір підсвічування">RGB</param>
-        <param name="Підсвічування клавіш">Є</param>
-        <param name="Матеріал корпусу">Пластик</param>
-        <param name="Сумісність з ОС">Windows</param>
-        <param name="Сумісність з ОС">Mac OS</param>
-        <param name="Сумісність з ОС">Linux</param>
-        <param name="Стан">Новий</param>
-        <param name="Комплектація">Клавіатура</param>
-        <param name="Призначення">Для ПК</param>
-        <param name="Вид">Ігрові</param>
-        <country>Китай</country>
-      </offer>
       <offer id="723" available="true">
         <availability_status>available</availability_status>
         <name_ua>Ігрова мишка ATTACK SHARK X3 / Три режими підключення / Сенсор PAW3395 / 49 г / Red</name_ua>
@@ -596,39 +526,6 @@
         <param name="Комплектація">Клавіатура</param>
         <param name="Призначення">Для ПК</param>
         <param name="Вид">Ігрові</param>
-        <country>Китай</country>
-      </offer>
-      <offer id="1068" available="true">
-        <availability_status>available</availability_status>
-        <name_ua>Ігрова бездротова мишка AJAZZ AJ159 Apex /Три режими підключення / 42000 DPI / сенсор PAW3950 / Док-станція з LED-дисплеєм / White</name_ua>
-        <name_ru>Игровая беспроводная мышка AJAZZ AJ159 Apex / Три режима подключения / 42000 DPI / сенсор PAW3950 / Док-станция с LED-дисплеем / White</name_ru>
-        <description_ua><p><strong>AJAZZ AJ159 Apex — створена для справжніх геймерів!</strong></p>    <p>AJ159 Apex — це легка, швидка та надійна миша, яка подарує точність і стабільність навіть у найнапруженіших ігрових моментах. Магнітна док-станція та сенсор PAW3950 з 42 000 DPI роблять її справжнім інструментом для перемог.</p>    <p><strong>Основні характеристики:</strong></p>    <ul>   <li>Тип: Ігрова миша  </li>   <li>Сенсор: PAW3950  </li>   <li>DPI: До 42 000 DPI  </li>   <li>Частота опитування: До 8000 Гц (затримка 0.125 мс)  </li>   <li>Підключення: 2.4GHz / Bluetooth 5.0 / USB-C  </li>   <li>Вага: 56 г  </li>   <li>Кількість кнопок: 5 програмованих  </li>   <li>Підтримка макросів  </li>   <li>Форма: Ергономічна, підходить для хвату «долоня» та «кіготь»  </li>   <li>RGB-підсвітка: З внутрішньою пам’яттю  </li>   <li>Сумісність: Windows / macOS  </li>   <li>Ресурс перемикачів: До 100 млн кліків  </li>   <li>Акумулятор: 400 мАг  </li>  </ul>    <p>Заряджання: Через магнітну док-станцію</p></description_ua>
-        <description_ru><p><strong>AJAZZ AJ159 Apex – создана для настоящих геймеров!</strong></p>    <p>AJ159 Apex – это легкая, быстрая и надежная мышь, которая подарит точность и стабильность даже в самых напряженных игровых моментах. Магнитная док-станция и сенсор PAW3950 с 42000 DPI делают ее настоящим инструментом для побед.</p>    <p><strong>Основные характеристики:</strong></p>    <ul>   <li>Тип: Игровая мышь</li>   <li>Сенсор: PAW3950</li>   <li>DPI: До 42 000 DPI</li>   <li>Частота опроса: До 8000 Гц (задержка 0.125 мс)</li>   <li>Подключение: 2.4GHz/Bluetooth 5.0/USB-C</li>   <li>Вес: 56 г</li>   <li>Количество кнопок: 5 программируемых</li>   <li>Поддержка макросов</li>   <li>Форма: Эргономичная, подходит для хвата «ладонь» и «коготь»</li>   <li>RGB-подсветка: С внутренней памятью</li>   <li>Совместимость: Windows/macOS</li>   <li>Ресурс переключателей: До 100 млн кликов</li>   <li>Аккумулятор: 400 мАч</li>   <li>Зарядка: Через магнитную док-станцию</li>  </ul></description_ru>
-        <price>2899</price>
-        <old_price>3399</old_price>
-        <categoryId>1084</categoryId>
-        <vendor>Ajazz</vendor>
-        <picture>https://techgleam.com.ua/content/images/19/igrovaja-besprovodnaja-myshka-ajazz-aj159-apex-tri-rezhima-podkluchenija-42000-dpi-sensor-paw3950-dok-stancija-s-led-displeem-white-95019032373487_%2B00edd30026.jpg</picture>
-        <picture>https://techgleam.com.ua/content/images/19/igrovaja-besprovodnaja-myshka-ajazz-aj159-apex-tri-rezhima-podkluchenija-42000-dpi-sensor-paw3950-dok-stancija-s-led-displeem-white-13396369361303_%2B489ec65e52.jpg</picture>
-        <picture>https://techgleam.com.ua/content/images/19/igrovaja-besprovodnaja-myshka-ajazz-aj159-apex-tri-rezhima-podkluchenija-42000-dpi-sensor-paw3950-dok-stancija-s-led-displeem-white-29994392322522_%2B87053934ed.jpg</picture>
-        <picture>https://techgleam.com.ua/content/images/19/igrovaja-besprovodnaja-myshka-ajazz-aj159-apex-tri-rezhima-podkluchenija-42000-dpi-sensor-paw3950-dok-stancija-s-led-displeem-white-76189206437885_%2B1f2060405d.jpg</picture>
-        <picture>https://techgleam.com.ua/content/images/19/igrovaja-besprovodnaja-myshka-ajazz-aj159-apex-tri-rezhima-podkluchenija-42000-dpi-sensor-paw3950-dok-stancija-s-led-displeem-white-26763399628601_%2B78c462deec.jpg</picture>
-        <picture>https://techgleam.com.ua/content/images/19/igrovaja-besprovodnaja-myshka-ajazz-aj159-apex-tri-rezhima-podkluchenija-42000-dpi-sensor-paw3950-dok-stancija-s-led-displeem-white-60961814788043_%2B9a5168992a.jpg</picture>
-        <param name="Гарантія">3 місяці</param>
-        <param name="Колір">Білий</param>
-        <param name="Підключення">Комбіноване</param>
-        <param name="Сумісність з ОС">Microsoft Windows</param>
-        <param name="Сумісність з ОС">Mac OS</param>
-        <param name="Сумісність з ОС">Linux</param>
-        <param name="Вага">56 г</param>
-        <param name="Кількість кнопок миші">5</param>
-        <param name="Тип датчика">Оптичний</param>
-        <param name="Інтерфейс підключення">Bluetooth</param>
-        <param name="Інтерфейс підключення">Радіоінтерфейс</param>
-        <param name="Інтерфейс підключення">USB</param>
-        <param name="Роздільна здатність сенсора">Понад 20000 dpi</param>
-        <param name="Стан">Новий</param>
-        <param name="Тип">Ігрові (геймерські)</param>
         <country>Китай</country>
       </offer>
       <offer id="1402" available="true">
@@ -3824,6 +3721,40 @@
         <param name="Вид">Ігрові</param>
         <country>Китай</country>
       </offer>
+      <offer id="520" available="false">
+        <availability_status>temporarily_unavailable</availability_status>
+        <name_ua>Ігрова магнітна клавіатура Attack Shark X68 / Дротове підключення / Magnetic Switch / White</name_ua>
+        <name_ru>Игровая магнитная клавиатура Attack Shark X68 / Проводное подключение / Magnetic Switch / White</name_ru>
+        <description_ua><p><strong>Магнітна клавіатура ATTACK SHARK X68 HE </strong></p>    <p>ATTACK SHARK X68 HE — компактна магнітна клавіатура для геймерів та користувачів, яким потрібна максимальна швидкість, чутливість та точність у кожному натисканні.</p>    <p><strong>Основні характеристики:</strong></p>    <ul>   <li>Тип: Магнітна клавіатура (Hall Effect), 65%, 66 клавіш  </li>   <li>Перемикачі: Магнітні, Hot-Swappable  </li>   <li>Підключення: USB-C  </li>   <li>Polling Rate: 8000 Гц  </li>   <li>Rapid Trigger: чутливість від 0.01 мм  </li>   <li>Кейкапи: PBT Double-shot  </li>   <li>Підсвітка: RGB, 16 млн кольорів</li>  </ul>    <p><strong>Особливості:</strong></p>    <ul>   <li>Підтримка Snap Tap, Mod-Tap, Toggle Key, DKS  </li>   <li>Регулювання точки спрацювання (0.1–3.4 мм)  </li>   <li>Унікальний світловий ефект при натисканні  </li>   <li>Повне налаштування через веб-драйвер  </li>   <li>Вбудована памʼять для профілів</li>  </ul>    <p><strong>Комплектація:</strong></p>    <ul>   <li>Клавіатура ATTACK SHARK X68 HE  </li>   <li>Інструмент для зняття кейкапів та перемикачів  </li>   <li>Кабель USB-C  </li>   <li>Інструкція користувача</li>  </ul>    <p>Вага: 600 г  <br />  Розміри: 10,2 x 3,8 x 29,1 см</p></description_ua>
+        <description_ru><p><strong>Магнитная клавиатура ATTACK SHARK X68 HE </strong></p>    <p>ATTACK SHARK X68 HE — компактная магнитная клавиатура для геймеров и пользователей, которым нужна максимальная скорость, чувствительность и точность при каждом нажатии.</p>    <p><strong>Основные характеристики:</strong></p>    <ul>   <li>Тип: Магнитная клавиатура (Hall Effect), 65%, 66 клавиш</li>   <li>Переключатели: Магнитные, Hot-Swappable</li>   <li>Подключение: USB-C</li>   <li>Polling Rate: 8000 Гц</li>   <li>Rapid Trigger: чувствительность от 0,01 мм</li>   <li>Кейкапы: PBT Double-shot</li>   <li>Подсветка: RGB, 16 млн цветов</li>  </ul>    <p><strong>Особенности:</strong></p>    <ul>   <li>Поддержка Snap Tap, Mod-Tap, Toggle Key, DKS</li>   <li>Регулировка точки срабатывания (0,1–3,4 мм)</li>   <li>Уникальный световой эффект при нажатии</li>   <li>Полная настройка через веб-драйвер</li>   <li>Встроенная память для профилей</li>  </ul>    <p><strong>Комплектация:</strong></p>    <ul>   <li>Клавиатура ATTACK SHARK X68 HE</li>   <li>Инструмент для снятия кейкапов и переключателей</li>   <li>Кабель USB-C</li>   <li>Инструкция пользователя</li>  </ul>    <p>Вес: 600 г</p>    <p>Размеры: 10,2 x 3,8 x 29,1 см</p></description_ru>
+        <price>2399</price>
+        <old_price>2699</old_price>
+        <categoryId>1082</categoryId>
+        <vendor>Attack Shark</vendor>
+        <picture>https://techgleam.com.ua/content/images/21/83707614733849_%2B9802827f27.jpg</picture>
+        <picture>https://techgleam.com.ua/content/images/21/54489569455003_%2B6c83b533c3.jpg</picture>
+        <picture>https://techgleam.com.ua/content/images/21/98207765172936_%2Bad7f9fa050.jpg</picture>
+        <picture>https://techgleam.com.ua/content/images/21/64884114280091_%2Bcb6e3bf1a1.jpg</picture>
+        <picture>https://techgleam.com.ua/content/images/21/57074229703462_%2B75e81c58f3.jpg</picture>
+        <param name="Гарантія">3 місяці</param>
+        <param name="Колір">Білий</param>
+        <param name="Конструкція клавіш">Магнітна</param>
+        <param name="Підключення">Дротове</param>
+        <param name="Інтерфейс підключення">USB Type-C</param>
+        <param name="Розкладка">Eng</param>
+        <param name="Форм-фактор">Компактні</param>
+        <param name="Колір підсвічування">RGB</param>
+        <param name="Підсвічування клавіш">Є</param>
+        <param name="Матеріал корпусу">Пластик</param>
+        <param name="Сумісність з ОС">Windows</param>
+        <param name="Сумісність з ОС">Mac OS</param>
+        <param name="Сумісність з ОС">Linux</param>
+        <param name="Стан">Новий</param>
+        <param name="Комплектація">Клавіатура</param>
+        <param name="Призначення">Для ПК</param>
+        <param name="Вид">Ігрові</param>
+        <country>Китай</country>
+      </offer>
       <offer id="521" available="false">
         <availability_status>temporarily_unavailable</availability_status>
         <name_ua>Ігрова бездротова механічна клавіатура ATTACK SHARK X85 / Три режими підключення / White Jade Switch / Black</name_ua>
@@ -5485,6 +5416,42 @@
         <param name="Роздільна здатність сенсора">Понад 20000 dpi</param>
         <param name="Стан">Новий</param>
         <param name="Тип">Ігрові (геймерські)</param>
+        <country>Китай</country>
+      </offer>
+      <offer id="711" available="false">
+        <availability_status>temporarily_unavailable</availability_status>
+        <name_ua>Ігрова дротова магнітна клавіатура Attack Shark R82 / Дротове підключення / Magnetic Switch / Black</name_ua>
+        <name_ru>Игровая проводная магнитная клавиатура Attack Shark R82 / Проводное подключение / Magnetic Switch / Black</name_ru>
+        <description_ua><p data-end="2328" data-start="1932"><strong data-end="1955" data-start="1932">ATTACK SHARK R82 HE</strong> — це <strong data-end="1997" data-start="1961">компактна 75% дротова клавіатура</strong> на <strong data-end="2033" data-start="2001">магнітних Hall-effect свічах</strong> із фокусом на швидкість, точність і кастомізацію.<br data-end="2086" data-start="2083" />  Завдяки <strong data-end="2131" data-start="2094">Rapid Trigger з точністю 0.005 мм</strong> і частоті опитування <strong data-end="2174" data-start="2153">8000 Гц (0.08 мс)</strong> клавіатура миттєво фіксує кожну дію та дозволяє повторно спрацьовувати без повного відпускання — ідеально для FPS, ритм-ігор та кіберспортивної динаміки.</p>    <h3 data-end="2350" data-start="2330">Основні характеристики:</h3>    <ul>   <li data-end="2439" data-start="2353"><strong data-end="2374" data-start="2353">Hall-effect свічі</strong> — плавний хід, надійність, відсутність механічного “дебаунсу”.</li>   <li data-end="2530" data-start="2442"><strong data-end="2468" data-start="2442">Rapid Trigger 0.005 мм</strong> — ультрашвидкі повторні спрацювання та мінімальна затримка.</li>   <li data-end="2613" data-start="2533"><strong data-end="2561" data-start="2533">Polling 8000 Гц (0.08 мс)</strong> — стабільне опитування для максимальної чуйності.</li>   <li data-end="2695" data-start="2616"><strong data-end="2660" data-start="2616">Регульована точка спрацювання 0.1–3.4 мм</strong> — під себе, під гру чи завдання.</li>   <li data-end="2793" data-start="2698">Підтримка <strong data-end="2752" data-start="2708">Snap Tap / Last Keystroke Prioritization</strong> — пріоритизація останнього натискання.</li>   <li data-end="2896" data-start="2796"><strong data-end="2832" data-start="2796">DKS (One Key — Multiple Actions)</strong>, <strong data-end="2840" data-start="2834">MT</strong>, <strong data-end="2849" data-start="2842">TGL</strong> — одна клавіша, кілька дій, шарові сценарії.</li>   <li data-end="2971" data-start="2899"><strong data-end="2933" data-start="2899">5-шарова акустична оптимізація</strong> — чистіший звук, приємніший фідбек.</li>   <li data-end="3032" data-start="2974"><strong data-end="2991" data-start="2974">RGB-підсвітка</strong> з ефектами та гнучкими налаштуваннями.</li>   <li data-end="3124" data-start="3035"><strong data-end="3068" data-start="3035">Web-драйвер + on-board memory</strong> — профілі та макроси зберігаються прямо в клавіатурі.</li>   <li data-end="3201" data-start="3127"><strong data-end="3151" data-start="3127">NKRO / Anti-Ghosting</strong> — коректна реєстрація натискань у пікові моменти.</li>   <li data-end="3201" data-start="3127"><strong data-end="3219" data-start="3203">Підключення:</strong> дротове, <strong data-end="3238" data-start="3229">USB-C</strong>.</li>   <li data-end="3201" data-start="3127"><strong data-end="3258" data-start="3242">Форм-фактор:</strong> <strong data-end="3266" data-start="3259">75%</strong> (повноцінні стрілки та ряд F-клавіш).</li>   <li data-end="3201" data-start="3127"><strong data-end="3322" data-start="3307">Сумісність:</strong> Windows / macOS (через стандартні драйвери; веб-інструменти керування).</li>   <li data-end="3201" data-start="3127"><strong data-end="3410" data-start="3397">Комплект:</strong> клавіатура ATTACK SHARK R82 HE, кабель USB-C, інструкція.</li>  </ul>    <p data-end="3201" data-start="3127">Якщо вам потрібна надточна клавіатура з магнітними свічами, гнучкою актуацією та режимами на кшталт <strong data-end="3581" data-start="3574">DKS</strong> — <strong data-end="3594" data-start="3584">R82 HE</strong> створена для швидкості та перемог.</p></description_ua>
+        <description_ru><p><strong>ATTACK SHARK R82 HE – это компактная 75% проводная клавиатура на магнитных Hall-effect свечах с фокусом на скорость, точность и кастомизацию.</strong><br />  Благодаря Rapid Trigger с точностью 0.005 мм и частоте опроса 8000 Гц (0.08 мс), клавиатура мгновенно фиксирует каждое действие и позволяет повторно срабатывать без полного отпуска — идеально для FPS, ритм-игр и киберспортивной динамики.</p>    <p><strong>Основные характеристики:</strong></p>    <ul>   <li>Hall-effect свечи — плавный ход, надежность, отсутствие механического дебаунса.</li>   <li>Rapid Trigger 0.005 мм — ультрабыстрые повторные срабатывания и минимальная задержка.</li>   <li>Polling 8000 Гц (0.08 мс) — стабильный опрос для максимальной отзывчивости.</li>   <li>Регулируемая точка срабатывания 0.1–3.4 мм – под себя, под игру или задания.</li>   <li>Поддержка Snap Tap / Last Keystroke Prioritization — приоритет последнего нажатия.</li>   <li>DKS (One Key — Multiple Actions), MT, TGL — одна клавиша, несколько действий, шаровые сценарии.</li>   <li>5-слойная акустическая оптимизация — более чистый звук, более приятный фидбек.</li>   <li>RGB-подсветка с эффектами и гибкими настройками.</li>   <li>Web-драйвер + on-board memory – профили и макросы хранятся прямо в клавиатуре.</li>   <li>NKRO / Anti-Ghosting – корректная регистрация нажатий в пиковые моменты.</li>   <li>Подключение: проводное, USB-C.</li>   <li>Форм-фактор: 75% (полноценные стрелки и ряд F-клавиш).</li>   <li>Совместимость: Windows/macOS (через стандартные драйверы; веб-инструменты управления).</li>   <li>Комплект: клавиатура ATTACK SHARK R82 HE, кабель USB-C, инструкция.</li>  </ul>    <p>Если вам нужна сверхточная клавиатура с магнитными свечами, гибкой актуацией и режимами типа DKS — R82 HE создана для скорости и побед.</p></description_ru>
+        <price>2699</price>
+        <old_price>3199</old_price>
+        <categoryId>1082</categoryId>
+        <vendor>Attack Shark</vendor>
+        <picture>https://techgleam.com.ua/content/images/12/64043419020846_%2B821edfd035.jpg</picture>
+        <picture>https://techgleam.com.ua/content/images/12/31582098789009_%2Bf5c3a80568.jpg</picture>
+        <picture>https://techgleam.com.ua/content/images/12/12074405055782_%2B2a93685df6.jpg</picture>
+        <picture>https://techgleam.com.ua/content/images/12/66409074529670_%2Bbe0d06bf6c.jpg</picture>
+        <picture>https://techgleam.com.ua/content/images/12/74353734785911_%2B74a9260d58.jpg</picture>
+        <picture>https://techgleam.com.ua/content/images/12/12094532921613_%2Bb54732832d.jpg</picture>
+        <picture>https://techgleam.com.ua/content/images/12/11252532243449_%2B303c572ae2.jpg</picture>
+        <param name="Гарантія">3 місяці</param>
+        <param name="Колір">Чорний</param>
+        <param name="Конструкція клавіш">Магнітна</param>
+        <param name="Підключення">Дротове</param>
+        <param name="Інтерфейс підключення">USB Type-C</param>
+        <param name="Розкладка">Eng</param>
+        <param name="Форм-фактор">Компактні</param>
+        <param name="Колір підсвічування">RGB</param>
+        <param name="Підсвічування клавіш">Є</param>
+        <param name="Матеріал корпусу">Пластик</param>
+        <param name="Сумісність з ОС">Windows</param>
+        <param name="Сумісність з ОС">Mac OS</param>
+        <param name="Сумісність з ОС">Linux</param>
+        <param name="Стан">Новий</param>
+        <param name="Комплектація">Клавіатура</param>
+        <param name="Призначення">Для ПК</param>
+        <param name="Вид">Ігрові</param>
         <country>Китай</country>
       </offer>
       <offer id="712" available="false">
@@ -8961,6 +8928,39 @@
         <param name="Сумісність з ОС">Linux</param>
         <param name="Вага">59 г</param>
         <param name="Кількість кнопок миші">6</param>
+        <param name="Тип датчика">Оптичний</param>
+        <param name="Інтерфейс підключення">Bluetooth</param>
+        <param name="Інтерфейс підключення">Радіоінтерфейс</param>
+        <param name="Інтерфейс підключення">USB</param>
+        <param name="Роздільна здатність сенсора">Понад 20000 dpi</param>
+        <param name="Стан">Новий</param>
+        <param name="Тип">Ігрові (геймерські)</param>
+        <country>Китай</country>
+      </offer>
+      <offer id="1068" available="false">
+        <availability_status>temporarily_unavailable</availability_status>
+        <name_ua>Ігрова бездротова мишка AJAZZ AJ159 Apex /Три режими підключення / 42000 DPI / сенсор PAW3950 / Док-станція з LED-дисплеєм / White</name_ua>
+        <name_ru>Игровая беспроводная мышка AJAZZ AJ159 Apex / Три режима подключения / 42000 DPI / сенсор PAW3950 / Док-станция с LED-дисплеем / White</name_ru>
+        <description_ua><p><strong>AJAZZ AJ159 Apex — створена для справжніх геймерів!</strong></p>    <p>AJ159 Apex — це легка, швидка та надійна миша, яка подарує точність і стабільність навіть у найнапруженіших ігрових моментах. Магнітна док-станція та сенсор PAW3950 з 42 000 DPI роблять її справжнім інструментом для перемог.</p>    <p><strong>Основні характеристики:</strong></p>    <ul>   <li>Тип: Ігрова миша  </li>   <li>Сенсор: PAW3950  </li>   <li>DPI: До 42 000 DPI  </li>   <li>Частота опитування: До 8000 Гц (затримка 0.125 мс)  </li>   <li>Підключення: 2.4GHz / Bluetooth 5.0 / USB-C  </li>   <li>Вага: 56 г  </li>   <li>Кількість кнопок: 5 програмованих  </li>   <li>Підтримка макросів  </li>   <li>Форма: Ергономічна, підходить для хвату «долоня» та «кіготь»  </li>   <li>RGB-підсвітка: З внутрішньою пам’яттю  </li>   <li>Сумісність: Windows / macOS  </li>   <li>Ресурс перемикачів: До 100 млн кліків  </li>   <li>Акумулятор: 400 мАг  </li>  </ul>    <p>Заряджання: Через магнітну док-станцію</p></description_ua>
+        <description_ru><p><strong>AJAZZ AJ159 Apex – создана для настоящих геймеров!</strong></p>    <p>AJ159 Apex – это легкая, быстрая и надежная мышь, которая подарит точность и стабильность даже в самых напряженных игровых моментах. Магнитная док-станция и сенсор PAW3950 с 42000 DPI делают ее настоящим инструментом для побед.</p>    <p><strong>Основные характеристики:</strong></p>    <ul>   <li>Тип: Игровая мышь</li>   <li>Сенсор: PAW3950</li>   <li>DPI: До 42 000 DPI</li>   <li>Частота опроса: До 8000 Гц (задержка 0.125 мс)</li>   <li>Подключение: 2.4GHz/Bluetooth 5.0/USB-C</li>   <li>Вес: 56 г</li>   <li>Количество кнопок: 5 программируемых</li>   <li>Поддержка макросов</li>   <li>Форма: Эргономичная, подходит для хвата «ладонь» и «коготь»</li>   <li>RGB-подсветка: С внутренней памятью</li>   <li>Совместимость: Windows/macOS</li>   <li>Ресурс переключателей: До 100 млн кликов</li>   <li>Аккумулятор: 400 мАч</li>   <li>Зарядка: Через магнитную док-станцию</li>  </ul></description_ru>
+        <price>2899</price>
+        <old_price>3399</old_price>
+        <categoryId>1084</categoryId>
+        <vendor>Ajazz</vendor>
+        <picture>https://techgleam.com.ua/content/images/19/igrovaja-besprovodnaja-myshka-ajazz-aj159-apex-tri-rezhima-podkluchenija-42000-dpi-sensor-paw3950-dok-stancija-s-led-displeem-white-95019032373487_%2B00edd30026.jpg</picture>
+        <picture>https://techgleam.com.ua/content/images/19/igrovaja-besprovodnaja-myshka-ajazz-aj159-apex-tri-rezhima-podkluchenija-42000-dpi-sensor-paw3950-dok-stancija-s-led-displeem-white-13396369361303_%2B489ec65e52.jpg</picture>
+        <picture>https://techgleam.com.ua/content/images/19/igrovaja-besprovodnaja-myshka-ajazz-aj159-apex-tri-rezhima-podkluchenija-42000-dpi-sensor-paw3950-dok-stancija-s-led-displeem-white-29994392322522_%2B87053934ed.jpg</picture>
+        <picture>https://techgleam.com.ua/content/images/19/igrovaja-besprovodnaja-myshka-ajazz-aj159-apex-tri-rezhima-podkluchenija-42000-dpi-sensor-paw3950-dok-stancija-s-led-displeem-white-76189206437885_%2B1f2060405d.jpg</picture>
+        <picture>https://techgleam.com.ua/content/images/19/igrovaja-besprovodnaja-myshka-ajazz-aj159-apex-tri-rezhima-podkluchenija-42000-dpi-sensor-paw3950-dok-stancija-s-led-displeem-white-26763399628601_%2B78c462deec.jpg</picture>
+        <picture>https://techgleam.com.ua/content/images/19/igrovaja-besprovodnaja-myshka-ajazz-aj159-apex-tri-rezhima-podkluchenija-42000-dpi-sensor-paw3950-dok-stancija-s-led-displeem-white-60961814788043_%2B9a5168992a.jpg</picture>
+        <param name="Гарантія">3 місяці</param>
+        <param name="Колір">Білий</param>
+        <param name="Підключення">Комбіноване</param>
+        <param name="Сумісність з ОС">Microsoft Windows</param>
+        <param name="Сумісність з ОС">Mac OS</param>
+        <param name="Сумісність з ОС">Linux</param>
+        <param name="Вага">56 г</param>
+        <param name="Кількість кнопок миші">5</param>
         <param name="Тип датчика">Оптичний</param>
         <param name="Інтерфейс підключення">Bluetooth</param>
         <param name="Інтерфейс підключення">Радіоінтерфейс</param>
@@ -16294,19 +16294,6 @@
         <param name="Колір">Блакитний</param>
         <param name="Особливості">Ігрові</param>
       </offer>
-      <offer id="1891" available="true">
-        <availability_status>available</availability_status>
-        <name_ua>Ігровий килимок Sunset Shore Girl 90×40 см / 4 мм / Purple</name_ua>
-        <name_ru>Игровой коврик Sunset Shore Girl 90×40 см / 4 мм / Purple</name_ru>
-        <description_ua><p data-end="524" data-start="241"><strong data-end="296" data-start="241">Ігровий килимок Sunset Shore Girl 90 × 40 см / 4 мм</strong> — великий desk mat з атмосферним аніме-принтом, який чудово підійде для ігрового, робочого або домашнього сетапу. Завдяки розміру <strong data-end="441" data-start="427">90 × 40 см</strong> килимок зручно використовувати для миші, клавіатури, ноутбука та інших аксесуарів.</p>    <p data-end="740" data-start="526">Дизайн виконаний у стилі <strong data-end="604" data-start="551">аніме-дівчини на березі моря під час заходу сонця</strong>. М’яке вечірнє світло, хвилі, гори та спокійна кольорова гама створюють естетичну й трохи кінематографічну атмосферу на робочому столі.</p>    <p data-end="990" data-start="742">Товщина <strong data-end="758" data-start="750">4 мм</strong> забезпечує комфорт для рук під час тривалого користування, а гладка поверхня сприяє плавному ковзанню миші та точному керуванню курсором. Килимок також допомагає захистити поверхню столу від подряпин, потертостей і щоденного зносу.</p>    <p data-end="1019" data-start="992"><strong data-end="1019" data-start="992">Основні характеристики:</strong></p>    <ul data-end="1405" data-start="1020">   <li data-end="1061" data-section-id="cutkdz" data-start="1020">Тип: великий ігровий килимок / desk mat</li>   <li data-end="1086" data-section-id="e9x8d2" data-start="1062">Розмір: <strong data-end="1086" data-start="1072">90 × 40 см</strong></li>   <li data-end="1106" data-section-id="16oq4tw" data-start="1087">Товщина: <strong data-end="1106" data-start="1098">4 мм</strong></li>   <li data-end="1157" data-section-id="4zcrq6" data-start="1107">Дизайн: <strong data-end="1157" data-start="1117">аніме / дівчина / море / захід сонця</strong></li>   <li data-end="1184" data-section-id="s7ekxx" data-start="1158">Колір: <strong data-end="1184" data-start="1167">Purple </strong></li>   <li data-end="1230" data-section-id="glkby" data-start="1185">Призначення: для миші, клавіатури, ноутбука</li>   <li data-end="1279" data-section-id="6htqgf" data-start="1231">Поверхня: гладка для комфортного ковзання миші</li>   <li data-end="1320" data-section-id="197k0f9" data-start="1280">Підходить для роботи, навчання та ігор</li>   <li data-end="1345" data-section-id="r0tp0q" data-start="1321">Захищає поверхню столу</li>   <li data-end="1405" data-section-id="biy19o" data-start="1346">Добре доповнює естетичний, домашній або геймерський сетап</li>  </ul></description_ua>
-        <description_ru><p data-end="1717" data-start="1432"><strong data-end="1486" data-start="1432">Игровой коврик Sunset Shore Girl 90 × 40 см / 4 мм</strong> — большой desk mat с атмосферным аниме-принтом, который отлично подойдет для игрового, рабочего или домашнего сетапа. Благодаря размеру <strong data-end="1637" data-start="1623">90 × 40 см</strong> коврик удобно использовать для мыши, клавиатуры, ноутбука и других аксессуаров.</p>    <p data-end="1928" data-start="1719">Дизайн выполнен в стиле <strong data-end="1791" data-start="1743">аниме-девушки на берегу моря во время заката</strong>. Мягкий вечерний свет, волны, горы и спокойная цветовая гамма создают эстетичную и немного кинематографичную атмосферу на рабочем столе.</p>    <p data-end="2197" data-start="1930">Толщина <strong data-end="1946" data-start="1938">4 мм</strong> обеспечивает комфорт для рук во время длительного использования, а гладкая поверхность способствует плавному скольжению мыши и точному управлению курсором. Коврик также помогает защитить поверхность стола от царапин, потертостей и ежедневного износа.</p>    <p data-end="2227" data-start="2199"><strong data-end="2227" data-start="2199">Основные характеристики:</strong></p>    <ul data-end="2609" data-start="2228">   <li data-end="2268" data-section-id="5wxevu" data-start="2228">Тип: большой игровой коврик / desk mat</li>   <li data-end="2293" data-section-id="hzlyxn" data-start="2269">Размер: <strong data-end="2293" data-start="2279">90 × 40 см</strong></li>   <li data-end="2313" data-section-id="hekdkt" data-start="2294">Толщина: <strong data-end="2313" data-start="2305">4 мм</strong></li>   <li data-end="2358" data-section-id="gqzp0k" data-start="2314">Дизайн: <strong data-end="2358" data-start="2324">аниме / девушка / море / закат</strong></li>   <li data-end="2384" data-section-id="v86xzj" data-start="2359">Цвет: <strong data-end="2384" data-start="2367">Purple </strong></li>   <li data-end="2384" data-section-id="v86xzj" data-start="2359">Назначение: для мыши, клавиатуры, ноутбука</li>   <li data-end="2484" data-section-id="4a2aue" data-start="2430">Поверхность: гладкая для комфортного скольжения мыши</li>   <li data-end="2519" data-section-id="66v362" data-start="2485">Подходит для работы, учебы и игр</li>   <li data-end="2548" data-section-id="gchsq1" data-start="2520">Защищает поверхность стола</li>   <li data-end="2609" data-section-id="1yjnvh3" data-start="2549">Хорошо дополняет эстетичный, домашний или геймерский сетап</li>  </ul></description_ru>
-        <price>620</price>
-        <categoryId>1089</categoryId>
-        <picture>https://techgleam.com.ua/content/images/42/groviy-kilimok-sunset-shore-girl-9040-sm-4-mm-purple-94294903289299_%2Bd63071916b.jpg</picture>
-        <param name="Колір">Фіолетовий</param>
-        <param name="Колір">Бузковий</param>
-        <param name="Особливості">Ігрові</param>
-      </offer>
       <offer id="1893" available="true">
         <availability_status>available</availability_status>
         <name_ua>Ігровий килимок Starlight Fairy 90×40 см / 4 мм / Blue</name_ua>
@@ -19854,6 +19841,19 @@
         <categoryId>1089</categoryId>
         <picture>https://techgleam.com.ua/content/images/41/groviy-kilimok-twilight-cityscape-9040-sm-4-mm-dark-blue-55045998264239_%2B1ac8a485d1.jpg</picture>
         <param name="Колір">Синій</param>
+        <param name="Особливості">Ігрові</param>
+      </offer>
+      <offer id="1891" available="false">
+        <availability_status>temporarily_unavailable</availability_status>
+        <name_ua>Ігровий килимок Sunset Shore Girl 90×40 см / 4 мм / Purple</name_ua>
+        <name_ru>Игровой коврик Sunset Shore Girl 90×40 см / 4 мм / Purple</name_ru>
+        <description_ua><p data-end="524" data-start="241"><strong data-end="296" data-start="241">Ігровий килимок Sunset Shore Girl 90 × 40 см / 4 мм</strong> — великий desk mat з атмосферним аніме-принтом, який чудово підійде для ігрового, робочого або домашнього сетапу. Завдяки розміру <strong data-end="441" data-start="427">90 × 40 см</strong> килимок зручно використовувати для миші, клавіатури, ноутбука та інших аксесуарів.</p>    <p data-end="740" data-start="526">Дизайн виконаний у стилі <strong data-end="604" data-start="551">аніме-дівчини на березі моря під час заходу сонця</strong>. М’яке вечірнє світло, хвилі, гори та спокійна кольорова гама створюють естетичну й трохи кінематографічну атмосферу на робочому столі.</p>    <p data-end="990" data-start="742">Товщина <strong data-end="758" data-start="750">4 мм</strong> забезпечує комфорт для рук під час тривалого користування, а гладка поверхня сприяє плавному ковзанню миші та точному керуванню курсором. Килимок також допомагає захистити поверхню столу від подряпин, потертостей і щоденного зносу.</p>    <p data-end="1019" data-start="992"><strong data-end="1019" data-start="992">Основні характеристики:</strong></p>    <ul data-end="1405" data-start="1020">   <li data-end="1061" data-section-id="cutkdz" data-start="1020">Тип: великий ігровий килимок / desk mat</li>   <li data-end="1086" data-section-id="e9x8d2" data-start="1062">Розмір: <strong data-end="1086" data-start="1072">90 × 40 см</strong></li>   <li data-end="1106" data-section-id="16oq4tw" data-start="1087">Товщина: <strong data-end="1106" data-start="1098">4 мм</strong></li>   <li data-end="1157" data-section-id="4zcrq6" data-start="1107">Дизайн: <strong data-end="1157" data-start="1117">аніме / дівчина / море / захід сонця</strong></li>   <li data-end="1184" data-section-id="s7ekxx" data-start="1158">Колір: <strong data-end="1184" data-start="1167">Purple </strong></li>   <li data-end="1230" data-section-id="glkby" data-start="1185">Призначення: для миші, клавіатури, ноутбука</li>   <li data-end="1279" data-section-id="6htqgf" data-start="1231">Поверхня: гладка для комфортного ковзання миші</li>   <li data-end="1320" data-section-id="197k0f9" data-start="1280">Підходить для роботи, навчання та ігор</li>   <li data-end="1345" data-section-id="r0tp0q" data-start="1321">Захищає поверхню столу</li>   <li data-end="1405" data-section-id="biy19o" data-start="1346">Добре доповнює естетичний, домашній або геймерський сетап</li>  </ul></description_ua>
+        <description_ru><p data-end="1717" data-start="1432"><strong data-end="1486" data-start="1432">Игровой коврик Sunset Shore Girl 90 × 40 см / 4 мм</strong> — большой desk mat с атмосферным аниме-принтом, который отлично подойдет для игрового, рабочего или домашнего сетапа. Благодаря размеру <strong data-end="1637" data-start="1623">90 × 40 см</strong> коврик удобно использовать для мыши, клавиатуры, ноутбука и других аксессуаров.</p>    <p data-end="1928" data-start="1719">Дизайн выполнен в стиле <strong data-end="1791" data-start="1743">аниме-девушки на берегу моря во время заката</strong>. Мягкий вечерний свет, волны, горы и спокойная цветовая гамма создают эстетичную и немного кинематографичную атмосферу на рабочем столе.</p>    <p data-end="2197" data-start="1930">Толщина <strong data-end="1946" data-start="1938">4 мм</strong> обеспечивает комфорт для рук во время длительного использования, а гладкая поверхность способствует плавному скольжению мыши и точному управлению курсором. Коврик также помогает защитить поверхность стола от царапин, потертостей и ежедневного износа.</p>    <p data-end="2227" data-start="2199"><strong data-end="2227" data-start="2199">Основные характеристики:</strong></p>    <ul data-end="2609" data-start="2228">   <li data-end="2268" data-section-id="5wxevu" data-start="2228">Тип: большой игровой коврик / desk mat</li>   <li data-end="2293" data-section-id="hzlyxn" data-start="2269">Размер: <strong data-end="2293" data-start="2279">90 × 40 см</strong></li>   <li data-end="2313" data-section-id="hekdkt" data-start="2294">Толщина: <strong data-end="2313" data-start="2305">4 мм</strong></li>   <li data-end="2358" data-section-id="gqzp0k" data-start="2314">Дизайн: <strong data-end="2358" data-start="2324">аниме / девушка / море / закат</strong></li>   <li data-end="2384" data-section-id="v86xzj" data-start="2359">Цвет: <strong data-end="2384" data-start="2367">Purple </strong></li>   <li data-end="2384" data-section-id="v86xzj" data-start="2359">Назначение: для мыши, клавиатуры, ноутбука</li>   <li data-end="2484" data-section-id="4a2aue" data-start="2430">Поверхность: гладкая для комфортного скольжения мыши</li>   <li data-end="2519" data-section-id="66v362" data-start="2485">Подходит для работы, учебы и игр</li>   <li data-end="2548" data-section-id="gchsq1" data-start="2520">Защищает поверхность стола</li>   <li data-end="2609" data-section-id="1yjnvh3" data-start="2549">Хорошо дополняет эстетичный, домашний или геймерский сетап</li>  </ul></description_ru>
+        <price>620</price>
+        <categoryId>1089</categoryId>
+        <picture>https://techgleam.com.ua/content/images/42/groviy-kilimok-sunset-shore-girl-9040-sm-4-mm-purple-94294903289299_%2Bd63071916b.jpg</picture>
+        <param name="Колір">Фіолетовий</param>
+        <param name="Колір">Бузковий</param>
         <param name="Особливості">Ігрові</param>
       </offer>
       <offer id="1892" available="false">
