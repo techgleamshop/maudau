@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<yml_catalog date="2026-11-15 03:23">
+<yml_catalog date="2026-11-15 04:23">
   <shop>
     <categories>
       <category id="1082" portal_id="1839">Клавіатури</category>
@@ -13,40 +13,6 @@
       <category id="1093" portal_id="2675">Кейкапи</category>
     </categories>
     <offers>
-      <offer id="519" available="true">
-        <availability_status>available</availability_status>
-        <name_ua>Ігрова магнітна клавіатура Attack Shark X68 / Дротове підключення / Magnetic Switch / Black Gradient</name_ua>
-        <name_ru>Игровая магнитная клавиатура Attack Shark X68 / Проводное подключение / Magnetic Switch / Black Gradient</name_ru>
-        <description_ua><p><strong>Магнітна клавіатура ATTACK SHARK X68 HE </strong></p>    <p>ATTACK SHARK X68 HE — компактна магнітна клавіатура для геймерів та користувачів, яким потрібна максимальна швидкість, чутливість та точність у кожному натисканні.</p>    <p><strong>Основні характеристики:</strong></p>    <ul>   <li>Тип: Магнітна клавіатура (Hall Effect), 65%, 66 клавіш  </li>   <li>Перемикачі: Магнітні, Hot-Swappable  </li>   <li>Підключення: USB-C  </li>   <li>Polling Rate: 8000 Гц  </li>   <li>Rapid Trigger: чутливість від 0.01 мм  </li>   <li>Кейкапи: PBT Double-shot  </li>   <li>Підсвітка: RGB, 16 млн кольорів</li>  </ul>    <p><strong>Особливості:</strong></p>    <ul>   <li>Підтримка Snap Tap, Mod-Tap, Toggle Key, DKS  </li>   <li>Регулювання точки спрацювання (0.1–3.4 мм)  </li>   <li>Унікальний світловий ефект при натисканні  </li>   <li>Повне налаштування через веб-драйвер  </li>   <li>Вбудована памʼять для профілів</li>  </ul>    <p><strong>Комплектація:</strong></p>    <ul>   <li>Клавіатура ATTACK SHARK X68 HE  </li>   <li>Інструмент для зняття кейкапів та перемикачів  </li>   <li>Кабель USB-C  </li>   <li>Інструкція користувача</li>  </ul>    <p>Вага: 600 г  <br />  Розміри: 10,2 x 3,8 x 29,1 см</p></description_ua>
-        <description_ru><p><strong>Магнитная клавиатура ATTACK SHARK X68 HE </strong></p>    <p>ATTACK SHARK X68 HE — компактная магнитная клавиатура для геймеров и пользователей, которым нужна максимальная скорость, чувствительность и точность при каждом нажатии.</p>    <p><strong>Основные характеристики:</strong></p>    <ul>   <li>Тип: Магнитная клавиатура (Hall Effect), 65%, 66 клавиш</li>   <li>Переключатели: Магнитные, Hot-Swappable</li>   <li>Подключение: USB-C</li>   <li>Polling Rate: 8000 Гц</li>   <li>Rapid Trigger: чувствительность от 0,01 мм</li>   <li>Кейкапы: PBT Double-shot</li>   <li>Подсветка: RGB, 16 млн цветов</li>  </ul>    <p><strong>Особенности:</strong></p>    <ul>   <li>Поддержка Snap Tap, Mod-Tap, Toggle Key, DKS</li>   <li>Регулировка точки срабатывания (0,1–3,4 мм)</li>   <li>Уникальный световой эффект при нажатии</li>   <li>Полная настройка через веб-драйвер</li>   <li>Встроенная память для профилей</li>  </ul>    <p><strong>Комплектация:</strong></p>    <ul>   <li>Клавиатура ATTACK SHARK X68 HE</li>   <li>Инструмент для снятия кейкапов и переключателей</li>   <li>Кабель USB-C</li>   <li>Инструкция пользователя</li>  </ul>    <p>Вес: 600 г</p>    <p>Размеры: 10,2 x 3,8 x 29,1 см</p></description_ru>
-        <price>2399</price>
-        <old_price>2699</old_price>
-        <categoryId>1082</categoryId>
-        <vendor>Attack Shark</vendor>
-        <picture>https://techgleam.com.ua/content/images/20/17906423172380_%2B99da4efe45.jpg</picture>
-        <picture>https://techgleam.com.ua/content/images/20/71332890642219_%2B352a6ffae9.jpg</picture>
-        <picture>https://techgleam.com.ua/content/images/20/31884241639367_%2B73ff50d634.jpg</picture>
-        <picture>https://techgleam.com.ua/content/images/20/65817139803599_%2Be30527bf9c.jpg</picture>
-        <picture>https://techgleam.com.ua/content/images/20/28673482484509_%2B73dd316767.jpg</picture>
-        <param name="Гарантія">3 місяці</param>
-        <param name="Колір">Темно-сірий</param>
-        <param name="Конструкція клавіш">Магнітна</param>
-        <param name="Підключення">Дротове</param>
-        <param name="Інтерфейс підключення">USB Type-C</param>
-        <param name="Розкладка">Eng</param>
-        <param name="Форм-фактор">Компактні</param>
-        <param name="Колір підсвічування">RGB</param>
-        <param name="Підсвічування клавіш">Є</param>
-        <param name="Матеріал корпусу">Пластик</param>
-        <param name="Сумісність з ОС">Windows</param>
-        <param name="Сумісність з ОС">Mac OS</param>
-        <param name="Сумісність з ОС">Linux</param>
-        <param name="Стан">Новий</param>
-        <param name="Комплектація">Клавіатура</param>
-        <param name="Призначення">Для ПК</param>
-        <param name="Вид">Ігрові</param>
-        <country>Китай</country>
-      </offer>
       <offer id="534" available="true">
         <availability_status>available</availability_status>
         <name_ua>Ігрова магнітна клавіатура Attack Shark X82 Pro / Три режими підключення / Magnetic Switch / White</name_ua>
@@ -125,23 +91,6 @@
         <param name="Призначення">Для ПК</param>
         <param name="Вид">Ігрові</param>
         <country>Китай</country>
-      </offer>
-      <offer id="595" available="true">
-        <availability_status>available</availability_status>
-        <name_ua>Металевий USB HUB 8-в-1 / Type-C / USB 3.0 / SD / TF / PD / AUX</name_ua>
-        <name_ru>Металический USB HUB 8-в-1 / Type-C / USB 3.0 / SD / TF / PD / AUX</name_ru>
-        <description_ua><p><strong>Універсальний металевий USB-хаб 8-в-1 з підтримкою Type-C та USB-A</strong></p>    <p><strong>Цей USB-хаб — </strong>ідеальне рішення для розширення можливостей ноутбука чи ПК. Завдяки комбінованому підключенню Type-C + USB-A він сумісний майже з будь-яким пристроєм.</p>    <p><strong>Інтерфейси:</strong></p>    <ul>   <li>USB Type-C  </li>   <li>USB Type-A  </li>   <li>4x USB 3.0  </li>   <li>microSD (TF)  </li>   <li>SD  </li>   <li>AUX 3.5 мм  </li>   <li>Type-C PD</li>  </ul></description_ua>
-        <description_ru><p><strong>Универсальный металлический USB-хаб 8-в-1 с поддержкой Type-C и USB-A </strong></p>    <p><strong>Данный USB хаб — </strong>идеальное решение для расширения возможностей ноутбука или ПК. Благодаря комбинированному подключению Type-C + USB-A он совместим практически с любым устройством.</p>    <p><strong>Интерфейсы:</strong></p>    <ul>   <li>USB Type-C  </li>   <li>USB Type-A  </li>   <li>4x USB 3.0  </li>   <li>microSD (TF)  </li>   <li>SD  </li>   <li>AUX 3.5 мм  </li>   <li>Type-C PD</li>  </ul></description_ru>
-        <price>399</price>
-        <categoryId>1090</categoryId>
-        <vendor>Без бренда</vendor>
-        <picture>https://techgleam.com.ua/content/images/46/55154165704913_%2B3040a9dc33.jpg</picture>
-        <picture>https://techgleam.com.ua/content/images/46/75858116416121_%2B24ac1e59be.jpg</picture>
-        <picture>https://techgleam.com.ua/content/images/46/76915968906839_%2Bd5e97d80e8.jpg</picture>
-        <picture>https://techgleam.com.ua/content/images/46/44482821775283_%2Bcda1650f10.jpg</picture>
-        <param name="Гарантія">1 місяць</param>
-        <param name="Колір">Сірий</param>
-        <param name="Стан">Новий</param>
       </offer>
       <offer id="629" available="true">
         <availability_status>available</availability_status>
@@ -1976,40 +1925,6 @@
         <param name="Тип">Ігрові (геймерські)</param>
         <country>Китай</country>
       </offer>
-      <offer id="1922" available="true">
-        <availability_status>available</availability_status>
-        <name_ua>Ігрова бездротова механічна клавіатура ATTACK SHARK X85 / Eng+Ukr / Три режими підключення / White Jade Switch / Black</name_ua>
-        <name_ru>Игровая беспроводная механическая клавиатура ATTACK SHARK X85 / Eng+Ukr / Три режима подключения / White Jade Switch / Black</name_ru>
-        <description_ua><p><strong>ATTACK SHARK X85  — геймерська клавіатура з додатковою українською мовою!</strong></p>    <p>ATTACK SHARK X85 —  механічна клавіатура для геймерів та користувачів, яким потрібна максимальна швидкість, чутливість та точність у кожному натисканні.</p>    <p><strong>Основні характеристики:</strong></p>    <ul>   <li>Формат: 75% ANSI (82 клавіші + CNC-регулятор)</li>   <li>Розкладка: Англійська і Українська</li>   <li>Підключення: USB-C / 2.4G / Bluetooth 5.0</li>   <li>Підсвітка: RGB, 19 режимів, south-facing</li>   <li>Тип: Гаскет-маунт + 5-шарова шумоізоляція (PORON, IXPE, PET, Silicone)</li>   <li>Перемикачі: White Jade (змащені), Hot-Swappable</li>   <li>Сумісність: Windows / Mac / Android / iOS</li>   <li>Акумулятор: 5000 мАг</li>   <li>Повна настройка через ПЗ</li>  </ul>    <p><strong>Особливості:</strong></p>    <ul>   <li>CNC-регулятор: обертання — гучність, натискання — перемикання підсвітки</li>   <li>Ергономічний корпус із градієнтним оформленням</li>   <li>Миттєве перемикання між пристроями</li>   <li>Боковий друк символів</li>   <li>South-facing підсвітка — не засліплює очі</li>   <li>Ідеальна плавність, тиша й комфорт</li>  </ul></description_ua>
-        <description_ru><p><strong>ATTACK SHARK X85  — геймерская клавиатура с дополнительным украинским языком!</strong></p>    <p>ATTACK SHARK X85 — механическая клавиатура для геймеров и пользователей, которым нужна максимальная скорость, чувствительность и точность в каждом нажатии.</p>    <p><strong>Основные характеристики:</strong></p>    <ul>   <li>Формат: 75% ANSI (82 клавиши + CNC-регулятор)</li>   <li>Раскладка: Английская и Украинская</li>   <li>Подключение: USB-C / 2.4G / Bluetooth 5.0</li>   <li>Подсветка: RGB, 19 режимов, south-facing</li>   <li>Тип: Гаскет-маунт + 5-слойная шумоизоляция (PORON, IXPE, PET, Silicone)</li>   <li>Переключатели: White Jade (смазанные), Hot-Swappable</li>   <li>Совместимость: Windows / Mac / Android / iOS</li>   <li>Аккумулятор: 5000 мАч</li>   <li>Полная настройка через ПО</li>  </ul>    <p><strong>Особенности:</strong></p>    <ul>   <li>CNC-регулятор: вращение — громкость, нажатие — переключение подсветки</li>   <li>Эргономичный корпус с градиентным оформлением</li>   <li>Мгновенное переключение между устройствами</li>   <li>Боковая печать символов</li>   <li>South-facing подсветка — не ослепляет глаза</li>   <li>Идеальная плавность, тишина и комфорт</li>  </ul></description_ru>
-        <price>2899</price>
-        <old_price>3299</old_price>
-        <categoryId>1082</categoryId>
-        <vendor>Attack Shark</vendor>
-        <picture>https://techgleam.com.ua/content/images/23/grova-bezdrotova-mexanchna-klavatura-attack-shark-x85-engukr-tri-rezhimi-pdkluchennja-white-jade-switch-black-47624023903542_%2B2035f7f236.png</picture>
-        <picture>https://techgleam.com.ua/content/images/23/grova-bezdrotova-mexanchna-klavatura-attack-shark-x85-engukr-tri-rezhimi-pdkluchennja-white-jade-switch-black-14879000599780_%2Bab1ccf4275.png</picture>
-        <param name="Гарантія">3 місяці</param>
-        <param name="Колір">Чорний</param>
-        <param name="Конструкція клавіш">Механічна</param>
-        <param name="Підключення">Комбіноване</param>
-        <param name="Інтерфейс підключення">Bluetooth</param>
-        <param name="Інтерфейс підключення">Радіоінтерфейс</param>
-        <param name="Інтерфейс підключення">USB</param>
-        <param name="Розкладка">Eng / Ukr</param>
-        <param name="Форм-фактор">Компактні</param>
-        <param name="Колір підсвічування">RGB</param>
-        <param name="Підсвічування клавіш">Є</param>
-        <param name="Матеріал корпусу">Пластик</param>
-        <param name="Живлення">Акумулятор</param>
-        <param name="Сумісність з ОС">Windows</param>
-        <param name="Сумісність з ОС">Mac OS</param>
-        <param name="Сумісність з ОС">Linux</param>
-        <param name="Стан">Новий</param>
-        <param name="Комплектація">Клавіатура</param>
-        <param name="Призначення">Для ПК</param>
-        <param name="Вид">Ігрові</param>
-        <country>Китай</country>
-      </offer>
       <offer id="1923" available="true">
         <availability_status>available</availability_status>
         <name_ua>Ігрова бездротова механічна клавіатура ATTACK SHARK X85 / Eng+Ukr / Три режими підключення / White Jade Switch / Pink</name_ua>
@@ -3717,6 +3632,40 @@
         <param name="Вид">Ігрові</param>
         <country>Китай</country>
       </offer>
+      <offer id="519" available="false">
+        <availability_status>temporarily_unavailable</availability_status>
+        <name_ua>Ігрова магнітна клавіатура Attack Shark X68 / Дротове підключення / Magnetic Switch / Black Gradient</name_ua>
+        <name_ru>Игровая магнитная клавиатура Attack Shark X68 / Проводное подключение / Magnetic Switch / Black Gradient</name_ru>
+        <description_ua><p><strong>Магнітна клавіатура ATTACK SHARK X68 HE </strong></p>    <p>ATTACK SHARK X68 HE — компактна магнітна клавіатура для геймерів та користувачів, яким потрібна максимальна швидкість, чутливість та точність у кожному натисканні.</p>    <p><strong>Основні характеристики:</strong></p>    <ul>   <li>Тип: Магнітна клавіатура (Hall Effect), 65%, 66 клавіш  </li>   <li>Перемикачі: Магнітні, Hot-Swappable  </li>   <li>Підключення: USB-C  </li>   <li>Polling Rate: 8000 Гц  </li>   <li>Rapid Trigger: чутливість від 0.01 мм  </li>   <li>Кейкапи: PBT Double-shot  </li>   <li>Підсвітка: RGB, 16 млн кольорів</li>  </ul>    <p><strong>Особливості:</strong></p>    <ul>   <li>Підтримка Snap Tap, Mod-Tap, Toggle Key, DKS  </li>   <li>Регулювання точки спрацювання (0.1–3.4 мм)  </li>   <li>Унікальний світловий ефект при натисканні  </li>   <li>Повне налаштування через веб-драйвер  </li>   <li>Вбудована памʼять для профілів</li>  </ul>    <p><strong>Комплектація:</strong></p>    <ul>   <li>Клавіатура ATTACK SHARK X68 HE  </li>   <li>Інструмент для зняття кейкапів та перемикачів  </li>   <li>Кабель USB-C  </li>   <li>Інструкція користувача</li>  </ul>    <p>Вага: 600 г  <br />  Розміри: 10,2 x 3,8 x 29,1 см</p></description_ua>
+        <description_ru><p><strong>Магнитная клавиатура ATTACK SHARK X68 HE </strong></p>    <p>ATTACK SHARK X68 HE — компактная магнитная клавиатура для геймеров и пользователей, которым нужна максимальная скорость, чувствительность и точность при каждом нажатии.</p>    <p><strong>Основные характеристики:</strong></p>    <ul>   <li>Тип: Магнитная клавиатура (Hall Effect), 65%, 66 клавиш</li>   <li>Переключатели: Магнитные, Hot-Swappable</li>   <li>Подключение: USB-C</li>   <li>Polling Rate: 8000 Гц</li>   <li>Rapid Trigger: чувствительность от 0,01 мм</li>   <li>Кейкапы: PBT Double-shot</li>   <li>Подсветка: RGB, 16 млн цветов</li>  </ul>    <p><strong>Особенности:</strong></p>    <ul>   <li>Поддержка Snap Tap, Mod-Tap, Toggle Key, DKS</li>   <li>Регулировка точки срабатывания (0,1–3,4 мм)</li>   <li>Уникальный световой эффект при нажатии</li>   <li>Полная настройка через веб-драйвер</li>   <li>Встроенная память для профилей</li>  </ul>    <p><strong>Комплектация:</strong></p>    <ul>   <li>Клавиатура ATTACK SHARK X68 HE</li>   <li>Инструмент для снятия кейкапов и переключателей</li>   <li>Кабель USB-C</li>   <li>Инструкция пользователя</li>  </ul>    <p>Вес: 600 г</p>    <p>Размеры: 10,2 x 3,8 x 29,1 см</p></description_ru>
+        <price>2399</price>
+        <old_price>2699</old_price>
+        <categoryId>1082</categoryId>
+        <vendor>Attack Shark</vendor>
+        <picture>https://techgleam.com.ua/content/images/20/17906423172380_%2B99da4efe45.jpg</picture>
+        <picture>https://techgleam.com.ua/content/images/20/71332890642219_%2B352a6ffae9.jpg</picture>
+        <picture>https://techgleam.com.ua/content/images/20/31884241639367_%2B73ff50d634.jpg</picture>
+        <picture>https://techgleam.com.ua/content/images/20/65817139803599_%2Be30527bf9c.jpg</picture>
+        <picture>https://techgleam.com.ua/content/images/20/28673482484509_%2B73dd316767.jpg</picture>
+        <param name="Гарантія">3 місяці</param>
+        <param name="Колір">Темно-сірий</param>
+        <param name="Конструкція клавіш">Магнітна</param>
+        <param name="Підключення">Дротове</param>
+        <param name="Інтерфейс підключення">USB Type-C</param>
+        <param name="Розкладка">Eng</param>
+        <param name="Форм-фактор">Компактні</param>
+        <param name="Колір підсвічування">RGB</param>
+        <param name="Підсвічування клавіш">Є</param>
+        <param name="Матеріал корпусу">Пластик</param>
+        <param name="Сумісність з ОС">Windows</param>
+        <param name="Сумісність з ОС">Mac OS</param>
+        <param name="Сумісність з ОС">Linux</param>
+        <param name="Стан">Новий</param>
+        <param name="Комплектація">Клавіатура</param>
+        <param name="Призначення">Для ПК</param>
+        <param name="Вид">Ігрові</param>
+        <country>Китай</country>
+      </offer>
       <offer id="520" available="false">
         <availability_status>temporarily_unavailable</availability_status>
         <name_ua>Ігрова магнітна клавіатура Attack Shark X68 / Дротове підключення / Magnetic Switch / White</name_ua>
@@ -4622,6 +4571,23 @@
         <param name="Комплектація">Клавіатура</param>
         <param name="Призначення">Для ПК</param>
         <param name="Вид">Ігрові</param>
+      </offer>
+      <offer id="595" available="false">
+        <availability_status>temporarily_unavailable</availability_status>
+        <name_ua>Металевий USB HUB 8-в-1 / Type-C / USB 3.0 / SD / TF / PD / AUX</name_ua>
+        <name_ru>Металический USB HUB 8-в-1 / Type-C / USB 3.0 / SD / TF / PD / AUX</name_ru>
+        <description_ua><p><strong>Універсальний металевий USB-хаб 8-в-1 з підтримкою Type-C та USB-A</strong></p>    <p><strong>Цей USB-хаб — </strong>ідеальне рішення для розширення можливостей ноутбука чи ПК. Завдяки комбінованому підключенню Type-C + USB-A він сумісний майже з будь-яким пристроєм.</p>    <p><strong>Інтерфейси:</strong></p>    <ul>   <li>USB Type-C  </li>   <li>USB Type-A  </li>   <li>4x USB 3.0  </li>   <li>microSD (TF)  </li>   <li>SD  </li>   <li>AUX 3.5 мм  </li>   <li>Type-C PD</li>  </ul></description_ua>
+        <description_ru><p><strong>Универсальный металлический USB-хаб 8-в-1 с поддержкой Type-C и USB-A </strong></p>    <p><strong>Данный USB хаб — </strong>идеальное решение для расширения возможностей ноутбука или ПК. Благодаря комбинированному подключению Type-C + USB-A он совместим практически с любым устройством.</p>    <p><strong>Интерфейсы:</strong></p>    <ul>   <li>USB Type-C  </li>   <li>USB Type-A  </li>   <li>4x USB 3.0  </li>   <li>microSD (TF)  </li>   <li>SD  </li>   <li>AUX 3.5 мм  </li>   <li>Type-C PD</li>  </ul></description_ru>
+        <price>399</price>
+        <categoryId>1090</categoryId>
+        <vendor>Без бренда</vendor>
+        <picture>https://techgleam.com.ua/content/images/46/55154165704913_%2B3040a9dc33.jpg</picture>
+        <picture>https://techgleam.com.ua/content/images/46/75858116416121_%2B24ac1e59be.jpg</picture>
+        <picture>https://techgleam.com.ua/content/images/46/76915968906839_%2Bd5e97d80e8.jpg</picture>
+        <picture>https://techgleam.com.ua/content/images/46/44482821775283_%2Bcda1650f10.jpg</picture>
+        <param name="Гарантія">1 місяць</param>
+        <param name="Колір">Сірий</param>
+        <param name="Стан">Новий</param>
       </offer>
       <offer id="618" available="false">
         <availability_status>temporarily_unavailable</availability_status>
@@ -14482,6 +14448,40 @@
         <param name="Вид">Ігрові</param>
         <country>Китай</country>
       </offer>
+      <offer id="1922" available="false">
+        <availability_status>temporarily_unavailable</availability_status>
+        <name_ua>Ігрова бездротова механічна клавіатура ATTACK SHARK X85 / Eng+Ukr / Три режими підключення / White Jade Switch / Black</name_ua>
+        <name_ru>Игровая беспроводная механическая клавиатура ATTACK SHARK X85 / Eng+Ukr / Три режима подключения / White Jade Switch / Black</name_ru>
+        <description_ua><p><strong>ATTACK SHARK X85  — геймерська клавіатура з додатковою українською мовою!</strong></p>    <p>ATTACK SHARK X85 —  механічна клавіатура для геймерів та користувачів, яким потрібна максимальна швидкість, чутливість та точність у кожному натисканні.</p>    <p><strong>Основні характеристики:</strong></p>    <ul>   <li>Формат: 75% ANSI (82 клавіші + CNC-регулятор)</li>   <li>Розкладка: Англійська і Українська</li>   <li>Підключення: USB-C / 2.4G / Bluetooth 5.0</li>   <li>Підсвітка: RGB, 19 режимів, south-facing</li>   <li>Тип: Гаскет-маунт + 5-шарова шумоізоляція (PORON, IXPE, PET, Silicone)</li>   <li>Перемикачі: White Jade (змащені), Hot-Swappable</li>   <li>Сумісність: Windows / Mac / Android / iOS</li>   <li>Акумулятор: 5000 мАг</li>   <li>Повна настройка через ПЗ</li>  </ul>    <p><strong>Особливості:</strong></p>    <ul>   <li>CNC-регулятор: обертання — гучність, натискання — перемикання підсвітки</li>   <li>Ергономічний корпус із градієнтним оформленням</li>   <li>Миттєве перемикання між пристроями</li>   <li>Боковий друк символів</li>   <li>South-facing підсвітка — не засліплює очі</li>   <li>Ідеальна плавність, тиша й комфорт</li>  </ul></description_ua>
+        <description_ru><p><strong>ATTACK SHARK X85  — геймерская клавиатура с дополнительным украинским языком!</strong></p>    <p>ATTACK SHARK X85 — механическая клавиатура для геймеров и пользователей, которым нужна максимальная скорость, чувствительность и точность в каждом нажатии.</p>    <p><strong>Основные характеристики:</strong></p>    <ul>   <li>Формат: 75% ANSI (82 клавиши + CNC-регулятор)</li>   <li>Раскладка: Английская и Украинская</li>   <li>Подключение: USB-C / 2.4G / Bluetooth 5.0</li>   <li>Подсветка: RGB, 19 режимов, south-facing</li>   <li>Тип: Гаскет-маунт + 5-слойная шумоизоляция (PORON, IXPE, PET, Silicone)</li>   <li>Переключатели: White Jade (смазанные), Hot-Swappable</li>   <li>Совместимость: Windows / Mac / Android / iOS</li>   <li>Аккумулятор: 5000 мАч</li>   <li>Полная настройка через ПО</li>  </ul>    <p><strong>Особенности:</strong></p>    <ul>   <li>CNC-регулятор: вращение — громкость, нажатие — переключение подсветки</li>   <li>Эргономичный корпус с градиентным оформлением</li>   <li>Мгновенное переключение между устройствами</li>   <li>Боковая печать символов</li>   <li>South-facing подсветка — не ослепляет глаза</li>   <li>Идеальная плавность, тишина и комфорт</li>  </ul></description_ru>
+        <price>2899</price>
+        <old_price>3299</old_price>
+        <categoryId>1082</categoryId>
+        <vendor>Attack Shark</vendor>
+        <picture>https://techgleam.com.ua/content/images/23/grova-bezdrotova-mexanchna-klavatura-attack-shark-x85-engukr-tri-rezhimi-pdkluchennja-white-jade-switch-black-47624023903542_%2B2035f7f236.png</picture>
+        <picture>https://techgleam.com.ua/content/images/23/grova-bezdrotova-mexanchna-klavatura-attack-shark-x85-engukr-tri-rezhimi-pdkluchennja-white-jade-switch-black-14879000599780_%2Bab1ccf4275.png</picture>
+        <param name="Гарантія">3 місяці</param>
+        <param name="Колір">Чорний</param>
+        <param name="Конструкція клавіш">Механічна</param>
+        <param name="Підключення">Комбіноване</param>
+        <param name="Інтерфейс підключення">Bluetooth</param>
+        <param name="Інтерфейс підключення">Радіоінтерфейс</param>
+        <param name="Інтерфейс підключення">USB</param>
+        <param name="Розкладка">Eng / Ukr</param>
+        <param name="Форм-фактор">Компактні</param>
+        <param name="Колір підсвічування">RGB</param>
+        <param name="Підсвічування клавіш">Є</param>
+        <param name="Матеріал корпусу">Пластик</param>
+        <param name="Живлення">Акумулятор</param>
+        <param name="Сумісність з ОС">Windows</param>
+        <param name="Сумісність з ОС">Mac OS</param>
+        <param name="Сумісність з ОС">Linux</param>
+        <param name="Стан">Новий</param>
+        <param name="Комплектація">Клавіатура</param>
+        <param name="Призначення">Для ПК</param>
+        <param name="Вид">Ігрові</param>
+        <country>Китай</country>
+      </offer>
       <offer id="1926" available="false">
         <availability_status>temporarily_unavailable</availability_status>
         <name_ua>Ігрова бездротова механічна клавіатура ATTACK SHARK X87 / Три режими підключення / Strawberry Switch / Pink</name_ua>
@@ -15553,6 +15553,27 @@
         <param name="Стан">Новий</param>
         <param name="Тип">Ігрові (геймерські)</param>
         <country>Китай</country>
+      </offer>
+      <offer id="606" available="true">
+        <availability_status>available</availability_status>
+        <name_ua>Ігровий килимок Attack Shark CM02 / 40*45 см / Black</name_ua>
+        <name_ru>Игровой коврик Attack Shark CM02 / 40*45 см / Black</name_ru>
+        <description_ua><p><strong>Ігровий килимок Attack Shark CM02 — точність, комфорт, надійність!</strong></p>    <p>Attack Shark CM02 — професійний килимок для миші з оптимальними розмірами, ідеальною текстурою та преміальними матеріалами. Створений для геймерів, які не йдуть на компроміси.</p>    <p><strong>Основні характеристики:</strong></p>    <ul>   <li>Розміри: 450 × 400 мм — достатньо простору для низького DPI  </li>   <li>Товщина: 4 мм — зменшення навантаження на зап’ястя  </li>   <li>Поверхня: текстурована мікрофібра — баланс швидкості й контролю  </li>   <li>Основа: щільна гума з антиковзким покриттям  </li>   <li>Водостійке покриття 5S — захист від пролиття та забруднень  </li>   <li>Посилені краї: міцна прошивка без обтріпування  </li>  </ul>    <p>Підійде для геймерів, дизайнерів і всіх, хто цінує комфорт у роботі за ПК.</p></description_ua>
+        <description_ru><p><strong>Игровой коврик Attack Shark CM02 – точность, комфорт, надежность!</strong></p>    <p>Attack Shark CM02 – профессиональный коврик для мыши с оптимальными размерами, идеальной текстурой и премиальными материалами. Созданий для геймеров, не идущих на компромисс.</p>    <p><strong>Основные характеристики:</strong></p>    <ul>   <li>Размеры: 450 × 400 мм – достаточно простора для низкого DPI</li>   <li>Толщина: 4 мм – уменьшение нагрузки на запястье</li>   <li>Поверхность: текстурированная микрофибра – баланс скорости и контроля</li>   <li>Основание: плотная резина с антискользящим покрытием</li>   <li>Водостойкое покрытие 5S — защита от пролива и загрязнений</li>   <li>Усиленные края: прочная прошивка без обтрепки</li>  </ul>    <p>Подойдет для геймеров, дизайнеров и всех, кто ценит комфорт в работе за ПК.</p></description_ru>
+        <price>699</price>
+        <categoryId>1089</categoryId>
+        <vendor>Attack Shark</vendor>
+        <picture>https://techgleam.com.ua/content/images/7/84022142369772_%2B61c6bb4b06.jpg</picture>
+        <picture>https://techgleam.com.ua/content/images/7/57322956674466_%2B5454fcd392.jpg</picture>
+        <picture>https://techgleam.com.ua/content/images/7/36852503366406_%2B07d06047df.jpg</picture>
+        <picture>https://techgleam.com.ua/content/images/7/17983789383337_%2Bed5af42784.jpg</picture>
+        <picture>https://techgleam.com.ua/content/images/7/44393622932592_%2Bfe59c0352f.jpg</picture>
+        <picture>https://techgleam.com.ua/content/images/7/30858581764077_%2Bcb0beb9809.jpg</picture>
+        <picture>https://techgleam.com.ua/content/images/7/74607589768058_%2B34578c466b.jpg</picture>
+        <picture>https://techgleam.com.ua/content/images/7/61348735154077_%2B13e720ef55.jpg</picture>
+        <param name="Гарантія">3 місяці</param>
+        <param name="Колір">Чорний</param>
+        <param name="Особливості">Ігрові</param>
       </offer>
       <offer id="617" available="true">
         <availability_status>available</availability_status>
@@ -17619,27 +17640,6 @@
         <picture>https://techgleam.com.ua/content/images/6/85619305663168_%2Bd1cc8096d1.jpg</picture>
         <picture>https://techgleam.com.ua/content/images/6/42211088021456_%2B8006f632a0.jpg</picture>
         <param name="Колір">Чорний</param>
-      </offer>
-      <offer id="606" available="false">
-        <availability_status>temporarily_unavailable</availability_status>
-        <name_ua>Ігровий килимок Attack Shark CM02 / 40*45 см / Black</name_ua>
-        <name_ru>Игровой коврик Attack Shark CM02 / 40*45 см / Black</name_ru>
-        <description_ua><p><strong>Ігровий килимок Attack Shark CM02 — точність, комфорт, надійність!</strong></p>    <p>Attack Shark CM02 — професійний килимок для миші з оптимальними розмірами, ідеальною текстурою та преміальними матеріалами. Створений для геймерів, які не йдуть на компроміси.</p>    <p><strong>Основні характеристики:</strong></p>    <ul>   <li>Розміри: 450 × 400 мм — достатньо простору для низького DPI  </li>   <li>Товщина: 4 мм — зменшення навантаження на зап’ястя  </li>   <li>Поверхня: текстурована мікрофібра — баланс швидкості й контролю  </li>   <li>Основа: щільна гума з антиковзким покриттям  </li>   <li>Водостійке покриття 5S — захист від пролиття та забруднень  </li>   <li>Посилені краї: міцна прошивка без обтріпування  </li>  </ul>    <p>Підійде для геймерів, дизайнерів і всіх, хто цінує комфорт у роботі за ПК.</p></description_ua>
-        <description_ru><p><strong>Игровой коврик Attack Shark CM02 – точность, комфорт, надежность!</strong></p>    <p>Attack Shark CM02 – профессиональный коврик для мыши с оптимальными размерами, идеальной текстурой и премиальными материалами. Созданий для геймеров, не идущих на компромисс.</p>    <p><strong>Основные характеристики:</strong></p>    <ul>   <li>Размеры: 450 × 400 мм – достаточно простора для низкого DPI</li>   <li>Толщина: 4 мм – уменьшение нагрузки на запястье</li>   <li>Поверхность: текстурированная микрофибра – баланс скорости и контроля</li>   <li>Основание: плотная резина с антискользящим покрытием</li>   <li>Водостойкое покрытие 5S — защита от пролива и загрязнений</li>   <li>Усиленные края: прочная прошивка без обтрепки</li>  </ul>    <p>Подойдет для геймеров, дизайнеров и всех, кто ценит комфорт в работе за ПК.</p></description_ru>
-        <price>699</price>
-        <categoryId>1089</categoryId>
-        <vendor>Attack Shark</vendor>
-        <picture>https://techgleam.com.ua/content/images/7/84022142369772_%2B61c6bb4b06.jpg</picture>
-        <picture>https://techgleam.com.ua/content/images/7/57322956674466_%2B5454fcd392.jpg</picture>
-        <picture>https://techgleam.com.ua/content/images/7/36852503366406_%2B07d06047df.jpg</picture>
-        <picture>https://techgleam.com.ua/content/images/7/17983789383337_%2Bed5af42784.jpg</picture>
-        <picture>https://techgleam.com.ua/content/images/7/44393622932592_%2Bfe59c0352f.jpg</picture>
-        <picture>https://techgleam.com.ua/content/images/7/30858581764077_%2Bcb0beb9809.jpg</picture>
-        <picture>https://techgleam.com.ua/content/images/7/74607589768058_%2B34578c466b.jpg</picture>
-        <picture>https://techgleam.com.ua/content/images/7/61348735154077_%2B13e720ef55.jpg</picture>
-        <param name="Гарантія">3 місяці</param>
-        <param name="Колір">Чорний</param>
-        <param name="Особливості">Ігрові</param>
       </offer>
       <offer id="609" available="false">
         <availability_status>temporarily_unavailable</availability_status>
