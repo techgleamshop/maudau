@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<yml_catalog date="2026-11-16 03:23">
+<yml_catalog date="2026-11-16 04:23">
   <shop>
     <categories>
       <category id="1082" portal_id="1839">Клавіатури</category>
@@ -183,39 +183,6 @@
         <param name="Сумісність з ОС">Mac OS</param>
         <param name="Сумісність з ОС">Linux</param>
         <param name="Вага">56 г</param>
-        <param name="Тип датчика">Оптичний</param>
-        <param name="Інтерфейс підключення">Bluetooth</param>
-        <param name="Інтерфейс підключення">Радіоінтерфейс</param>
-        <param name="Інтерфейс підключення">USB</param>
-        <param name="Роздільна здатність сенсора">Понад 20000 dpi</param>
-        <param name="Стан">Новий</param>
-        <param name="Тип">Ігрові (геймерські)</param>
-        <country>Китай</country>
-      </offer>
-      <offer id="641" available="true">
-        <availability_status>available</availability_status>
-        <name_ua>Ігрова мишка ATTACK SHARK X3 / Три режими підключення / Сенсор PAW3395 / 49 г / Black</name_ua>
-        <name_ru>Игровая мышка ATTACK SHARK X3 / Три режима подключения / Сенсор PAW3395 / 49 г / Black</name_ru>
-        <description_ua><p><strong>ATTACK SHARK X3 — ультралегка ігрова миша для кіберспорту </strong></p>    <p>ATTACK SHARK X3 — надточна, надшвидка та найлегша миша у своєму класі. Ідеальний вибір для геймерів, які грають на максимумі!</p>    <p><strong>Основні характеристики:  </strong></p>    <ul>   <li>Сенсор: PixArt PAW3395  </li>   <li>DPI: до 26 000  </li>   <li>Швидкість: до 650 IPS  </li>   <li>Прискорення: до 50G  </li>   <li>Підключення: Bluetooth 5.2 / 2.4GHz Wireless / USB-C  </li>   <li>Aвтономність: до 200 годин  </li>   <li>Вага: 49 г  </li>   <li>Перемикачі: Kailh GM8.0 (до 80 млн натискань)  </li>   <li>Підтримка: Windows / macOS / Android / Xbox  </li>   <li>Фірмове ПЗ: для налаштування DPI, макросів, підсвітки</li>  </ul>    <p><strong>Особливості:  </strong></p>    <ul>   <li>Ультралегка вага — лише 49 г  </li>   <li>Надшвидке перемикання режимів  </li>   <li>Rapid Response без затримок  </li>   <li>Інтелектуальний режим сну  </li>   <li>Посилений кабель USB-C  </li>   <li>Зарядка за 2–3 години</li>  </ul>    <p> </p></description_ua>
-        <description_ru><p><strong>ATTACK SHARK X3 –</strong> ультралегкая игровая мышь для киберспорта</p>    <p>ATTACK SHARK X3 – сверхточная, сверхбыстрая и самая легкая мышь в своем классе. Идеальный выбор для геймеров, играющих на максимуме!</p>    <p><strong>Основные характеристики:</strong></p>    <ul>   <li>Сенсор: PixArt PAW3395</li>   <li>DPI: до 26 000</li>   <li>Скорость: до 650 IPS</li>   <li>Ускорение: до 50G</li>   <li>Подключение: Bluetooth 5.2/2.4GHz Wireless/USB-C</li>   <li>Автономность: до 200 часов</li>   <li>Вес: 49 г</li>   <li>Переключатели: Kailh GM8.0 (до 80 млн нажатий)</li>   <li>Поддержка: Windows/macOS/Android/Xbox</li>   <li>Фирменное ПО: для настройки DPI, макросов, подсветки</li>  </ul>    <p><br />  <strong>Особенности:</strong></p>    <ul>   <li>Ультралегкий вес - всего 49 г</li>   <li>Сверхбыстрое переключение режимов</li>   <li>Rapid Response без задержек</li>   <li>Интеллектуальный режим сна</li>   <li>Усиленный кабель USB-C</li>   <li>Зарядка за 2–3 часа</li>  </ul></description_ru>
-        <price>1799</price>
-        <old_price>2199</old_price>
-        <categoryId>1084</categoryId>
-        <vendor>Attack Shark</vendor>
-        <picture>https://techgleam.com.ua/content/images/42/igrovaja-myshka-attack-shark-x3-black-49-g-paw3395-26000-dpi-wireless-bluetooth-35028511225914_%2B022af46b37.jpg</picture>
-        <picture>https://techgleam.com.ua/content/images/42/igrovaja-myshka-attack-shark-x3-black-49-g-paw3395-26000-dpi-wireless-bluetooth-26654552144817_%2B4afb168f91.jpg</picture>
-        <picture>https://techgleam.com.ua/content/images/42/igrovaja-myshka-attack-shark-x3-black-49-g-paw3395-26000-dpi-wireless-bluetooth-59788693286971_%2B307938df23.jpg</picture>
-        <picture>https://techgleam.com.ua/content/images/42/igrovaja-myshka-attack-shark-x3-black-49-g-paw3395-26000-dpi-wireless-bluetooth-64036742953468_%2B46056d7a37.jpg</picture>
-        <picture>https://techgleam.com.ua/content/images/42/igrovaja-myshka-attack-shark-x3-black-49-g-paw3395-26000-dpi-wireless-bluetooth-22965868381560_%2B4d4aef9002.jpg</picture>
-        <picture>https://techgleam.com.ua/content/images/42/igrovaja-myshka-attack-shark-x3-black-49-g-paw3395-26000-dpi-wireless-bluetooth-23504817545734_%2Bd14f975eaa.jpg</picture>
-        <param name="Гарантія">3 місяці</param>
-        <param name="Колір">Чорний</param>
-        <param name="Підключення">Комбіноване</param>
-        <param name="Сумісність з ОС">Microsoft Windows</param>
-        <param name="Сумісність з ОС">Mac OS</param>
-        <param name="Сумісність з ОС">Linux</param>
-        <param name="Вага">49 г</param>
-        <param name="Кількість кнопок миші">6</param>
         <param name="Тип датчика">Оптичний</param>
         <param name="Інтерфейс підключення">Bluetooth</param>
         <param name="Інтерфейс підключення">Радіоінтерфейс</param>
@@ -1925,40 +1892,6 @@
         <param name="Тип">Ігрові (геймерські)</param>
         <country>Китай</country>
       </offer>
-      <offer id="1923" available="true">
-        <availability_status>available</availability_status>
-        <name_ua>Ігрова бездротова механічна клавіатура ATTACK SHARK X85 / Eng+Ukr / Три режими підключення / White Jade Switch / Pink</name_ua>
-        <name_ru>Игровая беспроводная механическая клавиатура ATTACK SHARK X85 / Eng+Ukr / Три режима подключения / White Jade Switch / Pink</name_ru>
-        <description_ua><p><strong>ATTACK SHARK X85  — геймерська клавіатура з додатковою українською мовою!</strong></p>    <p>ATTACK SHARK X85 —  механічна клавіатура для геймерів та користувачів, яким потрібна максимальна швидкість, чутливість та точність у кожному натисканні.</p>    <p><strong>Основні характеристики:</strong></p>    <ul>   <li>Формат: 75% ANSI (82 клавіші + CNC-регулятор)</li>   <li>Розкладка: Англійська і Українська</li>   <li>Підключення: USB-C / 2.4G / Bluetooth 5.0</li>   <li>Підсвітка: RGB, 19 режимів, south-facing</li>   <li>Тип: Гаскет-маунт + 5-шарова шумоізоляція (PORON, IXPE, PET, Silicone)</li>   <li>Перемикачі: White Jade (змащені), Hot-Swappable</li>   <li>Сумісність: Windows / Mac / Android / iOS</li>   <li>Акумулятор: 5000 мАг</li>   <li>Повна настройка через ПЗ</li>  </ul>    <p><strong>Особливості:</strong></p>    <ul>   <li>CNC-регулятор: обертання — гучність, натискання — перемикання підсвітки</li>   <li>Ергономічний корпус із градієнтним оформленням</li>   <li>Миттєве перемикання між пристроями</li>   <li>Боковий друк символів</li>   <li>South-facing підсвітка — не засліплює очі</li>   <li>Ідеальна плавність, тиша й комфорт</li>  </ul></description_ua>
-        <description_ru><p><strong>ATTACK SHARK X85  — геймерская клавиатура с дополнительным украинским языком!</strong></p>    <p>ATTACK SHARK X85 — механическая клавиатура для геймеров и пользователей, которым нужна максимальная скорость, чувствительность и точность в каждом нажатии.</p>    <p><strong>Основные характеристики:</strong></p>    <ul>   <li>Формат: 75% ANSI (82 клавиши + CNC-регулятор)</li>   <li>Раскладка: Английская и Украинская</li>   <li>Подключение: USB-C / 2.4G / Bluetooth 5.0</li>   <li>Подсветка: RGB, 19 режимов, south-facing</li>   <li>Тип: Гаскет-маунт + 5-слойная шумоизоляция (PORON, IXPE, PET, Silicone)</li>   <li>Переключатели: White Jade (смазанные), Hot-Swappable</li>   <li>Совместимость: Windows / Mac / Android / iOS</li>   <li>Аккумулятор: 5000 мАч</li>   <li>Полная настройка через ПО</li>  </ul>    <p><strong>Особенности:</strong></p>    <ul>   <li>CNC-регулятор: вращение — громкость, нажатие — переключение подсветки</li>   <li>Эргономичный корпус с градиентным оформлением</li>   <li>Мгновенное переключение между устройствами</li>   <li>Боковая печать символов</li>   <li>South-facing подсветка — не ослепляет глаза</li>   <li>Идеальная плавность, тишина и комфорт</li>  </ul></description_ru>
-        <price>2899</price>
-        <old_price>3299</old_price>
-        <categoryId>1082</categoryId>
-        <vendor>Attack Shark</vendor>
-        <picture>https://techgleam.com.ua/content/images/24/grova-bezdrotova-mexanchna-klavatura-attack-shark-x85-engukr-tri-rezhimi-pdkluchennja-white-jade-switch-pink-26390453918555_%2B9bee1cf436.png</picture>
-        <picture>https://techgleam.com.ua/content/images/24/grova-bezdrotova-mexanchna-klavatura-attack-shark-x85-engukr-tri-rezhimi-pdkluchennja-white-jade-switch-pink-31189982522455_%2Bb2c766d6e9.png</picture>
-        <param name="Гарантія">3 місяці</param>
-        <param name="Колір">Рожевий</param>
-        <param name="Конструкція клавіш">Механічна</param>
-        <param name="Підключення">Комбіноване</param>
-        <param name="Інтерфейс підключення">Bluetooth</param>
-        <param name="Інтерфейс підключення">Радіоінтерфейс</param>
-        <param name="Інтерфейс підключення">USB</param>
-        <param name="Розкладка">Eng / Ukr</param>
-        <param name="Форм-фактор">Компактні</param>
-        <param name="Колір підсвічування">RGB</param>
-        <param name="Підсвічування клавіш">Є</param>
-        <param name="Матеріал корпусу">Пластик</param>
-        <param name="Живлення">Акумулятор</param>
-        <param name="Сумісність з ОС">Windows</param>
-        <param name="Сумісність з ОС">Mac OS</param>
-        <param name="Сумісність з ОС">Linux</param>
-        <param name="Стан">Новий</param>
-        <param name="Комплектація">Клавіатура</param>
-        <param name="Призначення">Для ПК</param>
-        <param name="Вид">Ігрові</param>
-        <country>Китай</country>
-      </offer>
       <offer id="1924" available="true">
         <availability_status>available</availability_status>
         <name_ua>Ігрова бездротова механічна клавіатура ATTACK SHARK X85 / Eng+Ukr / Три режими підключення / White Jade Switch / Purple</name_ua>
@@ -2687,36 +2620,6 @@
         <param name="Інтерфейс підключення">Радіоінтерфейс</param>
         <param name="Інтерфейс підключення">USB</param>
         <param name="Роздільна здатність сенсора">10001 - 12000 dpi</param>
-        <param name="Стан">Новий</param>
-        <param name="Тип">Ігрові (геймерські)</param>
-        <country>Китай</country>
-      </offer>
-      <offer id="2066" available="true">
-        <availability_status>available</availability_status>
-        <name_ua>Iгрова бездротова мишка ATK Blazing Sky GHOST Extreme / Три режими підключення / Сенсор PAW3950 Ultra / 42000 DPI / Black</name_ua>
-        <name_ru>Игровая беспроводная мышка ATK Blazing Sky GHOST Extreme / Три режима подключения / Сенсор PAW3950 Ultra / 42000 DPI / Black</name_ru>
-        <description_ua><p data-end="427" data-start="67"><strong>ATK Blazing Sky GHOST Extreme —</strong> це ультралегка бездротова ігрова миша, створена для максимально швидкого, точного та стабільного керування у змагальних іграх. Модель поєднує карбоновий корпус, флагманський сенсор, високу частоту опитування та малу вагу, що робить її сильним вибором для шутерів, кіберспорту та вимогливого геймінгу.</p>    <p data-end="848" data-start="429">Миша оснащена флагманським сенсором <strong data-end="489" data-start="465">PixArt PAW3950 Ultra</strong>, який забезпечує чутливість до <strong data-end="534" data-start="521">42000 DPI.</strong> Завдяки цьому миша точно передає навіть найрізкіші рухи без зривів і затримок. Версія Ultimate також отримала потужний контролер <strong data-end="735" data-start="725">Nordic </strong>54H20 і підтримує частоту опитування до <strong data-end="781" data-start="770">8000 Гц</strong>, що дає наднизьку затримку кліку та дуже плавний контроль курсора.</p>    <p data-end="1219" data-start="850">Корпус виготовлений із карбонового композиту, завдяки чому миша важить лише близько <strong data-end="942" data-start="934">48 г</strong>. Така конструкція дозволяє легко контролювати мишу під час швидких ривків і тривалих ігрових сесій без зайвого навантаження на руку. Додатково модель оснащена <strong data-end="1155" data-start="1102">оптичними перемикачами Omron Opticals</strong>, енкодером F-Switch 10 Black та PTFE-глайдами для плавного ковзання.</p>    <p data-end="1609" data-start="1221">ATK Blazing Sky GHOST Ultimate підтримує <strong data-end="1329" data-start="1268">2.4 ГГц, Bluetooth і дротове підключення через USB Type-C</strong>, тому її зручно використовувати як у дротовому, так і в бездротовому режимі. </p>    <p data-end="1634" data-start="1611"><strong data-end="1632" data-start="1611">Основні переваги:</strong></p>    <ul data-end="2253" data-start="1635">   <li data-end="1666" data-section-id="mj7xv3" data-start="1635">Сенсор PixArt PAW3950 Ultra</li>   <li data-end="1706" data-section-id="qpojpa" data-start="1667">Максимальна чутливість до 42000 DPI</li>   <li data-end="1797" data-section-id="1bcfs7m" data-start="1764">Частота опитування до 8000 Гц</li>   <li data-end="1831" data-section-id="ajtd9m" data-start="1798">Ультралегка вага близько 48 г</li>   <li data-end="1865" data-section-id="hkagcs" data-start="1832">Карбоновий композитний корпус</li>   <li data-end="1913" data-section-id="1tmpirb" data-start="1866">Підключення: 2.4 ГГц, Bluetooth, USB Type-C</li>   <li data-end="1934" data-section-id="tjwdfi" data-start="1914">Контролер Nordic 54H20</li>   <li data-end="1984" data-section-id="zzwcg0" data-start="1935">Оптичні перемикачі Omron Opticals</li>   <li data-end="2005" data-section-id="iiba4m" data-start="1985">Енкодер F-Switch 10 Black</li>   <li data-end="2043" data-section-id="1ip92ih" data-start="2006">PTFE-глайди для плавного ковзання</li>   <li data-end="2066" data-section-id="bcgjwa" data-start="2044">Акумулятор 300 мАг</li>  </ul></description_ua>
-        <description_ru><p data-end="2627" data-start="2255"><strong>ATK Blazing Sky GHOST Extreme</strong>  — это ультралёгкая беспроводная игровая мышь, созданная для максимально быстрого, точного и стабильного управления в соревновательных играх. Модель сочетает карбоновый корпус, флагманский сенсор, высокую частоту опроса и малый вес, что делает её сильным выбором для шутеров, киберспорта и требовательного гейминга.</p>    <p data-end="3065" data-start="2629">Мышь оснащена флагманским сенсором <strong data-end="2688" data-start="2664">PixArt PAW3950 Ultra</strong>, который обеспечивает чувствительность до <strong data-end="2744" data-start="2731">42000 DPI</strong>. Благодаря этому мышь точно передаёт даже самые резкие движения без срывов и задержек. Версия Ultimate также получила мощный контроллер <strong data-end="2949" data-start="2939">Nordic</strong> 54H20 и поддерживает частоту опроса до <strong data-end="2994" data-start="2983">8000 Гц</strong>, что даёт сверхнизкую задержку клика и очень плавный контроль курсора.</p>    <p data-end="3445" data-start="3067">Корпус выполнен из карбонового композита, благодаря чему мышь весит всего около <strong data-end="3155" data-start="3147">48 г</strong>. Такая конструкция позволяет легко контролировать мышь во время быстрых рывков и длительных игровых сессий без лишней нагрузки на руку. Дополнительно модель оснащена <strong data-end="3380" data-start="3322">оптическими переключателями Omron Opticals</strong>, энкодером F-Switch 10 Black и PTFE-глайдами для плавного скольжения.</p>    <p data-end="3850" data-start="3447">ATK Blazing Sky GHOST Ultimate Black поддерживает <strong data-end="3560" data-start="3497">2.4 ГГц, Bluetooth и проводное подключение через USB Type-C</strong>, поэтому её удобно использовать как в проводном, так и в беспроводном режиме. </p>    <p data-end="3880" data-start="3852"><strong data-end="3878" data-start="3852">Основные преимущества:</strong></p>    <ul data-end="4512" data-start="3881">   <li data-end="3912" data-section-id="mj7xv3" data-start="3881">Сенсор PixArt PAW3950 Ultra</li>   <li data-end="3959" data-section-id="1w5exak" data-start="3913">Максимальная чувствительность до 42000 DPI</li>   <li data-end="4044" data-section-id="ojp36x" data-start="4015">Частота опроса до 8000 Гц</li>   <li data-end="4076" data-section-id="ogt6ne" data-start="4045">Ультралёгкий вес около 48 г</li>   <li data-end="4110" data-section-id="1ras5l8" data-start="4077">Карбоновый композитный корпус</li>   <li data-end="4158" data-section-id="re33b4" data-start="4111">Подключение: 2.4 ГГц, Bluetooth, USB Type-C</li>   <li data-end="4180" data-section-id="1j4ke1x" data-start="4159">Контроллер Nordic 54H20</li>   <li data-end="4236" data-section-id="1fiww7v" data-start="4181">Оптические переключатели Omron Opticals</li>   <li data-end="4257" data-section-id="la1cou" data-start="4237">Энкодер F-Switch 10 Black</li>   <li data-end="4297" data-section-id="frb7ov" data-start="4258">PTFE-глайды для плавного скольжения</li>   <li data-end="4321" data-section-id="1fy5xbo" data-start="4298">Аккумулятор 300 мАч</li>  </ul></description_ru>
-        <price>5499</price>
-        <categoryId>1084</categoryId>
-        <vendor>ATK</vendor>
-        <picture>https://techgleam.com.ua/content/images/17/igrova-bezdrotova-mishka-atk-blazing-sky-ghost-extreme-tri-rezhimi-pdkluchennja-sensor-paw3950-ultra-42000-dpi-black-29518927780245_%2Be6948e8f9a.jpg</picture>
-        <picture>https://techgleam.com.ua/content/images/17/igrova-bezdrotova-mishka-atk-blazing-sky-ghost-extreme-tri-rezhimi-pdkluchennja-sensor-paw3950-ultra-42000-dpi-black-25833714513990_%2B62a5b2f973.jpg</picture>
-        <picture>https://techgleam.com.ua/content/images/17/igrova-bezdrotova-mishka-atk-blazing-sky-ghost-extreme-tri-rezhimi-pdkluchennja-sensor-paw3950-ultra-42000-dpi-black-79900599433454_%2Bf9f88047f7.jpg</picture>
-        <picture>https://techgleam.com.ua/content/images/17/igrova-bezdrotova-mishka-atk-blazing-sky-ghost-extreme-tri-rezhimi-pdkluchennja-sensor-paw3950-ultra-42000-dpi-black-65229233200211_%2B7f58a4e14c.jpg</picture>
-        <picture>https://techgleam.com.ua/content/images/17/igrova-bezdrotova-mishka-atk-blazing-sky-ghost-extreme-tri-rezhimi-pdkluchennja-sensor-paw3950-ultra-42000-dpi-black-96213024178457_%2B06ab634b80.jpg</picture>
-        <param name="Гарантія">3 місяці</param>
-        <param name="Колір">Чорний</param>
-        <param name="Підключення">Комбіноване</param>
-        <param name="Сумісність з ОС">Microsoft Windows</param>
-        <param name="Сумісність з ОС">Mac OS</param>
-        <param name="Сумісність з ОС">Linux</param>
-        <param name="Вага">48 г</param>
-        <param name="Тип датчика">Оптичний</param>
-        <param name="Інтерфейс підключення">Bluetooth</param>
-        <param name="Інтерфейс підключення">Радіоінтерфейс</param>
-        <param name="Інтерфейс підключення">USB</param>
-        <param name="Роздільна здатність сенсора">Понад 20000 dpi</param>
         <param name="Стан">Новий</param>
         <param name="Тип">Ігрові (геймерські)</param>
         <country>Китай</country>
@@ -4754,6 +4657,39 @@
         <param name="Сумісність з ОС">Mac OS</param>
         <param name="Сумісність з ОС">Linux</param>
         <param name="Вага">39 г</param>
+        <param name="Тип датчика">Оптичний</param>
+        <param name="Інтерфейс підключення">Bluetooth</param>
+        <param name="Інтерфейс підключення">Радіоінтерфейс</param>
+        <param name="Інтерфейс підключення">USB</param>
+        <param name="Роздільна здатність сенсора">Понад 20000 dpi</param>
+        <param name="Стан">Новий</param>
+        <param name="Тип">Ігрові (геймерські)</param>
+        <country>Китай</country>
+      </offer>
+      <offer id="641" available="false">
+        <availability_status>temporarily_unavailable</availability_status>
+        <name_ua>Ігрова мишка ATTACK SHARK X3 / Три режими підключення / Сенсор PAW3395 / 49 г / Black</name_ua>
+        <name_ru>Игровая мышка ATTACK SHARK X3 / Три режима подключения / Сенсор PAW3395 / 49 г / Black</name_ru>
+        <description_ua><p><strong>ATTACK SHARK X3 — ультралегка ігрова миша для кіберспорту </strong></p>    <p>ATTACK SHARK X3 — надточна, надшвидка та найлегша миша у своєму класі. Ідеальний вибір для геймерів, які грають на максимумі!</p>    <p><strong>Основні характеристики:  </strong></p>    <ul>   <li>Сенсор: PixArt PAW3395  </li>   <li>DPI: до 26 000  </li>   <li>Швидкість: до 650 IPS  </li>   <li>Прискорення: до 50G  </li>   <li>Підключення: Bluetooth 5.2 / 2.4GHz Wireless / USB-C  </li>   <li>Aвтономність: до 200 годин  </li>   <li>Вага: 49 г  </li>   <li>Перемикачі: Kailh GM8.0 (до 80 млн натискань)  </li>   <li>Підтримка: Windows / macOS / Android / Xbox  </li>   <li>Фірмове ПЗ: для налаштування DPI, макросів, підсвітки</li>  </ul>    <p><strong>Особливості:  </strong></p>    <ul>   <li>Ультралегка вага — лише 49 г  </li>   <li>Надшвидке перемикання режимів  </li>   <li>Rapid Response без затримок  </li>   <li>Інтелектуальний режим сну  </li>   <li>Посилений кабель USB-C  </li>   <li>Зарядка за 2–3 години</li>  </ul>    <p> </p></description_ua>
+        <description_ru><p><strong>ATTACK SHARK X3 –</strong> ультралегкая игровая мышь для киберспорта</p>    <p>ATTACK SHARK X3 – сверхточная, сверхбыстрая и самая легкая мышь в своем классе. Идеальный выбор для геймеров, играющих на максимуме!</p>    <p><strong>Основные характеристики:</strong></p>    <ul>   <li>Сенсор: PixArt PAW3395</li>   <li>DPI: до 26 000</li>   <li>Скорость: до 650 IPS</li>   <li>Ускорение: до 50G</li>   <li>Подключение: Bluetooth 5.2/2.4GHz Wireless/USB-C</li>   <li>Автономность: до 200 часов</li>   <li>Вес: 49 г</li>   <li>Переключатели: Kailh GM8.0 (до 80 млн нажатий)</li>   <li>Поддержка: Windows/macOS/Android/Xbox</li>   <li>Фирменное ПО: для настройки DPI, макросов, подсветки</li>  </ul>    <p><br />  <strong>Особенности:</strong></p>    <ul>   <li>Ультралегкий вес - всего 49 г</li>   <li>Сверхбыстрое переключение режимов</li>   <li>Rapid Response без задержек</li>   <li>Интеллектуальный режим сна</li>   <li>Усиленный кабель USB-C</li>   <li>Зарядка за 2–3 часа</li>  </ul></description_ru>
+        <price>1799</price>
+        <old_price>2199</old_price>
+        <categoryId>1084</categoryId>
+        <vendor>Attack Shark</vendor>
+        <picture>https://techgleam.com.ua/content/images/42/igrovaja-myshka-attack-shark-x3-black-49-g-paw3395-26000-dpi-wireless-bluetooth-35028511225914_%2B022af46b37.jpg</picture>
+        <picture>https://techgleam.com.ua/content/images/42/igrovaja-myshka-attack-shark-x3-black-49-g-paw3395-26000-dpi-wireless-bluetooth-26654552144817_%2B4afb168f91.jpg</picture>
+        <picture>https://techgleam.com.ua/content/images/42/igrovaja-myshka-attack-shark-x3-black-49-g-paw3395-26000-dpi-wireless-bluetooth-59788693286971_%2B307938df23.jpg</picture>
+        <picture>https://techgleam.com.ua/content/images/42/igrovaja-myshka-attack-shark-x3-black-49-g-paw3395-26000-dpi-wireless-bluetooth-64036742953468_%2B46056d7a37.jpg</picture>
+        <picture>https://techgleam.com.ua/content/images/42/igrovaja-myshka-attack-shark-x3-black-49-g-paw3395-26000-dpi-wireless-bluetooth-22965868381560_%2B4d4aef9002.jpg</picture>
+        <picture>https://techgleam.com.ua/content/images/42/igrovaja-myshka-attack-shark-x3-black-49-g-paw3395-26000-dpi-wireless-bluetooth-23504817545734_%2Bd14f975eaa.jpg</picture>
+        <param name="Гарантія">3 місяці</param>
+        <param name="Колір">Чорний</param>
+        <param name="Підключення">Комбіноване</param>
+        <param name="Сумісність з ОС">Microsoft Windows</param>
+        <param name="Сумісність з ОС">Mac OS</param>
+        <param name="Сумісність з ОС">Linux</param>
+        <param name="Вага">49 г</param>
+        <param name="Кількість кнопок миші">6</param>
         <param name="Тип датчика">Оптичний</param>
         <param name="Інтерфейс підключення">Bluetooth</param>
         <param name="Інтерфейс підключення">Радіоінтерфейс</param>
@@ -14482,6 +14418,40 @@
         <param name="Вид">Ігрові</param>
         <country>Китай</country>
       </offer>
+      <offer id="1923" available="false">
+        <availability_status>temporarily_unavailable</availability_status>
+        <name_ua>Ігрова бездротова механічна клавіатура ATTACK SHARK X85 / Eng+Ukr / Три режими підключення / White Jade Switch / Pink</name_ua>
+        <name_ru>Игровая беспроводная механическая клавиатура ATTACK SHARK X85 / Eng+Ukr / Три режима подключения / White Jade Switch / Pink</name_ru>
+        <description_ua><p><strong>ATTACK SHARK X85  — геймерська клавіатура з додатковою українською мовою!</strong></p>    <p>ATTACK SHARK X85 —  механічна клавіатура для геймерів та користувачів, яким потрібна максимальна швидкість, чутливість та точність у кожному натисканні.</p>    <p><strong>Основні характеристики:</strong></p>    <ul>   <li>Формат: 75% ANSI (82 клавіші + CNC-регулятор)</li>   <li>Розкладка: Англійська і Українська</li>   <li>Підключення: USB-C / 2.4G / Bluetooth 5.0</li>   <li>Підсвітка: RGB, 19 режимів, south-facing</li>   <li>Тип: Гаскет-маунт + 5-шарова шумоізоляція (PORON, IXPE, PET, Silicone)</li>   <li>Перемикачі: White Jade (змащені), Hot-Swappable</li>   <li>Сумісність: Windows / Mac / Android / iOS</li>   <li>Акумулятор: 5000 мАг</li>   <li>Повна настройка через ПЗ</li>  </ul>    <p><strong>Особливості:</strong></p>    <ul>   <li>CNC-регулятор: обертання — гучність, натискання — перемикання підсвітки</li>   <li>Ергономічний корпус із градієнтним оформленням</li>   <li>Миттєве перемикання між пристроями</li>   <li>Боковий друк символів</li>   <li>South-facing підсвітка — не засліплює очі</li>   <li>Ідеальна плавність, тиша й комфорт</li>  </ul></description_ua>
+        <description_ru><p><strong>ATTACK SHARK X85  — геймерская клавиатура с дополнительным украинским языком!</strong></p>    <p>ATTACK SHARK X85 — механическая клавиатура для геймеров и пользователей, которым нужна максимальная скорость, чувствительность и точность в каждом нажатии.</p>    <p><strong>Основные характеристики:</strong></p>    <ul>   <li>Формат: 75% ANSI (82 клавиши + CNC-регулятор)</li>   <li>Раскладка: Английская и Украинская</li>   <li>Подключение: USB-C / 2.4G / Bluetooth 5.0</li>   <li>Подсветка: RGB, 19 режимов, south-facing</li>   <li>Тип: Гаскет-маунт + 5-слойная шумоизоляция (PORON, IXPE, PET, Silicone)</li>   <li>Переключатели: White Jade (смазанные), Hot-Swappable</li>   <li>Совместимость: Windows / Mac / Android / iOS</li>   <li>Аккумулятор: 5000 мАч</li>   <li>Полная настройка через ПО</li>  </ul>    <p><strong>Особенности:</strong></p>    <ul>   <li>CNC-регулятор: вращение — громкость, нажатие — переключение подсветки</li>   <li>Эргономичный корпус с градиентным оформлением</li>   <li>Мгновенное переключение между устройствами</li>   <li>Боковая печать символов</li>   <li>South-facing подсветка — не ослепляет глаза</li>   <li>Идеальная плавность, тишина и комфорт</li>  </ul></description_ru>
+        <price>2899</price>
+        <old_price>3299</old_price>
+        <categoryId>1082</categoryId>
+        <vendor>Attack Shark</vendor>
+        <picture>https://techgleam.com.ua/content/images/24/grova-bezdrotova-mexanchna-klavatura-attack-shark-x85-engukr-tri-rezhimi-pdkluchennja-white-jade-switch-pink-26390453918555_%2B9bee1cf436.png</picture>
+        <picture>https://techgleam.com.ua/content/images/24/grova-bezdrotova-mexanchna-klavatura-attack-shark-x85-engukr-tri-rezhimi-pdkluchennja-white-jade-switch-pink-31189982522455_%2Bb2c766d6e9.png</picture>
+        <param name="Гарантія">3 місяці</param>
+        <param name="Колір">Рожевий</param>
+        <param name="Конструкція клавіш">Механічна</param>
+        <param name="Підключення">Комбіноване</param>
+        <param name="Інтерфейс підключення">Bluetooth</param>
+        <param name="Інтерфейс підключення">Радіоінтерфейс</param>
+        <param name="Інтерфейс підключення">USB</param>
+        <param name="Розкладка">Eng / Ukr</param>
+        <param name="Форм-фактор">Компактні</param>
+        <param name="Колір підсвічування">RGB</param>
+        <param name="Підсвічування клавіш">Є</param>
+        <param name="Матеріал корпусу">Пластик</param>
+        <param name="Живлення">Акумулятор</param>
+        <param name="Сумісність з ОС">Windows</param>
+        <param name="Сумісність з ОС">Mac OS</param>
+        <param name="Сумісність з ОС">Linux</param>
+        <param name="Стан">Новий</param>
+        <param name="Комплектація">Клавіатура</param>
+        <param name="Призначення">Для ПК</param>
+        <param name="Вид">Ігрові</param>
+        <country>Китай</country>
+      </offer>
       <offer id="1926" available="false">
         <availability_status>temporarily_unavailable</availability_status>
         <name_ua>Ігрова бездротова механічна клавіатура ATTACK SHARK X87 / Три режими підключення / Strawberry Switch / Pink</name_ua>
@@ -15141,6 +15111,36 @@
         <param name="Тип">Ігрові (геймерські)</param>
         <country>Китай</country>
       </offer>
+      <offer id="2066" available="false">
+        <availability_status>temporarily_unavailable</availability_status>
+        <name_ua>Iгрова бездротова мишка ATK Blazing Sky GHOST Extreme / Три режими підключення / Сенсор PAW3950 Ultra / 42000 DPI / Black</name_ua>
+        <name_ru>Игровая беспроводная мышка ATK Blazing Sky GHOST Extreme / Три режима подключения / Сенсор PAW3950 Ultra / 42000 DPI / Black</name_ru>
+        <description_ua><p data-end="427" data-start="67"><strong>ATK Blazing Sky GHOST Extreme —</strong> це ультралегка бездротова ігрова миша, створена для максимально швидкого, точного та стабільного керування у змагальних іграх. Модель поєднує карбоновий корпус, флагманський сенсор, високу частоту опитування та малу вагу, що робить її сильним вибором для шутерів, кіберспорту та вимогливого геймінгу.</p>    <p data-end="848" data-start="429">Миша оснащена флагманським сенсором <strong data-end="489" data-start="465">PixArt PAW3950 Ultra</strong>, який забезпечує чутливість до <strong data-end="534" data-start="521">42000 DPI.</strong> Завдяки цьому миша точно передає навіть найрізкіші рухи без зривів і затримок. Версія Ultimate також отримала потужний контролер <strong data-end="735" data-start="725">Nordic </strong>54H20 і підтримує частоту опитування до <strong data-end="781" data-start="770">8000 Гц</strong>, що дає наднизьку затримку кліку та дуже плавний контроль курсора.</p>    <p data-end="1219" data-start="850">Корпус виготовлений із карбонового композиту, завдяки чому миша важить лише близько <strong data-end="942" data-start="934">48 г</strong>. Така конструкція дозволяє легко контролювати мишу під час швидких ривків і тривалих ігрових сесій без зайвого навантаження на руку. Додатково модель оснащена <strong data-end="1155" data-start="1102">оптичними перемикачами Omron Opticals</strong>, енкодером F-Switch 10 Black та PTFE-глайдами для плавного ковзання.</p>    <p data-end="1609" data-start="1221">ATK Blazing Sky GHOST Ultimate підтримує <strong data-end="1329" data-start="1268">2.4 ГГц, Bluetooth і дротове підключення через USB Type-C</strong>, тому її зручно використовувати як у дротовому, так і в бездротовому режимі. </p>    <p data-end="1634" data-start="1611"><strong data-end="1632" data-start="1611">Основні переваги:</strong></p>    <ul data-end="2253" data-start="1635">   <li data-end="1666" data-section-id="mj7xv3" data-start="1635">Сенсор PixArt PAW3950 Ultra</li>   <li data-end="1706" data-section-id="qpojpa" data-start="1667">Максимальна чутливість до 42000 DPI</li>   <li data-end="1797" data-section-id="1bcfs7m" data-start="1764">Частота опитування до 8000 Гц</li>   <li data-end="1831" data-section-id="ajtd9m" data-start="1798">Ультралегка вага близько 48 г</li>   <li data-end="1865" data-section-id="hkagcs" data-start="1832">Карбоновий композитний корпус</li>   <li data-end="1913" data-section-id="1tmpirb" data-start="1866">Підключення: 2.4 ГГц, Bluetooth, USB Type-C</li>   <li data-end="1934" data-section-id="tjwdfi" data-start="1914">Контролер Nordic 54H20</li>   <li data-end="1984" data-section-id="zzwcg0" data-start="1935">Оптичні перемикачі Omron Opticals</li>   <li data-end="2005" data-section-id="iiba4m" data-start="1985">Енкодер F-Switch 10 Black</li>   <li data-end="2043" data-section-id="1ip92ih" data-start="2006">PTFE-глайди для плавного ковзання</li>   <li data-end="2066" data-section-id="bcgjwa" data-start="2044">Акумулятор 300 мАг</li>  </ul></description_ua>
+        <description_ru><p data-end="2627" data-start="2255"><strong>ATK Blazing Sky GHOST Extreme</strong>  — это ультралёгкая беспроводная игровая мышь, созданная для максимально быстрого, точного и стабильного управления в соревновательных играх. Модель сочетает карбоновый корпус, флагманский сенсор, высокую частоту опроса и малый вес, что делает её сильным выбором для шутеров, киберспорта и требовательного гейминга.</p>    <p data-end="3065" data-start="2629">Мышь оснащена флагманским сенсором <strong data-end="2688" data-start="2664">PixArt PAW3950 Ultra</strong>, который обеспечивает чувствительность до <strong data-end="2744" data-start="2731">42000 DPI</strong>. Благодаря этому мышь точно передаёт даже самые резкие движения без срывов и задержек. Версия Ultimate также получила мощный контроллер <strong data-end="2949" data-start="2939">Nordic</strong> 54H20 и поддерживает частоту опроса до <strong data-end="2994" data-start="2983">8000 Гц</strong>, что даёт сверхнизкую задержку клика и очень плавный контроль курсора.</p>    <p data-end="3445" data-start="3067">Корпус выполнен из карбонового композита, благодаря чему мышь весит всего около <strong data-end="3155" data-start="3147">48 г</strong>. Такая конструкция позволяет легко контролировать мышь во время быстрых рывков и длительных игровых сессий без лишней нагрузки на руку. Дополнительно модель оснащена <strong data-end="3380" data-start="3322">оптическими переключателями Omron Opticals</strong>, энкодером F-Switch 10 Black и PTFE-глайдами для плавного скольжения.</p>    <p data-end="3850" data-start="3447">ATK Blazing Sky GHOST Ultimate Black поддерживает <strong data-end="3560" data-start="3497">2.4 ГГц, Bluetooth и проводное подключение через USB Type-C</strong>, поэтому её удобно использовать как в проводном, так и в беспроводном режиме. </p>    <p data-end="3880" data-start="3852"><strong data-end="3878" data-start="3852">Основные преимущества:</strong></p>    <ul data-end="4512" data-start="3881">   <li data-end="3912" data-section-id="mj7xv3" data-start="3881">Сенсор PixArt PAW3950 Ultra</li>   <li data-end="3959" data-section-id="1w5exak" data-start="3913">Максимальная чувствительность до 42000 DPI</li>   <li data-end="4044" data-section-id="ojp36x" data-start="4015">Частота опроса до 8000 Гц</li>   <li data-end="4076" data-section-id="ogt6ne" data-start="4045">Ультралёгкий вес около 48 г</li>   <li data-end="4110" data-section-id="1ras5l8" data-start="4077">Карбоновый композитный корпус</li>   <li data-end="4158" data-section-id="re33b4" data-start="4111">Подключение: 2.4 ГГц, Bluetooth, USB Type-C</li>   <li data-end="4180" data-section-id="1j4ke1x" data-start="4159">Контроллер Nordic 54H20</li>   <li data-end="4236" data-section-id="1fiww7v" data-start="4181">Оптические переключатели Omron Opticals</li>   <li data-end="4257" data-section-id="la1cou" data-start="4237">Энкодер F-Switch 10 Black</li>   <li data-end="4297" data-section-id="frb7ov" data-start="4258">PTFE-глайды для плавного скольжения</li>   <li data-end="4321" data-section-id="1fy5xbo" data-start="4298">Аккумулятор 300 мАч</li>  </ul></description_ru>
+        <price>5499</price>
+        <categoryId>1084</categoryId>
+        <vendor>ATK</vendor>
+        <picture>https://techgleam.com.ua/content/images/17/igrova-bezdrotova-mishka-atk-blazing-sky-ghost-extreme-tri-rezhimi-pdkluchennja-sensor-paw3950-ultra-42000-dpi-black-29518927780245_%2Be6948e8f9a.jpg</picture>
+        <picture>https://techgleam.com.ua/content/images/17/igrova-bezdrotova-mishka-atk-blazing-sky-ghost-extreme-tri-rezhimi-pdkluchennja-sensor-paw3950-ultra-42000-dpi-black-25833714513990_%2B62a5b2f973.jpg</picture>
+        <picture>https://techgleam.com.ua/content/images/17/igrova-bezdrotova-mishka-atk-blazing-sky-ghost-extreme-tri-rezhimi-pdkluchennja-sensor-paw3950-ultra-42000-dpi-black-79900599433454_%2Bf9f88047f7.jpg</picture>
+        <picture>https://techgleam.com.ua/content/images/17/igrova-bezdrotova-mishka-atk-blazing-sky-ghost-extreme-tri-rezhimi-pdkluchennja-sensor-paw3950-ultra-42000-dpi-black-65229233200211_%2B7f58a4e14c.jpg</picture>
+        <picture>https://techgleam.com.ua/content/images/17/igrova-bezdrotova-mishka-atk-blazing-sky-ghost-extreme-tri-rezhimi-pdkluchennja-sensor-paw3950-ultra-42000-dpi-black-96213024178457_%2B06ab634b80.jpg</picture>
+        <param name="Гарантія">3 місяці</param>
+        <param name="Колір">Чорний</param>
+        <param name="Підключення">Комбіноване</param>
+        <param name="Сумісність з ОС">Microsoft Windows</param>
+        <param name="Сумісність з ОС">Mac OS</param>
+        <param name="Сумісність з ОС">Linux</param>
+        <param name="Вага">48 г</param>
+        <param name="Тип датчика">Оптичний</param>
+        <param name="Інтерфейс підключення">Bluetooth</param>
+        <param name="Інтерфейс підключення">Радіоінтерфейс</param>
+        <param name="Інтерфейс підключення">USB</param>
+        <param name="Роздільна здатність сенсора">Понад 20000 dpi</param>
+        <param name="Стан">Новий</param>
+        <param name="Тип">Ігрові (геймерські)</param>
+        <country>Китай</country>
+      </offer>
       <offer id="2068" available="false">
         <availability_status>temporarily_unavailable</availability_status>
         <name_ua>Бездротова ігрова миша ATK Blazing Sky U2 Mini / Два режими підключення / Сенсор PAW3950 / 36000 DPI / 8K / Pink</name_ua>
@@ -15638,19 +15638,22 @@
         <param name="Призначення">Геймерські</param>
         <country>Китай</country>
       </offer>
-      <offer id="656" available="true">
+      <offer id="657" available="true">
         <availability_status>available</availability_status>
-        <name_ua>Навушники MCHOSE V9 Pro / Бездротова ігрова гарнітура / 2.4G / Bluetooth з мікрофоном / White</name_ua>
-        <name_ru>Наушники MCHOSE V9 Pro / Беспроводная игровая гарнитура / 2.4G / Bluetooth с микрофоном / White</name_ru>
+        <name_ua>Навушники MCHOSE V9 Pro / Бездротова ігрова гарнітура / 2.4G / Bluetooth з мікрофоном / Black Red</name_ua>
+        <name_ru>Наушники MCHOSE V9 Pro / Беспроводная игровая гарнитура / 2.4G / Bluetooth с микрофоном / Black Red</name_ru>
         <description_ua><p><strong data-end="27" data-start="3">MCHOSE V9 Pro</strong><strong>— </strong>бездротова ігрова гарнітура, що дарує максимальний комфорт і точне позиціонування звуків у грі.<br data-end="128" data-start="125" />  53-мм біоцелюлозні драйвери + підтримка 7.1 забезпечують чисте й об’ємне звучання, а ємний акумулятор дозволяє грати <strong data-end="261" data-start="245">до 250 годин</strong> без підзарядки. Must-have аксесуар для стрімів, матчів і щоденних дзвінків!</p>    <h3 data-end="374" data-start="344">Основні характеристики:</h3>    <ul>   <li>Тип підключення: 2.4 ГГц / Bluetooth 5.3 / дротове USB-C</li>   <li>Сумісність: ПК, ноутбук, PS4/PS5, Nintendo Switch, смартфони</li>   <li>Драйвери: 53 мм біоцелюлозні — детальний бас і чисті верхи</li>   <li>Звук: об’ємний 7.1, точне позиціонування кроків і пострілів</li>   <li>Мікрофон: знімний, на гнучкій штанзі, AI-шумопридушення, швидке mute</li>   <li>Керування: коліщатко гучності й кнопки на чаші</li>   <li>Акумулятор: 2000 мА·год, до 250 год роботи</li>   <li>Комфорт: м’які амбушури з пам’яттю форми, регульоване наголів’я, легка посадка</li>   <li>Конструкція: складана, зносостійке покриття </li>  </ul>    <p><strong>Комплектація:</strong></p>    <ul>   <li>Гарнітура MCHOSE V9 Pro </li>   <li>2.4 ГГц USB-A ресивер</li>   <li>Кабель USB</li>   <li>Знімний мікрофон</li>   <li>Інструкція користувача</li>  </ul></description_ua>
         <description_ru><p><strong>MCHOSE V9 Pro— беспроводная игровая гарнитура, дающая максимальный комфорт и точное позиционирование звуков в игре.</strong><br />  53-мм биоцеллюлозный драйвер + поддержка 7.1 обеспечивают чистое и объемное звучание, а емкий аккумулятор позволяет играть до 250 часов без подзарядки. Must-have аксессуар для стримов, матчей и ежедневных звонков!</p>    <p><strong>Основные характеристики:</strong></p>    <ul>   <li>Тип подключения: 2.4 ГГц/Bluetooth 5.3/проводное USB-C</li>   <li>Совместимость: ПК, ноутбук, PS4/PS5, Nintendo Switch, смартфоны</li>   <li>Драйверы: 53 мм биоцеллюлозные - подробный бас и чистые верха.</li>   <li>Звук: объемный 7.1, точное позиционирование шагов и выстрелов</li>   <li>Микрофон: съемный, на гибкой штанге, AI-шумоподавление, быстрое mute</li>   <li>Управление: колесико громкости и кнопки на чаше</li>   <li>Аккумулятор: 2000 мА·ч, до 250 ч работы</li>   <li>Комфорт: мягкие амбушюры с памятью формы, регулируемое оголовье, легкая посадка</li>   <li>Конструкция: складная, износостойкое покрытие</li>  </ul>    <p><strong>   Комплектация:</strong></p>    <ul>   <li>Гарнитура MCHOSE V9 Pro</li>   <li>2.4 ГГц USB-A ресивер</li>   <li>Кабель USB</li>   <li>Съемный микрофон</li>   <li>Руководство пользователя</li>  </ul></description_ru>
         <price>2599</price>
         <old_price>2999</old_price>
         <categoryId>1086</categoryId>
         <vendor>Mchose</vendor>
-        <picture>https://techgleam.com.ua/content/images/7/92326393472110_%2Bdd2e3cc556.jpg</picture>
+        <picture>https://techgleam.com.ua/content/images/8/73254184286400_%2B152f7b6872.jpg</picture>
+        <picture>https://techgleam.com.ua/content/images/8/87722112914057_%2B1040c62c63.jpg</picture>
+        <picture>https://techgleam.com.ua/content/images/8/71794068233673_%2B16d3ce7725.jpg</picture>
+        <picture>https://techgleam.com.ua/content/images/8/13529576955488_%2Bc4232aeed2.jpg</picture>
+        <picture>https://techgleam.com.ua/content/images/8/81398541083430_%2Bc372ec95d5.jpg</picture>
         <param name="Гарантія">3 місяці</param>
-        <param name="Колір">Білий</param>
         <param name="Тип">Повнорозмірні</param>
         <param name="Тип підключення">Комбінований</param>
         <param name="Мікрофон">Зйомний</param>
@@ -15668,22 +15671,19 @@
         <param name="Призначення">Геймерські</param>
         <country>Китай</country>
       </offer>
-      <offer id="657" available="true">
+      <offer id="658" available="true">
         <availability_status>available</availability_status>
-        <name_ua>Навушники MCHOSE V9 Pro / Бездротова ігрова гарнітура / 2.4G / Bluetooth з мікрофоном / Black Red</name_ua>
-        <name_ru>Наушники MCHOSE V9 Pro / Беспроводная игровая гарнитура / 2.4G / Bluetooth с микрофоном / Black Red</name_ru>
+        <name_ua>Навушники MCHOSE V9 Pro / Бездротова ігрова гарнітура / 2.4G / Bluetooth з мікрофоном / Pink</name_ua>
+        <name_ru>Наушники MCHOSE V9 Pro / Беспроводная игровая гарнитура / 2.4G / Bluetooth с микрофоном / Pink</name_ru>
         <description_ua><p><strong data-end="27" data-start="3">MCHOSE V9 Pro</strong><strong>— </strong>бездротова ігрова гарнітура, що дарує максимальний комфорт і точне позиціонування звуків у грі.<br data-end="128" data-start="125" />  53-мм біоцелюлозні драйвери + підтримка 7.1 забезпечують чисте й об’ємне звучання, а ємний акумулятор дозволяє грати <strong data-end="261" data-start="245">до 250 годин</strong> без підзарядки. Must-have аксесуар для стрімів, матчів і щоденних дзвінків!</p>    <h3 data-end="374" data-start="344">Основні характеристики:</h3>    <ul>   <li>Тип підключення: 2.4 ГГц / Bluetooth 5.3 / дротове USB-C</li>   <li>Сумісність: ПК, ноутбук, PS4/PS5, Nintendo Switch, смартфони</li>   <li>Драйвери: 53 мм біоцелюлозні — детальний бас і чисті верхи</li>   <li>Звук: об’ємний 7.1, точне позиціонування кроків і пострілів</li>   <li>Мікрофон: знімний, на гнучкій штанзі, AI-шумопридушення, швидке mute</li>   <li>Керування: коліщатко гучності й кнопки на чаші</li>   <li>Акумулятор: 2000 мА·год, до 250 год роботи</li>   <li>Комфорт: м’які амбушури з пам’яттю форми, регульоване наголів’я, легка посадка</li>   <li>Конструкція: складана, зносостійке покриття </li>  </ul>    <p><strong>Комплектація:</strong></p>    <ul>   <li>Гарнітура MCHOSE V9 Pro </li>   <li>2.4 ГГц USB-A ресивер</li>   <li>Кабель USB</li>   <li>Знімний мікрофон</li>   <li>Інструкція користувача</li>  </ul></description_ua>
         <description_ru><p><strong>MCHOSE V9 Pro— беспроводная игровая гарнитура, дающая максимальный комфорт и точное позиционирование звуков в игре.</strong><br />  53-мм биоцеллюлозный драйвер + поддержка 7.1 обеспечивают чистое и объемное звучание, а емкий аккумулятор позволяет играть до 250 часов без подзарядки. Must-have аксессуар для стримов, матчей и ежедневных звонков!</p>    <p><strong>Основные характеристики:</strong></p>    <ul>   <li>Тип подключения: 2.4 ГГц/Bluetooth 5.3/проводное USB-C</li>   <li>Совместимость: ПК, ноутбук, PS4/PS5, Nintendo Switch, смартфоны</li>   <li>Драйверы: 53 мм биоцеллюлозные - подробный бас и чистые верха.</li>   <li>Звук: объемный 7.1, точное позиционирование шагов и выстрелов</li>   <li>Микрофон: съемный, на гибкой штанге, AI-шумоподавление, быстрое mute</li>   <li>Управление: колесико громкости и кнопки на чаше</li>   <li>Аккумулятор: 2000 мА·ч, до 250 ч работы</li>   <li>Комфорт: мягкие амбушюры с памятью формы, регулируемое оголовье, легкая посадка</li>   <li>Конструкция: складная, износостойкое покрытие</li>  </ul>    <p><strong>   Комплектация:</strong></p>    <ul>   <li>Гарнитура MCHOSE V9 Pro</li>   <li>2.4 ГГц USB-A ресивер</li>   <li>Кабель USB</li>   <li>Съемный микрофон</li>   <li>Руководство пользователя</li>  </ul></description_ru>
         <price>2599</price>
         <old_price>2999</old_price>
         <categoryId>1086</categoryId>
         <vendor>Mchose</vendor>
-        <picture>https://techgleam.com.ua/content/images/8/73254184286400_%2B152f7b6872.jpg</picture>
-        <picture>https://techgleam.com.ua/content/images/8/87722112914057_%2B1040c62c63.jpg</picture>
-        <picture>https://techgleam.com.ua/content/images/8/71794068233673_%2B16d3ce7725.jpg</picture>
-        <picture>https://techgleam.com.ua/content/images/8/13529576955488_%2Bc4232aeed2.jpg</picture>
-        <picture>https://techgleam.com.ua/content/images/8/81398541083430_%2Bc372ec95d5.jpg</picture>
+        <picture>https://techgleam.com.ua/content/images/9/29361228343385_%2Bf5021e232a.jpg</picture>
         <param name="Гарантія">3 місяці</param>
+        <param name="Колір">Рожевий</param>
         <param name="Тип">Повнорозмірні</param>
         <param name="Тип підключення">Комбінований</param>
         <param name="Мікрофон">Зйомний</param>
@@ -16275,18 +16275,6 @@
         <categoryId>1089</categoryId>
         <picture>https://techgleam.com.ua/content/images/28/groviy-kilimok-anime-boy-90x40-sm-4-mm-blue-46072107297207_%2B28819119c0.jpg</picture>
         <param name="Колір">Блакитний</param>
-        <param name="Особливості">Ігрові</param>
-      </offer>
-      <offer id="1884" available="true">
-        <availability_status>available</availability_status>
-        <name_ua>Ігровий килимок Cyber Gamer Girl 90×40 см / 4 мм / Black</name_ua>
-        <name_ru>Игровой коврик Cyber Gamer Girl 90×40 см / 4 мм / Black</name_ru>
-        <description_ua><p data-end="518" data-start="222"><strong data-end="276" data-start="222">Ігровий килимок Cyber Gamer Girl 90 × 40 см / 4 мм</strong> — великий desk mat з сучасним аніме-дизайном, який чудово доповнить ігровий або робочий сетап. Завдяки формату <strong data-end="402" data-start="388">90 × 40 см</strong> килимок підходить для миші, клавіатури, ноутбука та інших аксесуарів, створюючи зручний і охайний простір на столі.</p>    <p data-end="780" data-start="520">Модель оформлена стильним принтом із <strong data-end="598" data-start="557">аніме-дівчиною за комп’ютерним столом</strong> у кібер-атмосфері. Темна кольорова гамма з червоними й синіми акцентами виглядає ефектно, додає сетапу характеру та особливо добре поєднується з геймерським або сучасним інтер’єром.</p>    <p data-end="1030" data-start="782">Товщина <strong data-end="798" data-start="790">4 мм</strong> забезпечує комфорт для рук під час тривалого користування, а гладка поверхня сприяє плавному ковзанню миші та точному керуванню курсором. Килимок також допомагає захистити поверхню столу від потертостей, подряпин і щоденного зносу.</p>    <p data-end="1059" data-start="1032"><strong data-end="1059" data-start="1032">Основні характеристики:</strong></p>    <ul data-end="1427" data-start="1060">   <li data-end="1101" data-section-id="cutkdz" data-start="1060">Тип: великий ігровий килимок / desk mat</li>   <li data-end="1126" data-section-id="e9x8d2" data-start="1102">Розмір: <strong data-end="1126" data-start="1112">90 × 40 см</strong></li>   <li data-end="1146" data-section-id="16oq4tw" data-start="1127">Товщина: <strong data-end="1146" data-start="1138">4 мм</strong></li>   <li data-end="1193" data-section-id="be2bpn" data-start="1147">Дизайн: <strong data-end="1193" data-start="1157">аніме / gamer girl / cyber setup</strong></li>   <li data-end="1212" data-section-id="uoxugs" data-start="1194">Колір: <strong data-end="1212" data-start="1203">Black</strong></li>   <li data-end="1258" data-section-id="glkby" data-start="1213">Призначення: для миші, клавіатури, ноутбука</li>   <li data-end="1307" data-section-id="6htqgf" data-start="1259">Поверхня: гладка для комфортного ковзання миші</li>   <li data-end="1348" data-section-id="197k0f9" data-start="1308">Підходить для роботи, навчання та ігор</li>   <li data-end="1373" data-section-id="r0tp0q" data-start="1349">Захищає поверхню столу</li>   <li data-end="1427" data-section-id="1ibp2by" data-start="1374">Добре доповнює ігровий, домашній або сучасний сетап</li>  </ul></description_ua>
-        <description_ru><p data-end="1763" data-start="1454"><strong data-end="1507" data-start="1454">Игровой коврик Cyber Gamer Girl 90 × 40 см / 4 мм</strong> — большой desk mat с современным аниме-дизайном, который отлично дополнит игровой или рабочий сетап. Благодаря формату <strong data-end="1641" data-start="1627">90 × 40 см</strong> коврик подходит для мыши, клавиатуры, ноутбука и других аксессуаров, создавая удобное и аккуратное пространство на столе.</p>    <p data-end="2029" data-start="1765">Модель оформлена стильным принтом с <strong data-end="1842" data-start="1801">аниме-девушкой за компьютерным столом</strong> в кибер-атмосфере. Темная цветовая гамма с красными и синими акцентами смотрится эффектно, добавляет сетапу характер и особенно хорошо сочетается с геймерским или современным интерьером.</p>    <p data-end="2298" data-start="2031">Толщина <strong data-end="2047" data-start="2039">4 мм</strong> обеспечивает комфорт для рук во время длительного использования, а гладкая поверхность способствует плавному скольжению мыши и точному управлению курсором. Коврик также помогает защитить поверхность стола от потертостей, царапин и ежедневного износа.</p>    <p data-end="2328" data-start="2300"><strong data-end="2328" data-start="2300">Основные характеристики:</strong></p>    <ul data-end="2702" data-start="2329">   <li data-end="2369" data-section-id="5wxevu" data-start="2329">Тип: большой игровой коврик / desk mat</li>   <li data-end="2394" data-section-id="hzlyxn" data-start="2370">Размер: <strong data-end="2394" data-start="2380">90 × 40 см</strong></li>   <li data-end="2414" data-section-id="hekdkt" data-start="2395">Толщина: <strong data-end="2414" data-start="2406">4 мм</strong></li>   <li data-end="2461" data-section-id="1yfa4rp" data-start="2415">Дизайн: <strong data-end="2461" data-start="2425">аниме / gamer girl / cyber setup</strong></li>   <li data-end="2479" data-section-id="xcr65y" data-start="2462">Цвет: <strong data-end="2479" data-start="2470">Black</strong></li>   <li data-end="2524" data-section-id="edgqor" data-start="2480">Назначение: для мыши, клавиатуры, ноутбука</li>   <li data-end="2579" data-section-id="4a2aue" data-start="2525">Поверхность: гладкая для комфортного скольжения мыши</li>   <li data-end="2614" data-section-id="66v362" data-start="2580">Подходит для работы, учебы и игр</li>   <li data-end="2643" data-section-id="gchsq1" data-start="2615">Защищает поверхность стола</li>   <li data-end="2702" data-section-id="gfwq6p" data-start="2644">Хорошо дополняет игровой, домашний или современный сетап</li>  </ul></description_ru>
-        <price>620</price>
-        <categoryId>1089</categoryId>
-        <picture>https://techgleam.com.ua/content/images/35/groviy-kilimok-cyber-gamer-girl-9040-sm-4-mm-black-42738568611087_%2Bdc0afc8068.jpg</picture>
-        <param name="Колір">Чорний</param>
         <param name="Особливості">Ігрові</param>
       </offer>
       <offer id="1886" available="true">
@@ -17818,19 +17806,19 @@
         <param name="Призначення">Геймерські</param>
         <country>Китай</country>
       </offer>
-      <offer id="658" available="false">
+      <offer id="656" available="false">
         <availability_status>temporarily_unavailable</availability_status>
-        <name_ua>Навушники MCHOSE V9 Pro / Бездротова ігрова гарнітура / 2.4G / Bluetooth з мікрофоном / Pink</name_ua>
-        <name_ru>Наушники MCHOSE V9 Pro / Беспроводная игровая гарнитура / 2.4G / Bluetooth с микрофоном / Pink</name_ru>
+        <name_ua>Навушники MCHOSE V9 Pro / Бездротова ігрова гарнітура / 2.4G / Bluetooth з мікрофоном / White</name_ua>
+        <name_ru>Наушники MCHOSE V9 Pro / Беспроводная игровая гарнитура / 2.4G / Bluetooth с микрофоном / White</name_ru>
         <description_ua><p><strong data-end="27" data-start="3">MCHOSE V9 Pro</strong><strong>— </strong>бездротова ігрова гарнітура, що дарує максимальний комфорт і точне позиціонування звуків у грі.<br data-end="128" data-start="125" />  53-мм біоцелюлозні драйвери + підтримка 7.1 забезпечують чисте й об’ємне звучання, а ємний акумулятор дозволяє грати <strong data-end="261" data-start="245">до 250 годин</strong> без підзарядки. Must-have аксесуар для стрімів, матчів і щоденних дзвінків!</p>    <h3 data-end="374" data-start="344">Основні характеристики:</h3>    <ul>   <li>Тип підключення: 2.4 ГГц / Bluetooth 5.3 / дротове USB-C</li>   <li>Сумісність: ПК, ноутбук, PS4/PS5, Nintendo Switch, смартфони</li>   <li>Драйвери: 53 мм біоцелюлозні — детальний бас і чисті верхи</li>   <li>Звук: об’ємний 7.1, точне позиціонування кроків і пострілів</li>   <li>Мікрофон: знімний, на гнучкій штанзі, AI-шумопридушення, швидке mute</li>   <li>Керування: коліщатко гучності й кнопки на чаші</li>   <li>Акумулятор: 2000 мА·год, до 250 год роботи</li>   <li>Комфорт: м’які амбушури з пам’яттю форми, регульоване наголів’я, легка посадка</li>   <li>Конструкція: складана, зносостійке покриття </li>  </ul>    <p><strong>Комплектація:</strong></p>    <ul>   <li>Гарнітура MCHOSE V9 Pro </li>   <li>2.4 ГГц USB-A ресивер</li>   <li>Кабель USB</li>   <li>Знімний мікрофон</li>   <li>Інструкція користувача</li>  </ul></description_ua>
         <description_ru><p><strong>MCHOSE V9 Pro— беспроводная игровая гарнитура, дающая максимальный комфорт и точное позиционирование звуков в игре.</strong><br />  53-мм биоцеллюлозный драйвер + поддержка 7.1 обеспечивают чистое и объемное звучание, а емкий аккумулятор позволяет играть до 250 часов без подзарядки. Must-have аксессуар для стримов, матчей и ежедневных звонков!</p>    <p><strong>Основные характеристики:</strong></p>    <ul>   <li>Тип подключения: 2.4 ГГц/Bluetooth 5.3/проводное USB-C</li>   <li>Совместимость: ПК, ноутбук, PS4/PS5, Nintendo Switch, смартфоны</li>   <li>Драйверы: 53 мм биоцеллюлозные - подробный бас и чистые верха.</li>   <li>Звук: объемный 7.1, точное позиционирование шагов и выстрелов</li>   <li>Микрофон: съемный, на гибкой штанге, AI-шумоподавление, быстрое mute</li>   <li>Управление: колесико громкости и кнопки на чаше</li>   <li>Аккумулятор: 2000 мА·ч, до 250 ч работы</li>   <li>Комфорт: мягкие амбушюры с памятью формы, регулируемое оголовье, легкая посадка</li>   <li>Конструкция: складная, износостойкое покрытие</li>  </ul>    <p><strong>   Комплектация:</strong></p>    <ul>   <li>Гарнитура MCHOSE V9 Pro</li>   <li>2.4 ГГц USB-A ресивер</li>   <li>Кабель USB</li>   <li>Съемный микрофон</li>   <li>Руководство пользователя</li>  </ul></description_ru>
         <price>2599</price>
         <old_price>2999</old_price>
         <categoryId>1086</categoryId>
         <vendor>Mchose</vendor>
-        <picture>https://techgleam.com.ua/content/images/9/29361228343385_%2Bf5021e232a.jpg</picture>
+        <picture>https://techgleam.com.ua/content/images/7/92326393472110_%2Bdd2e3cc556.jpg</picture>
         <param name="Гарантія">3 місяці</param>
-        <param name="Колір">Рожевий</param>
+        <param name="Колір">Білий</param>
         <param name="Тип">Повнорозмірні</param>
         <param name="Тип підключення">Комбінований</param>
         <param name="Мікрофон">Зйомний</param>
@@ -19746,6 +19734,18 @@
         <categoryId>1089</categoryId>
         <picture>https://techgleam.com.ua/content/images/34/groviy-kilimok-crimson-dragon-9040-sm-4-mm-beige-59520990228108_%2B75dbf5565e.jpg</picture>
         <param name="Колір">Бежевий</param>
+        <param name="Особливості">Ігрові</param>
+      </offer>
+      <offer id="1884" available="false">
+        <availability_status>temporarily_unavailable</availability_status>
+        <name_ua>Ігровий килимок Cyber Gamer Girl 90×40 см / 4 мм / Black</name_ua>
+        <name_ru>Игровой коврик Cyber Gamer Girl 90×40 см / 4 мм / Black</name_ru>
+        <description_ua><p data-end="518" data-start="222"><strong data-end="276" data-start="222">Ігровий килимок Cyber Gamer Girl 90 × 40 см / 4 мм</strong> — великий desk mat з сучасним аніме-дизайном, який чудово доповнить ігровий або робочий сетап. Завдяки формату <strong data-end="402" data-start="388">90 × 40 см</strong> килимок підходить для миші, клавіатури, ноутбука та інших аксесуарів, створюючи зручний і охайний простір на столі.</p>    <p data-end="780" data-start="520">Модель оформлена стильним принтом із <strong data-end="598" data-start="557">аніме-дівчиною за комп’ютерним столом</strong> у кібер-атмосфері. Темна кольорова гамма з червоними й синіми акцентами виглядає ефектно, додає сетапу характеру та особливо добре поєднується з геймерським або сучасним інтер’єром.</p>    <p data-end="1030" data-start="782">Товщина <strong data-end="798" data-start="790">4 мм</strong> забезпечує комфорт для рук під час тривалого користування, а гладка поверхня сприяє плавному ковзанню миші та точному керуванню курсором. Килимок також допомагає захистити поверхню столу від потертостей, подряпин і щоденного зносу.</p>    <p data-end="1059" data-start="1032"><strong data-end="1059" data-start="1032">Основні характеристики:</strong></p>    <ul data-end="1427" data-start="1060">   <li data-end="1101" data-section-id="cutkdz" data-start="1060">Тип: великий ігровий килимок / desk mat</li>   <li data-end="1126" data-section-id="e9x8d2" data-start="1102">Розмір: <strong data-end="1126" data-start="1112">90 × 40 см</strong></li>   <li data-end="1146" data-section-id="16oq4tw" data-start="1127">Товщина: <strong data-end="1146" data-start="1138">4 мм</strong></li>   <li data-end="1193" data-section-id="be2bpn" data-start="1147">Дизайн: <strong data-end="1193" data-start="1157">аніме / gamer girl / cyber setup</strong></li>   <li data-end="1212" data-section-id="uoxugs" data-start="1194">Колір: <strong data-end="1212" data-start="1203">Black</strong></li>   <li data-end="1258" data-section-id="glkby" data-start="1213">Призначення: для миші, клавіатури, ноутбука</li>   <li data-end="1307" data-section-id="6htqgf" data-start="1259">Поверхня: гладка для комфортного ковзання миші</li>   <li data-end="1348" data-section-id="197k0f9" data-start="1308">Підходить для роботи, навчання та ігор</li>   <li data-end="1373" data-section-id="r0tp0q" data-start="1349">Захищає поверхню столу</li>   <li data-end="1427" data-section-id="1ibp2by" data-start="1374">Добре доповнює ігровий, домашній або сучасний сетап</li>  </ul></description_ua>
+        <description_ru><p data-end="1763" data-start="1454"><strong data-end="1507" data-start="1454">Игровой коврик Cyber Gamer Girl 90 × 40 см / 4 мм</strong> — большой desk mat с современным аниме-дизайном, который отлично дополнит игровой или рабочий сетап. Благодаря формату <strong data-end="1641" data-start="1627">90 × 40 см</strong> коврик подходит для мыши, клавиатуры, ноутбука и других аксессуаров, создавая удобное и аккуратное пространство на столе.</p>    <p data-end="2029" data-start="1765">Модель оформлена стильным принтом с <strong data-end="1842" data-start="1801">аниме-девушкой за компьютерным столом</strong> в кибер-атмосфере. Темная цветовая гамма с красными и синими акцентами смотрится эффектно, добавляет сетапу характер и особенно хорошо сочетается с геймерским или современным интерьером.</p>    <p data-end="2298" data-start="2031">Толщина <strong data-end="2047" data-start="2039">4 мм</strong> обеспечивает комфорт для рук во время длительного использования, а гладкая поверхность способствует плавному скольжению мыши и точному управлению курсором. Коврик также помогает защитить поверхность стола от потертостей, царапин и ежедневного износа.</p>    <p data-end="2328" data-start="2300"><strong data-end="2328" data-start="2300">Основные характеристики:</strong></p>    <ul data-end="2702" data-start="2329">   <li data-end="2369" data-section-id="5wxevu" data-start="2329">Тип: большой игровой коврик / desk mat</li>   <li data-end="2394" data-section-id="hzlyxn" data-start="2370">Размер: <strong data-end="2394" data-start="2380">90 × 40 см</strong></li>   <li data-end="2414" data-section-id="hekdkt" data-start="2395">Толщина: <strong data-end="2414" data-start="2406">4 мм</strong></li>   <li data-end="2461" data-section-id="1yfa4rp" data-start="2415">Дизайн: <strong data-end="2461" data-start="2425">аниме / gamer girl / cyber setup</strong></li>   <li data-end="2479" data-section-id="xcr65y" data-start="2462">Цвет: <strong data-end="2479" data-start="2470">Black</strong></li>   <li data-end="2524" data-section-id="edgqor" data-start="2480">Назначение: для мыши, клавиатуры, ноутбука</li>   <li data-end="2579" data-section-id="4a2aue" data-start="2525">Поверхность: гладкая для комфортного скольжения мыши</li>   <li data-end="2614" data-section-id="66v362" data-start="2580">Подходит для работы, учебы и игр</li>   <li data-end="2643" data-section-id="gchsq1" data-start="2615">Защищает поверхность стола</li>   <li data-end="2702" data-section-id="gfwq6p" data-start="2644">Хорошо дополняет игровой, домашний или современный сетап</li>  </ul></description_ru>
+        <price>620</price>
+        <categoryId>1089</categoryId>
+        <picture>https://techgleam.com.ua/content/images/35/groviy-kilimok-cyber-gamer-girl-9040-sm-4-mm-black-42738568611087_%2Bdc0afc8068.jpg</picture>
+        <param name="Колір">Чорний</param>
         <param name="Особливості">Ігрові</param>
       </offer>
       <offer id="1885" available="false">
