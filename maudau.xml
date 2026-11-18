@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<yml_catalog date="2026-11-18 22:23">
+<yml_catalog date="2026-11-19 00:23">
   <shop>
     <categories>
       <category id="1082" portal_id="1839">Клавіатури</category>
@@ -13,6 +13,89 @@
       <category id="1093" portal_id="2675">Кейкапи</category>
     </categories>
     <offers>
+      <offer id="521" available="true">
+        <availability_status>available</availability_status>
+        <name_ua>Ігрова бездротова механічна клавіатура ATTACK SHARK X85 / Три режими підключення / White Jade Switch / Black</name_ua>
+        <name_ru>Игровая беспроводная механическая клавиатура ATTACK SHARK X85 / Три режима подключения / White Jade Switch / Black</name_ru>
+        <description_ua><p><strong>ATTACK SHARK X85  — геймерська клавіатура з гаскет-маунтом, RGB і трьома режимами підключення! </strong></p>    <p>ATTACK SHARK X85 —  механічна клавіатура для геймерів та користувачів, яким потрібна максимальна швидкість, чутливість та точність у кожному натисканні.</p>    <p><strong>Основні характеристики:</strong></p>    <ul>   <li>Формат: 75% ANSI (82 клавіші + CNC-регулятор)</li>   <li>Підключення: USB-C / 2.4G / Bluetooth 5.0</li>   <li>Підсвітка: RGB, 19 режимів, south-facing</li>   <li>Тип: Гаскет-маунт + 5-шарова шумоізоляція (PORON, IXPE, PET, Silicone)</li>   <li>Перемикачі: White Jade (змащені), Hot-Swappable</li>   <li>Сумісність: Windows / Mac / Android / iOS</li>   <li>Акумулятор: 5000 мАг</li>   <li>Повна настройка через ПЗ</li>  </ul>    <p><strong>Особливості:</strong></p>    <ul>   <li>CNC-регулятор: обертання — гучність, натискання — перемикання підсвітки</li>   <li>Ергономічний корпус із градієнтним оформленням</li>   <li>Миттєве перемикання між пристроями</li>   <li>Боковий друк символів</li>   <li>South-facing підсвітка — не засліплює очі</li>   <li>Ідеальна плавність, тиша й комфорт</li>  </ul></description_ua>
+        <description_ru><p><strong>ATTACK SHARK X85  — геймерская клавиатура с гаскет-маунтом, RGB и тремя режимами подключения!</strong></p>    <p>ATTACK SHARK X85 — механическая клавиатура для геймеров и пользователей, которым нужна максимальная скорость, чувствительность и точность в каждом нажатии.</p>    <p><strong>Основные характеристики:</strong></p>    <ul>   <li>Формат: 75% ANSI (82 клавиши + CNC-регулятор)</li>   <li>Подключение: USB-C / 2.4G / Bluetooth 5.0</li>   <li>Подсветка: RGB, 19 режимов, south-facing</li>   <li>Тип: Гаскет-маунт + 5-слойная шумоизоляция (PORON, IXPE, PET, Silicone)</li>   <li>Переключатели: White Jade (смазанные), Hot-Swappable</li>   <li>Совместимость: Windows / Mac / Android / iOS</li>   <li>Аккумулятор: 5000 мАч</li>   <li>Полная настройка через Пз</li>  </ul>    <p><strong>Особенности:</strong></p>    <ul>   <li>CNC-регулятор: вращение — громкость, нажатие — переключение подсветки</li>   <li>Эргономичный корпус с градиентным оформлением</li>   <li>Мгновенное переключение между устройствами</li>   <li>Боковая печать символов</li>   <li>South-facing подсветка — не ослепляет глаза</li>   <li>Идеальная плавность, тишина и комфорт</li>  </ul></description_ru>
+        <price>2999</price>
+        <old_price>3299</old_price>
+        <categoryId>1082</categoryId>
+        <vendor>Attack Shark</vendor>
+        <picture>https://techgleam.com.ua/content/images/22/65964965421739_%2B5078cf6a16.jpg</picture>
+        <picture>https://techgleam.com.ua/content/images/22/32797373705935_%2B2e2d0d28a5.jpg</picture>
+        <picture>https://techgleam.com.ua/content/images/22/33958722305334_%2B66c892da4f.jpg</picture>
+        <picture>https://techgleam.com.ua/content/images/22/42299674643995_%2B8d35b6243c.jpg</picture>
+        <picture>https://techgleam.com.ua/content/images/22/91340635039002_%2B6b06fa503a.jpg</picture>
+        <picture>https://techgleam.com.ua/content/images/22/40229680754380_%2Bf0bfa1930b.jpg</picture>
+        <picture>https://techgleam.com.ua/content/images/22/98302181112457_%2Ba32538881a.jpg</picture>
+        <picture>https://techgleam.com.ua/content/images/22/56959125212194_%2B4b112abcd5.jpg</picture>
+        <picture>https://techgleam.com.ua/content/images/22/86182908778657_%2Bf071fb877e.jpg</picture>
+        <param name="Гарантія">3 місяці</param>
+        <param name="Колір">Чорний</param>
+        <param name="Конструкція клавіш">Механічна</param>
+        <param name="Підключення">Комбіноване</param>
+        <param name="Інтерфейс підключення">Bluetooth</param>
+        <param name="Інтерфейс підключення">Радіоінтерфейс</param>
+        <param name="Інтерфейс підключення">USB</param>
+        <param name="Розкладка">Eng</param>
+        <param name="Форм-фактор">Компактні</param>
+        <param name="Колір підсвічування">RGB</param>
+        <param name="Підсвічування клавіш">Є</param>
+        <param name="Матеріал корпусу">Пластик</param>
+        <param name="Живлення">Акумулятор</param>
+        <param name="Сумісність з ОС">Windows</param>
+        <param name="Сумісність з ОС">Mac OS</param>
+        <param name="Сумісність з ОС">Linux</param>
+        <param name="Стан">Новий</param>
+        <param name="Комплектація">Клавіатура</param>
+        <param name="Призначення">Для ПК</param>
+        <param name="Вид">Ігрові</param>
+        <country>Китай</country>
+      </offer>
+      <offer id="522" available="true">
+        <availability_status>available</availability_status>
+        <name_ua>Ігрова бездротова механічна клавіатура ATTACK SHARK X85 / Три режими підключення / White Jade Switch / Pink</name_ua>
+        <name_ru>Игровая беспроводная механическая клавиатура ATTACK SHARK X85 / Три режима подключения / White Jade Switch / Pink</name_ru>
+        <description_ua><p><strong>ATTACK SHARK X85  — геймерська клавіатура з гаскет-маунтом, RGB і трьома режимами підключення! </strong></p>    <p>ATTACK SHARK X85 —  механічна клавіатура для геймерів та користувачів, яким потрібна максимальна швидкість, чутливість та точність у кожному натисканні.</p>    <p><strong>Основні характеристики:</strong></p>    <ul>   <li>Формат: 75% ANSI (82 клавіші + CNC-регулятор)</li>   <li>Підключення: USB-C / 2.4G / Bluetooth 5.0</li>   <li>Підсвітка: RGB, 19 режимів, south-facing</li>   <li>Тип: Гаскет-маунт + 5-шарова шумоізоляція (PORON, IXPE, PET, Silicone)</li>   <li>Перемикачі: White Jade (змащені), Hot-Swappable</li>   <li>Сумісність: Windows / Mac / Android / iOS</li>   <li>Акумулятор: 5000 мАг</li>   <li>Повна настройка через ПЗ</li>  </ul>    <p><strong>Особливості:</strong></p>    <ul>   <li>CNC-регулятор: обертання — гучність, натискання — перемикання підсвітки</li>   <li>Ергономічний корпус із градієнтним оформленням</li>   <li>Миттєве перемикання між пристроями</li>   <li>Боковий друк символів</li>   <li>South-facing підсвітка — не засліплює очі</li>   <li>Ідеальна плавність, тиша й комфорт</li>  </ul></description_ua>
+        <description_ru><p><strong>ATTACK SHARK X85  — геймерская клавиатура с гаскет-маунтом, RGB и тремя режимами подключения!</strong></p>    <p>ATTACK SHARK X85 — механическая клавиатура для геймеров и пользователей, которым нужна максимальная скорость, чувствительность и точность в каждом нажатии.</p>    <p><strong>Основные характеристики:</strong></p>    <ul>   <li>Формат: 75% ANSI (82 клавиши + CNC-регулятор)</li>   <li>Подключение: USB-C / 2.4G / Bluetooth 5.0</li>   <li>Подсветка: RGB, 19 режимов, south-facing</li>   <li>Тип: Гаскет-маунт + 5-слойная шумоизоляция (PORON, IXPE, PET, Silicone)</li>   <li>Переключатели: White Jade (смазанные), Hot-Swappable</li>   <li>Совместимость: Windows / Mac / Android / iOS</li>   <li>Аккумулятор: 5000 мАч</li>   <li>Полная настройка через Пз</li>  </ul>    <p><strong>Особенности:</strong></p>    <ul>   <li>CNC-регулятор: вращение — громкость, нажатие — переключение подсветки</li>   <li>Эргономичный корпус с градиентным оформлением</li>   <li>Мгновенное переключение между устройствами</li>   <li>Боковая печать символов</li>   <li>South-facing подсветка — не ослепляет глаза</li>   <li>Идеальная плавность, тишина и комфорт</li>  </ul></description_ru>
+        <price>2999</price>
+        <old_price>3299</old_price>
+        <categoryId>1082</categoryId>
+        <vendor>Attack Shark</vendor>
+        <picture>https://techgleam.com.ua/content/images/23/66305145018906_%2B21357e3b9b.jpg</picture>
+        <picture>https://techgleam.com.ua/content/images/23/86585425801515_%2B5bf547c885.jpg</picture>
+        <picture>https://techgleam.com.ua/content/images/23/41093310870261_%2Baf6ff015a1.jpg</picture>
+        <picture>https://techgleam.com.ua/content/images/23/95655413867511_%2B7dfc6c4a21.jpg</picture>
+        <picture>https://techgleam.com.ua/content/images/23/47433691532658_%2Badcf10ad62.jpg</picture>
+        <picture>https://techgleam.com.ua/content/images/23/37815308479505_%2Baca1cdd167.jpg</picture>
+        <picture>https://techgleam.com.ua/content/images/23/96170725891708_%2B8426893d8a.jpg</picture>
+        <picture>https://techgleam.com.ua/content/images/23/33907276942222_%2Bb98e0d076b.jpg</picture>
+        <picture>https://techgleam.com.ua/content/images/23/85533173465403_%2Be4334a2c43.jpg</picture>
+        <picture>https://techgleam.com.ua/content/images/23/53156246404656_%2B08e5226806.jpg</picture>
+        <param name="Гарантія">3 місяці</param>
+        <param name="Колір">Рожевий</param>
+        <param name="Конструкція клавіш">Механічна</param>
+        <param name="Підключення">Комбіноване</param>
+        <param name="Інтерфейс підключення">Bluetooth</param>
+        <param name="Інтерфейс підключення">Радіоінтерфейс</param>
+        <param name="Інтерфейс підключення">USB</param>
+        <param name="Розкладка">Eng</param>
+        <param name="Форм-фактор">Компактні</param>
+        <param name="Колір підсвічування">RGB</param>
+        <param name="Підсвічування клавіш">Є</param>
+        <param name="Матеріал корпусу">Пластик</param>
+        <param name="Живлення">Акумулятор</param>
+        <param name="Сумісність з ОС">Windows</param>
+        <param name="Сумісність з ОС">Mac OS</param>
+        <param name="Сумісність з ОС">Linux</param>
+        <param name="Стан">Новий</param>
+        <param name="Комплектація">Клавіатура</param>
+        <param name="Призначення">Для ПК</param>
+        <param name="Вид">Ігрові</param>
+        <country>Китай</country>
+      </offer>
       <offer id="534" available="true">
         <availability_status>available</availability_status>
         <name_ua>Ігрова магнітна клавіатура Attack Shark X82 Pro / Три режими підключення / Magnetic Switch / White</name_ua>
@@ -57,8 +140,8 @@
         <name_ru>Игровая беспроводная механическая клавиатура ATTACK SHARK X85 / Три режима подключения / White Jade Switch / White</name_ru>
         <description_ua><p><strong>ATTACK SHARK X85  — геймерська клавіатура з гаскет-маунтом, RGB і трьома режимами підключення! </strong></p>    <p>ATTACK SHARK X85 —  механічна клавіатура для геймерів та користувачів, яким потрібна максимальна швидкість, чутливість та точність у кожному натисканні.</p>    <p><strong>Основні характеристики:</strong></p>    <ul>   <li>Формат: 75% ANSI (82 клавіші + CNC-регулятор)</li>   <li>Підключення: USB-C / 2.4G / Bluetooth 5.0</li>   <li>Підсвітка: RGB, 19 режимів, south-facing</li>   <li>Тип: Гаскет-маунт + 5-шарова шумоізоляція (PORON, IXPE, PET, Silicone)</li>   <li>Перемикачі: White Jade (змащені), Hot-Swappable</li>   <li>Сумісність: Windows / Mac / Android / iOS</li>   <li>Акумулятор: 5000 мАг</li>   <li>Повна настройка через ПЗ</li>  </ul>    <p><strong>Особливості:</strong></p>    <ul>   <li>CNC-регулятор: обертання — гучність, натискання — перемикання підсвітки</li>   <li>Ергономічний корпус із градієнтним оформленням</li>   <li>Миттєве перемикання між пристроями</li>   <li>Боковий друк символів</li>   <li>South-facing підсвітка — не засліплює очі</li>   <li>Ідеальна плавність, тиша й комфорт</li>  </ul></description_ua>
         <description_ru><p><strong>ATTACK SHARK X85  — геймерская клавиатура с гаскет-маунтом, RGB и тремя режимами подключения!</strong></p>    <p>ATTACK SHARK X85 — механическая клавиатура для геймеров и пользователей, которым нужна максимальная скорость, чувствительность и точность в каждом нажатии.</p>    <p><strong>Основные характеристики:</strong></p>    <ul>   <li>Формат: 75% ANSI (82 клавиши + CNC-регулятор)</li>   <li>Подключение: USB-C / 2.4G / Bluetooth 5.0</li>   <li>Подсветка: RGB, 19 режимов, south-facing</li>   <li>Тип: Гаскет-маунт + 5-слойная шумоизоляция (PORON, IXPE, PET, Silicone)</li>   <li>Переключатели: White Jade (смазанные), Hot-Swappable</li>   <li>Совместимость: Windows / Mac / Android / iOS</li>   <li>Аккумулятор: 5000 мАч</li>   <li>Полная настройка через Пз</li>  </ul>    <p><strong>Особенности:</strong></p>    <ul>   <li>CNC-регулятор: вращение — громкость, нажатие — переключение подсветки</li>   <li>Эргономичный корпус с градиентным оформлением</li>   <li>Мгновенное переключение между устройствами</li>   <li>Боковая печать символов</li>   <li>South-facing подсветка — не ослепляет глаза</li>   <li>Идеальная плавность, тишина и комфорт</li>  </ul></description_ru>
-        <price>2699</price>
-        <old_price>2999</old_price>
+        <price>2899</price>
+        <old_price>3199</old_price>
         <categoryId>1082</categoryId>
         <vendor>Attack Shark</vendor>
         <picture>https://techgleam.com.ua/content/images/36/99742041754975_%2B6fdb75814e.jpg</picture>
@@ -91,6 +174,107 @@
         <param name="Призначення">Для ПК</param>
         <param name="Вид">Ігрові</param>
         <country>Китай</country>
+      </offer>
+      <offer id="536" available="true">
+        <availability_status>available</availability_status>
+        <name_ua>Ігрова бездротова механічна клавіатура ATTACK SHARK X85 / Три режими підключення / White Jade Switch / Purple</name_ua>
+        <name_ru>Игровая беспроводная механическая клавиатура ATTACK SHARK X85 / Три режима подключения / White Jade Switch / Purple</name_ru>
+        <description_ua><p><strong>ATTACK SHARK X85  — геймерська клавіатура з гаскет-маунтом, RGB і трьома режимами підключення! </strong></p>    <p>ATTACK SHARK X85 —  механічна клавіатура для геймерів та користувачів, яким потрібна максимальна швидкість, чутливість та точність у кожному натисканні.</p>    <p><strong>Основні характеристики:</strong></p>    <ul>   <li>Формат: 75% ANSI (82 клавіші + CNC-регулятор)</li>   <li>Підключення: USB-C / 2.4G / Bluetooth 5.0</li>   <li>Підсвітка: RGB, 19 режимів, south-facing</li>   <li>Тип: Гаскет-маунт + 5-шарова шумоізоляція (PORON, IXPE, PET, Silicone)</li>   <li>Перемикачі: White Jade (змащені), Hot-Swappable</li>   <li>Сумісність: Windows / Mac / Android / iOS</li>   <li>Акумулятор: 5000 мАг</li>   <li>Повна настройка через ПЗ</li>  </ul>    <p><strong>Особливості:</strong></p>    <ul>   <li>CNC-регулятор: обертання — гучність, натискання — перемикання підсвітки</li>   <li>Ергономічний корпус із градієнтним оформленням</li>   <li>Миттєве перемикання між пристроями</li>   <li>Боковий друк символів</li>   <li>South-facing підсвітка — не засліплює очі</li>   <li>Ідеальна плавність, тиша й комфорт</li>  </ul></description_ua>
+        <description_ru><p><strong>ATTACK SHARK X85  — геймерская клавиатура с гаскет-маунтом, RGB и тремя режимами подключения!</strong></p>    <p>ATTACK SHARK X85 — механическая клавиатура для геймеров и пользователей, которым нужна максимальная скорость, чувствительность и точность в каждом нажатии.</p>    <p><strong>Основные характеристики:</strong></p>    <ul>   <li>Формат: 75% ANSI (82 клавиши + CNC-регулятор)</li>   <li>Подключение: USB-C / 2.4G / Bluetooth 5.0</li>   <li>Подсветка: RGB, 19 режимов, south-facing</li>   <li>Тип: Гаскет-маунт + 5-слойная шумоизоляция (PORON, IXPE, PET, Silicone)</li>   <li>Переключатели: White Jade (смазанные), Hot-Swappable</li>   <li>Совместимость: Windows / Mac / Android / iOS</li>   <li>Аккумулятор: 5000 мАч</li>   <li>Полная настройка через Пз</li>  </ul>    <p><strong>Особенности:</strong></p>    <ul>   <li>CNC-регулятор: вращение — громкость, нажатие — переключение подсветки</li>   <li>Эргономичный корпус с градиентным оформлением</li>   <li>Мгновенное переключение между устройствами</li>   <li>Боковая печать символов</li>   <li>South-facing подсветка — не ослепляет глаза</li>   <li>Идеальная плавность, тишина и комфорт</li>  </ul></description_ru>
+        <price>2999</price>
+        <old_price>3299</old_price>
+        <categoryId>1082</categoryId>
+        <vendor>Attack Shark</vendor>
+        <picture>https://techgleam.com.ua/content/images/37/80413618877224_%2B8c4fcde87f.jpg</picture>
+        <picture>https://techgleam.com.ua/content/images/37/26817165928040_%2Bf48ad410cd.jpg</picture>
+        <picture>https://techgleam.com.ua/content/images/37/45427612169992_%2Ba7b6bef524.jpg</picture>
+        <picture>https://techgleam.com.ua/content/images/37/61600942997452_%2B3b12f49130.jpg</picture>
+        <picture>https://techgleam.com.ua/content/images/37/83543671833869_%2B71f92d09ad.jpg</picture>
+        <picture>https://techgleam.com.ua/content/images/37/69570308433645_%2Be50a35156d.jpg</picture>
+        <picture>https://techgleam.com.ua/content/images/37/28192662737453_%2Be5799074d4.jpg</picture>
+        <picture>https://techgleam.com.ua/content/images/37/45796916529867_%2B39549dd325.jpg</picture>
+        <picture>https://techgleam.com.ua/content/images/37/95227685281811_%2B210e05415d.jpg</picture>
+        <param name="Гарантія">3 місяці</param>
+        <param name="Колір">Фіолетовий</param>
+        <param name="Конструкція клавіш">Механічна</param>
+        <param name="Підключення">Комбіноване</param>
+        <param name="Інтерфейс підключення">Bluetooth</param>
+        <param name="Інтерфейс підключення">Радіоінтерфейс</param>
+        <param name="Інтерфейс підключення">USB</param>
+        <param name="Розкладка">Eng</param>
+        <param name="Форм-фактор">Компактні</param>
+        <param name="Колір підсвічування">RGB</param>
+        <param name="Підсвічування клавіш">Є</param>
+        <param name="Матеріал корпусу">Пластик</param>
+        <param name="Живлення">Акумулятор</param>
+        <param name="Сумісність з ОС">Windows</param>
+        <param name="Сумісність з ОС">Mac OS</param>
+        <param name="Сумісність з ОС">Linux</param>
+        <param name="Колір">Бузковий</param>
+        <param name="Стан">Новий</param>
+        <param name="Комплектація">Клавіатура</param>
+        <param name="Призначення">Для ПК</param>
+        <param name="Вид">Ігрові</param>
+        <country>Китай</country>
+      </offer>
+      <offer id="565" available="true">
+        <availability_status>available</availability_status>
+        <name_ua>Игровая механическая клавиатура AULA F75 / Три режима подключения / Leobog Axis Reaper Switch / Dark Blue</name_ua>
+        <name_ru>Игровая механическая клавиатура AULA F75 / Три режима подключения / Leobog Axis Reaper Switch / Dark Blue</name_ru>
+        <description_ua><p><strong>Механічна клавіатура AULA F75 </strong></p>    <p>AULA F75 — це універсальна клавіатура для роботи, навчання та ігор, що поєднує компактність, ергономіку та сучасні функції.</p>    <p><strong>Основні характеристики:</strong></p>    <ul>   <li>Тип: Механічна клавіатура, 75% форм-фактор </li>   <li>Розкладка: англійська</li>   <li>Підключення: Bluetooth 5.0 / 2.4 ГГц / USB Type-C  </li>   <li>Сумісність: Windows, Mac, iOS, Android, PS, Xbox  </li>   <li>5-шарова система шумопоглинання для комфортного набору тексту  </li>   <li>Мультимедійне колесо для зручного керування гучністю та підсвіткою</li>   <li>Акумулятор: 4000 мА·год, забезпечує тривалий час автономної роботи.</li>  </ul>    <p><strong>RGB-підсвітка:</strong><br />  • 15 режимів  <br />  • 16.8 млн кольорів  <br />  • Музичний режим реагує на ритм відтворюваної музики</p>    <p><strong>Комплектація:</strong></p>    <ul>   <li>Клавіатура AULA F75  </li>   <li>Кабель USB Type-C  </li>   <li>USB-адаптер 2.4 ГГц  </li>   <li>Захисна накладка від пилу  </li>   <li>4 запасні перемикачі  </li>   <li>Пуллер  </li>   <li>Інструкція користувача</li>  </ul></description_ua>
+        <description_ru><p><strong>Механическая клавиатура AULA F75</strong></p>    <p>AULA F75 – это универсальная клавиатура для работы, обучения и игр, сочетающая компактность, эргономику и современные функции.</p>    <p><strong>Основные характеристики:</strong></p>    <ul>   <li>Тип: Механическая клавиатура, 75% форм-фактор</li>   <li>Раскладка: английская</li>   <li>Подключение: Bluetooth 5.0/2.4 ГГц/USB Type-C</li>   <li>Совместимость: Windows, Mac, iOS, Android, PS, Xbox</li>   <li>5-слойная система шумопоглощения для комфортного набора текста</li>   <li>Мультимедийное колесо для удобного управления громкостью и подсветкой</li>   <li>Аккумулятор: 4000 мАч, обеспечивает длительное время автономной работы.</li>  </ul>    <p><strong>RGB-подсветка:</strong><br />  • 15 режимов<br />  • 16.8 млн цветов<br />  • Музыкальный режим реагирует на ритм воспроизводимой музыки.</p>    <p><strong>Комплектация:</strong></p>    <ul>   <li>Клавиатура AULA F75</li>   <li>Кабель USB Type-C</li>   <li>USB-адаптер 2.4 ГГц</li>   <li>Защитная накладка от пыли</li>   <li>4 запасные переключатели</li>   <li>Пуллер</li>   <li>Руководство пользователя</li>  </ul></description_ru>
+        <price>2599</price>
+        <old_price>2899</old_price>
+        <categoryId>1082</categoryId>
+        <vendor>Aula</vendor>
+        <picture>https://techgleam.com.ua/content/images/16/95608714299997_%2B231b2e3212.jpg</picture>
+        <picture>https://techgleam.com.ua/content/images/16/58423253957398_%2B49e6952272.jpg</picture>
+        <picture>https://techgleam.com.ua/content/images/16/91365340358714_%2B1c0aa4c74b.jpg</picture>
+        <picture>https://techgleam.com.ua/content/images/16/82730488747399_%2Bdb50652e47.jpg</picture>
+        <picture>https://techgleam.com.ua/content/images/16/37188658571242_%2B5773d46899.jpg</picture>
+        <picture>https://techgleam.com.ua/content/images/16/37758524999816_%2B7c759ada55.jpg</picture>
+        <picture>https://techgleam.com.ua/content/images/16/75533253793498_%2B2a442cf937.jpg</picture>
+        <picture>https://techgleam.com.ua/content/images/16/44378563902233_%2Bd12a5dde40.jpg</picture>
+        <picture>https://techgleam.com.ua/content/images/16/67771931931181_%2B647e8efa4e.jpg</picture>
+        <picture>https://techgleam.com.ua/content/images/16/53715146527461_%2Be9930a92c8.jpg</picture>
+        <param name="Гарантія">1 місяць</param>
+        <param name="Колір">Синій</param>
+        <param name="Конструкція клавіш">Механічна</param>
+        <param name="Підключення">Комбіноване</param>
+        <param name="Інтерфейс підключення">Bluetooth</param>
+        <param name="Інтерфейс підключення">Радіоінтерфейс</param>
+        <param name="Інтерфейс підключення">USB</param>
+        <param name="Розкладка">Eng</param>
+        <param name="Форм-фактор">Компактні</param>
+        <param name="Колір підсвічування">RGB</param>
+        <param name="Підсвічування клавіш">Є</param>
+        <param name="Матеріал корпусу">Пластик</param>
+        <param name="Живлення">Акумулятор</param>
+        <param name="Сумісність з ОС">Windows</param>
+        <param name="Сумісність з ОС">Mac OS</param>
+        <param name="Сумісність з ОС">Chrome OS</param>
+        <param name="Стан">Новий</param>
+        <param name="Комплектація">Клавіатура</param>
+        <param name="Призначення">Для ПК</param>
+        <param name="Вид">Ігрові</param>
+        <country>Китай</country>
+      </offer>
+      <offer id="595" available="true">
+        <availability_status>available</availability_status>
+        <name_ua>Металевий USB HUB 8-в-1 / Type-C / USB 3.0 / SD / TF / PD / AUX</name_ua>
+        <name_ru>Металический USB HUB 8-в-1 / Type-C / USB 3.0 / SD / TF / PD / AUX</name_ru>
+        <description_ua><p><strong>Універсальний металевий USB-хаб 8-в-1 з підтримкою Type-C та USB-A</strong></p>    <p><strong>Цей USB-хаб — </strong>ідеальне рішення для розширення можливостей ноутбука чи ПК. Завдяки комбінованому підключенню Type-C + USB-A він сумісний майже з будь-яким пристроєм.</p>    <p><strong>Інтерфейси:</strong></p>    <ul>   <li>USB Type-C  </li>   <li>USB Type-A  </li>   <li>4x USB 3.0  </li>   <li>microSD (TF)  </li>   <li>SD  </li>   <li>AUX 3.5 мм  </li>   <li>Type-C PD</li>  </ul></description_ua>
+        <description_ru><p><strong>Универсальный металлический USB-хаб 8-в-1 с поддержкой Type-C и USB-A </strong></p>    <p><strong>Данный USB хаб — </strong>идеальное решение для расширения возможностей ноутбука или ПК. Благодаря комбинированному подключению Type-C + USB-A он совместим практически с любым устройством.</p>    <p><strong>Интерфейсы:</strong></p>    <ul>   <li>USB Type-C  </li>   <li>USB Type-A  </li>   <li>4x USB 3.0  </li>   <li>microSD (TF)  </li>   <li>SD  </li>   <li>AUX 3.5 мм  </li>   <li>Type-C PD</li>  </ul></description_ru>
+        <price>399</price>
+        <categoryId>1090</categoryId>
+        <vendor>Без бренда</vendor>
+        <picture>https://techgleam.com.ua/content/images/46/55154165704913_%2B3040a9dc33.jpg</picture>
+        <picture>https://techgleam.com.ua/content/images/46/75858116416121_%2B24ac1e59be.jpg</picture>
+        <picture>https://techgleam.com.ua/content/images/46/76915968906839_%2Bd5e97d80e8.jpg</picture>
+        <picture>https://techgleam.com.ua/content/images/46/44482821775283_%2Bcda1650f10.jpg</picture>
+        <param name="Гарантія">1 місяць</param>
+        <param name="Колір">Сірий</param>
+        <param name="Стан">Новий</param>
       </offer>
       <offer id="635" available="true">
         <availability_status>available</availability_status>
@@ -296,7 +480,7 @@
         <picture>https://techgleam.com.ua/content/images/3/igrovaja-myshka-attack-shark-x3-56264147819200_%2B8aa2fc07d6.jpg</picture>
         <picture>https://techgleam.com.ua/content/images/3/igrovaja-myshka-attack-shark-x3-85496551850782_%2Bd7779a6b36.jpg</picture>
         <param name="Гарантія">3 місяці</param>
-        <param name="Колір">Бузковий</param>
+        <param name="Колір">Фіолетовий</param>
         <param name="Підключення">Комбіноване</param>
         <param name="Сумісність з ОС">Microsoft Windows</param>
         <param name="Сумісність з ОС">Mac OS</param>
@@ -432,6 +616,44 @@
         <param name="Роздільна здатність сенсора">Понад 20000 dpi</param>
         <param name="Стан">Новий</param>
         <param name="Тип">Ігрові (геймерські)</param>
+        <country>Китай</country>
+      </offer>
+      <offer id="1502" available="true">
+        <availability_status>available</availability_status>
+        <name_ua>Ігрова магнітна дротова клавіатура Attack Shark R85 / Дротове підключення / Magnetic Switch / Black Gradient</name_ua>
+        <name_ru>Игровая магнитная проводная клавиатура Attack Shark R85 / Проводное подключение / Magnetic Switch / Black Gradient</name_ru>
+        <description_ua><p data-end="1946" data-start="1653"><strong data-end="1676" data-start="1653">Attack Shark R85 HE</strong> — флагманська <strong data-end="1735" data-start="1691">магнітна ігрова клавіатура преміум-класу</strong>, створена для кіберспорту та максимальної продуктивності. Вона використовує <strong data-end="1847" data-start="1812">Hall Effect магнітні перемикачі</strong>, які працюють без фізичного контакту, не зношуються та забезпечують ідеальну стабільність сигналу.</p>    <p data-end="2268" data-start="1948">Технологія <strong data-end="1976" data-start="1959">Rapid Trigger</strong> миттєво фіксує як натискання, так і відпускання клавіш, даючи абсолютну перевагу у FPS-іграх. <strong data-end="2142" data-start="2071">Регульована точка спрацювання від 0,1 до 3,3 мм з точністю 0,005 мм</strong> дозволяє налаштувати клавіатуру під власний стиль — від ультрачутливого шутерного режиму до комфортного повсякденного набору.</p>    <p data-end="2457" data-start="2270">Завдяки <strong data-end="2308" data-start="2278">частоті опитування 8000 Гц</strong> затримка становить лише <strong data-end="2343" data-start="2333">0,1 мс</strong>, що робить відгук практично миттєвим. Форм-фактор <strong data-end="2401" data-start="2394">75%</strong> зберігає всі необхідні клавіші, залишаючись компактним.</p>    <p data-end="2639" data-start="2459">Клавіатура оснащена <strong data-end="2501" data-start="2479">RGB-підсвічуванням</strong>, преміальними <strong data-end="2545" data-start="2516">PBT Double-Shot кейкапами</strong>, зручним <strong data-end="2576" data-start="2555">колесом прокрутки</strong>, підтримує <strong data-end="2600" data-start="2588">Hot-Swap</strong> та підключається через <strong data-end="2638" data-start="2624">USB Type-C</strong>.</p>    <p data-end="2729" data-start="2641"><strong data-end="2664" data-start="2641">Attack Shark R85 HE</strong> — вибір професійних геймерів, де кожна мілісекунда має значення.</p>    <p data-end="2729" data-start="2641"><strong>Основні характеристики:</strong></p>    <ul>   <li data-end="3637" data-start="3588">   <p data-end="3637" data-start="3590">Тип: магнітна ігрова клавіатура (Hall Effect)</p>   </li>   <li data-end="3674" data-start="3638">   <p data-end="3674" data-start="3640">Підключення: дротове, USB Type-C</p>   </li>   <li data-end="3695" data-start="3675">   <p data-end="3695" data-start="3677">Форм-фактор: 75%</p>   </li>   <li data-end="3741" data-start="3696">   <p data-end="3741" data-start="3698">Перемикачі: Magnetic Switch (Hall Sensor)</p>   </li>   <li data-end="3764" data-start="3742">   <p data-end="3764" data-start="3744">Rapid Trigger: так</p>   </li>   <li data-end="3782" data-start="3765">   <p data-end="3782" data-start="3767">Hot-Swap: так</p>   </li>   <li data-end="3803" data-start="3783">   <p data-end="3803" data-start="3785">Gasket-mount: ні</p>   </li>   <li data-end="3826" data-start="3804">   <p data-end="3826" data-start="3806">Підсвічування: RGB</p>   </li>   <li data-end="3865" data-start="3827">   <p data-end="3865" data-start="3829">Матеріал кейкапів: PBT Double-Shot</p>   </li>   <li data-end="3897" data-start="3866">   <p data-end="3897" data-start="3868">Керування: колесо прокрутки</p>   </li>   <li data-end="3929" data-start="3898">   <p data-end="3929" data-start="3900">Частота опитування: 8000 Гц</p>   </li>   <li data-end="3950" data-start="3930">   <p data-end="3950" data-start="3932">Затримка: 0.1 мс</p>   </li>   <li data-end="4012" data-start="3951">   <p data-end="4012" data-start="3953">Регулювання точки спрацювання: 0.1–3.3 мм (крок 0.005 мм)</p>   </li>   <li data-end="4044" data-start="4013">   <p data-end="4044" data-start="4015">Габарити: 320 × 145 × 35 мм</p>   </li>   <li data-end="4060" data-start="4045">   <p data-end="4060" data-start="4047">Вага: 730 г</p>   </li>   <li data-end="4076" data-start="4061">   <p data-end="4076" data-start="4063">Стан: новий</p>   </li>   <li data-end="4105" data-start="4077">   <p data-end="4105" data-start="4079">Сумісність: Windows / ПК</p>   </li>  </ul></description_ua>
+        <description_ru><p data-end="2993" data-start="2759"><strong data-end="2782" data-start="2759">Attack Shark R85 HE</strong> — флагманская <strong data-end="2844" data-start="2797">магнитная игровая клавиатура премиум-класса</strong> для киберспорта. Использует <strong data-end="2912" data-start="2873">Hall Effect магнитные переключатели</strong>, работающие без физического контакта и обладающие максимальной износостойкостью.</p>    <p data-end="3198" data-start="2995">Технология <strong data-end="3023" data-start="3006">Rapid Trigger</strong> мгновенно фиксирует нажатие и отпускание клавиш. <strong data-end="3142" data-start="3073">Регулируемая точка срабатывания от 0,1 до 3,3 мм с шагом 0,005 мм</strong> позволяет идеально настроить клавиатуру под стиль игры.</p>    <p data-end="3324" data-start="3200"><strong data-end="3226" data-start="3200">Частота опроса 8000 Гц</strong> обеспечивает задержку всего <strong data-end="3265" data-start="3255">0,1 мс</strong>. Формат <strong data-end="3281" data-start="3274">75%</strong> сохраняет функциональность и компактность.</p>    <p data-end="3495" data-start="3326">RGB-подсветка, <strong data-end="3368" data-start="3341">PBT Double-Shot кейкапы</strong>, колесо прокрутки, <strong data-end="3400" data-start="3388">Hot-Swap</strong> и подключение <strong data-end="3429" data-start="3415">USB Type-C</strong> делают R85 HE полноценным инструментом для профессиональной игры.</p>    <p>Основные характеристики:</p>    <ul>   <li>Тип: магнитная игровая клавиатура (Hall Effect)</li>   <li>Подключение: проводное, USB Type-C</li>   <li>Форм-фактор: 75%</li>   <li>Переключатели: Magnetic Switch (Hall Sensor)</li>   <li>Rapid Trigger: да</li>   <li>Hot-Swap: да</li>   <li>Gasket-mount: нет</li>   <li>Подсветка: RGB</li>   <li>Материал кейкапов: PBT Double-Shot</li>   <li>Управление: колесо прокрутки</li>   <li>Частота опроса: 8000 Гц</li>   <li>Задержка: 0.1 мс</li>   <li>Регулировка точки срабатывания: 0.1–3.3 мм (шаг 0.005 мм)</li>   <li>Габариты: 320×145×35 мм</li>   <li>Вес: 730 г</li>   <li>Состояние: новое</li>   <li>Совместимость: Windows/ПК</li>  </ul></description_ru>
+        <price>3199</price>
+        <old_price>4399</old_price>
+        <categoryId>1082</categoryId>
+        <vendor>Attack Shark</vendor>
+        <picture>https://techgleam.com.ua/content/images/3/igrovaja-magnitnaja-provodnaja-klaviatura-attack-shark-r85-provodnoe-podkluchenie-magnetic-switch-black-75548980167360_%2Bfb847f3eb9.jpg</picture>
+        <picture>https://techgleam.com.ua/content/images/3/igrovaja-magnitnaja-provodnaja-klaviatura-attack-shark-r85-provodnoe-podkluchenie-magnetic-switch-black-46007029611743_%2Bff0380e323.jpg</picture>
+        <picture>https://techgleam.com.ua/content/images/3/igrovaja-magnitnaja-provodnaja-klaviatura-attack-shark-r85-provodnoe-podkluchenie-magnetic-switch-black-67942794498403_%2Bf59bc9e709.jpg</picture>
+        <picture>https://techgleam.com.ua/content/images/3/igrovaja-magnitnaja-provodnaja-klaviatura-attack-shark-r85-provodnoe-podkluchenie-magnetic-switch-black-13567772091410_%2B084af1c4ce.jpg</picture>
+        <picture>https://techgleam.com.ua/content/images/3/igrovaja-magnitnaja-provodnaja-klaviatura-attack-shark-r85-provodnoe-podkluchenie-magnetic-switch-black-31615710101193_%2B642e8bfdb1.jpg</picture>
+        <picture>https://techgleam.com.ua/content/images/3/igrovaja-magnitnaja-provodnaja-klaviatura-attack-shark-r85-provodnoe-podkluchenie-magnetic-switch-black-55570551473597_%2Ba43adc7157.jpg</picture>
+        <picture>https://techgleam.com.ua/content/images/3/igrovaja-magnitnaja-provodnaja-klaviatura-attack-shark-r85-provodnoe-podkluchenie-magnetic-switch-black-92780439429555_%2Bd093097eaf.jpg</picture>
+        <picture>https://techgleam.com.ua/content/images/3/igrovaja-magnitnaja-provodnaja-klaviatura-attack-shark-r85-provodnoe-podkluchenie-magnetic-switch-black-25540494806267_%2Bab929d1c01.jpg</picture>
+        <param name="Гарантія">3 місяці</param>
+        <param name="Колір">Сірий</param>
+        <param name="Конструкція клавіш">Магнітна</param>
+        <param name="Підключення">Дротове</param>
+        <param name="Інтерфейс підключення">USB Type-C</param>
+        <param name="Розкладка">Eng</param>
+        <param name="Форм-фактор">Компактні</param>
+        <param name="Колір підсвічування">RGB</param>
+        <param name="Підсвічування клавіш">Є</param>
+        <param name="Матеріал корпусу">Пластик</param>
+        <param name="Сумісність з ОС">Windows</param>
+        <param name="Сумісність з ОС">Mac OS</param>
+        <param name="Сумісність з ОС">Linux</param>
+        <param name="Колір">Темно-сірий</param>
+        <param name="Стан">Новий</param>
+        <param name="Комплектація">Клавіатура</param>
+        <param name="Призначення">Для ПК</param>
+        <param name="Вид">Ігрові</param>
         <country>Китай</country>
       </offer>
       <offer id="1568" available="true">
@@ -615,39 +837,6 @@
         <param name="Вага">48 г</param>
         <param name="Кількість кнопок миші">6</param>
         <param name="Тип датчика">Оптичний</param>
-        <param name="Інтерфейс підключення">Радіоінтерфейс</param>
-        <param name="Інтерфейс підключення">USB</param>
-        <param name="Роздільна здатність сенсора">Понад 20000 dpi</param>
-        <param name="Стан">Новий</param>
-        <param name="Тип">Ігрові (геймерські)</param>
-        <country>Китай</country>
-      </offer>
-      <offer id="1650" available="true">
-        <availability_status>available</availability_status>
-        <name_ua>Ігрова бездротова мишка ATTACK SHARK X8SE / Три режими підключення / 55g / 25000DPI / Сенсор PAW3311 / Black</name_ua>
-        <name_ru>Игровая беспроводная мышка ATTACK SHARK X8SE / Три режима подключения / 55g / 25000DPI / Сенсор PAW3311 / Black</name_ru>
-        <description_ua><p data-end="472" data-start="170"><strong data-end="192" data-start="170">Attack Shark X8 SE</strong> — ультралегка <strong data-end="219" data-start="207">Tri-Mode</strong> ігрова мишка (дріт / 2.4G / Bluetooth) для FPS та щоденного використання. Вона важить <strong data-end="316" data-start="306">55±3 г</strong>, має точний сенсор <strong data-end="354" data-start="336">PixArt PAW3311</strong> і широкий діапазон <strong data-end="390" data-start="374">DPI 50–40000</strong>, а також стабільну швидкість відстеження до <strong data-end="446" data-start="435">400 IPS</strong> і прискорення до <strong data-end="471" data-start="464">40G</strong>.</p>    <p data-end="743" data-start="474">Мишка підтримує підключення через <strong data-end="517" data-start="508">USB-C</strong> (дротово), працює бездротово по <strong data-end="561" data-start="550">2.4 GHz</strong> і <strong data-end="577" data-start="564">Bluetooth</strong>, тому однаково зручна для ПК, ноутбука та навіть мобільних пристроїв. Перемикачі <strong data-end="668" data-start="659">HUANO</strong> з ресурсом <strong data-end="701" data-start="680">≈80 млн натискань</strong> — надійний варіант на довгу експлуатацію.</p>    <p data-end="766" data-start="745"><strong data-end="766" data-start="745">Ключові переваги:</strong></p>    <ul data-end="1075" data-start="767">   <li data-end="815" data-start="767">   <p data-end="815" data-start="769"><strong data-end="792" data-start="769">Ультралегка: 55±3 г</strong> — мінімум втоми руки</p>   </li>   <li data-end="858" data-start="816">   <p data-end="858" data-start="818"><strong data-end="831" data-start="818">Tri-Mode:</strong> USB-C / 2.4G / Bluetooth</p>   </li>   <li data-end="921" data-start="859">   <p data-end="921" data-start="861">Сенсор <strong data-end="879" data-start="868">PAW3311</strong>: <strong data-end="897" data-start="881">50–40000 DPI</strong>, <strong data-end="910" data-start="899">400 IPS</strong>, <strong data-end="919" data-start="912">40G</strong></p>   </li>   <li data-end="986" data-start="922">   <p data-end="986" data-start="924"><strong data-end="945" data-start="924">Polling rate 1KHz</strong> (дріт і бездротово — за специфікацією)</p>   </li>   <li data-end="1023" data-start="987">   <p data-end="1023" data-start="989"><strong data-end="1002" data-start="989">HUANO 80M</strong> — довговічні кліки</p>   </li>   <li data-end="1075" data-start="1024">   <p data-end="1075" data-start="1026">Ергономічна форма + 2 бічні кнопки (вперед/назад)</p>   </li>  </ul>    <p data-end="1096" data-start="1077"><strong data-end="1096" data-start="1077">Характеристики:</strong></p>    <ul data-end="1482" data-start="1097">   <li data-end="1116" data-start="1097">   <p data-end="1116" data-start="1099">Модель: <strong data-end="1116" data-start="1107">X8 SE</strong></p>   </li>   <li data-end="1149" data-start="1117">   <p data-end="1149" data-start="1119">Розмір: <strong data-end="1149" data-start="1127">125.5 × 63 × 40 мм</strong></p>   </li>   <li data-end="1170" data-start="1150">   <p data-end="1170" data-start="1152">Вага: <strong data-end="1170" data-start="1158">55 ± 3 г</strong></p>   </li>   <li data-end="1199" data-start="1171">   <p data-end="1199" data-start="1173">Сенсор: <strong data-end="1199" data-start="1181">PixArt PAW3311</strong></p>   </li>   <li data-end="1219" data-start="1200">   <p data-end="1219" data-start="1202">DPI: <strong data-end="1219" data-start="1207">50–40000</strong></p>   </li>   <li data-end="1247" data-start="1220">   <p data-end="1247" data-start="1222">Швидкість: <strong data-end="1247" data-start="1233">до 400 IPS</strong></p>   </li>   <li data-end="1273" data-start="1248">   <p data-end="1273" data-start="1250">Прискорення: <strong data-end="1273" data-start="1263">до 40G</strong></p>   </li>   <li data-end="1310" data-start="1274">   <p data-end="1310" data-start="1276">Підключення: <strong data-end="1310" data-start="1289">Wired / 2.4G / BT</strong></p>   </li>   <li data-end="1366" data-start="1311">   <p data-end="1366" data-start="1313">Частота опитування: <strong data-end="1366" data-start="1333">1KHz (wired), 1KHz (wireless)</strong></p>   </li>   <li data-end="1405" data-start="1367">   <p data-end="1405" data-start="1369">Інтерфейс зарядки/кабель: <strong data-end="1405" data-start="1395">Type-C</strong></p>   </li>   <li data-end="1431" data-start="1406">   <p data-end="1431" data-start="1408">Акумулятор: <strong data-end="1431" data-start="1420">500 mAh</strong></p>   </li>  </ul></description_ua>
-        <description_ru><p data-end="1783" data-start="1509"><strong data-end="1531" data-start="1509">Attack Shark X8 SE</strong> — ультралёгкая игровая мышь <strong data-end="1572" data-start="1560">Tri-Mode</strong> (провод / 2.4G / Bluetooth) для FPS и ежедневного использования. Вес <strong data-end="1652" data-start="1642">55±3 г</strong>, точный сенсор <strong data-end="1686" data-start="1668">PixArt PAW3311</strong>, широкий диапазон <strong data-end="1721" data-start="1705">DPI 50–40000</strong>, скорость отслеживания до <strong data-end="1759" data-start="1748">400 IPS</strong> и ускорение до <strong data-end="1782" data-start="1775">40G</strong>.</p>    <p data-end="2028" data-start="1785">Подключается по <strong data-end="1810" data-start="1801">USB-C</strong> (провод), работает беспроводно по <strong data-end="1856" data-start="1845">2.4 GHz</strong> и <strong data-end="1872" data-start="1859">Bluetooth</strong>, поэтому удобно использовать с ПК, ноутбуком и мобильными устройствами. Переключатели <strong data-end="1968" data-start="1959">HUANO</strong> с ресурсом <strong data-end="1999" data-start="1980">≈80 млн нажатий</strong> рассчитаны на долгую службу.</p>    <p data-end="2047" data-start="2030"><strong data-end="2047" data-start="2030">Преимущества:</strong></p>    <ul data-end="2320" data-start="2048">   <li data-end="2076" data-start="2048">   <p data-end="2076" data-start="2050"><strong data-end="2074" data-start="2050">Ультралёгкая: 55±3 г</strong></p>   </li>   <li data-end="2119" data-start="2077">   <p data-end="2119" data-start="2079"><strong data-end="2092" data-start="2079">Tri-Mode:</strong> USB-C / 2.4G / Bluetooth</p>   </li>   <li data-end="2182" data-start="2120">   <p data-end="2182" data-start="2122">Сенсор <strong data-end="2140" data-start="2129">PAW3311</strong>: <strong data-end="2158" data-start="2142">50–40000 DPI</strong>, <strong data-end="2171" data-start="2160">400 IPS</strong>, <strong data-end="2180" data-start="2173">40G</strong></p>   </li>   <li data-end="2245" data-start="2183">   <p data-end="2245" data-start="2185"><strong data-end="2206" data-start="2185">Polling rate 1KHz</strong> (провод/беспровод — по спецификации)</p>   </li>   <li data-end="2280" data-start="2246">   <p data-end="2280" data-start="2248"><strong data-end="2261" data-start="2248">HUANO 80M</strong> — надёжные клики</p>   </li>   <li data-end="2320" data-start="2281">   <p data-end="2320" data-start="2283">Эргономичная форма + 2 боковые кнопки</p>   </li>  </ul>    <p data-end="2341" data-start="2322"><strong data-end="2341" data-start="2322">Характеристики:</strong></p>    <ul data-end="2690" data-start="2342">   <li data-end="2361" data-start="2342">   <p data-end="2361" data-start="2344">Модель: <strong data-end="2361" data-start="2352">X8 SE</strong></p>   </li>   <li data-end="2394" data-start="2362">   <p data-end="2394" data-start="2364">Размер: <strong data-end="2394" data-start="2372">125.5 × 63 × 40 мм</strong></p>   </li>   <li data-end="2414" data-start="2395">   <p data-end="2414" data-start="2397">Вес: <strong data-end="2414" data-start="2402">55 ± 3 г</strong></p>   </li>   <li data-end="2443" data-start="2415">   <p data-end="2443" data-start="2417">Сенсор: <strong data-end="2443" data-start="2425">PixArt PAW3311</strong></p>   </li>   <li data-end="2463" data-start="2444">   <p data-end="2463" data-start="2446">DPI: <strong data-end="2463" data-start="2451">50–40000</strong></p>   </li>   <li data-end="2490" data-start="2464">   <p data-end="2490" data-start="2466">Скорость: <strong data-end="2490" data-start="2476">до 400 IPS</strong></p>   </li>   <li data-end="2514" data-start="2491">   <p data-end="2514" data-start="2493">Ускорение: <strong data-end="2514" data-start="2504">до 40G</strong></p>   </li>   <li data-end="2551" data-start="2515">   <p data-end="2551" data-start="2517">Подключение: <strong data-end="2551" data-start="2530">Wired / 2.4G / BT</strong></p>   </li>   <li data-end="2603" data-start="2552">   <p data-end="2603" data-start="2554">Частота опроса: <strong data-end="2603" data-start="2570">1KHz (wired), 1KHz (wireless)</strong></p>   </li>   <li data-end="2624" data-start="2604">   <p data-end="2624" data-start="2606">Разъём: <strong data-end="2624" data-start="2614">Type-C</strong></p>   </li>   <li data-end="2651" data-start="2625">   <p data-end="2651" data-start="2627">Аккумулятор: <strong data-end="2651" data-start="2640">500 mAh</strong></p>   </li>  </ul></description_ru>
-        <price>1399</price>
-        <old_price>1699</old_price>
-        <categoryId>1084</categoryId>
-        <vendor>Attack Shark</vendor>
-        <picture>https://techgleam.com.ua/content/images/1/igrovaja-besprovodnaja-myshka-attack-shark-x8se-tri-rezhima-podkluchenija-55g-25000dpi-sensor-paw3311-black-12632386293672_%2B921b063ece.jpg</picture>
-        <picture>https://techgleam.com.ua/content/images/1/igrovaja-besprovodnaja-myshka-attack-shark-x8se-tri-rezhima-podkluchenija-55g-25000dpi-sensor-paw3311-black-19179351274368_%2Baa3be461fa.jpg</picture>
-        <picture>https://techgleam.com.ua/content/images/1/igrovaja-besprovodnaja-myshka-attack-shark-x8se-tri-rezhima-podkluchenija-55g-25000dpi-sensor-paw3311-black-32359999521539_%2B4f5ab09232.jpg</picture>
-        <picture>https://techgleam.com.ua/content/images/1/igrovaja-besprovodnaja-myshka-attack-shark-x8se-tri-rezhima-podkluchenija-55g-25000dpi-sensor-paw3311-black-88061421018399_%2B2bc5d30f7c.jpg</picture>
-        <picture>https://techgleam.com.ua/content/images/1/igrovaja-besprovodnaja-myshka-attack-shark-x8se-tri-rezhima-podkluchenija-55g-25000dpi-sensor-paw3311-black-95349777007084_%2Bf9caf97142.jpg</picture>
-        <param name="Гарантія">3 місяці</param>
-        <param name="Колір">Чорний</param>
-        <param name="Підключення">Комбіноване</param>
-        <param name="Сумісність з ОС">Microsoft Windows</param>
-        <param name="Сумісність з ОС">Mac OS</param>
-        <param name="Сумісність з ОС">Linux</param>
-        <param name="Вага">55 г</param>
-        <param name="Колір">Білий</param>
-        <param name="Кількість кнопок миші">6</param>
-        <param name="Тип датчика">Оптичний</param>
-        <param name="Інтерфейс підключення">Bluetooth</param>
         <param name="Інтерфейс підключення">Радіоінтерфейс</param>
         <param name="Інтерфейс підключення">USB</param>
         <param name="Роздільна здатність сенсора">Понад 20000 dpi</param>
@@ -1214,7 +1403,7 @@
         <picture>https://techgleam.com.ua/content/images/9/grova-mexanchna-klavatura-kondor-moonlight-x-drotove-pdkluchennja-brown-switch-black-grey-black-51572849674678_%2Bc448826516.jpg</picture>
         <picture>https://techgleam.com.ua/content/images/9/grova-mexanchna-klavatura-kondor-moonlight-x-drotove-pdkluchennja-brown-switch-black-grey-black-62518377539247_%2B592d469feb.jpg</picture>
         <param name="Гарантія">12 місяців</param>
-        <param name="Колір">Темно-сірий</param>
+        <param name="Колір">Сірий</param>
         <param name="Конструкція клавіш">Механічна</param>
         <param name="Підключення">Дротове</param>
         <param name="Інтерфейс підключення">USB Type-C</param>
@@ -1226,6 +1415,7 @@
         <param name="Сумісність з ОС">Windows</param>
         <param name="Сумісність з ОС">Mac OS</param>
         <param name="Сумісність з ОС">Linux</param>
+        <param name="Колір">Темно-сірий</param>
         <param name="Стан">Новий</param>
         <param name="Комплектація">Клавіатура</param>
         <param name="Призначення">Для ПК</param>
@@ -1731,13 +1921,12 @@
         <vendor>Eweadn</vendor>
         <picture>https://techgleam.com.ua/content/images/11/grova-bezdrotova-mishka-eweadn-s9-ultra-plus-tri-rezhimi-pdkluchennja-sensor-paw3950-42000-dpi-silver-34061434715834_%2B3250ea2ba6.png</picture>
         <param name="Гарантія">3 місяці</param>
-        <param name="Колір">Сірий</param>
+        <param name="Колір">Сріблястий</param>
         <param name="Підключення">Комбіноване</param>
         <param name="Сумісність з ОС">Microsoft Windows</param>
         <param name="Сумісність з ОС">Mac OS</param>
         <param name="Сумісність з ОС">Linux</param>
         <param name="Вага">59 г</param>
-        <param name="Колір">Сріблястий</param>
         <param name="Кількість кнопок миші">6</param>
         <param name="Тип датчика">Оптичний</param>
         <param name="Інтерфейс підключення">Bluetooth</param>
@@ -1860,14 +2049,14 @@
         <name_ru>Игровая беспроводная механическая клавиатура ATTACK SHARK X85 / Eng+Ukr / Три режима подключения / White Jade Switch / Purple</name_ru>
         <description_ua><p><strong>ATTACK SHARK X85  — геймерська клавіатура з додатковою українською мовою!</strong></p>    <p>ATTACK SHARK X85 —  механічна клавіатура для геймерів та користувачів, яким потрібна максимальна швидкість, чутливість та точність у кожному натисканні.</p>    <p><strong>Основні характеристики:</strong></p>    <ul>   <li>Формат: 75% ANSI (82 клавіші + CNC-регулятор)</li>   <li>Розкладка: Англійська і Українська</li>   <li>Підключення: USB-C / 2.4G / Bluetooth 5.0</li>   <li>Підсвітка: RGB, 19 режимів, south-facing</li>   <li>Тип: Гаскет-маунт + 5-шарова шумоізоляція (PORON, IXPE, PET, Silicone)</li>   <li>Перемикачі: White Jade (змащені), Hot-Swappable</li>   <li>Сумісність: Windows / Mac / Android / iOS</li>   <li>Акумулятор: 5000 мАг</li>   <li>Повна настройка через ПЗ</li>  </ul>    <p><strong>Особливості:</strong></p>    <ul>   <li>CNC-регулятор: обертання — гучність, натискання — перемикання підсвітки</li>   <li>Ергономічний корпус із градієнтним оформленням</li>   <li>Миттєве перемикання між пристроями</li>   <li>Боковий друк символів</li>   <li>South-facing підсвітка — не засліплює очі</li>   <li>Ідеальна плавність, тиша й комфорт</li>  </ul></description_ua>
         <description_ru><p><strong>ATTACK SHARK X85  — геймерская клавиатура с дополнительным украинским языком!</strong></p>    <p>ATTACK SHARK X85 — механическая клавиатура для геймеров и пользователей, которым нужна максимальная скорость, чувствительность и точность в каждом нажатии.</p>    <p><strong>Основные характеристики:</strong></p>    <ul>   <li>Формат: 75% ANSI (82 клавиши + CNC-регулятор)</li>   <li>Раскладка: Английская и Украинская</li>   <li>Подключение: USB-C / 2.4G / Bluetooth 5.0</li>   <li>Подсветка: RGB, 19 режимов, south-facing</li>   <li>Тип: Гаскет-маунт + 5-слойная шумоизоляция (PORON, IXPE, PET, Silicone)</li>   <li>Переключатели: White Jade (смазанные), Hot-Swappable</li>   <li>Совместимость: Windows / Mac / Android / iOS</li>   <li>Аккумулятор: 5000 мАч</li>   <li>Полная настройка через ПО</li>  </ul>    <p><strong>Особенности:</strong></p>    <ul>   <li>CNC-регулятор: вращение — громкость, нажатие — переключение подсветки</li>   <li>Эргономичный корпус с градиентным оформлением</li>   <li>Мгновенное переключение между устройствами</li>   <li>Боковая печать символов</li>   <li>South-facing подсветка — не ослепляет глаза</li>   <li>Идеальная плавность, тишина и комфорт</li>  </ul></description_ru>
-        <price>2999</price>
+        <price>3199</price>
         <old_price>3299</old_price>
         <categoryId>1082</categoryId>
         <vendor>Attack Shark</vendor>
         <picture>https://techgleam.com.ua/content/images/25/grova-bezdrotova-mexanchna-klavatura-attack-shark-x85-engukr-tri-rezhimi-pdkluchennja-white-jade-switch-purple-32564355077672_%2Bd3673c3af3.png</picture>
         <picture>https://techgleam.com.ua/content/images/25/grova-bezdrotova-mexanchna-klavatura-attack-shark-x85-engukr-tri-rezhimi-pdkluchennja-white-jade-switch-purple-98497957899462_%2B6e846df99d.png</picture>
         <param name="Гарантія">3 місяці</param>
-        <param name="Колір">Бузковий</param>
+        <param name="Колір">Фіолетовий</param>
         <param name="Конструкція клавіш">Механічна</param>
         <param name="Підключення">Комбіноване</param>
         <param name="Інтерфейс підключення">Bluetooth</param>
@@ -1882,6 +2071,7 @@
         <param name="Сумісність з ОС">Windows</param>
         <param name="Сумісність з ОС">Mac OS</param>
         <param name="Сумісність з ОС">Linux</param>
+        <param name="Колір">Бузковий</param>
         <param name="Стан">Новий</param>
         <param name="Комплектація">Клавіатура</param>
         <param name="Призначення">Для ПК</param>
@@ -1964,7 +2154,7 @@
         <vendor>ATK</vendor>
         <picture>https://techgleam.com.ua/content/images/49/grova-bezdrotova-mishka-atk-blazing-sky-x1-ultimate-2.0-tri-rezhimi-pdkluchennja-sensor-paw3950-ultra-silver-48879472838488_%2Bea7b857b9c.jpg</picture>
         <param name="Гарантія">3 місяці</param>
-        <param name="Колір">Сірий</param>
+        <param name="Колір">Сріблястий</param>
         <param name="Підключення">Комбіноване</param>
         <param name="Сумісність з ОС">Microsoft Windows</param>
         <param name="Сумісність з ОС">Mac OS</param>
@@ -2693,7 +2883,7 @@
         <picture>https://techgleam.com.ua/content/images/30/magntna-klavatura-aula-hero-68-he-60-drotove-pdkluchennja-dragon-king-switch-purple-63953393559903_%2B73eac609c3.jpg</picture>
         <picture>https://techgleam.com.ua/content/images/30/magntna-klavatura-aula-hero-68-he-60-drotove-pdkluchennja-dragon-king-switch-purple-21542961546347_%2B0ee549c148.jpg</picture>
         <param name="Гарантія">3 місяці</param>
-        <param name="Колір">Бузковий</param>
+        <param name="Колір">Фіолетовий</param>
         <param name="Конструкція клавіш">Магнітна</param>
         <param name="Підключення">Дротове</param>
         <param name="Інтерфейс підключення">USB Type-C</param>
@@ -2705,6 +2895,7 @@
         <param name="Сумісність з ОС">Windows</param>
         <param name="Сумісність з ОС">Mac OS</param>
         <param name="Сумісність з ОС">Linux</param>
+        <param name="Колір">Бузковий</param>
         <param name="Стан">Новий</param>
         <param name="Комплектація">Клавіатура</param>
         <param name="Призначення">Для ПК</param>
@@ -2880,7 +3071,7 @@
         <name_ru>Игровая механическая беспроводная клавиатура Attack Shark X85 Pro / Три режима подключения / Blueberry Switch / White Lines</name_ru>
         <description_ua><p data-end="1747" data-start="1495"><strong data-end="1518" data-start="1495">Attack Shark X85PRO</strong> — це преміальна механічна клавіатура формату <strong data-end="1571" data-start="1564">75%</strong>, створена для геймерів, ентузіастів та професіоналів. Вона поєднує <strong data-end="1667" data-start="1639">gasket-mount конструкцію</strong>, розумний <strong data-end="1693" data-start="1678">TFT-дисплей</strong>, металевий <strong data-end="1720" data-start="1705">CNC-енкодер</strong> та три режими підключення.</p>    <p data-end="1835" data-start="1749">Підтримується <strong data-end="1787" data-start="1763">Tri-mode підключення</strong>:<br data-end="1791" data-start="1788" />    Bluetooth<br data-end="1805" data-start="1802" />    2.4G радіо<br data-end="1820" data-start="1817" />    Дротове USB</p>    <p data-end="2016" data-start="1837">Клавіатура оснащена <strong data-end="1890" data-start="1857">Hot-Swap платою (3pin / 5pin)</strong> — ви можете змінювати перемикачі без пайки. Заводські <strong data-end="1982" data-start="1945">pre-lubed linear Blueberry switch</strong> забезпечують плавний і тихий хід.</p>    <p data-end="2192" data-start="2018">Конструкція має <strong data-end="2068" data-start="2034">5-шарове внутрішнє демпфування</strong>, що знижує вібрації та шум. <strong data-end="2137" data-start="2097">RGB-підсвічування з South-Facing LED</strong> підтримує програмування через QMK та фірмовий драйвер.</p>    <p data-end="2311" data-start="2194">Ємний <strong data-end="2223" data-start="2200">акумулятор 4000 мАг</strong> гарантує тривалу автономність, а система Smart Power Saving зменшує споживання енергії.</p>    <p data-end="2386" data-start="2313"><strong data-end="2323" data-start="2313">X85PRO</strong> — це клавіатура рівня custom у готовому заводському виконанні.</p>    <p data-end="2386" data-start="2313"><strong>Основні характеристики:</strong></p>    <ul data-end="3828" data-start="3177">   <li data-end="3249" data-start="3220">   <p data-end="3249" data-start="3222">Тип: механічна клавіатура</p>   </li>   <li data-end="3272" data-start="3250">   <p data-end="3272" data-start="3252">Формат: 75% (ANSI)</p>   </li>   <li data-end="3323" data-start="3273">   <p data-end="3323" data-start="3275">Підключення: Bluetooth / 2.4G / USB (Tri-mode)</p>   </li>   <li data-end="3353" data-start="3324">   <p data-end="3353" data-start="3326">Конструкція: Gasket-Mount</p>   </li>   <li data-end="3385" data-start="3354">   <p data-end="3385" data-start="3356">Hot-Swap: так (3pin / 5pin)</p>   </li>   <li data-end="3430" data-start="3386">   <p data-end="3430" data-start="3388">Перемикачі: Linear Blueberry (pre-lubed)</p>   </li>   <li data-end="3465" data-start="3431">   <p data-end="3465" data-start="3433">Кількість клавіш: ~82–84 (75%)</p>   </li>   <li data-end="3506" data-start="3466">   <p data-end="3506" data-start="3468">Підсвічування: RGB, South-Facing LED</p>   </li>   <li data-end="3537" data-start="3507">   <p data-end="3537" data-start="3509">Дисплей: TFT Smart Display</p>   </li>   <li data-end="3574" data-start="3538">   <p data-end="3574" data-start="3540">Керування: CNC металевий енкодер</p>   </li>   <li data-end="3619" data-start="3575">   <p data-end="3619" data-start="3577">Програмування: QMK + Attack Shark Driver</p>   </li>   <li data-end="3649" data-start="3620">   <p data-end="3649" data-start="3622">Кейкапи: PBT, OEM профіль</p>   </li>   <li data-end="3690" data-start="3650">   <p data-end="3690" data-start="3652">Демпфування: 5-шарове шумопоглинання</p>   </li>   <li data-end="3715" data-start="3691">   <p data-end="3715" data-start="3693">Акумулятор: 4000 мАг</p>   </li>   <li data-end="3747" data-start="3716">   <p data-end="3747" data-start="3718">Сумісність: Windows / macOS</p>   </li>   <li data-end="3778" data-start="3748">   <p data-end="3778" data-start="3750">Живлення: акумулятор + USB</p>   </li>  </ul></description_ua>
         <description_ru><p data-end="2643" data-start="2416"><strong data-end="2439" data-start="2416">Attack Shark X85PRO</strong> — премиальная механическая клавиатура формата <strong data-end="2493" data-start="2486">75%</strong> для геймеров и энтузиастов. Она сочетает <strong data-end="2563" data-start="2535">gasket-mount конструкцию</strong>, умный <strong data-end="2586" data-start="2571">TFT-дисплей</strong>, металлический <strong data-end="2617" data-start="2602">CNC-энкодер</strong> и три режима подключения.</p>    <p data-end="2728" data-start="2645">Поддерживается <strong data-end="2684" data-start="2660">Tri-mode подключение</strong>:<br data-end="2688" data-start="2685" />    Bluetooth<br data-end="2702" data-start="2699" />    2.4G<br data-end="2711" data-start="2708" />    Проводное USB</p>    <p data-end="2887" data-start="2730"><strong data-end="2762" data-start="2730">Hot-Swap плата (3pin / 5pin)</strong> позволяет менять переключатели без пайки. Заводские <strong data-end="2852" data-start="2815">pre-lubed linear Blueberry switch</strong> обеспечивают мягкий и плавный ход.</p>    <p data-end="3058" data-start="2889">Внутри используется <strong data-end="2936" data-start="2909">5-слойное демпфирование</strong> для минимизации шума и вибраций. <strong data-end="3004" data-start="2970">RGB-подсветка South-Facing LED</strong> поддерживает настройку через QMK и фирменный драйвер.</p>    <p data-end="3127" data-start="3060">Аккумулятор <strong data-end="3084" data-start="3072">4000 мАч</strong> обеспечивает длительную автономную работу.</p>    <p data-end="3127" data-start="3060"><strong>Основные характеристики:</strong></p>    <ul>   <li>Тип: механическая клавиатура</li>   <li>Формат: 75% (ANSI)</li>   <li>Подключение: Bluetooth/2.4G/USB (Tri-mode)</li>   <li>Конструкция: Gasket-Mount</li>   <li>Hot-Swap: да (3pin / 5pin)</li>   <li>Переключатели: Linear Blueberry (pre-lubed)</li>   <li>Количество клавиш: ~82–84 (75%)</li>   <li>Подсветка: RGB, South-Facing LED</li>   <li>Дисплей: TFT Smart Display</li>   <li>Управление: CNC металлический энкодер</li>   <li>Программирование: QMK + Attack Shark Driver</li>   <li>Кейкапы: PBT, OEM профиль</li>   <li>Демпфирование: 5-слойное шумопоглощение</li>   <li>Аккумулятор: 4000 мАч</li>   <li>Совместимость: Windows/macOS</li>   <li>Питание: аккумулятор + USB</li>  </ul></description_ru>
-        <price>2999</price>
+        <price>3099</price>
         <categoryId>1082</categoryId>
         <vendor>Attack Shark</vendor>
         <picture>https://techgleam.com.ua/content/images/20/igrova-mexanchna-bezdrotova-klavatura-attack-shark-x85-pro-tri-rezhimi-pdkluchennja-blueberry-switch-white-lines-60008787056550_%2Bfa43cec7a6.jpg</picture>
@@ -2961,7 +3152,7 @@
         <picture>https://techgleam.com.ua/content/images/25/bezdrotova-grova-misha-attack-shark-rs3-ultra-tri-rezhimi-pdkluchennja-sensor-paw3955max-52000-dpi-carbon-fiber-silver-87520819005555_%2B69a4518234.jpg</picture>
         <picture>https://techgleam.com.ua/content/images/25/bezdrotova-grova-misha-attack-shark-rs3-ultra-tri-rezhimi-pdkluchennja-sensor-paw3955max-52000-dpi-carbon-fiber-silver-98209023751167_%2Bc459f3aeae.jpg</picture>
         <param name="Гарантія">3 місяці</param>
-        <param name="Колір">Сірий</param>
+        <param name="Колір">Сріблястий</param>
         <param name="Підключення">Комбіноване</param>
         <param name="Сумісність з ОС">Microsoft Windows</param>
         <param name="Сумісність з ОС">Mac OS</param>
@@ -3415,7 +3606,7 @@
         <picture>https://techgleam.com.ua/content/images/15/97163125299942_%2B27386230f7.jpg</picture>
         <picture>https://techgleam.com.ua/content/images/15/35504972482379_%2Bcd4dd7f4b3.jpg</picture>
         <param name="Гарантія">1 місяць</param>
-        <param name="Колір">Бузковий</param>
+        <param name="Колір">Фіолетовий</param>
         <param name="Конструкція клавіш">Механічна</param>
         <param name="Підключення">Дротове</param>
         <param name="Інтерфейс підключення">USB Type-C</param>
@@ -3426,6 +3617,7 @@
         <param name="Матеріал корпусу">Пластик</param>
         <param name="Сумісність з ОС">Windows</param>
         <param name="Сумісність з ОС">Mac OS</param>
+        <param name="Колір">Бузковий</param>
         <param name="Стан">Новий</param>
         <param name="Комплектація">Клавіатура</param>
         <param name="Призначення">Для ПК</param>
@@ -3590,7 +3782,7 @@
         <picture>https://techgleam.com.ua/content/images/20/65817139803599_%2Be30527bf9c.jpg</picture>
         <picture>https://techgleam.com.ua/content/images/20/28673482484509_%2B73dd316767.jpg</picture>
         <param name="Гарантія">3 місяці</param>
-        <param name="Колір">Темно-сірий</param>
+        <param name="Колір">Сірий</param>
         <param name="Конструкція клавіш">Магнітна</param>
         <param name="Підключення">Дротове</param>
         <param name="Інтерфейс підключення">USB Type-C</param>
@@ -3602,6 +3794,7 @@
         <param name="Сумісність з ОС">Windows</param>
         <param name="Сумісність з ОС">Mac OS</param>
         <param name="Сумісність з ОС">Linux</param>
+        <param name="Колір">Темно-сірий</param>
         <param name="Стан">Новий</param>
         <param name="Комплектація">Клавіатура</param>
         <param name="Призначення">Для ПК</param>
@@ -3642,89 +3835,6 @@
         <param name="Вид">Ігрові</param>
         <country>Китай</country>
       </offer>
-      <offer id="521" available="false">
-        <availability_status>temporarily_unavailable</availability_status>
-        <name_ua>Ігрова бездротова механічна клавіатура ATTACK SHARK X85 / Три режими підключення / White Jade Switch / Black</name_ua>
-        <name_ru>Игровая беспроводная механическая клавиатура ATTACK SHARK X85 / Три режима подключения / White Jade Switch / Black</name_ru>
-        <description_ua><p><strong>ATTACK SHARK X85  — геймерська клавіатура з гаскет-маунтом, RGB і трьома режимами підключення! </strong></p>    <p>ATTACK SHARK X85 —  механічна клавіатура для геймерів та користувачів, яким потрібна максимальна швидкість, чутливість та точність у кожному натисканні.</p>    <p><strong>Основні характеристики:</strong></p>    <ul>   <li>Формат: 75% ANSI (82 клавіші + CNC-регулятор)</li>   <li>Підключення: USB-C / 2.4G / Bluetooth 5.0</li>   <li>Підсвітка: RGB, 19 режимів, south-facing</li>   <li>Тип: Гаскет-маунт + 5-шарова шумоізоляція (PORON, IXPE, PET, Silicone)</li>   <li>Перемикачі: White Jade (змащені), Hot-Swappable</li>   <li>Сумісність: Windows / Mac / Android / iOS</li>   <li>Акумулятор: 5000 мАг</li>   <li>Повна настройка через ПЗ</li>  </ul>    <p><strong>Особливості:</strong></p>    <ul>   <li>CNC-регулятор: обертання — гучність, натискання — перемикання підсвітки</li>   <li>Ергономічний корпус із градієнтним оформленням</li>   <li>Миттєве перемикання між пристроями</li>   <li>Боковий друк символів</li>   <li>South-facing підсвітка — не засліплює очі</li>   <li>Ідеальна плавність, тиша й комфорт</li>  </ul></description_ua>
-        <description_ru><p><strong>ATTACK SHARK X85  — геймерская клавиатура с гаскет-маунтом, RGB и тремя режимами подключения!</strong></p>    <p>ATTACK SHARK X85 — механическая клавиатура для геймеров и пользователей, которым нужна максимальная скорость, чувствительность и точность в каждом нажатии.</p>    <p><strong>Основные характеристики:</strong></p>    <ul>   <li>Формат: 75% ANSI (82 клавиши + CNC-регулятор)</li>   <li>Подключение: USB-C / 2.4G / Bluetooth 5.0</li>   <li>Подсветка: RGB, 19 режимов, south-facing</li>   <li>Тип: Гаскет-маунт + 5-слойная шумоизоляция (PORON, IXPE, PET, Silicone)</li>   <li>Переключатели: White Jade (смазанные), Hot-Swappable</li>   <li>Совместимость: Windows / Mac / Android / iOS</li>   <li>Аккумулятор: 5000 мАч</li>   <li>Полная настройка через Пз</li>  </ul>    <p><strong>Особенности:</strong></p>    <ul>   <li>CNC-регулятор: вращение — громкость, нажатие — переключение подсветки</li>   <li>Эргономичный корпус с градиентным оформлением</li>   <li>Мгновенное переключение между устройствами</li>   <li>Боковая печать символов</li>   <li>South-facing подсветка — не ослепляет глаза</li>   <li>Идеальная плавность, тишина и комфорт</li>  </ul></description_ru>
-        <price>2699</price>
-        <old_price>3099</old_price>
-        <categoryId>1082</categoryId>
-        <vendor>Attack Shark</vendor>
-        <picture>https://techgleam.com.ua/content/images/22/65964965421739_%2B5078cf6a16.jpg</picture>
-        <picture>https://techgleam.com.ua/content/images/22/32797373705935_%2B2e2d0d28a5.jpg</picture>
-        <picture>https://techgleam.com.ua/content/images/22/33958722305334_%2B66c892da4f.jpg</picture>
-        <picture>https://techgleam.com.ua/content/images/22/42299674643995_%2B8d35b6243c.jpg</picture>
-        <picture>https://techgleam.com.ua/content/images/22/91340635039002_%2B6b06fa503a.jpg</picture>
-        <picture>https://techgleam.com.ua/content/images/22/40229680754380_%2Bf0bfa1930b.jpg</picture>
-        <picture>https://techgleam.com.ua/content/images/22/98302181112457_%2Ba32538881a.jpg</picture>
-        <picture>https://techgleam.com.ua/content/images/22/56959125212194_%2B4b112abcd5.jpg</picture>
-        <picture>https://techgleam.com.ua/content/images/22/86182908778657_%2Bf071fb877e.jpg</picture>
-        <param name="Гарантія">3 місяці</param>
-        <param name="Колір">Чорний</param>
-        <param name="Конструкція клавіш">Механічна</param>
-        <param name="Підключення">Комбіноване</param>
-        <param name="Інтерфейс підключення">Bluetooth</param>
-        <param name="Інтерфейс підключення">Радіоінтерфейс</param>
-        <param name="Інтерфейс підключення">USB</param>
-        <param name="Розкладка">Eng</param>
-        <param name="Форм-фактор">Компактні</param>
-        <param name="Колір підсвічування">RGB</param>
-        <param name="Підсвічування клавіш">Є</param>
-        <param name="Матеріал корпусу">Пластик</param>
-        <param name="Живлення">Акумулятор</param>
-        <param name="Сумісність з ОС">Windows</param>
-        <param name="Сумісність з ОС">Mac OS</param>
-        <param name="Сумісність з ОС">Linux</param>
-        <param name="Стан">Новий</param>
-        <param name="Комплектація">Клавіатура</param>
-        <param name="Призначення">Для ПК</param>
-        <param name="Вид">Ігрові</param>
-        <country>Китай</country>
-      </offer>
-      <offer id="522" available="false">
-        <availability_status>temporarily_unavailable</availability_status>
-        <name_ua>Ігрова бездротова механічна клавіатура ATTACK SHARK X85 / Три режими підключення / White Jade Switch / Pink</name_ua>
-        <name_ru>Игровая беспроводная механическая клавиатура ATTACK SHARK X85 / Три режима подключения / White Jade Switch / Pink</name_ru>
-        <description_ua><p><strong>ATTACK SHARK X85  — геймерська клавіатура з гаскет-маунтом, RGB і трьома режимами підключення! </strong></p>    <p>ATTACK SHARK X85 —  механічна клавіатура для геймерів та користувачів, яким потрібна максимальна швидкість, чутливість та точність у кожному натисканні.</p>    <p><strong>Основні характеристики:</strong></p>    <ul>   <li>Формат: 75% ANSI (82 клавіші + CNC-регулятор)</li>   <li>Підключення: USB-C / 2.4G / Bluetooth 5.0</li>   <li>Підсвітка: RGB, 19 режимів, south-facing</li>   <li>Тип: Гаскет-маунт + 5-шарова шумоізоляція (PORON, IXPE, PET, Silicone)</li>   <li>Перемикачі: White Jade (змащені), Hot-Swappable</li>   <li>Сумісність: Windows / Mac / Android / iOS</li>   <li>Акумулятор: 5000 мАг</li>   <li>Повна настройка через ПЗ</li>  </ul>    <p><strong>Особливості:</strong></p>    <ul>   <li>CNC-регулятор: обертання — гучність, натискання — перемикання підсвітки</li>   <li>Ергономічний корпус із градієнтним оформленням</li>   <li>Миттєве перемикання між пристроями</li>   <li>Боковий друк символів</li>   <li>South-facing підсвітка — не засліплює очі</li>   <li>Ідеальна плавність, тиша й комфорт</li>  </ul></description_ua>
-        <description_ru><p><strong>ATTACK SHARK X85  — геймерская клавиатура с гаскет-маунтом, RGB и тремя режимами подключения!</strong></p>    <p>ATTACK SHARK X85 — механическая клавиатура для геймеров и пользователей, которым нужна максимальная скорость, чувствительность и точность в каждом нажатии.</p>    <p><strong>Основные характеристики:</strong></p>    <ul>   <li>Формат: 75% ANSI (82 клавиши + CNC-регулятор)</li>   <li>Подключение: USB-C / 2.4G / Bluetooth 5.0</li>   <li>Подсветка: RGB, 19 режимов, south-facing</li>   <li>Тип: Гаскет-маунт + 5-слойная шумоизоляция (PORON, IXPE, PET, Silicone)</li>   <li>Переключатели: White Jade (смазанные), Hot-Swappable</li>   <li>Совместимость: Windows / Mac / Android / iOS</li>   <li>Аккумулятор: 5000 мАч</li>   <li>Полная настройка через Пз</li>  </ul>    <p><strong>Особенности:</strong></p>    <ul>   <li>CNC-регулятор: вращение — громкость, нажатие — переключение подсветки</li>   <li>Эргономичный корпус с градиентным оформлением</li>   <li>Мгновенное переключение между устройствами</li>   <li>Боковая печать символов</li>   <li>South-facing подсветка — не ослепляет глаза</li>   <li>Идеальная плавность, тишина и комфорт</li>  </ul></description_ru>
-        <price>2699</price>
-        <old_price>3099</old_price>
-        <categoryId>1082</categoryId>
-        <vendor>Attack Shark</vendor>
-        <picture>https://techgleam.com.ua/content/images/23/66305145018906_%2B21357e3b9b.jpg</picture>
-        <picture>https://techgleam.com.ua/content/images/23/86585425801515_%2B5bf547c885.jpg</picture>
-        <picture>https://techgleam.com.ua/content/images/23/41093310870261_%2Baf6ff015a1.jpg</picture>
-        <picture>https://techgleam.com.ua/content/images/23/95655413867511_%2B7dfc6c4a21.jpg</picture>
-        <picture>https://techgleam.com.ua/content/images/23/47433691532658_%2Badcf10ad62.jpg</picture>
-        <picture>https://techgleam.com.ua/content/images/23/37815308479505_%2Baca1cdd167.jpg</picture>
-        <picture>https://techgleam.com.ua/content/images/23/96170725891708_%2B8426893d8a.jpg</picture>
-        <picture>https://techgleam.com.ua/content/images/23/33907276942222_%2Bb98e0d076b.jpg</picture>
-        <picture>https://techgleam.com.ua/content/images/23/85533173465403_%2Be4334a2c43.jpg</picture>
-        <picture>https://techgleam.com.ua/content/images/23/53156246404656_%2B08e5226806.jpg</picture>
-        <param name="Гарантія">3 місяці</param>
-        <param name="Колір">Рожевий</param>
-        <param name="Конструкція клавіш">Механічна</param>
-        <param name="Підключення">Комбіноване</param>
-        <param name="Інтерфейс підключення">Bluetooth</param>
-        <param name="Інтерфейс підключення">Радіоінтерфейс</param>
-        <param name="Інтерфейс підключення">USB</param>
-        <param name="Розкладка">Eng</param>
-        <param name="Форм-фактор">Компактні</param>
-        <param name="Колір підсвічування">RGB</param>
-        <param name="Підсвічування клавіш">Є</param>
-        <param name="Матеріал корпусу">Пластик</param>
-        <param name="Живлення">Акумулятор</param>
-        <param name="Сумісність з ОС">Windows</param>
-        <param name="Сумісність з ОС">Mac OS</param>
-        <param name="Сумісність з ОС">Linux</param>
-        <param name="Стан">Новий</param>
-        <param name="Комплектація">Клавіатура</param>
-        <param name="Призначення">Для ПК</param>
-        <param name="Вид">Ігрові</param>
-        <country>Китай</country>
-      </offer>
       <offer id="523" available="false">
         <availability_status>temporarily_unavailable</availability_status>
         <name_ua>Ігрова магнітна клавіатура AJAZZ AK820 Max / Дротове підключення / Magnetic Yellow Switch / Black Grey</name_ua>
@@ -3746,7 +3856,7 @@
         <picture>https://techgleam.com.ua/content/images/24/88176434602802_%2B7f8ac7d57f.jpg</picture>
         <picture>https://techgleam.com.ua/content/images/24/74059355317290_%2B85aad05fe5.jpg</picture>
         <param name="Гарантія">3 місяці</param>
-        <param name="Колір">Темно-сірий</param>
+        <param name="Колір">Сірий</param>
         <param name="Конструкція клавіш">Магнітна</param>
         <param name="Підключення">Дротове</param>
         <param name="Інтерфейс підключення">USB Type-C</param>
@@ -3758,6 +3868,7 @@
         <param name="Сумісність з ОС">Windows</param>
         <param name="Сумісність з ОС">Mac OS</param>
         <param name="Сумісність з ОС">Linux</param>
+        <param name="Колір">Темно-сірий</param>
         <param name="Стан">Новий</param>
         <param name="Комплектація">Клавіатура</param>
         <param name="Призначення">Для ПК</param>
@@ -3890,7 +4001,7 @@
         <picture>https://techgleam.com.ua/content/images/28/15518705060379_%2Be8e79d5477.jpg</picture>
         <picture>https://techgleam.com.ua/content/images/28/48490368325279_%2B5982705a24.jpg</picture>
         <param name="Гарантія">3 місяці</param>
-        <param name="Колір">Бузковий</param>
+        <param name="Колір">Фіолетовий</param>
         <param name="Конструкція клавіш">Механічна</param>
         <param name="Підключення">Дротове</param>
         <param name="Інтерфейс підключення">USB Type-C</param>
@@ -3899,6 +4010,7 @@
         <param name="Сумісність з ОС">Windows</param>
         <param name="Сумісність з ОС">Mac OS</param>
         <param name="Сумісність з ОС">Linux</param>
+        <param name="Колір">Бузковий</param>
         <param name="Стан">Новий</param>
         <param name="Комплектація">Клавіатура</param>
         <param name="Призначення">Для ПК</param>
@@ -3941,47 +4053,6 @@
         <param name="Сумісність з ОС">Windows</param>
         <param name="Сумісність з ОС">Mac OS</param>
         <param name="Сумісність з ОС">Chrome OS</param>
-        <param name="Стан">Новий</param>
-        <param name="Комплектація">Клавіатура</param>
-        <param name="Призначення">Для ПК</param>
-        <param name="Вид">Ігрові</param>
-        <country>Китай</country>
-      </offer>
-      <offer id="536" available="false">
-        <availability_status>temporarily_unavailable</availability_status>
-        <name_ua>Ігрова бездротова механічна клавіатура ATTACK SHARK X85 / Три режими підключення / White Jade Switch / Purple</name_ua>
-        <name_ru>Игровая беспроводная механическая клавиатура ATTACK SHARK X85 / Три режима подключения / White Jade Switch / Purple</name_ru>
-        <description_ua><p><strong>ATTACK SHARK X85  — геймерська клавіатура з гаскет-маунтом, RGB і трьома режимами підключення! </strong></p>    <p>ATTACK SHARK X85 —  механічна клавіатура для геймерів та користувачів, яким потрібна максимальна швидкість, чутливість та точність у кожному натисканні.</p>    <p><strong>Основні характеристики:</strong></p>    <ul>   <li>Формат: 75% ANSI (82 клавіші + CNC-регулятор)</li>   <li>Підключення: USB-C / 2.4G / Bluetooth 5.0</li>   <li>Підсвітка: RGB, 19 режимів, south-facing</li>   <li>Тип: Гаскет-маунт + 5-шарова шумоізоляція (PORON, IXPE, PET, Silicone)</li>   <li>Перемикачі: White Jade (змащені), Hot-Swappable</li>   <li>Сумісність: Windows / Mac / Android / iOS</li>   <li>Акумулятор: 5000 мАг</li>   <li>Повна настройка через ПЗ</li>  </ul>    <p><strong>Особливості:</strong></p>    <ul>   <li>CNC-регулятор: обертання — гучність, натискання — перемикання підсвітки</li>   <li>Ергономічний корпус із градієнтним оформленням</li>   <li>Миттєве перемикання між пристроями</li>   <li>Боковий друк символів</li>   <li>South-facing підсвітка — не засліплює очі</li>   <li>Ідеальна плавність, тиша й комфорт</li>  </ul></description_ua>
-        <description_ru><p><strong>ATTACK SHARK X85  — геймерская клавиатура с гаскет-маунтом, RGB и тремя режимами подключения!</strong></p>    <p>ATTACK SHARK X85 — механическая клавиатура для геймеров и пользователей, которым нужна максимальная скорость, чувствительность и точность в каждом нажатии.</p>    <p><strong>Основные характеристики:</strong></p>    <ul>   <li>Формат: 75% ANSI (82 клавиши + CNC-регулятор)</li>   <li>Подключение: USB-C / 2.4G / Bluetooth 5.0</li>   <li>Подсветка: RGB, 19 режимов, south-facing</li>   <li>Тип: Гаскет-маунт + 5-слойная шумоизоляция (PORON, IXPE, PET, Silicone)</li>   <li>Переключатели: White Jade (смазанные), Hot-Swappable</li>   <li>Совместимость: Windows / Mac / Android / iOS</li>   <li>Аккумулятор: 5000 мАч</li>   <li>Полная настройка через Пз</li>  </ul>    <p><strong>Особенности:</strong></p>    <ul>   <li>CNC-регулятор: вращение — громкость, нажатие — переключение подсветки</li>   <li>Эргономичный корпус с градиентным оформлением</li>   <li>Мгновенное переключение между устройствами</li>   <li>Боковая печать символов</li>   <li>South-facing подсветка — не ослепляет глаза</li>   <li>Идеальная плавность, тишина и комфорт</li>  </ul></description_ru>
-        <price>2799</price>
-        <old_price>3099</old_price>
-        <categoryId>1082</categoryId>
-        <vendor>Attack Shark</vendor>
-        <picture>https://techgleam.com.ua/content/images/37/80413618877224_%2B8c4fcde87f.jpg</picture>
-        <picture>https://techgleam.com.ua/content/images/37/26817165928040_%2Bf48ad410cd.jpg</picture>
-        <picture>https://techgleam.com.ua/content/images/37/45427612169992_%2Ba7b6bef524.jpg</picture>
-        <picture>https://techgleam.com.ua/content/images/37/61600942997452_%2B3b12f49130.jpg</picture>
-        <picture>https://techgleam.com.ua/content/images/37/83543671833869_%2B71f92d09ad.jpg</picture>
-        <picture>https://techgleam.com.ua/content/images/37/69570308433645_%2Be50a35156d.jpg</picture>
-        <picture>https://techgleam.com.ua/content/images/37/28192662737453_%2Be5799074d4.jpg</picture>
-        <picture>https://techgleam.com.ua/content/images/37/45796916529867_%2B39549dd325.jpg</picture>
-        <picture>https://techgleam.com.ua/content/images/37/95227685281811_%2B210e05415d.jpg</picture>
-        <param name="Гарантія">3 місяці</param>
-        <param name="Колір">Бузковий</param>
-        <param name="Конструкція клавіш">Механічна</param>
-        <param name="Підключення">Комбіноване</param>
-        <param name="Інтерфейс підключення">Bluetooth</param>
-        <param name="Інтерфейс підключення">Радіоінтерфейс</param>
-        <param name="Інтерфейс підключення">USB</param>
-        <param name="Розкладка">Eng</param>
-        <param name="Форм-фактор">Компактні</param>
-        <param name="Колір підсвічування">RGB</param>
-        <param name="Підсвічування клавіш">Є</param>
-        <param name="Матеріал корпусу">Пластик</param>
-        <param name="Живлення">Акумулятор</param>
-        <param name="Сумісність з ОС">Windows</param>
-        <param name="Сумісність з ОС">Mac OS</param>
-        <param name="Сумісність з ОС">Linux</param>
         <param name="Стан">Новий</param>
         <param name="Комплектація">Клавіатура</param>
         <param name="Призначення">Для ПК</param>
@@ -4042,6 +4113,7 @@
         <picture>https://techgleam.com.ua/content/images/42/36749919907156_%2Bb09e5a21f0.jpg</picture>
         <picture>https://techgleam.com.ua/content/images/42/37459066383748_%2B0da3d9c381.jpg</picture>
         <param name="Гарантія">1 місяць</param>
+        <param name="Колір">Білий</param>
         <param name="Конструкція клавіш">Магнітна</param>
         <param name="Підключення">Дротове</param>
         <param name="Інтерфейс підключення">USB Type-C</param>
@@ -4419,47 +4491,6 @@
         <param name="Вид">Ігрові</param>
         <country>Китай</country>
       </offer>
-      <offer id="565" available="false">
-        <availability_status>temporarily_unavailable</availability_status>
-        <name_ua>Игровая механическая клавиатура AULA F75 / Три режима подключения / Leobog Axis Reaper Switch / Dark Blue</name_ua>
-        <name_ru>Игровая механическая клавиатура AULA F75 / Три режима подключения / Leobog Axis Reaper Switch / Dark Blue</name_ru>
-        <description_ua><p><strong>Механічна клавіатура AULA F75 </strong></p>    <p>AULA F75 — це універсальна клавіатура для роботи, навчання та ігор, що поєднує компактність, ергономіку та сучасні функції.</p>    <p><strong>Основні характеристики:</strong></p>    <ul>   <li>Тип: Механічна клавіатура, 75% форм-фактор </li>   <li>Розкладка: англійська</li>   <li>Підключення: Bluetooth 5.0 / 2.4 ГГц / USB Type-C  </li>   <li>Сумісність: Windows, Mac, iOS, Android, PS, Xbox  </li>   <li>5-шарова система шумопоглинання для комфортного набору тексту  </li>   <li>Мультимедійне колесо для зручного керування гучністю та підсвіткою</li>   <li>Акумулятор: 4000 мА·год, забезпечує тривалий час автономної роботи.</li>  </ul>    <p><strong>RGB-підсвітка:</strong><br />  • 15 режимів  <br />  • 16.8 млн кольорів  <br />  • Музичний режим реагує на ритм відтворюваної музики</p>    <p><strong>Комплектація:</strong></p>    <ul>   <li>Клавіатура AULA F75  </li>   <li>Кабель USB Type-C  </li>   <li>USB-адаптер 2.4 ГГц  </li>   <li>Захисна накладка від пилу  </li>   <li>4 запасні перемикачі  </li>   <li>Пуллер  </li>   <li>Інструкція користувача</li>  </ul></description_ua>
-        <description_ru><p><strong>Механическая клавиатура AULA F75</strong></p>    <p>AULA F75 – это универсальная клавиатура для работы, обучения и игр, сочетающая компактность, эргономику и современные функции.</p>    <p><strong>Основные характеристики:</strong></p>    <ul>   <li>Тип: Механическая клавиатура, 75% форм-фактор</li>   <li>Раскладка: английская</li>   <li>Подключение: Bluetooth 5.0/2.4 ГГц/USB Type-C</li>   <li>Совместимость: Windows, Mac, iOS, Android, PS, Xbox</li>   <li>5-слойная система шумопоглощения для комфортного набора текста</li>   <li>Мультимедийное колесо для удобного управления громкостью и подсветкой</li>   <li>Аккумулятор: 4000 мАч, обеспечивает длительное время автономной работы.</li>  </ul>    <p><strong>RGB-подсветка:</strong><br />  • 15 режимов<br />  • 16.8 млн цветов<br />  • Музыкальный режим реагирует на ритм воспроизводимой музыки.</p>    <p><strong>Комплектация:</strong></p>    <ul>   <li>Клавиатура AULA F75</li>   <li>Кабель USB Type-C</li>   <li>USB-адаптер 2.4 ГГц</li>   <li>Защитная накладка от пыли</li>   <li>4 запасные переключатели</li>   <li>Пуллер</li>   <li>Руководство пользователя</li>  </ul></description_ru>
-        <price>2399</price>
-        <categoryId>1082</categoryId>
-        <vendor>Aula</vendor>
-        <picture>https://techgleam.com.ua/content/images/16/95608714299997_%2B231b2e3212.jpg</picture>
-        <picture>https://techgleam.com.ua/content/images/16/58423253957398_%2B49e6952272.jpg</picture>
-        <picture>https://techgleam.com.ua/content/images/16/91365340358714_%2B1c0aa4c74b.jpg</picture>
-        <picture>https://techgleam.com.ua/content/images/16/82730488747399_%2Bdb50652e47.jpg</picture>
-        <picture>https://techgleam.com.ua/content/images/16/37188658571242_%2B5773d46899.jpg</picture>
-        <picture>https://techgleam.com.ua/content/images/16/37758524999816_%2B7c759ada55.jpg</picture>
-        <picture>https://techgleam.com.ua/content/images/16/75533253793498_%2B2a442cf937.jpg</picture>
-        <picture>https://techgleam.com.ua/content/images/16/44378563902233_%2Bd12a5dde40.jpg</picture>
-        <picture>https://techgleam.com.ua/content/images/16/67771931931181_%2B647e8efa4e.jpg</picture>
-        <picture>https://techgleam.com.ua/content/images/16/53715146527461_%2Be9930a92c8.jpg</picture>
-        <param name="Гарантія">1 місяць</param>
-        <param name="Колір">Синій</param>
-        <param name="Конструкція клавіш">Механічна</param>
-        <param name="Підключення">Комбіноване</param>
-        <param name="Інтерфейс підключення">Bluetooth</param>
-        <param name="Інтерфейс підключення">Радіоінтерфейс</param>
-        <param name="Інтерфейс підключення">USB</param>
-        <param name="Розкладка">Eng</param>
-        <param name="Форм-фактор">Компактні</param>
-        <param name="Колір підсвічування">RGB</param>
-        <param name="Підсвічування клавіш">Є</param>
-        <param name="Матеріал корпусу">Пластик</param>
-        <param name="Живлення">Акумулятор</param>
-        <param name="Сумісність з ОС">Windows</param>
-        <param name="Сумісність з ОС">Mac OS</param>
-        <param name="Сумісність з ОС">Chrome OS</param>
-        <param name="Стан">Новий</param>
-        <param name="Комплектація">Клавіатура</param>
-        <param name="Призначення">Для ПК</param>
-        <param name="Вид">Ігрові</param>
-        <country>Китай</country>
-      </offer>
       <offer id="566" available="false">
         <availability_status>temporarily_unavailable</availability_status>
         <name_ua>Ігрова механічна клавіатура ATTACK SHARK X98, Темно-синій</name_ua>
@@ -4513,23 +4544,6 @@
         <param name="Комплектація">Клавіатура</param>
         <param name="Призначення">Для ПК</param>
         <param name="Вид">Ігрові</param>
-      </offer>
-      <offer id="595" available="false">
-        <availability_status>temporarily_unavailable</availability_status>
-        <name_ua>Металевий USB HUB 8-в-1 / Type-C / USB 3.0 / SD / TF / PD / AUX</name_ua>
-        <name_ru>Металический USB HUB 8-в-1 / Type-C / USB 3.0 / SD / TF / PD / AUX</name_ru>
-        <description_ua><p><strong>Універсальний металевий USB-хаб 8-в-1 з підтримкою Type-C та USB-A</strong></p>    <p><strong>Цей USB-хаб — </strong>ідеальне рішення для розширення можливостей ноутбука чи ПК. Завдяки комбінованому підключенню Type-C + USB-A він сумісний майже з будь-яким пристроєм.</p>    <p><strong>Інтерфейси:</strong></p>    <ul>   <li>USB Type-C  </li>   <li>USB Type-A  </li>   <li>4x USB 3.0  </li>   <li>microSD (TF)  </li>   <li>SD  </li>   <li>AUX 3.5 мм  </li>   <li>Type-C PD</li>  </ul></description_ua>
-        <description_ru><p><strong>Универсальный металлический USB-хаб 8-в-1 с поддержкой Type-C и USB-A </strong></p>    <p><strong>Данный USB хаб — </strong>идеальное решение для расширения возможностей ноутбука или ПК. Благодаря комбинированному подключению Type-C + USB-A он совместим практически с любым устройством.</p>    <p><strong>Интерфейсы:</strong></p>    <ul>   <li>USB Type-C  </li>   <li>USB Type-A  </li>   <li>4x USB 3.0  </li>   <li>microSD (TF)  </li>   <li>SD  </li>   <li>AUX 3.5 мм  </li>   <li>Type-C PD</li>  </ul></description_ru>
-        <price>399</price>
-        <categoryId>1090</categoryId>
-        <vendor>Без бренда</vendor>
-        <picture>https://techgleam.com.ua/content/images/46/55154165704913_%2B3040a9dc33.jpg</picture>
-        <picture>https://techgleam.com.ua/content/images/46/75858116416121_%2B24ac1e59be.jpg</picture>
-        <picture>https://techgleam.com.ua/content/images/46/76915968906839_%2Bd5e97d80e8.jpg</picture>
-        <picture>https://techgleam.com.ua/content/images/46/44482821775283_%2Bcda1650f10.jpg</picture>
-        <param name="Гарантія">1 місяць</param>
-        <param name="Колір">Сірий</param>
-        <param name="Стан">Новий</param>
       </offer>
       <offer id="629" available="false">
         <availability_status>temporarily_unavailable</availability_status>
@@ -4888,6 +4902,7 @@
         <description_ru><p><strong>Logitech G502 HERO — топовая точность и полная кастомизация</strong></p>    <p>G502 HERO сочетает в себе высокую производительность, прочную сборку и умные игровые фишки. Идеальна для тех, кто хочет максимум контроля без компромиссов.</p>    <p><strong>Основные характеристики:</strong></p>    <ul>   <li>Тип: игровая проводная мышь</li>   <li>Сенсор: PMW3366 — без ускорения, сглаживания или фильтрации</li>   <li>DPI: 200–12 000, мгновенное переключение между 5 уровнями (кнопка под большим пальцем)</li>   <li>Кнопки: 11 программируемых</li>   <li>Колесико: двухрежимное — сверхбыстрое свободное и пошаговое прокручивание</li>   <li>Вес и баланс: система сменных утяжелителей для тонкой настройки</li>   <li>Подсветка: RGB (16,8 млн цветов)</li>   <li>Переключатели: механические микропереключатели, ресурс 20 млн нажатий</li>   <li>Кабель: в прочной оплетке</li>   <li>ПЗ: Logitech Gaming Software — профили, макросы, подсветка, калибровка под поверхность</li>  </ul>    <p><strong>Что дает преимущество в игре:</strong></p>    <ul>   <li>Быстрое изменение DPI — от точного прицеливания до стремительных движений за одно мгновение</li>   <li>Дворежимное колесико для быстрого скролла и точного контроля</li>   <li>Гибкая персонализация: вес, баланс, кнопки, подсветка и профили</li>  </ul>    <p><strong>Комплектация:</strong></p>    <p>-Мышь Logitech G502 HERO</p>    <p>-Набор утяжелителей</p>    <p>-Инструкция</p>    <p>G502 HERO — это инструмент, дарящий стабильность, скорость и точность как в киберсражениях, так и в повседневной работе.</p></description_ru>
         <price>1500</price>
         <categoryId>1084</categoryId>
+        <vendor>Logitech</vendor>
         <picture>https://techgleam.com.ua/content/images/2/47373047522697_%2B4e38811923.jpg</picture>
         <picture>https://techgleam.com.ua/content/images/2/43464987113012_%2B98a4d0ddea.jpg</picture>
         <picture>https://techgleam.com.ua/content/images/2/38186701111089_%2B654898c4b3.jpg</picture>
@@ -5223,6 +5238,7 @@
         <picture>https://techgleam.com.ua/content/images/28/12212397102981_%2B1a9a2e2d05.jpg</picture>
         <picture>https://techgleam.com.ua/content/images/28/32709589654379_%2B10bc8ab783.jpg</picture>
         <param name="Гарантія">1 місяць</param>
+        <param name="Колір">Білий</param>
         <param name="Сумісність з ОС">Windows</param>
         <param name="Сумісність з ОС">Mac OS</param>
         <param name="Сумісність з ОС">Linux</param>
@@ -5589,6 +5605,7 @@
         <picture>https://techgleam.com.ua/content/images/18/29782958201586_%2Be63bb703ad.jpg</picture>
         <picture>https://techgleam.com.ua/content/images/18/47103928690866_%2B1db7fb4a12.jpg</picture>
         <param name="Гарантія">1 місяць</param>
+        <param name="Колір">Білий</param>
         <param name="Конструкція клавіш">Механічна</param>
         <param name="Підключення">Комбіноване</param>
         <param name="Інтерфейс підключення">Bluetooth</param>
@@ -6303,7 +6320,7 @@
         <picture>https://techgleam.com.ua/content/images/18/83736718682564_%2B2a2a3d5e0e.jpg</picture>
         <picture>https://techgleam.com.ua/content/images/18/78372593357705_%2B9343623ff2.jpg</picture>
         <param name="Гарантія">3 місяці</param>
-        <param name="Колір">Бузковий</param>
+        <param name="Колір">Фіолетовий</param>
         <param name="Підключення">Комбіноване</param>
         <param name="Сумісність з ОС">Microsoft Windows</param>
         <param name="Сумісність з ОС">Mac OS</param>
@@ -7218,7 +7235,7 @@
         <picture>https://techgleam.com.ua/content/images/44/igrovaja-mexanicheskaja-klaviatura-mchose-g75-pro-tri-rezhima-podkluchenija-matcha-latte-switch-purple-50629740467002_%2B2f4aafbf2a.jpg</picture>
         <picture>https://techgleam.com.ua/content/images/44/igrovaja-mexanicheskaja-klaviatura-mchose-g75-pro-tri-rezhima-podkluchenija-matcha-latte-switch-purple-50846678298833_%2B62f8f667d7.jpg</picture>
         <param name="Гарантія">1 місяць</param>
-        <param name="Колір">Бузковий</param>
+        <param name="Колір">Фіолетовий</param>
         <param name="Конструкція клавіш">Механічна</param>
         <param name="Підключення">Комбіноване</param>
         <param name="Інтерфейс підключення">Bluetooth</param>
@@ -7233,6 +7250,7 @@
         <param name="Сумісність з ОС">Windows</param>
         <param name="Сумісність з ОС">Mac OS</param>
         <param name="Сумісність з ОС">Linux</param>
+        <param name="Колір">Бузковий</param>
         <param name="Стан">Новий</param>
         <param name="Комплектація">Клавіатура</param>
         <param name="Призначення">Для ПК</param>
@@ -7282,7 +7300,7 @@
         <picture>https://techgleam.com.ua/content/images/46/besprovodnaja-igrovaja-mysh-mchose-k7-ultra-tri-rezhima-podkluchenija-paw3950-42-000-dpi-white-silver-93885492300002_%2Be76988b36e.jpg</picture>
         <picture>https://techgleam.com.ua/content/images/46/besprovodnaja-igrovaja-mysh-mchose-k7-ultra-tri-rezhima-podkluchenija-paw3950-42-000-dpi-white-silver-59235488900671_%2B6bc0d8c583.jpg</picture>
         <param name="Гарантія">3 місяці</param>
-        <param name="Колір">Сірий</param>
+        <param name="Колір">Сріблястий</param>
         <param name="Підключення">Комбіноване</param>
         <param name="Сумісність з ОС">Microsoft Windows</param>
         <param name="Сумісність з ОС">Mac OS</param>
@@ -8049,6 +8067,7 @@
         <picture>https://techgleam.com.ua/content/images/27/igrovaja-mexanicheskaja-klaviatura-freewolf-f75-tri-rezhima-podkluchenija-hot-swappable-silver-moon-switch-white-blue-46814428465406_%2Bce490a7bf9.jpg</picture>
         <picture>https://techgleam.com.ua/content/images/27/igrovaja-mexanicheskaja-klaviatura-freewolf-f75-tri-rezhima-podkluchenija-hot-swappable-silver-moon-switch-white-blue-89664138159386_%2B4d967ed87c.jpg</picture>
         <param name="Гарантія">1 місяць</param>
+        <param name="Колір">Білий</param>
         <param name="Конструкція клавіш">Механічна</param>
         <param name="Підключення">Комбіноване</param>
         <param name="Інтерфейс підключення">Bluetooth</param>
@@ -8507,7 +8526,7 @@
         <picture>https://techgleam.com.ua/content/images/45/igrovaja-besprovodnaja-klaviatura-freewolf-m96-rgb-s-ekranom-dva-rezhima-podkluchenija-52788677082617_%2Bb03533c45b.jpg</picture>
         <picture>https://techgleam.com.ua/content/images/45/igrovaja-besprovodnaja-klaviatura-freewolf-m96-rgb-s-ekranom-dva-rezhima-podkluchenija-24104078097075_%2B0004680111.jpg</picture>
         <param name="Гарантія">1 місяць</param>
-        <param name="Колір">В асортименті</param>
+        <param name="Колір">Різнокольоровий</param>
         <param name="Конструкція клавіш">Мембранна</param>
         <param name="Підключення">Комбіноване</param>
         <param name="Інтерфейс підключення">Bluetooth</param>
@@ -8520,6 +8539,7 @@
         <param name="Сумісність з ОС">Windows</param>
         <param name="Сумісність з ОС">Mac OS</param>
         <param name="Сумісність з ОС">Linux</param>
+        <param name="Колір">В асортименті</param>
         <param name="Стан">Новий</param>
         <param name="Комплектація">Клавіатура</param>
         <param name="Призначення">Для ПК</param>
@@ -8569,7 +8589,7 @@
         <picture>https://techgleam.com.ua/content/images/47/igrovaja-provodnaja-mexanicheskaja-klaviatura-zifriend-za68-rgb-mechanical-switch-65-purple-57428702322244_%2B4ca14e8e5b.jpg</picture>
         <picture>https://techgleam.com.ua/content/images/47/igrovaja-provodnaja-mexanicheskaja-klaviatura-zifriend-za68-rgb-mechanical-switch-65-purple-24996412094151_%2B449ad2353a.jpg</picture>
         <param name="Гарантія">1 місяць</param>
-        <param name="Колір">Бузковий</param>
+        <param name="Колір">Фіолетовий</param>
         <param name="Конструкція клавіш">Механічна</param>
         <param name="Підключення">Дротове</param>
         <param name="Інтерфейс підключення">USB Type-C</param>
@@ -8581,6 +8601,7 @@
         <param name="Сумісність з ОС">Windows</param>
         <param name="Сумісність з ОС">Mac OS</param>
         <param name="Сумісність з ОС">Linux</param>
+        <param name="Колір">Бузковий</param>
         <param name="Стан">Новий</param>
         <param name="Комплектація">Клавіатура</param>
         <param name="Призначення">Для ПК</param>
@@ -8703,7 +8724,7 @@
         <picture>https://techgleam.com.ua/content/images/2/igrovaja-mexanicheskaja-provodnaja-klaviatura-hxsj-v500-blue-switch-60-rgb-colourful-46902090779489_%2Bf2b102f1ad.jpg</picture>
         <picture>https://techgleam.com.ua/content/images/2/igrovaja-mexanicheskaja-provodnaja-klaviatura-hxsj-v500-blue-switch-60-rgb-colourful-74772569799254_%2Bc94c693ee2.jpg</picture>
         <param name="Гарантія">1 місяць</param>
-        <param name="Колір">В асортименті</param>
+        <param name="Колір">Різнокольоровий</param>
         <param name="Конструкція клавіш">Механічна</param>
         <param name="Підключення">Дротове</param>
         <param name="Інтерфейс підключення">USB Type-C</param>
@@ -8715,6 +8736,7 @@
         <param name="Сумісність з ОС">Windows</param>
         <param name="Сумісність з ОС">Mac OS</param>
         <param name="Сумісність з ОС">Linux</param>
+        <param name="Колір">В асортименті</param>
         <param name="Стан">Новий</param>
         <param name="Комплектація">Клавіатура</param>
         <param name="Призначення">Для ПК</param>
@@ -8994,7 +9016,7 @@
         <name_ru>Игровая механическая беспроводная клавиатура Attack Shark X85 Pro / Три режима подключения / Blueberry Switch / Grey</name_ru>
         <description_ua><p data-end="1747" data-start="1495"><strong data-end="1518" data-start="1495">ttack Shark X85PRO</strong> — це преміальна механічна клавіатура формату <strong data-end="1571" data-start="1564">75%</strong>, створена для геймерів, ентузіастів та професіоналів. Вона поєднує <strong data-end="1667" data-start="1639">gasket-mount конструкцію</strong>, розумний <strong data-end="1693" data-start="1678">TFT-дисплей</strong>, металевий <strong data-end="1720" data-start="1705">CNC-енкодер</strong> та три режими підключення.</p>    <p data-end="1835" data-start="1749">Підтримується <strong data-end="1787" data-start="1763">Tri-mode підключення</strong>:<br data-end="1791" data-start="1788" />    Bluetooth<br data-end="1805" data-start="1802" />    2.4G радіо<br data-end="1820" data-start="1817" />    Дротове USB</p>    <p data-end="2016" data-start="1837">Клавіатура оснащена <strong data-end="1890" data-start="1857">Hot-Swap платою (3pin / 5pin)</strong> — ви можете змінювати перемикачі без пайки. Заводські <strong data-end="1982" data-start="1945">pre-lubed linear Blueberry switch</strong> забезпечують плавний і тихий хід.</p>    <p data-end="2192" data-start="2018">Конструкція має <strong data-end="2068" data-start="2034">5-шарове внутрішнє демпфування</strong>, що знижує вібрації та шум. <strong data-end="2137" data-start="2097">RGB-підсвічування з South-Facing LED</strong> підтримує програмування через QMK та фірмовий драйвер.</p>    <p data-end="2311" data-start="2194">Ємний <strong data-end="2223" data-start="2200">акумулятор 4000 мАг</strong> гарантує тривалу автономність, а система Smart Power Saving зменшує споживання енергії.</p>    <p data-end="2386" data-start="2313"><strong data-end="2323" data-start="2313">X85PRO</strong> — це клавіатура рівня custom у готовому заводському виконанні.</p>    <p data-end="2386" data-start="2313"><strong>Основні характеристики:</strong></p>    <ul data-end="3828" data-start="3177">   <li data-end="3249" data-start="3220">   <p data-end="3249" data-start="3222">Тип: механічна клавіатура</p>   </li>   <li data-end="3272" data-start="3250">   <p data-end="3272" data-start="3252">Формат: 75% (ANSI)</p>   </li>   <li data-end="3323" data-start="3273">   <p data-end="3323" data-start="3275">Підключення: Bluetooth / 2.4G / USB (Tri-mode)</p>   </li>   <li data-end="3353" data-start="3324">   <p data-end="3353" data-start="3326">Конструкція: Gasket-Mount</p>   </li>   <li data-end="3385" data-start="3354">   <p data-end="3385" data-start="3356">Hot-Swap: так (3pin / 5pin)</p>   </li>   <li data-end="3430" data-start="3386">   <p data-end="3430" data-start="3388">Перемикачі: Linear Blueberry (pre-lubed)</p>   </li>   <li data-end="3465" data-start="3431">   <p data-end="3465" data-start="3433">Кількість клавіш: ~82–84 (75%)</p>   </li>   <li data-end="3506" data-start="3466">   <p data-end="3506" data-start="3468">Підсвічування: RGB, South-Facing LED</p>   </li>   <li data-end="3537" data-start="3507">   <p data-end="3537" data-start="3509">Дисплей: TFT Smart Display</p>   </li>   <li data-end="3574" data-start="3538">   <p data-end="3574" data-start="3540">Керування: CNC металевий енкодер</p>   </li>   <li data-end="3619" data-start="3575">   <p data-end="3619" data-start="3577">Програмування: QMK + Attack Shark Driver</p>   </li>   <li data-end="3649" data-start="3620">   <p data-end="3649" data-start="3622">Кейкапи: PBT, OEM профіль</p>   </li>   <li data-end="3690" data-start="3650">   <p data-end="3690" data-start="3652">Демпфування: 5-шарове шумопоглинання</p>   </li>   <li data-end="3715" data-start="3691">   <p data-end="3715" data-start="3693">Акумулятор: 4000 мАг</p>   </li>   <li data-end="3747" data-start="3716">   <p data-end="3747" data-start="3718">Сумісність: Windows / macOS</p>   </li>   <li data-end="3778" data-start="3748">   <p data-end="3778" data-start="3750">Живлення: акумулятор + USB</p>   </li>  </ul></description_ua>
         <description_ru><p data-end="2643" data-start="2416"><strong data-end="2439" data-start="2416">Attack Shark X85PRO</strong> — премиальная механическая клавиатура формата <strong data-end="2493" data-start="2486">75%</strong> для геймеров и энтузиастов. Она сочетает <strong data-end="2563" data-start="2535">gasket-mount конструкцию</strong>, умный <strong data-end="2586" data-start="2571">TFT-дисплей</strong>, металлический <strong data-end="2617" data-start="2602">CNC-энкодер</strong> и три режима подключения.</p>    <p data-end="2728" data-start="2645">Поддерживается <strong data-end="2684" data-start="2660">Tri-mode подключение</strong>:<br data-end="2688" data-start="2685" />    Bluetooth<br data-end="2702" data-start="2699" />    2.4G<br data-end="2711" data-start="2708" />    Проводное USB</p>    <p data-end="2887" data-start="2730"><strong data-end="2762" data-start="2730">Hot-Swap плата (3pin / 5pin)</strong> позволяет менять переключатели без пайки. Заводские <strong data-end="2852" data-start="2815">pre-lubed linear Blueberry switch</strong> обеспечивают мягкий и плавный ход.</p>    <p data-end="3058" data-start="2889">Внутри используется <strong data-end="2936" data-start="2909">5-слойное демпфирование</strong> для минимизации шума и вибраций. <strong data-end="3004" data-start="2970">RGB-подсветка South-Facing LED</strong> поддерживает настройку через QMK и фирменный драйвер.</p>    <p data-end="3127" data-start="3060">Аккумулятор <strong data-end="3084" data-start="3072">4000 мАч</strong> обеспечивает длительную автономную работу.</p>    <p data-end="3127" data-start="3060"><strong>Основные характеристики:</strong></p>    <p>Тип: механическая клавиатура</p>    <p>Формат: 75% (ANSI)</p>    <p>Подключение: Bluetooth/2.4G/USB (Tri-mode)</p>    <p>Конструкция: Gasket-Mount</p>    <p>Hot-Swap: да (3pin / 5pin)</p>    <p>Переключатели: Linear Blueberry (pre-lubed)</p>    <p>Количество клавиш: ~82–84 (75%)</p>    <p>Подсветка: RGB, South-Facing LED</p>    <p>Дисплей: TFT Smart Display</p>    <p>Управление: CNC металлический энкодер</p>    <p>Программирование: QMK + Attack Shark Driver</p>    <p>Кейкапы: PBT, OEM профиль</p>    <p>Демпфирование: 5-слойное шумопоглощение</p>    <p>Аккумулятор: 4000 мАч</p>    <p>Совместимость: Windows/macOS</p>    <p>Питание: аккумулятор + USB</p>    <p> </p></description_ru>
-        <price>2899</price>
+        <price>2999</price>
         <categoryId>1082</categoryId>
         <vendor>Attack Shark</vendor>
         <picture>https://techgleam.com.ua/content/images/50/igrovaja-mexanicheskaja-besprovodnaja-klaviatura-attack-shark-x85-pro-tri-rezhima-podkluchenija-blueberry-switch-black-35837028023285_%2B57ea3b9bcc.jpg</picture>
@@ -9230,7 +9252,7 @@
         <picture>https://techgleam.com.ua/content/images/11/mexanicheskaja-klaviatura-ajazz-ak680-hot-swap-battery-mode-red-switch-purple-35071964826411_%2B1653364fb0.jpg</picture>
         <picture>https://techgleam.com.ua/content/images/11/mexanicheskaja-klaviatura-ajazz-ak680-hot-swap-battery-mode-red-switch-purple-75308866081085_%2B0ff6083e0b.jpg</picture>
         <param name="Гарантія">1 місяць</param>
-        <param name="Колір">Бузковий</param>
+        <param name="Колір">Фіолетовий</param>
         <param name="Конструкція клавіш">Механічна</param>
         <param name="Підключення">Комбіноване</param>
         <param name="Інтерфейс підключення">Радіоінтерфейс</param>
@@ -9240,6 +9262,7 @@
         <param name="Матеріал корпусу">Пластик</param>
         <param name="Сумісність з ОС">Windows</param>
         <param name="Сумісність з ОС">Mac OS</param>
+        <param name="Колір">Бузковий</param>
         <param name="Стан">Новий</param>
         <param name="Комплектація">Клавіатура</param>
         <param name="Призначення">Для ПК</param>
@@ -9373,43 +9396,6 @@
         <param name="Стан">Новий</param>
         <param name="Комплектація">Клавіатура</param>
         <param name="Призначення">Для ПК</param>
-        <country>Китай</country>
-      </offer>
-      <offer id="1502" available="false">
-        <availability_status>temporarily_unavailable</availability_status>
-        <name_ua>Ігрова магнітна дротова клавіатура Attack Shark R85 / Дротове підключення / Magnetic Switch / Black Gradient</name_ua>
-        <name_ru>Игровая магнитная проводная клавиатура Attack Shark R85 / Проводное подключение / Magnetic Switch / Black Gradient</name_ru>
-        <description_ua><p data-end="1946" data-start="1653"><strong data-end="1676" data-start="1653">Attack Shark R85 HE</strong> — флагманська <strong data-end="1735" data-start="1691">магнітна ігрова клавіатура преміум-класу</strong>, створена для кіберспорту та максимальної продуктивності. Вона використовує <strong data-end="1847" data-start="1812">Hall Effect магнітні перемикачі</strong>, які працюють без фізичного контакту, не зношуються та забезпечують ідеальну стабільність сигналу.</p>    <p data-end="2268" data-start="1948">Технологія <strong data-end="1976" data-start="1959">Rapid Trigger</strong> миттєво фіксує як натискання, так і відпускання клавіш, даючи абсолютну перевагу у FPS-іграх. <strong data-end="2142" data-start="2071">Регульована точка спрацювання від 0,1 до 3,3 мм з точністю 0,005 мм</strong> дозволяє налаштувати клавіатуру під власний стиль — від ультрачутливого шутерного режиму до комфортного повсякденного набору.</p>    <p data-end="2457" data-start="2270">Завдяки <strong data-end="2308" data-start="2278">частоті опитування 8000 Гц</strong> затримка становить лише <strong data-end="2343" data-start="2333">0,1 мс</strong>, що робить відгук практично миттєвим. Форм-фактор <strong data-end="2401" data-start="2394">75%</strong> зберігає всі необхідні клавіші, залишаючись компактним.</p>    <p data-end="2639" data-start="2459">Клавіатура оснащена <strong data-end="2501" data-start="2479">RGB-підсвічуванням</strong>, преміальними <strong data-end="2545" data-start="2516">PBT Double-Shot кейкапами</strong>, зручним <strong data-end="2576" data-start="2555">колесом прокрутки</strong>, підтримує <strong data-end="2600" data-start="2588">Hot-Swap</strong> та підключається через <strong data-end="2638" data-start="2624">USB Type-C</strong>.</p>    <p data-end="2729" data-start="2641"><strong data-end="2664" data-start="2641">Attack Shark R85 HE</strong> — вибір професійних геймерів, де кожна мілісекунда має значення.</p>    <p data-end="2729" data-start="2641"><strong>Основні характеристики:</strong></p>    <ul>   <li data-end="3637" data-start="3588">   <p data-end="3637" data-start="3590">Тип: магнітна ігрова клавіатура (Hall Effect)</p>   </li>   <li data-end="3674" data-start="3638">   <p data-end="3674" data-start="3640">Підключення: дротове, USB Type-C</p>   </li>   <li data-end="3695" data-start="3675">   <p data-end="3695" data-start="3677">Форм-фактор: 75%</p>   </li>   <li data-end="3741" data-start="3696">   <p data-end="3741" data-start="3698">Перемикачі: Magnetic Switch (Hall Sensor)</p>   </li>   <li data-end="3764" data-start="3742">   <p data-end="3764" data-start="3744">Rapid Trigger: так</p>   </li>   <li data-end="3782" data-start="3765">   <p data-end="3782" data-start="3767">Hot-Swap: так</p>   </li>   <li data-end="3803" data-start="3783">   <p data-end="3803" data-start="3785">Gasket-mount: ні</p>   </li>   <li data-end="3826" data-start="3804">   <p data-end="3826" data-start="3806">Підсвічування: RGB</p>   </li>   <li data-end="3865" data-start="3827">   <p data-end="3865" data-start="3829">Матеріал кейкапів: PBT Double-Shot</p>   </li>   <li data-end="3897" data-start="3866">   <p data-end="3897" data-start="3868">Керування: колесо прокрутки</p>   </li>   <li data-end="3929" data-start="3898">   <p data-end="3929" data-start="3900">Частота опитування: 8000 Гц</p>   </li>   <li data-end="3950" data-start="3930">   <p data-end="3950" data-start="3932">Затримка: 0.1 мс</p>   </li>   <li data-end="4012" data-start="3951">   <p data-end="4012" data-start="3953">Регулювання точки спрацювання: 0.1–3.3 мм (крок 0.005 мм)</p>   </li>   <li data-end="4044" data-start="4013">   <p data-end="4044" data-start="4015">Габарити: 320 × 145 × 35 мм</p>   </li>   <li data-end="4060" data-start="4045">   <p data-end="4060" data-start="4047">Вага: 730 г</p>   </li>   <li data-end="4076" data-start="4061">   <p data-end="4076" data-start="4063">Стан: новий</p>   </li>   <li data-end="4105" data-start="4077">   <p data-end="4105" data-start="4079">Сумісність: Windows / ПК</p>   </li>  </ul></description_ua>
-        <description_ru><p data-end="2993" data-start="2759"><strong data-end="2782" data-start="2759">Attack Shark R85 HE</strong> — флагманская <strong data-end="2844" data-start="2797">магнитная игровая клавиатура премиум-класса</strong> для киберспорта. Использует <strong data-end="2912" data-start="2873">Hall Effect магнитные переключатели</strong>, работающие без физического контакта и обладающие максимальной износостойкостью.</p>    <p data-end="3198" data-start="2995">Технология <strong data-end="3023" data-start="3006">Rapid Trigger</strong> мгновенно фиксирует нажатие и отпускание клавиш. <strong data-end="3142" data-start="3073">Регулируемая точка срабатывания от 0,1 до 3,3 мм с шагом 0,005 мм</strong> позволяет идеально настроить клавиатуру под стиль игры.</p>    <p data-end="3324" data-start="3200"><strong data-end="3226" data-start="3200">Частота опроса 8000 Гц</strong> обеспечивает задержку всего <strong data-end="3265" data-start="3255">0,1 мс</strong>. Формат <strong data-end="3281" data-start="3274">75%</strong> сохраняет функциональность и компактность.</p>    <p data-end="3495" data-start="3326">RGB-подсветка, <strong data-end="3368" data-start="3341">PBT Double-Shot кейкапы</strong>, колесо прокрутки, <strong data-end="3400" data-start="3388">Hot-Swap</strong> и подключение <strong data-end="3429" data-start="3415">USB Type-C</strong> делают R85 HE полноценным инструментом для профессиональной игры.</p>    <p>Основные характеристики:</p>    <ul>   <li>Тип: магнитная игровая клавиатура (Hall Effect)</li>   <li>Подключение: проводное, USB Type-C</li>   <li>Форм-фактор: 75%</li>   <li>Переключатели: Magnetic Switch (Hall Sensor)</li>   <li>Rapid Trigger: да</li>   <li>Hot-Swap: да</li>   <li>Gasket-mount: нет</li>   <li>Подсветка: RGB</li>   <li>Материал кейкапов: PBT Double-Shot</li>   <li>Управление: колесо прокрутки</li>   <li>Частота опроса: 8000 Гц</li>   <li>Задержка: 0.1 мс</li>   <li>Регулировка точки срабатывания: 0.1–3.3 мм (шаг 0.005 мм)</li>   <li>Габариты: 320×145×35 мм</li>   <li>Вес: 730 г</li>   <li>Состояние: новое</li>   <li>Совместимость: Windows/ПК</li>  </ul></description_ru>
-        <price>3199</price>
-        <old_price>4399</old_price>
-        <categoryId>1082</categoryId>
-        <vendor>Attack Shark</vendor>
-        <picture>https://techgleam.com.ua/content/images/3/igrovaja-magnitnaja-provodnaja-klaviatura-attack-shark-r85-provodnoe-podkluchenie-magnetic-switch-black-75548980167360_%2Bfb847f3eb9.jpg</picture>
-        <picture>https://techgleam.com.ua/content/images/3/igrovaja-magnitnaja-provodnaja-klaviatura-attack-shark-r85-provodnoe-podkluchenie-magnetic-switch-black-46007029611743_%2Bff0380e323.jpg</picture>
-        <picture>https://techgleam.com.ua/content/images/3/igrovaja-magnitnaja-provodnaja-klaviatura-attack-shark-r85-provodnoe-podkluchenie-magnetic-switch-black-67942794498403_%2Bf59bc9e709.jpg</picture>
-        <picture>https://techgleam.com.ua/content/images/3/igrovaja-magnitnaja-provodnaja-klaviatura-attack-shark-r85-provodnoe-podkluchenie-magnetic-switch-black-13567772091410_%2B084af1c4ce.jpg</picture>
-        <picture>https://techgleam.com.ua/content/images/3/igrovaja-magnitnaja-provodnaja-klaviatura-attack-shark-r85-provodnoe-podkluchenie-magnetic-switch-black-31615710101193_%2B642e8bfdb1.jpg</picture>
-        <picture>https://techgleam.com.ua/content/images/3/igrovaja-magnitnaja-provodnaja-klaviatura-attack-shark-r85-provodnoe-podkluchenie-magnetic-switch-black-55570551473597_%2Ba43adc7157.jpg</picture>
-        <picture>https://techgleam.com.ua/content/images/3/igrovaja-magnitnaja-provodnaja-klaviatura-attack-shark-r85-provodnoe-podkluchenie-magnetic-switch-black-92780439429555_%2Bd093097eaf.jpg</picture>
-        <picture>https://techgleam.com.ua/content/images/3/igrovaja-magnitnaja-provodnaja-klaviatura-attack-shark-r85-provodnoe-podkluchenie-magnetic-switch-black-25540494806267_%2Bab929d1c01.jpg</picture>
-        <param name="Гарантія">3 місяці</param>
-        <param name="Колір">Темно-сірий</param>
-        <param name="Конструкція клавіш">Магнітна</param>
-        <param name="Підключення">Дротове</param>
-        <param name="Інтерфейс підключення">USB Type-C</param>
-        <param name="Розкладка">Eng</param>
-        <param name="Форм-фактор">Компактні</param>
-        <param name="Колір підсвічування">RGB</param>
-        <param name="Підсвічування клавіш">Є</param>
-        <param name="Матеріал корпусу">Пластик</param>
-        <param name="Сумісність з ОС">Windows</param>
-        <param name="Сумісність з ОС">Mac OS</param>
-        <param name="Сумісність з ОС">Linux</param>
-        <param name="Стан">Новий</param>
-        <param name="Комплектація">Клавіатура</param>
-        <param name="Призначення">Для ПК</param>
-        <param name="Вид">Ігрові</param>
         <country>Китай</country>
       </offer>
       <offer id="1509" available="false">
@@ -9749,7 +9735,7 @@
         <picture>https://techgleam.com.ua/content/images/26/igrovaja-mexanicheskaja-provodnaja-klaviatura-ajazz-ak690-68-klavish-hot-swap-rgb-melard-switch-mc-purple-71188297994233_%2B6a32f21b0e.jpg</picture>
         <picture>https://techgleam.com.ua/content/images/26/igrovaja-mexanicheskaja-provodnaja-klaviatura-ajazz-ak690-68-klavish-hot-swap-rgb-melard-switch-mc-purple-18992482868245_%2Bae8892fe75.jpg</picture>
         <param name="Гарантія">1 місяць</param>
-        <param name="Колір">Бузковий</param>
+        <param name="Колір">Фіолетовий</param>
         <param name="Конструкція клавіш">Механічна</param>
         <param name="Підключення">Дротове</param>
         <param name="Інтерфейс підключення">USB Type-C</param>
@@ -9761,6 +9747,7 @@
         <param name="Сумісність з ОС">Windows</param>
         <param name="Сумісність з ОС">Mac OS</param>
         <param name="Сумісність з ОС">Linux</param>
+        <param name="Колір">Бузковий</param>
         <param name="Стан">Новий</param>
         <param name="Комплектація">Клавіатура</param>
         <param name="Призначення">Для ПК</param>
@@ -10394,7 +10381,7 @@
         <picture>https://techgleam.com.ua/content/images/11/igrovaja-provodnaja-magnitnaja-klaviatura-gravastar-mercury-v60-pro-deluxe-edition-magnetic-gravastar-ufo-switch-with-keycap-set-chrome-silver-94727437864284_%2B7f8fb76335.jpg</picture>
         <picture>https://techgleam.com.ua/content/images/11/igrovaja-provodnaja-magnitnaja-klaviatura-gravastar-mercury-v60-pro-deluxe-edition-magnetic-gravastar-ufo-switch-with-keycap-set-chrome-silver-97811102537831_%2Bc967928c24.jpg</picture>
         <param name="Гарантія">6 місяців</param>
-        <param name="Колір">Сірий</param>
+        <param name="Колір">Сріблястий</param>
         <param name="Конструкція клавіш">Магнітна</param>
         <param name="Підключення">Дротове</param>
         <param name="Інтерфейс підключення">USB Type-C</param>
@@ -10406,6 +10393,7 @@
         <param name="Сумісність з ОС">Windows</param>
         <param name="Сумісність з ОС">Mac OS</param>
         <param name="Сумісність з ОС">Linux</param>
+        <param name="Колір">Сірий</param>
         <param name="Стан">Новий</param>
         <param name="Комплектація">Клавіатура</param>
         <param name="Призначення">Для ПК</param>
@@ -10576,6 +10564,7 @@
         <description_ru><p data-end="2351" data-start="2058"><strong data-end="2095" data-start="2058">Logitech G102 Lightsync USB Black</strong> — проводная игровая мышь с оптическим сенсором <strong data-end="2158" data-start="2143">до 8000 DPI</strong>, <strong data-end="2191" data-start="2160">6 программируемыми кнопками</strong>, RGB-подсветкой <strong data-end="2221" data-start="2208">Lightsync</strong> и быстрым откликом для игр и повседневного использования. Оснащена <strong data-end="2318" data-start="2289">32-битным ARM-процессором</strong> и удобным средним форм-фактором.</p>    <p data-end="2372" data-start="2353"><strong data-end="2400" data-start="2373">Logitech G102 Lightsync</strong> — популярная проводная мышь для тех, кто ищет надёжное решение для игр, учёбы и повседневной работы. Модель имеет классическую симметричную форму, удобно лежит в руке и подходит большинству пользователей благодаря <strong data-end="2635" data-start="2615">среднему размеру</strong> и комфортной посадке.</p>    <p data-end="2933" data-start="2659">Мышь оснащена <strong data-end="2696" data-start="2673">оптическим сенсором</strong> с чувствительностью <strong data-end="2732" data-start="2717">до 8000 DPI</strong>, что обеспечивает точный контроль в шутерах, MOBA и других динамичных играх. Диапазон чувствительности — <strong data-end="2860" data-start="2838">от 200 до 8000 DPI</strong>, поэтому можно легко подобрать удобную скорость движения под свой стиль.</p>    <p data-end="3282" data-start="2935"><strong data-end="2963" data-start="2935">6 программируемых кнопок</strong> и <strong data-end="2993" data-start="2966">32-битный ARM-процессор</strong> позволяют настраивать команды, макросы и игровые профили. Подсветка <strong data-end="3079" data-start="3062">Lightsync RGB</strong> добавляет яркости рабочему месту и помогает персонализировать внешний вид устройства.<br data-end="3168" data-start="3165" />  Подключение осуществляется через <strong data-end="3208" data-start="3201">USB</strong>, длина кабеля — <strong data-end="3234" data-start="3225">2.1 м</strong>, поддерживаются <strong data-end="3281" data-start="3251">Windows, macOS и Chrome OS</strong>.</p>    <h3 data-end="3311" data-start="3284">Основные характеристики</h3>    <ul data-end="3874" data-start="3312">   <li data-end="3349" data-start="3312">   <p data-end="3349" data-start="3314"><strong data-end="3325" data-start="3314">Модель:</strong> Logitech G102 Lightsync</p>   </li>   <li data-end="3385" data-start="3350">   <p data-end="3385" data-start="3352"><strong data-end="3374" data-start="3352">Код производителя:</strong> 910-005823</p>   </li>   <li data-end="3419" data-start="3386">   <p data-end="3419" data-start="3388"><strong data-end="3396" data-start="3388">Тип:</strong> проводная игровая мышь</p>   </li>   <li data-end="3440" data-start="3420">   <p data-end="3440" data-start="3422"><strong data-end="3436" data-start="3422">Интерфейс:</strong> USB</p>   </li>   <li data-end="3465" data-start="3441">   <p data-end="3465" data-start="3443"><strong data-end="3454" data-start="3443">Сенсор:</strong> оптический</p>   </li>   <li data-end="3498" data-start="3466">   <p data-end="3498" data-start="3468"><strong data-end="3489" data-start="3468">Максимальное DPI:</strong> <strong data-end="3498" data-start="3490">8000</strong></p>   </li>   <li data-end="3531" data-start="3499">   <p data-end="3531" data-start="3501"><strong data-end="3518" data-start="3501">Диапазон DPI:</strong> <strong data-end="3531" data-start="3519">200–8000</strong></p>   </li>   <li data-end="3562" data-start="3532">   <p data-end="3562" data-start="3534"><strong data-end="3556" data-start="3534">Количество кнопок:</strong> <strong data-end="3562" data-start="3557">6</strong></p>   </li>   <li data-end="3592" data-start="3563">   <p data-end="3592" data-start="3565"><strong data-end="3576" data-start="3565">Кнопки:</strong> программируемые</p>   </li>   <li data-end="3627" data-start="3593">   <p data-end="3627" data-start="3595"><strong data-end="3609" data-start="3595">Процессор:</strong> <strong data-end="3627" data-start="3610">32-битный ARM</strong></p>   </li>   <li data-end="3658" data-start="3628">   <p data-end="3658" data-start="3630"><strong data-end="3644" data-start="3630">Подсветка:</strong> RGB Lightsync</p>   </li>   <li data-end="3699" data-start="3659">   <p data-end="3699" data-start="3661"><strong data-end="3672" data-start="3661">Размер:</strong> <strong data-end="3699" data-start="3673">62.2 × 116.6 × 38.2 мм</strong></p>   </li>   <li data-end="3729" data-start="3700">   <p data-end="3729" data-start="3702"><strong data-end="3719" data-start="3702">Длина кабеля:</strong> <strong data-end="3729" data-start="3720">2.1 м</strong></p>   </li>   <li data-end="3748" data-start="3730">   <p data-end="3748" data-start="3732"><strong data-end="3741" data-start="3732">Цвет:</strong> чёрный</p>   </li>   <li data-end="3797" data-start="3749">   <p data-end="3797" data-start="3751"><strong data-end="3769" data-start="3751">Совместимость:</strong> Windows / macOS / Chrome OS</p>   </li>   <li data-end="3840" data-start="3798">   <p data-end="3840" data-start="3800"><strong data-end="3830" data-start="3800">Страна регистрации бренда:</strong> Швейцария</p>   </li>   <li data-end="3874" data-start="3841">   <p data-end="3874" data-start="3843"><strong data-end="3868" data-start="3843">Страна-производитель:</strong> Китай</p>   </li>  </ul></description_ru>
         <price>999</price>
         <categoryId>1084</categoryId>
+        <vendor>Logitech</vendor>
         <picture>https://techgleam.com.ua/content/images/32/igrovaja-provodnaja-myshka-logitech-g102-lightsync-8000-dpi-black-72189338144463_%2Bf932db9a2b.jpg</picture>
         <picture>https://techgleam.com.ua/content/images/32/igrovaja-provodnaja-myshka-logitech-g102-lightsync-8000-dpi-black-76216668033118_%2Bcc6bb2ee41.jpg</picture>
         <picture>https://techgleam.com.ua/content/images/32/igrovaja-provodnaja-myshka-logitech-g102-lightsync-8000-dpi-black-88222429160008_%2B4237891ce9.jpg</picture>
@@ -10795,6 +10784,7 @@
         <picture>https://techgleam.com.ua/content/images/43/mexanicheskaja-klaviatura-aula-s75-pro-75-tri-rezhima-podkluchenija-seyia-switch-white-blue-51577470258984_%2B8566ca75aa.jpg</picture>
         <picture>https://techgleam.com.ua/content/images/43/mexanicheskaja-klaviatura-aula-s75-pro-75-tri-rezhima-podkluchenija-seyia-switch-white-blue-98641693070935_%2B7ac5acc537.jpg</picture>
         <param name="Гарантія">3 місяці</param>
+        <param name="Колір">Білий</param>
         <param name="Конструкція клавіш">Механічна</param>
         <param name="Підключення">Комбіноване</param>
         <param name="Інтерфейс підключення">Bluetooth</param>
@@ -10875,6 +10865,39 @@
         <param name="Комплектація">Клавіатура</param>
         <param name="Призначення">Для ПК</param>
         <param name="Вид">Ігрові</param>
+        <country>Китай</country>
+      </offer>
+      <offer id="1650" available="false">
+        <availability_status>temporarily_unavailable</availability_status>
+        <name_ua>Ігрова бездротова мишка ATTACK SHARK X8SE / Три режими підключення / 55g / 25000DPI / Сенсор PAW3311 / Black</name_ua>
+        <name_ru>Игровая беспроводная мышка ATTACK SHARK X8SE / Три режима подключения / 55g / 25000DPI / Сенсор PAW3311 / Black</name_ru>
+        <description_ua><p data-end="472" data-start="170"><strong data-end="192" data-start="170">Attack Shark X8 SE</strong> — ультралегка <strong data-end="219" data-start="207">Tri-Mode</strong> ігрова мишка (дріт / 2.4G / Bluetooth) для FPS та щоденного використання. Вона важить <strong data-end="316" data-start="306">55±3 г</strong>, має точний сенсор <strong data-end="354" data-start="336">PixArt PAW3311</strong> і широкий діапазон <strong data-end="390" data-start="374">DPI 50–40000</strong>, а також стабільну швидкість відстеження до <strong data-end="446" data-start="435">400 IPS</strong> і прискорення до <strong data-end="471" data-start="464">40G</strong>.</p>    <p data-end="743" data-start="474">Мишка підтримує підключення через <strong data-end="517" data-start="508">USB-C</strong> (дротово), працює бездротово по <strong data-end="561" data-start="550">2.4 GHz</strong> і <strong data-end="577" data-start="564">Bluetooth</strong>, тому однаково зручна для ПК, ноутбука та навіть мобільних пристроїв. Перемикачі <strong data-end="668" data-start="659">HUANO</strong> з ресурсом <strong data-end="701" data-start="680">≈80 млн натискань</strong> — надійний варіант на довгу експлуатацію.</p>    <p data-end="766" data-start="745"><strong data-end="766" data-start="745">Ключові переваги:</strong></p>    <ul data-end="1075" data-start="767">   <li data-end="815" data-start="767">   <p data-end="815" data-start="769"><strong data-end="792" data-start="769">Ультралегка: 55±3 г</strong> — мінімум втоми руки</p>   </li>   <li data-end="858" data-start="816">   <p data-end="858" data-start="818"><strong data-end="831" data-start="818">Tri-Mode:</strong> USB-C / 2.4G / Bluetooth</p>   </li>   <li data-end="921" data-start="859">   <p data-end="921" data-start="861">Сенсор <strong data-end="879" data-start="868">PAW3311</strong>: <strong data-end="897" data-start="881">50–40000 DPI</strong>, <strong data-end="910" data-start="899">400 IPS</strong>, <strong data-end="919" data-start="912">40G</strong></p>   </li>   <li data-end="986" data-start="922">   <p data-end="986" data-start="924"><strong data-end="945" data-start="924">Polling rate 1KHz</strong> (дріт і бездротово — за специфікацією)</p>   </li>   <li data-end="1023" data-start="987">   <p data-end="1023" data-start="989"><strong data-end="1002" data-start="989">HUANO 80M</strong> — довговічні кліки</p>   </li>   <li data-end="1075" data-start="1024">   <p data-end="1075" data-start="1026">Ергономічна форма + 2 бічні кнопки (вперед/назад)</p>   </li>  </ul>    <p data-end="1096" data-start="1077"><strong data-end="1096" data-start="1077">Характеристики:</strong></p>    <ul data-end="1482" data-start="1097">   <li data-end="1116" data-start="1097">   <p data-end="1116" data-start="1099">Модель: <strong data-end="1116" data-start="1107">X8 SE</strong></p>   </li>   <li data-end="1149" data-start="1117">   <p data-end="1149" data-start="1119">Розмір: <strong data-end="1149" data-start="1127">125.5 × 63 × 40 мм</strong></p>   </li>   <li data-end="1170" data-start="1150">   <p data-end="1170" data-start="1152">Вага: <strong data-end="1170" data-start="1158">55 ± 3 г</strong></p>   </li>   <li data-end="1199" data-start="1171">   <p data-end="1199" data-start="1173">Сенсор: <strong data-end="1199" data-start="1181">PixArt PAW3311</strong></p>   </li>   <li data-end="1219" data-start="1200">   <p data-end="1219" data-start="1202">DPI: <strong data-end="1219" data-start="1207">50–40000</strong></p>   </li>   <li data-end="1247" data-start="1220">   <p data-end="1247" data-start="1222">Швидкість: <strong data-end="1247" data-start="1233">до 400 IPS</strong></p>   </li>   <li data-end="1273" data-start="1248">   <p data-end="1273" data-start="1250">Прискорення: <strong data-end="1273" data-start="1263">до 40G</strong></p>   </li>   <li data-end="1310" data-start="1274">   <p data-end="1310" data-start="1276">Підключення: <strong data-end="1310" data-start="1289">Wired / 2.4G / BT</strong></p>   </li>   <li data-end="1366" data-start="1311">   <p data-end="1366" data-start="1313">Частота опитування: <strong data-end="1366" data-start="1333">1KHz (wired), 1KHz (wireless)</strong></p>   </li>   <li data-end="1405" data-start="1367">   <p data-end="1405" data-start="1369">Інтерфейс зарядки/кабель: <strong data-end="1405" data-start="1395">Type-C</strong></p>   </li>   <li data-end="1431" data-start="1406">   <p data-end="1431" data-start="1408">Акумулятор: <strong data-end="1431" data-start="1420">500 mAh</strong></p>   </li>  </ul></description_ua>
+        <description_ru><p data-end="1783" data-start="1509"><strong data-end="1531" data-start="1509">Attack Shark X8 SE</strong> — ультралёгкая игровая мышь <strong data-end="1572" data-start="1560">Tri-Mode</strong> (провод / 2.4G / Bluetooth) для FPS и ежедневного использования. Вес <strong data-end="1652" data-start="1642">55±3 г</strong>, точный сенсор <strong data-end="1686" data-start="1668">PixArt PAW3311</strong>, широкий диапазон <strong data-end="1721" data-start="1705">DPI 50–40000</strong>, скорость отслеживания до <strong data-end="1759" data-start="1748">400 IPS</strong> и ускорение до <strong data-end="1782" data-start="1775">40G</strong>.</p>    <p data-end="2028" data-start="1785">Подключается по <strong data-end="1810" data-start="1801">USB-C</strong> (провод), работает беспроводно по <strong data-end="1856" data-start="1845">2.4 GHz</strong> и <strong data-end="1872" data-start="1859">Bluetooth</strong>, поэтому удобно использовать с ПК, ноутбуком и мобильными устройствами. Переключатели <strong data-end="1968" data-start="1959">HUANO</strong> с ресурсом <strong data-end="1999" data-start="1980">≈80 млн нажатий</strong> рассчитаны на долгую службу.</p>    <p data-end="2047" data-start="2030"><strong data-end="2047" data-start="2030">Преимущества:</strong></p>    <ul data-end="2320" data-start="2048">   <li data-end="2076" data-start="2048">   <p data-end="2076" data-start="2050"><strong data-end="2074" data-start="2050">Ультралёгкая: 55±3 г</strong></p>   </li>   <li data-end="2119" data-start="2077">   <p data-end="2119" data-start="2079"><strong data-end="2092" data-start="2079">Tri-Mode:</strong> USB-C / 2.4G / Bluetooth</p>   </li>   <li data-end="2182" data-start="2120">   <p data-end="2182" data-start="2122">Сенсор <strong data-end="2140" data-start="2129">PAW3311</strong>: <strong data-end="2158" data-start="2142">50–40000 DPI</strong>, <strong data-end="2171" data-start="2160">400 IPS</strong>, <strong data-end="2180" data-start="2173">40G</strong></p>   </li>   <li data-end="2245" data-start="2183">   <p data-end="2245" data-start="2185"><strong data-end="2206" data-start="2185">Polling rate 1KHz</strong> (провод/беспровод — по спецификации)</p>   </li>   <li data-end="2280" data-start="2246">   <p data-end="2280" data-start="2248"><strong data-end="2261" data-start="2248">HUANO 80M</strong> — надёжные клики</p>   </li>   <li data-end="2320" data-start="2281">   <p data-end="2320" data-start="2283">Эргономичная форма + 2 боковые кнопки</p>   </li>  </ul>    <p data-end="2341" data-start="2322"><strong data-end="2341" data-start="2322">Характеристики:</strong></p>    <ul data-end="2690" data-start="2342">   <li data-end="2361" data-start="2342">   <p data-end="2361" data-start="2344">Модель: <strong data-end="2361" data-start="2352">X8 SE</strong></p>   </li>   <li data-end="2394" data-start="2362">   <p data-end="2394" data-start="2364">Размер: <strong data-end="2394" data-start="2372">125.5 × 63 × 40 мм</strong></p>   </li>   <li data-end="2414" data-start="2395">   <p data-end="2414" data-start="2397">Вес: <strong data-end="2414" data-start="2402">55 ± 3 г</strong></p>   </li>   <li data-end="2443" data-start="2415">   <p data-end="2443" data-start="2417">Сенсор: <strong data-end="2443" data-start="2425">PixArt PAW3311</strong></p>   </li>   <li data-end="2463" data-start="2444">   <p data-end="2463" data-start="2446">DPI: <strong data-end="2463" data-start="2451">50–40000</strong></p>   </li>   <li data-end="2490" data-start="2464">   <p data-end="2490" data-start="2466">Скорость: <strong data-end="2490" data-start="2476">до 400 IPS</strong></p>   </li>   <li data-end="2514" data-start="2491">   <p data-end="2514" data-start="2493">Ускорение: <strong data-end="2514" data-start="2504">до 40G</strong></p>   </li>   <li data-end="2551" data-start="2515">   <p data-end="2551" data-start="2517">Подключение: <strong data-end="2551" data-start="2530">Wired / 2.4G / BT</strong></p>   </li>   <li data-end="2603" data-start="2552">   <p data-end="2603" data-start="2554">Частота опроса: <strong data-end="2603" data-start="2570">1KHz (wired), 1KHz (wireless)</strong></p>   </li>   <li data-end="2624" data-start="2604">   <p data-end="2624" data-start="2606">Разъём: <strong data-end="2624" data-start="2614">Type-C</strong></p>   </li>   <li data-end="2651" data-start="2625">   <p data-end="2651" data-start="2627">Аккумулятор: <strong data-end="2651" data-start="2640">500 mAh</strong></p>   </li>  </ul></description_ru>
+        <price>1399</price>
+        <old_price>1699</old_price>
+        <categoryId>1084</categoryId>
+        <vendor>Attack Shark</vendor>
+        <picture>https://techgleam.com.ua/content/images/1/igrovaja-besprovodnaja-myshka-attack-shark-x8se-tri-rezhima-podkluchenija-55g-25000dpi-sensor-paw3311-black-12632386293672_%2B921b063ece.jpg</picture>
+        <picture>https://techgleam.com.ua/content/images/1/igrovaja-besprovodnaja-myshka-attack-shark-x8se-tri-rezhima-podkluchenija-55g-25000dpi-sensor-paw3311-black-19179351274368_%2Baa3be461fa.jpg</picture>
+        <picture>https://techgleam.com.ua/content/images/1/igrovaja-besprovodnaja-myshka-attack-shark-x8se-tri-rezhima-podkluchenija-55g-25000dpi-sensor-paw3311-black-32359999521539_%2B4f5ab09232.jpg</picture>
+        <picture>https://techgleam.com.ua/content/images/1/igrovaja-besprovodnaja-myshka-attack-shark-x8se-tri-rezhima-podkluchenija-55g-25000dpi-sensor-paw3311-black-88061421018399_%2B2bc5d30f7c.jpg</picture>
+        <picture>https://techgleam.com.ua/content/images/1/igrovaja-besprovodnaja-myshka-attack-shark-x8se-tri-rezhima-podkluchenija-55g-25000dpi-sensor-paw3311-black-95349777007084_%2Bf9caf97142.jpg</picture>
+        <param name="Гарантія">3 місяці</param>
+        <param name="Колір">Чорний</param>
+        <param name="Підключення">Комбіноване</param>
+        <param name="Сумісність з ОС">Microsoft Windows</param>
+        <param name="Сумісність з ОС">Mac OS</param>
+        <param name="Сумісність з ОС">Linux</param>
+        <param name="Вага">55 г</param>
+        <param name="Колір">Білий</param>
+        <param name="Кількість кнопок миші">6</param>
+        <param name="Тип датчика">Оптичний</param>
+        <param name="Інтерфейс підключення">Bluetooth</param>
+        <param name="Інтерфейс підключення">Радіоінтерфейс</param>
+        <param name="Інтерфейс підключення">USB</param>
+        <param name="Роздільна здатність сенсора">Понад 20000 dpi</param>
+        <param name="Стан">Новий</param>
+        <param name="Тип">Ігрові (геймерські)</param>
         <country>Китай</country>
       </offer>
       <offer id="1652" available="false">
@@ -11472,7 +11495,7 @@
         <name_ru>Игровая механическая беспроводная клавиатура Attack Shark X85 Pro / Три режима подключения / Blueberry Switch / Black</name_ru>
         <description_ua><p data-end="1747" data-start="1495"><strong data-end="1518" data-start="1495">Attack Shark X85PRO</strong> — це преміальна механічна клавіатура формату <strong data-end="1571" data-start="1564">75%</strong>, створена для геймерів, ентузіастів та професіоналів. Вона поєднує <strong data-end="1667" data-start="1639">gasket-mount конструкцію</strong>, розумний <strong data-end="1693" data-start="1678">TFT-дисплей</strong>, металевий <strong data-end="1720" data-start="1705">CNC-енкодер</strong> та три режими підключення.</p>    <p data-end="1835" data-start="1749">Підтримується <strong data-end="1787" data-start="1763">Tri-mode підключення</strong>:<br data-end="1791" data-start="1788" />    Bluetooth<br data-end="1805" data-start="1802" />    2.4G радіо<br data-end="1820" data-start="1817" />    Дротове USB</p>    <p data-end="2016" data-start="1837">Клавіатура оснащена <strong data-end="1890" data-start="1857">Hot-Swap платою (3pin / 5pin)</strong> — ви можете змінювати перемикачі без пайки. Заводські <strong data-end="1982" data-start="1945">pre-lubed linear Blueberry switch</strong> забезпечують плавний і тихий хід.</p>    <p data-end="2192" data-start="2018">Конструкція має <strong data-end="2068" data-start="2034">5-шарове внутрішнє демпфування</strong>, що знижує вібрації та шум. <strong data-end="2137" data-start="2097">RGB-підсвічування з South-Facing LED</strong> підтримує програмування через QMK та фірмовий драйвер.</p>    <p data-end="2311" data-start="2194">Ємний <strong data-end="2223" data-start="2200">акумулятор 4000 мАг</strong> гарантує тривалу автономність, а система Smart Power Saving зменшує споживання енергії.</p>    <p data-end="2386" data-start="2313"><strong data-end="2323" data-start="2313">X85PRO</strong> — це клавіатура рівня custom у готовому заводському виконанні.</p>    <p data-end="2386" data-start="2313"><strong>Основні характеристики:</strong></p>    <ul data-end="3828" data-start="3177">   <li data-end="3249" data-start="3220">   <p data-end="3249" data-start="3222">Тип: механічна клавіатура</p>   </li>   <li data-end="3272" data-start="3250">   <p data-end="3272" data-start="3252">Формат: 75% (ANSI)</p>   </li>   <li data-end="3323" data-start="3273">   <p data-end="3323" data-start="3275">Підключення: Bluetooth / 2.4G / USB (Tri-mode)</p>   </li>   <li data-end="3353" data-start="3324">   <p data-end="3353" data-start="3326">Конструкція: Gasket-Mount</p>   </li>   <li data-end="3385" data-start="3354">   <p data-end="3385" data-start="3356">Hot-Swap: так (3pin / 5pin)</p>   </li>   <li data-end="3430" data-start="3386">   <p data-end="3430" data-start="3388">Перемикачі: Linear Blueberry (pre-lubed)</p>   </li>   <li data-end="3465" data-start="3431">   <p data-end="3465" data-start="3433">Кількість клавіш: ~82–84 (75%)</p>   </li>   <li data-end="3506" data-start="3466">   <p data-end="3506" data-start="3468">Підсвічування: RGB, South-Facing LED</p>   </li>   <li data-end="3537" data-start="3507">   <p data-end="3537" data-start="3509">Дисплей: TFT Smart Display</p>   </li>   <li data-end="3574" data-start="3538">   <p data-end="3574" data-start="3540">Керування: CNC металевий енкодер</p>   </li>   <li data-end="3619" data-start="3575">   <p data-end="3619" data-start="3577">Програмування: QMK + Attack Shark Driver</p>   </li>   <li data-end="3649" data-start="3620">   <p data-end="3649" data-start="3622">Кейкапи: PBT, OEM профіль</p>   </li>   <li data-end="3690" data-start="3650">   <p data-end="3690" data-start="3652">Демпфування: 5-шарове шумопоглинання</p>   </li>   <li data-end="3715" data-start="3691">   <p data-end="3715" data-start="3693">Акумулятор: 4000 мАг</p>   </li>   <li data-end="3747" data-start="3716">   <p data-end="3747" data-start="3718">Сумісність: Windows / macOS</p>   </li>   <li data-end="3778" data-start="3748">   <p data-end="3778" data-start="3750">Живлення: акумулятор + USB</p>   </li>  </ul></description_ua>
         <description_ru><p data-end="2643" data-start="2416"><strong data-end="2439" data-start="2416">Attack Shark X85PRO</strong> — премиальная механическая клавиатура формата <strong data-end="2493" data-start="2486">75%</strong> для геймеров и энтузиастов. Она сочетает <strong data-end="2563" data-start="2535">gasket-mount конструкцию</strong>, умный <strong data-end="2586" data-start="2571">TFT-дисплей</strong>, металлический <strong data-end="2617" data-start="2602">CNC-энкодер</strong> и три режима подключения.</p>    <p data-end="2728" data-start="2645">Поддерживается <strong data-end="2684" data-start="2660">Tri-mode подключение</strong>:<br data-end="2688" data-start="2685" />    Bluetooth<br data-end="2702" data-start="2699" />    2.4G<br data-end="2711" data-start="2708" />    Проводное USB</p>    <p data-end="2887" data-start="2730"><strong data-end="2762" data-start="2730">Hot-Swap плата (3pin / 5pin)</strong> позволяет менять переключатели без пайки. Заводские <strong data-end="2852" data-start="2815">pre-lubed linear Blueberry switch</strong> обеспечивают мягкий и плавный ход.</p>    <p data-end="3058" data-start="2889">Внутри используется <strong data-end="2936" data-start="2909">5-слойное демпфирование</strong> для минимизации шума и вибраций. <strong data-end="3004" data-start="2970">RGB-подсветка South-Facing LED</strong> поддерживает настройку через QMK и фирменный драйвер.</p>    <p data-end="3127" data-start="3060">Аккумулятор <strong data-end="3084" data-start="3072">4000 мАч</strong> обеспечивает длительную автономную работу.</p>    <p data-end="3127" data-start="3060"><strong>Основные характеристики:</strong></p>    <ul>   <li>Тип: механическая клавиатура</li>   <li>Формат: 75% (ANSI)</li>   <li>Подключение: Bluetooth/2.4G/USB (Tri-mode)</li>   <li>Конструкция: Gasket-Mount</li>   <li>Hot-Swap: да (3pin / 5pin)</li>   <li>Переключатели: Linear Blueberry (pre-lubed)</li>   <li>Количество клавиш: ~82–84 (75%)</li>   <li>Подсветка: RGB, South-Facing LED</li>   <li>Дисплей: TFT Smart Display</li>   <li>Управление: CNC металлический энкодер</li>   <li>Программирование: QMK + Attack Shark Driver</li>   <li>Кейкапы: PBT, OEM профиль</li>   <li>Демпфирование: 5-слойное шумопоглощение</li>   <li>Аккумулятор: 4000 мАч</li>   <li>Совместимость: Windows/macOS</li>   <li>Питание: аккумулятор + USB</li>  </ul></description_ru>
-        <price>2999</price>
+        <price>3099</price>
         <categoryId>1082</categoryId>
         <vendor>Attack Shark</vendor>
         <picture>https://techgleam.com.ua/content/images/38/igrovaja-mexanicheskaja-besprovodnaja-klaviatura-attack-shark-x85-pro-tri-rezhima-podkluchenija-blueberry-switch-black-92787911392542_%2Be3db855ad6.jpg</picture>
@@ -11689,7 +11712,7 @@
         <picture>https://techgleam.com.ua/content/images/3/grova-bezdrotova-mishka-ipi-qi-pro-tri-rezhimi-pdkluchennja-42000-dpi-sensor-paw3950-purple-95167377722564_%2B060b14f7a4.png</picture>
         <picture>https://techgleam.com.ua/content/images/3/grova-bezdrotova-mishka-ipi-qi-pro-tri-rezhimi-pdkluchennja-42000-dpi-sensor-paw3950-purple-82530435859139_%2Bb6d49402ab.png</picture>
         <param name="Гарантія">6 місяців</param>
-        <param name="Колір">Бузковий</param>
+        <param name="Колір">Фіолетовий</param>
         <param name="Підключення">Комбіноване</param>
         <param name="Сумісність з ОС">Microsoft Windows</param>
         <param name="Сумісність з ОС">Mac OS</param>
@@ -11716,7 +11739,7 @@
         <picture>https://techgleam.com.ua/content/images/4/grova-bezdrotova-mishka-ipi-qi-pro-tri-rezhimi-pdkluchennja-42000-dpi-sensor-paw3950-silver-93772015909025_%2B2eb99a06df.png</picture>
         <picture>https://techgleam.com.ua/content/images/4/grova-bezdrotova-mishka-ipi-qi-pro-tri-rezhimi-pdkluchennja-42000-dpi-sensor-paw3950-silver-54723096526168_%2B6954338e50.png</picture>
         <param name="Гарантія">6 місяців</param>
-        <param name="Колір">Сірий</param>
+        <param name="Колір">Сріблястий</param>
         <param name="Підключення">Комбіноване</param>
         <param name="Сумісність з ОС">Microsoft Windows</param>
         <param name="Сумісність з ОС">Mac OS</param>
@@ -11872,6 +11895,7 @@
         <picture>https://techgleam.com.ua/content/images/30/grova-bezdrotova-mexanchna-klavatura-attack-shark-k86-tri-rezhimi-pdkluchennja-linear-blue-whale-switches-white-blue-48844547335317_%2B9b31d41e6b.jpg</picture>
         <picture>https://techgleam.com.ua/content/images/30/grova-bezdrotova-mexanchna-klavatura-attack-shark-k86-tri-rezhimi-pdkluchennja-linear-blue-whale-switches-white-blue-90743456618862_%2Bea1277d343.jpg</picture>
         <param name="Гарантія">3 місяці</param>
+        <param name="Колір">Білий</param>
         <param name="Конструкція клавіш">Механічна</param>
         <param name="Підключення">Комбіноване</param>
         <param name="Інтерфейс підключення">Bluetooth</param>
@@ -12137,7 +12161,7 @@
         <vendor>ATK</vendor>
         <picture>https://techgleam.com.ua/content/images/43/grova-bezdrotova-mishka-atk-blazing-sky-ghost-tri-rezhimi-pdkluchennja-sensor-paw3950-ultra-42000-dpi-silver-69947462774638_%2B3bc14e2296.jpg</picture>
         <param name="Гарантія">3 місяці</param>
-        <param name="Колір">Сірий</param>
+        <param name="Колір">Сріблястий</param>
         <param name="Підключення">Комбіноване</param>
         <param name="Сумісність з ОС">Microsoft Windows</param>
         <param name="Сумісність з ОС">Mac OS</param>
@@ -12563,6 +12587,7 @@
         <picture>https://techgleam.com.ua/content/images/25/grova-mexanchna-drotova-klavatura-ajazz-ak690-68-klavsh-hot-swap-rgb-melard-switch-mc-white-blue-59702186543399_%2B6ed811e94f.jpg</picture>
         <picture>https://techgleam.com.ua/content/images/25/grova-mexanchna-drotova-klavatura-ajazz-ak690-68-klavsh-hot-swap-rgb-melard-switch-mc-white-blue-58546030690207_%2B4353e5f26d.jpg</picture>
         <param name="Гарантія">1 місяць</param>
+        <param name="Колір">Білий</param>
         <param name="Конструкція клавіш">Механічна</param>
         <param name="Підключення">Дротове</param>
         <param name="Інтерфейс підключення">USB Type-C</param>
@@ -12796,7 +12821,7 @@
         <picture>https://techgleam.com.ua/content/images/42/grova-mexanchna-klavatura-akko-5075-v3-tri-rezhimi-pdkluchennja-frost-pink-switch-purple-25240406184115_%2Bf1cd6ca00b.png</picture>
         <picture>https://techgleam.com.ua/content/images/42/grova-mexanchna-klavatura-akko-5075-v3-tri-rezhimi-pdkluchennja-frost-pink-switch-purple-51100304576930_%2Bfab2fede6f.png</picture>
         <param name="Гарантія">3 місяці</param>
-        <param name="Колір">Бузковий</param>
+        <param name="Колір">Фіолетовий</param>
         <param name="Конструкція клавіш">Механічна</param>
         <param name="Підключення">Комбіноване</param>
         <param name="Інтерфейс підключення">Bluetooth</param>
@@ -12811,6 +12836,7 @@
         <param name="Сумісність з ОС">Windows</param>
         <param name="Сумісність з ОС">Mac OS</param>
         <param name="Сумісність з ОС">Linux</param>
+        <param name="Колір">Бузковий</param>
         <param name="Стан">Новий</param>
         <param name="Комплектація">Клавіатура</param>
         <param name="Призначення">Для ПК</param>
@@ -13080,7 +13106,7 @@
         <picture>https://techgleam.com.ua/content/images/4/grova-bezdrotova-mishka-attack-shark-x11-ultra-tri-rezhimi-pdkluchennja-carbon-fiber-sensor-paw3950max-42000-dpi-purple-95266018642805_%2Be5cb20f694.jpg</picture>
         <picture>https://techgleam.com.ua/content/images/4/grova-bezdrotova-mishka-attack-shark-x11-ultra-tri-rezhimi-pdkluchennja-carbon-fiber-sensor-paw3950max-42000-dpi-purple-11556664586130_%2B2d979edd17.jpg</picture>
         <param name="Гарантія">3 місяці</param>
-        <param name="Колір">Бузковий</param>
+        <param name="Колір">Фіолетовий</param>
         <param name="Підключення">Комбіноване</param>
         <param name="Сумісність з ОС">Microsoft Windows</param>
         <param name="Сумісність з ОС">Mac OS</param>
@@ -13840,7 +13866,7 @@
         <picture>https://techgleam.com.ua/content/images/43/grova-bezdrotova-mishka-aula-sc620-tri-rezhimi-pdkluchennja-sensor-paw3311-67-g-12000-dpi-purple-25313134841959_%2B8a4b7884f8.jpg</picture>
         <picture>https://techgleam.com.ua/content/images/43/grova-bezdrotova-mishka-aula-sc620-tri-rezhimi-pdkluchennja-sensor-paw3311-67-g-12000-dpi-purple-22991537221693_%2B67b692a8ff.png</picture>
         <param name="Гарантія">1 місяць</param>
-        <param name="Колір">Бузковий</param>
+        <param name="Колір">Фіолетовий</param>
         <param name="Підключення">Комбіноване</param>
         <param name="Сумісність з ОС">Microsoft Windows</param>
         <param name="Сумісність з ОС">Mac OS</param>
@@ -14431,7 +14457,7 @@
         <name_ru>Игровая беспроводная механическая клавиатура ATTACK SHARK X85 / Eng+Ukr / Три режима подключения / White Jade Switch / Black</name_ru>
         <description_ua><p><strong>ATTACK SHARK X85  — геймерська клавіатура з додатковою українською мовою!</strong></p>    <p>ATTACK SHARK X85 —  механічна клавіатура для геймерів та користувачів, яким потрібна максимальна швидкість, чутливість та точність у кожному натисканні.</p>    <p><strong>Основні характеристики:</strong></p>    <ul>   <li>Формат: 75% ANSI (82 клавіші + CNC-регулятор)</li>   <li>Розкладка: Англійська і Українська</li>   <li>Підключення: USB-C / 2.4G / Bluetooth 5.0</li>   <li>Підсвітка: RGB, 19 режимів, south-facing</li>   <li>Тип: Гаскет-маунт + 5-шарова шумоізоляція (PORON, IXPE, PET, Silicone)</li>   <li>Перемикачі: White Jade (змащені), Hot-Swappable</li>   <li>Сумісність: Windows / Mac / Android / iOS</li>   <li>Акумулятор: 5000 мАг</li>   <li>Повна настройка через ПЗ</li>  </ul>    <p><strong>Особливості:</strong></p>    <ul>   <li>CNC-регулятор: обертання — гучність, натискання — перемикання підсвітки</li>   <li>Ергономічний корпус із градієнтним оформленням</li>   <li>Миттєве перемикання між пристроями</li>   <li>Боковий друк символів</li>   <li>South-facing підсвітка — не засліплює очі</li>   <li>Ідеальна плавність, тиша й комфорт</li>  </ul></description_ua>
         <description_ru><p><strong>ATTACK SHARK X85  — геймерская клавиатура с дополнительным украинским языком!</strong></p>    <p>ATTACK SHARK X85 — механическая клавиатура для геймеров и пользователей, которым нужна максимальная скорость, чувствительность и точность в каждом нажатии.</p>    <p><strong>Основные характеристики:</strong></p>    <ul>   <li>Формат: 75% ANSI (82 клавиши + CNC-регулятор)</li>   <li>Раскладка: Английская и Украинская</li>   <li>Подключение: USB-C / 2.4G / Bluetooth 5.0</li>   <li>Подсветка: RGB, 19 режимов, south-facing</li>   <li>Тип: Гаскет-маунт + 5-слойная шумоизоляция (PORON, IXPE, PET, Silicone)</li>   <li>Переключатели: White Jade (смазанные), Hot-Swappable</li>   <li>Совместимость: Windows / Mac / Android / iOS</li>   <li>Аккумулятор: 5000 мАч</li>   <li>Полная настройка через ПО</li>  </ul>    <p><strong>Особенности:</strong></p>    <ul>   <li>CNC-регулятор: вращение — громкость, нажатие — переключение подсветки</li>   <li>Эргономичный корпус с градиентным оформлением</li>   <li>Мгновенное переключение между устройствами</li>   <li>Боковая печать символов</li>   <li>South-facing подсветка — не ослепляет глаза</li>   <li>Идеальная плавность, тишина и комфорт</li>  </ul></description_ru>
-        <price>2899</price>
+        <price>3099</price>
         <old_price>3299</old_price>
         <categoryId>1082</categoryId>
         <vendor>Attack Shark</vendor>
@@ -14465,7 +14491,7 @@
         <name_ru>Игровая беспроводная механическая клавиатура ATTACK SHARK X85 / Eng+Ukr / Три режима подключения / White Jade Switch / Pink</name_ru>
         <description_ua><p><strong>ATTACK SHARK X85  — геймерська клавіатура з додатковою українською мовою!</strong></p>    <p>ATTACK SHARK X85 —  механічна клавіатура для геймерів та користувачів, яким потрібна максимальна швидкість, чутливість та точність у кожному натисканні.</p>    <p><strong>Основні характеристики:</strong></p>    <ul>   <li>Формат: 75% ANSI (82 клавіші + CNC-регулятор)</li>   <li>Розкладка: Англійська і Українська</li>   <li>Підключення: USB-C / 2.4G / Bluetooth 5.0</li>   <li>Підсвітка: RGB, 19 режимів, south-facing</li>   <li>Тип: Гаскет-маунт + 5-шарова шумоізоляція (PORON, IXPE, PET, Silicone)</li>   <li>Перемикачі: White Jade (змащені), Hot-Swappable</li>   <li>Сумісність: Windows / Mac / Android / iOS</li>   <li>Акумулятор: 5000 мАг</li>   <li>Повна настройка через ПЗ</li>  </ul>    <p><strong>Особливості:</strong></p>    <ul>   <li>CNC-регулятор: обертання — гучність, натискання — перемикання підсвітки</li>   <li>Ергономічний корпус із градієнтним оформленням</li>   <li>Миттєве перемикання між пристроями</li>   <li>Боковий друк символів</li>   <li>South-facing підсвітка — не засліплює очі</li>   <li>Ідеальна плавність, тиша й комфорт</li>  </ul></description_ua>
         <description_ru><p><strong>ATTACK SHARK X85  — геймерская клавиатура с дополнительным украинским языком!</strong></p>    <p>ATTACK SHARK X85 — механическая клавиатура для геймеров и пользователей, которым нужна максимальная скорость, чувствительность и точность в каждом нажатии.</p>    <p><strong>Основные характеристики:</strong></p>    <ul>   <li>Формат: 75% ANSI (82 клавиши + CNC-регулятор)</li>   <li>Раскладка: Английская и Украинская</li>   <li>Подключение: USB-C / 2.4G / Bluetooth 5.0</li>   <li>Подсветка: RGB, 19 режимов, south-facing</li>   <li>Тип: Гаскет-маунт + 5-слойная шумоизоляция (PORON, IXPE, PET, Silicone)</li>   <li>Переключатели: White Jade (смазанные), Hot-Swappable</li>   <li>Совместимость: Windows / Mac / Android / iOS</li>   <li>Аккумулятор: 5000 мАч</li>   <li>Полная настройка через ПО</li>  </ul>    <p><strong>Особенности:</strong></p>    <ul>   <li>CNC-регулятор: вращение — громкость, нажатие — переключение подсветки</li>   <li>Эргономичный корпус с градиентным оформлением</li>   <li>Мгновенное переключение между устройствами</li>   <li>Боковая печать символов</li>   <li>South-facing подсветка — не ослепляет глаза</li>   <li>Идеальная плавность, тишина и комфорт</li>  </ul></description_ru>
-        <price>2899</price>
+        <price>3099</price>
         <old_price>3299</old_price>
         <categoryId>1082</categoryId>
         <vendor>Attack Shark</vendor>
@@ -14648,7 +14674,7 @@
         <vendor>ATK</vendor>
         <picture>https://techgleam.com.ua/content/images/36/29418969145614_%2B4c6c12ec69.jpg</picture>
         <param name="Гарантія">3 місяці</param>
-        <param name="Колір">Сірий</param>
+        <param name="Колір">Сріблястий</param>
         <param name="Підключення">Комбіноване</param>
         <param name="Сумісність з ОС">Microsoft Windows</param>
         <param name="Сумісність з ОС">Mac OS</param>
@@ -15689,6 +15715,7 @@
         <picture>https://techgleam.com.ua/content/images/8/13529576955488_%2Bc4232aeed2.jpg</picture>
         <picture>https://techgleam.com.ua/content/images/8/81398541083430_%2Bc372ec95d5.jpg</picture>
         <param name="Гарантія">3 місяці</param>
+        <param name="Колір">Чорний</param>
         <param name="Тип">Повнорозмірні</param>
         <param name="Тип підключення">Комбінований</param>
         <param name="Мікрофон">Зйомний</param>
@@ -15851,6 +15878,7 @@
         <picture>https://techgleam.com.ua/content/images/8/93428353257578_%2Bbf80b6a59b.jpg</picture>
         <picture>https://techgleam.com.ua/content/images/8/28975587804992_%2B962573770d.jpg</picture>
         <param name="Гарантія">3 місяці</param>
+        <param name="Колір">Чорний</param>
         <param name="Особливості">Ігрові</param>
       </offer>
       <offer id="780" available="true">
@@ -15907,6 +15935,25 @@
         <param name="Стан">Новий</param>
         <param name="Призначення">Геймерські</param>
         <country>Китай</country>
+      </offer>
+      <offer id="1005" available="true">
+        <availability_status>available</availability_status>
+        <name_ua>Міні-клавіатура консольна панель / Stream Deck / Ajazz AKP03E / 12 програмованих клавіш / Black</name_ua>
+        <name_ru>Мини-клавиатура консольная панель / Stream Deck / Ajazz AKP03E / 12 программируемых клавиш / Black</name_ru>
+        <description_ua><p data-end="623" data-start="339"><strong data-end="355" data-start="339">Ajazz AKP03E</strong> — це компактний та функціональний <strong data-end="421" data-start="390">стрім-дек / макроклавіатура</strong>, створений для геймерів, стрімерів, дизайнерів, офісних працівників і творців контенту. Пристрій дозволяє <strong data-end="557" data-start="528">програмувати кожну кнопку</strong>, автоматизуючи щоденні дії та значно пришвидшуючи робочі процеси.</p>    <p data-end="939" data-start="625">За допомогою фірмового програмного забезпечення для <strong data-end="688" data-start="677">Windows</strong> ви можете налаштовувати макроси, комбінації клавіш, керування мультимедіа або запуск програм <strong data-end="803" data-start="782">одним натисканням</strong>. Після програмування макроси зберігаються у вбудованій пам’яті, тому пристрій коректно працює і на <strong data-end="910" data-start="903">Mac</strong> без повторного налаштування.</p>    <p data-end="1041" data-start="941"><strong data-end="957" data-start="941">Ajazz AKP03E</strong> підтримує збереження <strong data-end="997" data-start="979">до 12 макросів</strong>, що робить його ідеальним інструментом для:</p>    <ul data-end="1174" data-start="1042">   <li data-end="1078" data-start="1042">   <p data-end="1078" data-start="1044">стрімінгу (OBS, Twitch, YouTube)</p>   </li>   <li data-end="1108" data-start="1079">   <p data-end="1108" data-start="1081">відео- та фоторедагування</p>   </li>   <li data-end="1127" data-start="1109">   <p data-end="1127" data-start="1111">офісної роботи</p>   </li>   <li data-end="1174" data-start="1128">   <p data-end="1174" data-start="1130">геймінгу та автоматизації повторюваних дій</p>   </li>  </ul>    <p data-end="1324" data-start="1176">Механічні клавіші забезпечують чітке та приємне натискання, а компактний дизайн дозволяє зручно розмістити стрім-дек поруч із клавіатурою або мишею.<br />  <br />  <strong>Основні характеристики:</strong></p>    <ul data-end="1576" data-start="1351">   <li data-end="1386" data-start="1351">   <p data-end="1386" data-start="1353">Програмування макросів через ПЗ</p>   </li>   <li data-end="1418" data-start="1387">   <p data-end="1418" data-start="1389">До 12 збережених комбінацій</p>   </li>   <li data-end="1447" data-start="1419">   <p data-end="1447" data-start="1421">Працює на Windows та Mac</p>   </li>   <li data-end="1484" data-start="1448">   <p data-end="1484" data-start="1450">Запуск програм одним натисканням</p>   </li>   <li data-end="1510" data-start="1485">   <p data-end="1510" data-start="1487">Керування мультимедіа</p>   </li>   <li data-end="1532" data-start="1511">   <p data-end="1532" data-start="1513">Механічні клавіші</p>   </li>   <li data-end="1576" data-start="1533">   <p data-end="1576" data-start="1535">Компактний формат — ідеально для стріму</p>   </li>  </ul>    <p data-end="1684" data-start="1578"><strong data-end="1594" data-start="1578">Ajazz AKP03E</strong> — незамінний інструмент для тих, хто хоче <strong data-end="1683" data-start="1637">працювати швидше, зручніше та професійніше</strong>.</p></description_ua>
+        <description_ru><p><strong>Ajazz AKP03E –</strong> это компактный и функциональный стрим-дек/макроклавиатура, созданный для геймеров, стримеров, дизайнеров, офисных работников и создателей контента. Устройство позволяет программировать каждую кнопку, автоматизируя ежедневные действия и ускоряя рабочие процессы.</p>    <p>С помощью фирменного программного обеспечения для Windows можно настраивать макросы, комбинации клавиш, управление мультимедиа или запуск программ одним нажатием. После программирования макросы сохраняются во встроенной памяти, поэтому устройство корректно работает и на Mac без повторной настройки.</p>    <p><strong>Ajazz AKP03E</strong> поддерживает сохранение до 12 макросов, что делает его идеальным инструментом для:</p>    <p>стриминга (OBS, Twitch, YouTube)</p>    <p>видео- и фоторедактирование</p>    <p>офисной работы</p>    <p>гейминга и автоматизации повторяющихся действий</p>    <p>Механические клавиши обеспечивают четкое и приятное нажатие, а компактный дизайн позволяет удобно разместить стрим дек рядом с клавиатурой или мышью.</p>    <p><strong>Основные характеристики:</strong></p>    <ul>   <li>Программирование макросов через ПО</li>   <li>До 12 сохраненных комбинаций</li>   <li>Работает на Windows и Mac</li>   <li>Запуск программ одним нажатием</li>   <li>Управление мультимедиа</li>   <li>Механические клавиши</li>   <li>Компактный формат – идеально для стрима.</li>  </ul>    <p>Ajazz AKP03E – незаменимый инструмент для тех, кто хочет работать быстрее, удобнее и профессиональнее.</p></description_ru>
+        <price>2699</price>
+        <old_price>3399</old_price>
+        <categoryId>1090</categoryId>
+        <vendor>Ajazz</vendor>
+        <picture>https://techgleam.com.ua/content/images/6/mini-klaviatura-konsolnaja-panel-stream-deck-ajazz-akp03e-12-programmiruemyx-klavish-black-21359635098102_%2Bd933dadc3c.jpg</picture>
+        <picture>https://techgleam.com.ua/content/images/6/mini-klaviatura-konsolnaja-panel-stream-deck-ajazz-akp03e-12-programmiruemyx-klavish-black-42801946613871_%2B3a1a437484.jpg</picture>
+        <picture>https://techgleam.com.ua/content/images/6/mini-klaviatura-konsolnaja-panel-stream-deck-ajazz-akp03e-12-programmiruemyx-klavish-black-50698009018606_%2B8d93a5db44.jpg</picture>
+        <picture>https://techgleam.com.ua/content/images/6/mini-klaviatura-konsolnaja-panel-stream-deck-ajazz-akp03e-12-programmiruemyx-klavish-black-34401955740662_%2B8c19307950.jpg</picture>
+        <picture>https://techgleam.com.ua/content/images/6/mini-klaviatura-konsolnaja-panel-stream-deck-ajazz-akp03e-12-programmiruemyx-klavish-black-26848078882944_%2B38e0c3f5c2.jpg</picture>
+        <param name="Гарантія">3 місяці</param>
+        <param name="Колір">Чорний</param>
+        <param name="Стан">Новий</param>
       </offer>
       <offer id="1070" available="true">
         <availability_status>available</availability_status>
@@ -15988,6 +16035,7 @@
         <categoryId>1089</categoryId>
         <picture>https://techgleam.com.ua/content/images/14/igrovoy-kovrik-blue-white-lines-90x40-sm-white-blue-52966463671957_%2B1f0f5a73b8.jpg</picture>
         <param name="Гарантія">3 місяці</param>
+        <param name="Колір">Білий</param>
         <param name="Особливості">Ігрові</param>
       </offer>
       <offer id="1664" available="true">
@@ -16082,6 +16130,7 @@
         <picture>https://techgleam.com.ua/content/images/17/groviy-kilimok-attack-shark-cm02-4045-sm-purple-12235799068800_%2Bf2f005e251.jpg</picture>
         <picture>https://techgleam.com.ua/content/images/17/groviy-kilimok-attack-shark-cm02-4045-sm-purple-18012958307588_%2Be22a6494f8.jpg</picture>
         <param name="Гарантія">3 місяці</param>
+        <param name="Колір">Фіолетовий</param>
         <param name="Колір">Бузковий</param>
         <param name="Особливості">Ігрові</param>
       </offer>
@@ -16132,6 +16181,7 @@
         <categoryId>1089</categoryId>
         <picture>https://techgleam.com.ua/content/images/21/groviy-kilimok-astral-lines-40x45x4-dark-grey-92625080507477_%2B4550a0bc05.JPG</picture>
         <picture>https://techgleam.com.ua/content/images/21/groviy-kilimok-astral-lines-40x45x4-dark-grey-42355432633453_%2B7eff4196b6.JPG</picture>
+        <param name="Колір">Сірий</param>
         <param name="Колір">Темно-сірий</param>
         <param name="Особливості">Ігрові</param>
       </offer>
@@ -16314,6 +16364,7 @@
         <price>620</price>
         <categoryId>1089</categoryId>
         <picture>https://techgleam.com.ua/content/images/1/groviy-kilimok-cyber-rail-9040-sm-4-mm-purple-73096758671631_%2B45a89e244e.jpg</picture>
+        <param name="Колір">Фіолетовий</param>
         <param name="Колір">Бузковий</param>
         <param name="Особливості">Ігрові</param>
       </offer>
@@ -16326,6 +16377,7 @@
         <price>620</price>
         <categoryId>1089</categoryId>
         <picture>https://techgleam.com.ua/content/images/2/groviy-kilimok-neon-sky-9040-sm-4-mm-multicolor-92796104376934_%2B0cf7427bfd.jpg</picture>
+        <param name="Колір">Різнокольоровий</param>
         <param name="Колір">В асортименті</param>
         <param name="Особливості">Ігрові</param>
       </offer>
@@ -16374,6 +16426,7 @@
         <price>450</price>
         <categoryId>1089</categoryId>
         <picture>https://techgleam.com.ua/content/images/10/groviy-kilimok-z-anme-titani-epchna-bitva-9040-sm-3-mm-multicolor-81004006678614_%2B5a4c94715c.jpg</picture>
+        <param name="Колір">Різнокольоровий</param>
         <param name="Колір">В асортименті</param>
         <param name="Особливості">Ігрові</param>
       </offer>
@@ -16546,6 +16599,7 @@
         <price>899</price>
         <categoryId>1093</categoryId>
         <picture>https://techgleam.com.ua/content/images/9/kastomn-pbt-keykapi-gengar-pokemon-125-sht.-dlja-mexanchnix-ta-magntnix-klavatur-purple-57559398879275_%2B0be0ebe298.jpg</picture>
+        <param name="Колір">Фіолетовий</param>
         <param name="Колір">Бузковий</param>
         <param name="Стан">Новий</param>
         <param name="Призначення">Для клавіатур</param>
@@ -16655,6 +16709,7 @@
         <picture>https://techgleam.com.ua/content/images/12/kastomn-matov-keykapi-frosted-flowing-rainbow-rhyme-120-klavsh-rayduzhniy-gradent-dlja-mexanchnix-magntnix-klavatur-rainbow-25315482703499_%2Be794dabec0.png</picture>
         <picture>https://techgleam.com.ua/content/images/12/kastomn-matov-keykapi-frosted-flowing-rainbow-rhyme-120-klavsh-rayduzhniy-gradent-dlja-mexanchnix-magntnix-klavatur-rainbow-51938136551781_%2B4a58b189ad.png</picture>
         <picture>https://techgleam.com.ua/content/images/12/kastomn-matov-keykapi-frosted-flowing-rainbow-rhyme-120-klavsh-rayduzhniy-gradent-dlja-mexanchnix-magntnix-klavatur-rainbow-28955752958624_%2Bda8c153c1f.png</picture>
+        <param name="Колір">Різнокольоровий</param>
         <param name="Колір">В асортименті</param>
         <param name="Стан">Новий</param>
         <param name="Призначення">Для клавіатур</param>
@@ -16669,6 +16724,7 @@
         <price>899</price>
         <categoryId>1093</categoryId>
         <picture>https://techgleam.com.ua/content/images/13/kastomn-keykapi-mystery-realm-neon-abyss-129-klavsh-neonovo-foletoviy-dizayn-dlja-mexanchnix-magntnix-klavatur-purple-98350424461723_%2Bde8249e4d9.jpg</picture>
+        <param name="Колір">Фіолетовий</param>
         <param name="Колір">Бузковий</param>
         <param name="Стан">Новий</param>
         <param name="Призначення">Для клавіатур</param>
@@ -16783,6 +16839,7 @@
         <price>539</price>
         <categoryId>1089</categoryId>
         <picture>https://techgleam.com.ua/content/images/28/velikiy-groviy-kilimok-dlja-mish-chainsaw-man-makima-crimson-chaos-9004003-mm-anme-dizayn-dlja-mish-ta-klavaturi-red-black-79327153859828_%2B2a4769ed67.png</picture>
+        <param name="Колір">Чорний</param>
         <param name="Особливості">Ігрові</param>
       </offer>
       <offer id="2035" available="true">
@@ -17273,6 +17330,7 @@
         <picture>https://techgleam.com.ua/content/images/29/bezdrotov-grov-navushniki-attack-shark-l30-pro-tri-rezhimi-pdkluchennja-7.1-surround-sound-znmniy-mkrofon-black-red-30832297358029_%2Be75f040eaf.jpg</picture>
         <picture>https://techgleam.com.ua/content/images/29/bezdrotov-grov-navushniki-attack-shark-l30-pro-tri-rezhimi-pdkluchennja-7.1-surround-sound-znmniy-mkrofon-black-red-60240893351037_%2Bd7c89a60c1.jpg</picture>
         <param name="Гарантія">3 місяці</param>
+        <param name="Колір">Чорний</param>
         <param name="Тип">Повнорозмірні</param>
         <param name="Тип підключення">Комбінований</param>
         <param name="Мікрофон">Зйомний</param>
@@ -17877,6 +17935,7 @@
         <picture>https://techgleam.com.ua/content/images/10/39850700293888_%2B592531ed04.jpg</picture>
         <picture>https://techgleam.com.ua/content/images/10/23942635915061_%2Bf947bb2113.jpg</picture>
         <param name="Гарантія">3 місяці</param>
+        <param name="Колір">Білий</param>
         <param name="Тип">Повнорозмірні</param>
         <param name="Тип підключення">Комбінований</param>
         <param name="Мікрофон">Зйомний</param>
@@ -17926,6 +17985,7 @@
         <picture>https://techgleam.com.ua/content/images/20/15090972903407_%2Bda899e48be.jpg</picture>
         <picture>https://techgleam.com.ua/content/images/20/20250491725495_%2B5559cf84ff.jpg</picture>
         <param name="Гарантія">1 місяць</param>
+        <param name="Колір">Фіолетовий</param>
         <param name="Колір">Бузковий</param>
         <param name="Стан">Новий</param>
         <param name="Призначення">Для клавіатур</param>
@@ -18656,6 +18716,7 @@
         <categoryId>1093</categoryId>
         <picture>https://techgleam.com.ua/content/images/30/nabor-keykapov-pbt-black-purple-gradient-lines-130-oem-profil-85705492645747_%2B2fa52087ae.png</picture>
         <picture>https://techgleam.com.ua/content/images/30/nabor-keykapov-pbt-black-purple-gradient-lines-130-oem-profil-41776540533092_%2B267ca8d6f5.png</picture>
+        <param name="Колір">Фіолетовий</param>
         <param name="Колір">Бузковий</param>
         <param name="Стан">Новий</param>
         <param name="Призначення">Для клавіатур</param>
@@ -18718,24 +18779,6 @@
         <param name="Колір">Чорний</param>
         <param name="Стан">Новий</param>
       </offer>
-      <offer id="1005" available="false">
-        <availability_status>temporarily_unavailable</availability_status>
-        <name_ua>Міні-клавіатура консольна панель / Stream Deck / Ajazz AKP03E / 12 програмованих клавіш / Black</name_ua>
-        <name_ru>Мини-клавиатура консольная панель / Stream Deck / Ajazz AKP03E / 12 программируемых клавиш / Black</name_ru>
-        <description_ua><p data-end="623" data-start="339"><strong data-end="355" data-start="339">Ajazz AKP03E</strong> — це компактний та функціональний <strong data-end="421" data-start="390">стрім-дек / макроклавіатура</strong>, створений для геймерів, стрімерів, дизайнерів, офісних працівників і творців контенту. Пристрій дозволяє <strong data-end="557" data-start="528">програмувати кожну кнопку</strong>, автоматизуючи щоденні дії та значно пришвидшуючи робочі процеси.</p>    <p data-end="939" data-start="625">За допомогою фірмового програмного забезпечення для <strong data-end="688" data-start="677">Windows</strong> ви можете налаштовувати макроси, комбінації клавіш, керування мультимедіа або запуск програм <strong data-end="803" data-start="782">одним натисканням</strong>. Після програмування макроси зберігаються у вбудованій пам’яті, тому пристрій коректно працює і на <strong data-end="910" data-start="903">Mac</strong> без повторного налаштування.</p>    <p data-end="1041" data-start="941"><strong data-end="957" data-start="941">Ajazz AKP03E</strong> підтримує збереження <strong data-end="997" data-start="979">до 12 макросів</strong>, що робить його ідеальним інструментом для:</p>    <ul data-end="1174" data-start="1042">   <li data-end="1078" data-start="1042">   <p data-end="1078" data-start="1044">стрімінгу (OBS, Twitch, YouTube)</p>   </li>   <li data-end="1108" data-start="1079">   <p data-end="1108" data-start="1081">відео- та фоторедагування</p>   </li>   <li data-end="1127" data-start="1109">   <p data-end="1127" data-start="1111">офісної роботи</p>   </li>   <li data-end="1174" data-start="1128">   <p data-end="1174" data-start="1130">геймінгу та автоматизації повторюваних дій</p>   </li>  </ul>    <p data-end="1324" data-start="1176">Механічні клавіші забезпечують чітке та приємне натискання, а компактний дизайн дозволяє зручно розмістити стрім-дек поруч із клавіатурою або мишею.<br />  <br />  <strong>Основні характеристики:</strong></p>    <ul data-end="1576" data-start="1351">   <li data-end="1386" data-start="1351">   <p data-end="1386" data-start="1353">Програмування макросів через ПЗ</p>   </li>   <li data-end="1418" data-start="1387">   <p data-end="1418" data-start="1389">До 12 збережених комбінацій</p>   </li>   <li data-end="1447" data-start="1419">   <p data-end="1447" data-start="1421">Працює на Windows та Mac</p>   </li>   <li data-end="1484" data-start="1448">   <p data-end="1484" data-start="1450">Запуск програм одним натисканням</p>   </li>   <li data-end="1510" data-start="1485">   <p data-end="1510" data-start="1487">Керування мультимедіа</p>   </li>   <li data-end="1532" data-start="1511">   <p data-end="1532" data-start="1513">Механічні клавіші</p>   </li>   <li data-end="1576" data-start="1533">   <p data-end="1576" data-start="1535">Компактний формат — ідеально для стріму</p>   </li>  </ul>    <p data-end="1684" data-start="1578"><strong data-end="1594" data-start="1578">Ajazz AKP03E</strong> — незамінний інструмент для тих, хто хоче <strong data-end="1683" data-start="1637">працювати швидше, зручніше та професійніше</strong>.</p></description_ua>
-        <description_ru><p><strong>Ajazz AKP03E –</strong> это компактный и функциональный стрим-дек/макроклавиатура, созданный для геймеров, стримеров, дизайнеров, офисных работников и создателей контента. Устройство позволяет программировать каждую кнопку, автоматизируя ежедневные действия и ускоряя рабочие процессы.</p>    <p>С помощью фирменного программного обеспечения для Windows можно настраивать макросы, комбинации клавиш, управление мультимедиа или запуск программ одним нажатием. После программирования макросы сохраняются во встроенной памяти, поэтому устройство корректно работает и на Mac без повторной настройки.</p>    <p><strong>Ajazz AKP03E</strong> поддерживает сохранение до 12 макросов, что делает его идеальным инструментом для:</p>    <p>стриминга (OBS, Twitch, YouTube)</p>    <p>видео- и фоторедактирование</p>    <p>офисной работы</p>    <p>гейминга и автоматизации повторяющихся действий</p>    <p>Механические клавиши обеспечивают четкое и приятное нажатие, а компактный дизайн позволяет удобно разместить стрим дек рядом с клавиатурой или мышью.</p>    <p><strong>Основные характеристики:</strong></p>    <ul>   <li>Программирование макросов через ПО</li>   <li>До 12 сохраненных комбинаций</li>   <li>Работает на Windows и Mac</li>   <li>Запуск программ одним нажатием</li>   <li>Управление мультимедиа</li>   <li>Механические клавиши</li>   <li>Компактный формат – идеально для стрима.</li>  </ul>    <p>Ajazz AKP03E – незаменимый инструмент для тех, кто хочет работать быстрее, удобнее и профессиональнее.</p></description_ru>
-        <price>2199</price>
-        <categoryId>1090</categoryId>
-        <vendor>Ajazz</vendor>
-        <picture>https://techgleam.com.ua/content/images/6/mini-klaviatura-konsolnaja-panel-stream-deck-ajazz-akp03e-12-programmiruemyx-klavish-black-21359635098102_%2Bd933dadc3c.jpg</picture>
-        <picture>https://techgleam.com.ua/content/images/6/mini-klaviatura-konsolnaja-panel-stream-deck-ajazz-akp03e-12-programmiruemyx-klavish-black-42801946613871_%2B3a1a437484.jpg</picture>
-        <picture>https://techgleam.com.ua/content/images/6/mini-klaviatura-konsolnaja-panel-stream-deck-ajazz-akp03e-12-programmiruemyx-klavish-black-50698009018606_%2B8d93a5db44.jpg</picture>
-        <picture>https://techgleam.com.ua/content/images/6/mini-klaviatura-konsolnaja-panel-stream-deck-ajazz-akp03e-12-programmiruemyx-klavish-black-34401955740662_%2B8c19307950.jpg</picture>
-        <picture>https://techgleam.com.ua/content/images/6/mini-klaviatura-konsolnaja-panel-stream-deck-ajazz-akp03e-12-programmiruemyx-klavish-black-26848078882944_%2B38e0c3f5c2.jpg</picture>
-        <param name="Гарантія">3 місяці</param>
-        <param name="Колір">Чорний</param>
-        <param name="Стан">Новий</param>
-      </offer>
       <offer id="1012" available="false">
         <availability_status>temporarily_unavailable</availability_status>
         <name_ua>Вакуумні навушники KZ EDX PRO X / Дротові / White</name_ua>
@@ -18793,7 +18836,8 @@
         <name_ru>Мини-клавиатура консольная панель / Stream Deck / Ajazz AKP03E / 12 программируемых клавиш / White</name_ru>
         <description_ua><p data-end="623" data-start="339"><strong data-end="355" data-start="339">Ajazz AKP03E</strong> — це компактний та функціональний <strong data-end="421" data-start="390">стрім-дек / макроклавіатура</strong>, створений для геймерів, стрімерів, дизайнерів, офісних працівників і творців контенту. Пристрій дозволяє <strong data-end="557" data-start="528">програмувати кожну кнопку</strong>, автоматизуючи щоденні дії та значно пришвидшуючи робочі процеси.</p>    <p data-end="939" data-start="625">За допомогою фірмового програмного забезпечення для <strong data-end="688" data-start="677">Windows</strong> ви можете налаштовувати макроси, комбінації клавіш, керування мультимедіа або запуск програм <strong data-end="803" data-start="782">одним натисканням</strong>. Після програмування макроси зберігаються у вбудованій пам’яті, тому пристрій коректно працює і на <strong data-end="910" data-start="903">Mac</strong> без повторного налаштування.</p>    <p data-end="1041" data-start="941"><strong data-end="957" data-start="941">Ajazz AKP03E</strong> підтримує збереження <strong data-end="997" data-start="979">до 12 макросів</strong>, що робить його ідеальним інструментом для:</p>    <ul data-end="1174" data-start="1042">   <li data-end="1078" data-start="1042">   <p data-end="1078" data-start="1044">стрімінгу (OBS, Twitch, YouTube)</p>   </li>   <li data-end="1108" data-start="1079">   <p data-end="1108" data-start="1081">відео- та фоторедагування</p>   </li>   <li data-end="1127" data-start="1109">   <p data-end="1127" data-start="1111">офісної роботи</p>   </li>   <li data-end="1174" data-start="1128">   <p data-end="1174" data-start="1130">геймінгу та автоматизації повторюваних дій</p>   </li>  </ul>    <p data-end="1324" data-start="1176">Механічні клавіші забезпечують чітке та приємне натискання, а компактний дизайн дозволяє зручно розмістити стрім-дек поруч із клавіатурою або мишею.<br />  <br />  <strong>Основні характеристики:</strong></p>    <ul data-end="1576" data-start="1351">   <li data-end="1386" data-start="1351">   <p data-end="1386" data-start="1353">Програмування макросів через ПЗ</p>   </li>   <li data-end="1418" data-start="1387">   <p data-end="1418" data-start="1389">До 12 збережених комбінацій</p>   </li>   <li data-end="1447" data-start="1419">   <p data-end="1447" data-start="1421">Працює на Windows та Mac</p>   </li>   <li data-end="1484" data-start="1448">   <p data-end="1484" data-start="1450">Запуск програм одним натисканням</p>   </li>   <li data-end="1510" data-start="1485">   <p data-end="1510" data-start="1487">Керування мультимедіа</p>   </li>   <li data-end="1532" data-start="1511">   <p data-end="1532" data-start="1513">Механічні клавіші</p>   </li>   <li data-end="1576" data-start="1533">   <p data-end="1576" data-start="1535">Компактний формат — ідеально для стріму</p>   </li>  </ul>    <p data-end="1684" data-start="1578"><strong data-end="1594" data-start="1578">Ajazz AKP03E</strong> — незамінний інструмент для тих, хто хоче <strong data-end="1683" data-start="1637">працювати швидше, зручніше та професійніше</strong>.</p></description_ua>
         <description_ru><p><strong>Ajazz AKP03E –</strong> это компактный и функциональный стрим-дек/макроклавиатура, созданный для геймеров, стримеров, дизайнеров, офисных работников и создателей контента. Устройство позволяет программировать каждую кнопку, автоматизируя ежедневные действия и ускоряя рабочие процессы.</p>    <p>С помощью фирменного программного обеспечения для Windows можно настраивать макросы, комбинации клавиш, управление мультимедиа или запуск программ одним нажатием. После программирования макросы сохраняются во встроенной памяти, поэтому устройство корректно работает и на Mac без повторной настройки.</p>    <p><strong>Ajazz AKP03E</strong> поддерживает сохранение до 12 макросов, что делает его идеальным инструментом для:</p>    <p>стриминга (OBS, Twitch, YouTube)</p>    <p>видео- и фоторедактирование</p>    <p>офисной работы</p>    <p>гейминга и автоматизации повторяющихся действий</p>    <p>Механические клавиши обеспечивают четкое и приятное нажатие, а компактный дизайн позволяет удобно разместить стрим дек рядом с клавиатурой или мышью.</p>    <p><strong>Основные характеристики:</strong></p>    <ul>   <li>Программирование макросов через ПО</li>   <li>До 12 сохраненных комбинаций</li>   <li>Работает на Windows и Mac</li>   <li>Запуск программ одним нажатием</li>   <li>Управление мультимедиа</li>   <li>Механические клавиши</li>   <li>Компактный формат – идеально для стрима.</li>  </ul>    <p>Ajazz AKP03E – незаменимый инструмент для тех, кто хочет работать быстрее, удобнее и профессиональнее.</p></description_ru>
-        <price>2199</price>
+        <price>2699</price>
+        <old_price>3399</old_price>
         <categoryId>1090</categoryId>
         <vendor>Ajazz</vendor>
         <picture>https://techgleam.com.ua/content/images/48/mini-klaviatura-konsolnaja-panel-stream-deck-ajazz-akp03e-12-programmiruemyx-klavish-white-82499402200239_%2Ba0b4015c88.jpg</picture>
@@ -18940,6 +18984,7 @@
         <picture>https://techgleam.com.ua/content/images/9/68639122332017_%2Bbaa14d2fe0.jpg</picture>
         <picture>https://techgleam.com.ua/content/images/9/64232780441992_%2B2ab329f5e0.jpg</picture>
         <picture>https://techgleam.com.ua/content/images/9/42967210667887_%2Bec363374ba.jpg</picture>
+        <param name="Колір">Фіолетовий</param>
         <param name="Колір">Бузковий</param>
         <param name="Стан">Новий</param>
         <param name="Призначення">Для клавіатур</param>
@@ -18969,6 +19014,7 @@
         <categoryId>1093</categoryId>
         <picture>https://techgleam.com.ua/content/images/13/nabor-poluproznachnyx-keykapov-pbt-coulomi-oem-height-122-klavishi-purple-92538409829561_%2B7755184f86.jpeg</picture>
         <param name="Гарантія">3 місяці</param>
+        <param name="Колір">Фіолетовий</param>
         <param name="Колір">Бузковий</param>
         <param name="Стан">Новий</param>
         <param name="Призначення">Для клавіатур</param>
@@ -19196,7 +19242,7 @@
         <picture>https://techgleam.com.ua/content/images/18/igrovye-besprovodnye-naushniki-mchose-v9-turbo-tri-rezhima-podkluchenija-white-gold-91402698378891_%2B9945f34799.jpg</picture>
         <picture>https://techgleam.com.ua/content/images/18/igrovye-besprovodnye-naushniki-mchose-v9-turbo-tri-rezhima-podkluchenija-white-gold-94102885721287_%2B790cc10fa4.jpg</picture>
         <param name="Гарантія">6 місяців</param>
-        <param name="Колір">Білий</param>
+        <param name="Колір">Біло-золотий</param>
         <param name="Тип">Повнорозмірні</param>
         <param name="Тип підключення">Комбінований</param>
         <param name="Мікрофон">Зйомний</param>
@@ -19207,6 +19253,7 @@
         <param name="Довжина кабелю">1.6 м</param>
         <param name="Час роботи">250 годин</param>
         <param name="Вага">320 г</param>
+        <param name="Колір">Білий</param>
         <param name="Стан">Новий</param>
         <param name="Призначення">Геймерські</param>
         <country>Китай</country>
@@ -19356,6 +19403,7 @@
         <picture>https://techgleam.com.ua/content/images/25/led-nochnik-lampa-nastolnaja-usb-lampa-nochnik-360-sensornaja-akkumuljatornaja-dekorativnaja-purple-16372254712215_%2B1df458fdb4.png</picture>
         <picture>https://techgleam.com.ua/content/images/25/led-nochnik-lampa-nastolnaja-usb-lampa-nochnik-360-sensornaja-akkumuljatornaja-dekorativnaja-purple-92001307083809_%2B454058fd62.png</picture>
         <picture>https://techgleam.com.ua/content/images/25/led-nochnik-lampa-nastolnaja-usb-lampa-nochnik-360-sensornaja-akkumuljatornaja-dekorativnaja-purple-35572808157268_%2B6822bb3cdf.png</picture>
+        <param name="Колір">Фіолетовий</param>
         <param name="Колір">Бузковий</param>
         <param name="Стан">Новий</param>
       </offer>
@@ -19717,6 +19765,7 @@
         <picture>https://techgleam.com.ua/content/images/31/nabr-keykapv-pbt-purple-gradient-130-side-engraved-foletoviy-oem-komplekt-dlja-ansi-iso-klavatur-18351772572817_%2Bc1e189eb03.jpeg</picture>
         <picture>https://techgleam.com.ua/content/images/31/nabr-keykapv-pbt-purple-gradient-130-side-engraved-foletoviy-oem-komplekt-dlja-ansi-iso-klavatur-89031173497032_%2Bb47b656a72.jpeg</picture>
         <param name="Гарантія">1 місяць</param>
+        <param name="Колір">Фіолетовий</param>
         <param name="Колір">Бузковий</param>
         <param name="Стан">Новий</param>
         <param name="Призначення">Для клавіатур</param>
@@ -19744,6 +19793,7 @@
         <price>620</price>
         <categoryId>1089</categoryId>
         <picture>https://techgleam.com.ua/content/images/29/groviy-kilimok-moonlight-tree-90x40-sm-4-mm-colourful-40940828898449_%2Bb8251c0eb2.jpg</picture>
+        <param name="Колір">Різнокольоровий</param>
         <param name="Колір">В асортименті</param>
         <param name="Особливості">Ігрові</param>
       </offer>
@@ -19876,6 +19926,7 @@
         <price>620</price>
         <categoryId>1089</categoryId>
         <picture>https://techgleam.com.ua/content/images/42/groviy-kilimok-sunset-shore-girl-9040-sm-4-mm-purple-94294903289299_%2Bd63071916b.jpg</picture>
+        <param name="Колір">Фіолетовий</param>
         <param name="Колір">Бузковий</param>
         <param name="Особливості">Ігрові</param>
       </offer>
@@ -19900,6 +19951,7 @@
         <price>620</price>
         <categoryId>1089</categoryId>
         <picture>https://techgleam.com.ua/content/images/45/groviy-kilimok-cosmic-dusk-9040-sm-4-mm-dark-purple-15221882287530_%2B577a453b07.jpg</picture>
+        <param name="Колір">Фіолетовий</param>
         <param name="Колір">Бузковий</param>
         <param name="Особливості">Ігрові</param>
       </offer>
@@ -20123,6 +20175,7 @@
         <price>899</price>
         <categoryId>1093</categoryId>
         <picture>https://techgleam.com.ua/content/images/11/kastomn-pbt-keykapi-cyberpunk--125-sht.-dlja-mexanchnix-ta-magntnix-klavatur-yellow-45958661452637_%2B1ae3c8bd65.png</picture>
+        <param name="Колір">Жовтий</param>
         <param name="Колір">Жёлтый</param>
         <param name="Стан">Новий</param>
         <param name="Призначення">Для клавіатур</param>
@@ -20138,6 +20191,7 @@
         <price>899</price>
         <categoryId>1093</categoryId>
         <picture>https://techgleam.com.ua/content/images/13/kastomn-pbt-keykapi-cyberpunk-125-sht.-english-russian-layout-dlja-mexanchnix-ta-magntnix-klavatur-yellow-59125887780504_%2B551e3bd205.png</picture>
+        <param name="Колір">Жовтий</param>
         <param name="Колір">Жёлтый</param>
         <param name="Стан">Новий</param>
         <param name="Призначення">Для клавіатур</param>
