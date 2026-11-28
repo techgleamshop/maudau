@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<yml_catalog date="2026-11-28 13:23">
+<yml_catalog date="2026-11-28 14:23">
   <shop>
     <categories>
       <category id="1082" portal_id="1839">Клавіатури</category>
@@ -195,7 +195,7 @@
         <picture>https://techgleam.com.ua/content/images/37/45796916529867_%2B39549dd325.jpg</picture>
         <picture>https://techgleam.com.ua/content/images/37/95227685281811_%2B210e05415d.jpg</picture>
         <param name="Гарантія">3 місяці</param>
-        <param name="Колір">Бузковий</param>
+        <param name="Колір">Фіолетовий</param>
         <param name="Конструкція клавіш">Механічна</param>
         <param name="Підключення">Комбіноване</param>
         <param name="Інтерфейс підключення">Bluetooth</param>
@@ -210,6 +210,7 @@
         <param name="Сумісність з ОС">Windows</param>
         <param name="Сумісність з ОС">Mac OS</param>
         <param name="Сумісність з ОС">Linux</param>
+        <param name="Колір">Бузковий</param>
         <param name="Стан">Новий</param>
         <param name="Комплектація">Клавіатура</param>
         <param name="Призначення">Для ПК</param>
@@ -400,7 +401,7 @@
         <picture>https://techgleam.com.ua/content/images/3/igrovaja-myshka-attack-shark-x3-56264147819200_%2B8aa2fc07d6.jpg</picture>
         <picture>https://techgleam.com.ua/content/images/3/igrovaja-myshka-attack-shark-x3-85496551850782_%2Bd7779a6b36.jpg</picture>
         <param name="Гарантія">3 місяці</param>
-        <param name="Колір">Бузковий</param>
+        <param name="Колір">Фіолетовий</param>
         <param name="Підключення">Комбіноване</param>
         <param name="Сумісність з ОС">Microsoft Windows</param>
         <param name="Сумісність з ОС">Mac OS</param>
@@ -1010,40 +1011,6 @@
         <param name="Вид">Ігрові</param>
         <country>Китай</country>
       </offer>
-      <offer id="1755" available="true">
-        <availability_status>available</availability_status>
-        <name_ua>Ігрова механічна клавіатура Kondor Starlight / Дротове підключення / Brown Switch / White Black</name_ua>
-        <name_ru>Игровая механическая клавиатура Kondor Starlight / Проводное подключение / Brown Switch / White Black</name_ru>
-        <description_ua><p data-end="414" data-start="47">KONDOR Starlight — це компактна дротова механічна клавіатура у <strong data-end="151" data-start="131">60% форм-факторі</strong>, створена для тих, хто цінує мінімалістичний розмір, зручний друк і стильний вигляд робочого місця. Модель поєднує компактний корпус, Hot-Swap, шумоізоляцію та яскраве LED-підсвічування, що робить її хорошим вибором як для щоденного використання, так і для ігор.</p>    <p data-end="760" data-start="416">Клавіатура оснащена <strong data-end="451" data-start="436">61 клавішею</strong> та коричневими тактильними перемикачами, які забезпечують приємне натискання з відчутним відгуком. Ресурс свічів становить <strong data-end="601" data-start="575">50 мільйонів натискань</strong>, а підтримка <strong data-end="627" data-start="615">Hot-Swap</strong> дозволяє змінювати перемикачі без пайки. Це додає більше гнучкості для тих, хто хоче налаштовувати клавіатуру під власні вподобання.</p>    <p data-end="1073" data-start="762">KONDOR Starlight має <strong data-end="808" data-start="783">Rainbow LED-підсвітку</strong> з <strong data-end="838" data-start="811">20 вбудованими режимами</strong>, а також <strong data-end="880" data-start="848">бокову RGB-підсвітку корпусу</strong> з <strong data-end="898" data-start="883">11 режимами</strong>, що додає сетапу більш виразного вигляду. Клавіатура підтримує <strong data-end="976" data-start="962">Anti-Ghost</strong> і <strong data-end="997" data-start="979">N-Key Rollover</strong>, тому коректно обробляє одночасні натискання під час швидкого друку та гри.</p>    <p data-end="1468" data-start="1075">Модель оснащена <strong data-end="1125" data-start="1091">ABS кейкапами подвійного лиття</strong>, має розкладку <strong data-end="1153" data-start="1141">укр/англ</strong>, шумопоглинаючий шар піни <strong data-end="1187" data-start="1180">EVA</strong> та <strong data-end="1219" data-start="1191">силіконову віброізоляцію</strong>, які роблять звук натискань м’якшим і приємнішим. Корпус виготовлений із якісного пластику, а регульовані ніжки з <strong data-end="1359" data-start="1334">трьома рівнями висоти</strong> дозволяють зручніше налаштувати положення клавіатури. KONDOR Starlight сумісна з <strong data-end="1467" data-start="1441">Windows, macOS і Linux</strong>.</p>    <p data-end="1493" data-start="1470"><strong data-end="1491" data-start="1470">Основні переваги:</strong></p>    <ul data-end="2023" data-start="1494">   <li data-end="1508" data-section-id="pdyuf6" data-start="1494">61 клавіша</li>   <li data-end="1528" data-section-id="1xyg7ma" data-start="1509">Форм-фактор 60%</li>   <li data-end="1558" data-section-id="pqgd39" data-start="1529">Коричневі тактильні свічі</li>   <li data-end="1599" data-section-id="1i7jcqb" data-start="1559">Ресурс свічів 50 мільйонів натискань</li>   <li data-end="1622" data-section-id="1tqc2tu" data-start="1600">Підтримка Hot-Swap</li>   <li data-end="1648" data-section-id="oixmra" data-start="1623">Rainbow LED-підсвітка</li>   <li data-end="1684" data-section-id="o71fd" data-start="1649">20 вбудованих режимів підсвітки</li>   <li data-end="1717" data-section-id="12t13ch" data-start="1685">Бокова RGB-підсвітка корпусу</li>   <li data-end="1750" data-section-id="gewqxv" data-start="1718">11 режимів бокової підсвітки</li>   <li data-end="1773" data-section-id="l3ya0t" data-start="1751">Розкладка укр/англ</li>   <li data-end="1806" data-section-id="a79eix" data-start="1774">ABS кейкапи подвійного лиття</li>   <li data-end="1839" data-section-id="c2tf2r" data-start="1807">Шумопоглинаючий шар піни EVA</li>   <li data-end="1868" data-section-id="1ygob1i" data-start="1840">Силіконова віброізоляція</li>   <li data-end="1883" data-section-id="1svgb2o" data-start="1869">Anti-Ghost</li>   <li data-end="1902" data-section-id="y4hbf3" data-start="1884">N-Key Rollover</li>   <li data-end="1943" data-section-id="1pr4p84" data-start="1903">Дротове підключення через USB Type-C</li>   <li data-end="1984" data-section-id="1pt6muj" data-start="1944">Регульовані ніжки з 3 рівнями висоти</li>   <li data-end="2023" data-section-id="1r8awjc" data-start="1985">Сумісність з Windows, macOS, Linux</li>  </ul></description_ua>
-        <description_ru><p data-end="2405" data-start="2025">KONDOR Starlight — это компактная проводная механическая клавиатура в <strong data-end="2136" data-start="2116">60% форм-факторе</strong>, созданная для тех, кто ценит минималистичный размер, удобный набор текста и стильный вид рабочего места. Модель сочетает компактный корпус, Hot-Swap, шумоизоляцию и яркую LED-подсветку, что делает её хорошим выбором как для повседневного использования, так и для игр.</p>    <p data-end="2764" data-start="2407">Клавиатура оснащена <strong data-end="2442" data-start="2427">61 клавишей</strong> и коричневыми тактильными переключателями, которые обеспечивают приятное нажатие с ощутимым откликом. Ресурс свичей составляет <strong data-end="2594" data-start="2570">50 миллионов нажатий</strong>, а поддержка <strong data-end="2620" data-start="2608">Hot-Swap</strong> позволяет менять переключатели без пайки. Это добавляет больше гибкости для тех, кто хочет настраивать клавиатуру под собственные предпочтения.</p>    <p data-end="3098" data-start="2766">KONDOR Starlight имеет <strong data-end="2814" data-start="2789">Rainbow LED-подсветку</strong> с <strong data-end="2844" data-start="2817">20 встроенными режимами</strong>, а также <strong data-end="2887" data-start="2854">боковую RGB-подсветку корпуса</strong> с <strong data-end="2905" data-start="2890">11 режимами</strong>, что делает сетап более выразительным. Клавиатура поддерживает <strong data-end="2983" data-start="2969">Anti-Ghost</strong> и <strong data-end="3004" data-start="2986">N-Key Rollover</strong>, поэтому корректно обрабатывает одновременные нажатия во время быстрого набора текста и игры.</p>    <p data-end="3499" data-start="3100">Модель оснащена <strong data-end="3148" data-start="3116">ABS кейкапами двойного литья</strong>, имеет раскладку <strong data-end="3178" data-start="3166">укр/англ</strong>, шумопоглощающий слой пены <strong data-end="3213" data-start="3206">EVA</strong> и <strong data-end="3245" data-start="3216">силиконовую виброизоляцию</strong>, которые делают звук нажатий более мягким и приятным. Корпус выполнен из качественного пластика, а регулируемые ножки с <strong data-end="3391" data-start="3366">тремя уровнями высоты</strong> позволяют удобнее настроить положение клавиатуры. KONDOR Starlight совместима с <strong data-end="3498" data-start="3472">Windows, macOS и Linux</strong>.</p>    <p data-end="3529" data-start="3501"><strong data-end="3527" data-start="3501">Основные преимущества:</strong></p>    <ul data-end="4067" data-start="3530">   <li data-end="3544" data-section-id="nebxws" data-start="3530">61 клавиша</li>   <li data-end="3564" data-section-id="1xyg7ma" data-start="3545">Форм-фактор 60%</li>   <li data-end="3596" data-section-id="gpjyv9" data-start="3565">Коричневые тактильные свичи</li>   <li data-end="3635" data-section-id="1bgqkm8" data-start="3597">Ресурс свичей 50 миллионов нажатий</li>   <li data-end="3658" data-section-id="237m0b" data-start="3636">Поддержка Hot-Swap</li>   <li data-end="3684" data-section-id="3o9a71" data-start="3659">Rainbow LED-подсветка</li>   <li data-end="3720" data-section-id="1n217mu" data-start="3685">20 встроенных режимов подсветки</li>   <li data-end="3754" data-section-id="1fomphi" data-start="3721">Боковая RGB-подсветка корпуса</li>   <li data-end="3787" data-section-id="xb6eha" data-start="3755">11 режимов боковой подсветки</li>   <li data-end="3810" data-section-id="1dvk9dx" data-start="3788">Раскладка укр/англ</li>   <li data-end="3841" data-section-id="1rfzwnx" data-start="3811">ABS кейкапы двойного литья</li>   <li data-end="3875" data-section-id="1qgq9ga" data-start="3842">Шумопоглощающий слой пены EVA</li>   <li data-end="3905" data-section-id="xh26mh" data-start="3876">Силиконовая виброизоляция</li>   <li data-end="3920" data-section-id="1svgb2o" data-start="3906">Anti-Ghost</li>   <li data-end="3939" data-section-id="y4hbf3" data-start="3921">N-Key Rollover</li>   <li data-end="3982" data-section-id="1msvdwd" data-start="3940">Проводное подключение через USB Type-C</li>   <li data-end="4025" data-section-id="16dwuw9" data-start="3983">Регулируемые ножки с 3 уровнями высоты</li>   <li data-end="4067" data-section-id="1j55pqp" data-start="4026">Совместимость с Windows, macOS, Linux</li>  </ul></description_ru>
-        <price>1899</price>
-        <old_price>2199</old_price>
-        <categoryId>1082</categoryId>
-        <vendor>Kondor</vendor>
-        <picture>https://techgleam.com.ua/content/images/6/grova-mexanchna-klavatura-kondor-starlight-drotove-pdkluchennja-brown-switch-white-black-57232814125708_%2Baf08b96d37.jpg</picture>
-        <picture>https://techgleam.com.ua/content/images/6/grova-mexanchna-klavatura-kondor-starlight-drotove-pdkluchennja-brown-switch-white-black-11623326524632_%2B24d6f4a615.jpg</picture>
-        <picture>https://techgleam.com.ua/content/images/6/grova-mexanchna-klavatura-kondor-starlight-drotove-pdkluchennja-brown-switch-white-black-92928297732780_%2Bde06d764ce.jpg</picture>
-        <picture>https://techgleam.com.ua/content/images/6/grova-mexanchna-klavatura-kondor-starlight-drotove-pdkluchennja-brown-switch-white-black-51432367192305_%2B2fb32f08b8.jpg</picture>
-        <picture>https://techgleam.com.ua/content/images/6/grova-mexanchna-klavatura-kondor-starlight-drotove-pdkluchennja-brown-switch-white-black-43653582265279_%2B3ecae0c8ff.jpg</picture>
-        <param name="Гарантія">12 місяців</param>
-        <param name="Колір">Чорний</param>
-        <param name="Конструкція клавіш">Механічна</param>
-        <param name="Підключення">Дротове</param>
-        <param name="Інтерфейс підключення">USB Type-C</param>
-        <param name="Розкладка">Eng / Ukr</param>
-        <param name="Форм-фактор">Компактні</param>
-        <param name="Колір підсвічування">RGB</param>
-        <param name="Підсвічування клавіш">Є</param>
-        <param name="Матеріал корпусу">Пластик</param>
-        <param name="Сумісність з ОС">Windows</param>
-        <param name="Сумісність з ОС">Mac OS</param>
-        <param name="Сумісність з ОС">Linux</param>
-        <param name="Стан">Новий</param>
-        <param name="Комплектація">Клавіатура</param>
-        <param name="Призначення">Для ПК</param>
-        <param name="Вид">Ігрові</param>
-        <country>Китай</country>
-      </offer>
       <offer id="1756" available="true">
         <availability_status>available</availability_status>
         <name_ua>Ігрова механічна клавіатура Kondor Starlight PRO / Три режими підключення / Yellow Switch / Blue</name_ua>
@@ -1097,40 +1064,6 @@
         <picture>https://techgleam.com.ua/content/images/8/grova-mexanchna-klavatura-kondor-moonlight-x-drotove-pdkluchennja-brown-switch-black-83630734050005_%2B102bc81d46.jpg</picture>
         <param name="Гарантія">12 місяців</param>
         <param name="Колір">Чорний</param>
-        <param name="Конструкція клавіш">Механічна</param>
-        <param name="Підключення">Дротове</param>
-        <param name="Інтерфейс підключення">USB Type-C</param>
-        <param name="Розкладка">Eng / Ukr</param>
-        <param name="Форм-фактор">Компактні</param>
-        <param name="Колір підсвічування">RGB</param>
-        <param name="Підсвічування клавіш">Є</param>
-        <param name="Матеріал корпусу">Пластик</param>
-        <param name="Сумісність з ОС">Windows</param>
-        <param name="Сумісність з ОС">Mac OS</param>
-        <param name="Сумісність з ОС">Linux</param>
-        <param name="Стан">Новий</param>
-        <param name="Комплектація">Клавіатура</param>
-        <param name="Призначення">Для ПК</param>
-        <param name="Вид">Ігрові</param>
-        <country>Китай</country>
-      </offer>
-      <offer id="1758" available="true">
-        <availability_status>available</availability_status>
-        <name_ua>Ігрова механічна клавіатура Kondor Moonlight X / Дротове підключення / Brown Switch / Black Grey Black</name_ua>
-        <name_ru>Игровая механическая клавиатура Kondor Moonlight X / Проводное подключение / Brown Switch / Black Grey</name_ru>
-        <description_ua><p data-end="384" data-start="49">KONDOR Moonlight X — це компактна дротова механічна клавіатура, створена для комфортного друку, щоденного використання та ігор. Модель поєднує зручний компактний формат, тактильні перемикачі, Hot-Swap, шумоізоляцію та ролер для керування звуком і підсвіткою, що робить її практичним варіантом для сучасного сетапу.</p>    <p data-end="745" data-start="386">Клавіатура оснащена <strong data-end="422" data-start="406">68 клавішами</strong> та коричневими тактильними свічами, які забезпечують приємний відгук при натисканні без різкого клікаючого звуку. Ресурс свічів становить <strong data-end="587" data-start="561">50 мільйонів натискань</strong>, а підтримка <strong data-end="613" data-start="601">Hot-Swap</strong> дозволяє змінювати перемикачі без пайки. Це додає більше гнучкості для тих, хто хоче підлаштувати клавіатуру під власні вподобання.</p>    <p data-end="1092" data-start="747">KONDOR Moonlight X має <strong data-end="821" data-start="770">Rainbow LED-підсвітку з 12 вбудованими режимами</strong>, а також <strong data-end="863" data-start="831">бокову RGB-підсвітку корпусу</strong>, яка додає клавіатурі більш виразного вигляду на столі. Для швидкого керування гучністю та підсвіткою передбачений <strong data-end="988" data-start="979">ролер</strong>, а регульовані ніжки з <strong data-end="1037" data-start="1012">трьома рівнями висоти</strong> дозволяють комфортно налаштувати положення клавіатури.</p>    <p data-end="1564" data-start="1094">Модель оснащена <strong data-end="1144" data-start="1110">ABS кейкапами подвійного лиття</strong>, має розкладку <strong data-end="1172" data-start="1160">укр/англ</strong>, шумопоглинаючий шар піни <strong data-end="1206" data-start="1199">EVA</strong> та <strong data-end="1238" data-start="1210">силіконову віброізоляцію</strong>, що допомагає зробити звук натискань м’якшим і приємнішим. Також клавіатура підтримує <strong data-end="1339" data-start="1325">Anti-Ghost</strong> і <strong data-end="1360" data-start="1342">N-Key Rollover</strong>, тому добре підходить як для роботи, так і для ігрових сценаріїв. Підключення здійснюється через <strong data-end="1472" data-start="1458">USB Type-C</strong>, а сумісність з <strong data-end="1515" data-start="1489">Windows, macOS і Linux</strong> робить модель універсальною для різних платформ.</p>    <p data-end="1589" data-start="1566"><strong data-end="1587" data-start="1566">Основні переваги:</strong></p>    <ul data-end="2184" data-start="1590">   <li data-end="1603" data-section-id="ytzv4r" data-start="1590">68 клавіш</li>   <li data-end="1623" data-section-id="1xye37b" data-start="1604">Форм-фактор 65%</li>   <li data-end="1653" data-section-id="pqgd39" data-start="1624">Коричневі тактильні свічі</li>   <li data-end="1707" data-section-id="1tukemd" data-start="1654">Тактильні перемикачі без різкого клікаючого звуку</li>   <li data-end="1748" data-section-id="1i7jcqb" data-start="1708">Ресурс свічів 50 мільйонів натискань</li>   <li data-end="1771" data-section-id="1tqc2tu" data-start="1749">Підтримка Hot-Swap</li>   <li data-end="1797" data-section-id="oixmra" data-start="1772">Rainbow LED-підсвітка</li>   <li data-end="1833" data-section-id="rjxzjs" data-start="1798">12 вбудованих режимів підсвітки</li>   <li data-end="1866" data-section-id="12t13ch" data-start="1834">Бокова RGB-підсвітка корпусу</li>   <li data-end="1911" data-section-id="1easte8" data-start="1867">Ролер для регулювання звуку та підсвітки</li>   <li data-end="1934" data-section-id="l3ya0t" data-start="1912">Розкладка укр/англ</li>   <li data-end="1967" data-section-id="a79eix" data-start="1935">ABS кейкапи подвійного лиття</li>   <li data-end="2000" data-section-id="c2tf2r" data-start="1968">Шумопоглинаючий шар піни EVA</li>   <li data-end="2029" data-section-id="1ygob1i" data-start="2001">Силіконова віброізоляція</li>   <li data-end="2044" data-section-id="1svgb2o" data-start="2030">Anti-Ghost</li>   <li data-end="2063" data-section-id="y4hbf3" data-start="2045">N-Key Rollover</li>   <li data-end="2104" data-section-id="1pr4p84" data-start="2064">Дротове підключення через USB Type-C</li>   <li data-end="2145" data-section-id="1pt6muj" data-start="2105">Регульовані ніжки з 3 рівнями висоти</li>   <li data-end="2184" data-section-id="1r8awjc" data-start="2146">Сумісність з Windows, macOS, Linux</li>  </ul></description_ua>
-        <description_ru><p data-end="2550" data-start="2186">KONDOR Moonlight X — это компактная проводная механическая клавиатура, созданная для комфортного набора текста, повседневного использования и игр. Модель сочетает удобный компактный формат, тактильные переключатели, Hot-Swap, шумоизоляцию и роллер для управления звуком и подсветкой, что делает её практичным вариантом для современного сетапа.</p>    <p data-end="2916" data-start="2552">Клавиатура оснащена <strong data-end="2588" data-start="2572">68 клавишами</strong> и коричневыми тактильными свичами, которые обеспечивают приятный отклик при нажатии без резкого кликающего звука. Ресурс свичей составляет <strong data-end="2752" data-start="2728">50 миллионов нажатий</strong>, а поддержка <strong data-end="2778" data-start="2766">Hot-Swap</strong> позволяет менять переключатели без пайки. Это даёт больше гибкости для тех, кто хочет подстроить клавиатуру под собственные предпочтения.</p>    <p data-end="3265" data-start="2918">KONDOR Moonlight X имеет <strong data-end="2994" data-start="2943">Rainbow LED-подсветку с 12 встроенными режимами</strong>, а также <strong data-end="3037" data-start="3004">боковую RGB-подсветку корпуса</strong>, которая делает клавиатуру более выразительной на столе. Для быстрого управления громкостью и подсветкой предусмотрен <strong data-end="3166" data-start="3156">роллер</strong>, а регулируемые ножки с <strong data-end="3216" data-start="3191">тремя уровнями высоты</strong> позволяют удобно настроить положение клавиатуры.</p>    <p data-end="3751" data-start="3267">Модель оснащена <strong data-end="3315" data-start="3283">ABS кейкапами двойного литья</strong>, имеет раскладку <strong data-end="3345" data-start="3333">укр/англ</strong>, шумопоглощающий слой пены <strong data-end="3380" data-start="3373">EVA</strong> и <strong data-end="3412" data-start="3383">силиконовую виброизоляцию</strong>, что помогает сделать звук нажатий более мягким и приятным. Также клавиатура поддерживает <strong data-end="3517" data-start="3503">Anti-Ghost</strong> и <strong data-end="3538" data-start="3520">N-Key Rollover</strong>, поэтому хорошо подходит как для работы, так и для игровых сценариев. Подключение осуществляется через <strong data-end="3656" data-start="3642">USB Type-C</strong>, а совместимость с <strong data-end="3702" data-start="3676">Windows, macOS и Linux</strong> делает модель универсальной для разных платформ.</p>    <p data-end="3781" data-start="3753"><strong data-end="3779" data-start="3753">Основные преимущества:</strong></p>    <ul data-end="4388" data-start="3782">   <li data-end="3795" data-section-id="yth3jp" data-start="3782">68 клавиш</li>   <li data-end="3815" data-section-id="1xye37b" data-start="3796">Форм-фактор 65%</li>   <li data-end="3847" data-section-id="gpjyv9" data-start="3816">Коричневые тактильные свичи</li>   <li data-end="3905" data-section-id="xuzfc5" data-start="3848">Тактильные переключатели без резкого кликающего звука</li>   <li data-end="3944" data-section-id="1bgqkm8" data-start="3906">Ресурс свичей 50 миллионов нажатий</li>   <li data-end="3967" data-section-id="237m0b" data-start="3945">Поддержка Hot-Swap</li>   <li data-end="3993" data-section-id="3o9a71" data-start="3968">Rainbow LED-подсветка</li>   <li data-end="4029" data-section-id="12mjlt3" data-start="3994">12 встроенных режимов подсветки</li>   <li data-end="4063" data-section-id="1fomphi" data-start="4030">Боковая RGB-подсветка корпуса</li>   <li data-end="4108" data-section-id="141daoc" data-start="4064">Роллер для регулировки звука и подсветки</li>   <li data-end="4131" data-section-id="1dvk9dx" data-start="4109">Раскладка укр/англ</li>   <li data-end="4162" data-section-id="1rfzwnx" data-start="4132">ABS кейкапы двойного литья</li>   <li data-end="4196" data-section-id="1qgq9ga" data-start="4163">Шумопоглощающий слой пены EVA</li>   <li data-end="4226" data-section-id="xh26mh" data-start="4197">Силиконовая виброизоляция</li>   <li data-end="4241" data-section-id="1svgb2o" data-start="4227">Anti-Ghost</li>   <li data-end="4260" data-section-id="y4hbf3" data-start="4242">N-Key Rollover</li>   <li data-end="4303" data-section-id="1msvdwd" data-start="4261">Проводное подключение через USB Type-C</li>   <li data-end="4346" data-section-id="16dwuw9" data-start="4304">Регулируемые ножки с 3 уровнями высоты</li>   <li data-end="4388" data-section-id="1j55pqp" data-start="4347">Совместимость с Windows, macOS, Linux</li>  </ul></description_ru>
-        <price>2199</price>
-        <old_price>2799</old_price>
-        <categoryId>1082</categoryId>
-        <vendor>Kondor</vendor>
-        <picture>https://techgleam.com.ua/content/images/9/grova-mexanchna-klavatura-kondor-moonlight-x-drotove-pdkluchennja-brown-switch-black-grey-black-99118579098434_%2B17e23cc3e1.jpg</picture>
-        <picture>https://techgleam.com.ua/content/images/9/grova-mexanchna-klavatura-kondor-moonlight-x-drotove-pdkluchennja-brown-switch-black-grey-black-26663308075645_%2B800e704a3b.jpg</picture>
-        <picture>https://techgleam.com.ua/content/images/9/grova-mexanchna-klavatura-kondor-moonlight-x-drotove-pdkluchennja-brown-switch-black-grey-black-28600165188099_%2Baf31d5d1d9.jpg</picture>
-        <picture>https://techgleam.com.ua/content/images/9/grova-mexanchna-klavatura-kondor-moonlight-x-drotove-pdkluchennja-brown-switch-black-grey-black-51572849674678_%2Bc448826516.jpg</picture>
-        <picture>https://techgleam.com.ua/content/images/9/grova-mexanchna-klavatura-kondor-moonlight-x-drotove-pdkluchennja-brown-switch-black-grey-black-62518377539247_%2B592d469feb.jpg</picture>
-        <param name="Гарантія">12 місяців</param>
-        <param name="Колір">Темно-сірий</param>
         <param name="Конструкція клавіш">Механічна</param>
         <param name="Підключення">Дротове</param>
         <param name="Інтерфейс підключення">USB Type-C</param>
@@ -1543,13 +1476,12 @@
         <vendor>Eweadn</vendor>
         <picture>https://techgleam.com.ua/content/images/11/grova-bezdrotova-mishka-eweadn-s9-ultra-plus-tri-rezhimi-pdkluchennja-sensor-paw3950-42000-dpi-silver-34061434715834_%2B3250ea2ba6.png</picture>
         <param name="Гарантія">3 місяці</param>
-        <param name="Колір">Сірий</param>
+        <param name="Колір">Сріблястий</param>
         <param name="Підключення">Комбіноване</param>
         <param name="Сумісність з ОС">Microsoft Windows</param>
         <param name="Сумісність з ОС">Mac OS</param>
         <param name="Сумісність з ОС">Linux</param>
         <param name="Вага">59 г</param>
-        <param name="Колір">Сріблястий</param>
         <param name="Кількість кнопок миші">6</param>
         <param name="Тип датчика">Оптичний</param>
         <param name="Інтерфейс підключення">Bluetooth</param>
@@ -1690,7 +1622,7 @@
         <vendor>ATK</vendor>
         <picture>https://techgleam.com.ua/content/images/49/grova-bezdrotova-mishka-atk-blazing-sky-x1-ultimate-2.0-tri-rezhimi-pdkluchennja-sensor-paw3950-ultra-silver-48879472838488_%2Bea7b857b9c.jpg</picture>
         <param name="Гарантія">3 місяці</param>
-        <param name="Колір">Сірий</param>
+        <param name="Колір">Сріблястий</param>
         <param name="Підключення">Комбіноване</param>
         <param name="Сумісність з ОС">Microsoft Windows</param>
         <param name="Сумісність з ОС">Mac OS</param>
@@ -2117,7 +2049,7 @@
         <picture>https://techgleam.com.ua/content/images/30/magntna-klavatura-aula-hero-68-he-60-drotove-pdkluchennja-dragon-king-switch-purple-63953393559903_%2B73eac609c3.jpg</picture>
         <picture>https://techgleam.com.ua/content/images/30/magntna-klavatura-aula-hero-68-he-60-drotove-pdkluchennja-dragon-king-switch-purple-21542961546347_%2B0ee549c148.jpg</picture>
         <param name="Гарантія">3 місяці</param>
-        <param name="Колір">Бузковий</param>
+        <param name="Колір">Фіолетовий</param>
         <param name="Конструкція клавіш">Магнітна</param>
         <param name="Підключення">Дротове</param>
         <param name="Інтерфейс підключення">USB Type-C</param>
@@ -2129,6 +2061,7 @@
         <param name="Сумісність з ОС">Windows</param>
         <param name="Сумісність з ОС">Mac OS</param>
         <param name="Сумісність з ОС">Linux</param>
+        <param name="Колір">Бузковий</param>
         <param name="Стан">Новий</param>
         <param name="Комплектація">Клавіатура</param>
         <param name="Призначення">Для ПК</param>
@@ -2602,44 +2535,6 @@
         <param name="Вид">Ігрові</param>
         <country>Китай</country>
       </offer>
-      <offer id="2170" available="true">
-        <availability_status>available</availability_status>
-        <name_ua>Ігрова механічна клавіатура AULA F75 / Eng+Ukr / Три режими підключення / Seiya Switch / White Lines</name_ua>
-        <name_ru>Игровая механическая клавиатура AULA F75 / Eng+Ukr / Три режима подключения / Seiya Switch / Leobog Axis Reaper Switch / White Lines</name_ru>
-        <description_ua><p><strong>Механічна клавіатура AULA F75 </strong></p>    <p>AULA F75 — це універсальна клавіатура для роботи, навчання та ігор, що поєднує компактність, ергономіку та сучасні функції.</p>    <p><strong>Основні характеристики:</strong></p>    <ul>   <li>Тип: Механічна клавіатура, 75% форм-фактор </li>   <li>Розкладка: англійська / українська</li>   <li>Підключення: Bluetooth 5.0 / 2.4 ГГц / USB Type-C  </li>   <li>Сумісність: Windows, Mac, iOS, Android, PS, Xbox  </li>   <li>5-шарова система шумопоглинання для комфортного набору тексту  </li>   <li>Мультимедійне колесо для зручного керування гучністю та підсвіткою</li>   <li>Акумулятор: 4000 мА·год, забезпечує тривалий час автономної роботи.</li>  </ul>    <p><strong>RGB-підсвітка:</strong><br />  • 15 режимів  <br />  • 16.8 млн кольорів  <br />  • Музичний режим реагує на ритм відтворюваної музики</p>    <p><strong>Комплектація:</strong></p>    <ul>   <li>Клавіатура AULA F75  </li>   <li>Кабель USB Type-C  </li>   <li>USB-адаптер 2.4 ГГц  </li>   <li>Захисна накладка від пилу  </li>   <li>4 запасні перемикачі  </li>   <li>Пуллер  </li>   <li>Інструкція користувача</li>  </ul></description_ua>
-        <description_ru><p><strong>Механическая клавиатура AULA F75</strong></p>    <p>AULA F75 – это универсальная клавиатура для работы, обучения и игр, сочетающая компактность, эргономику и современные функции.</p>    <p><strong>Основные характеристики:</strong></p>    <ul>   <li>Тип: Механическая клавиатура, 75% форм-фактор</li>   <li>Раскладка: английская / русская</li>   <li>Подключение: Bluetooth 5.0/2.4 ГГц/USB Type-C</li>   <li>Совместимость: Windows, Mac, iOS, Android, PS, Xbox</li>   <li>5-слойная система шумопоглощения для комфортного набора текста</li>   <li>Мультимедийное колесо для удобного управления громкостью и подсветкой</li>   <li>Аккумулятор: 4000 мАч, обеспечивает длительное время автономной работы.</li>  </ul>    <p><strong>RGB-подсветка:</strong><br />  • 15 режимов<br />  • 16.8 млн цветов<br />  • Музыкальный режим реагирует на ритм воспроизводимой музыки.</p>    <p><strong>Комплектация:</strong></p>    <ul>   <li>Клавиатура AULA F75</li>   <li>Кабель USB Type-C</li>   <li>USB-адаптер 2.4 ГГц</li>   <li>Защитная накладка от пыли</li>   <li>4 запасные переключатели</li>   <li>Пуллер</li>   <li>Руководство пользователя</li>  </ul></description_ru>
-        <price>2799</price>
-        <old_price>3499</old_price>
-        <categoryId>1082</categoryId>
-        <vendor>Aula</vendor>
-        <picture>https://techgleam.com.ua/content/images/21/grova-mexanchna-klavatura-aula-f75-engukr-tri-rezhimi-pdkluchennja-leobog-axis-reaper-switch-white-lines-83626479562908_%2Bdc54a8f798.png</picture>
-        <picture>https://techgleam.com.ua/content/images/21/grova-mexanchna-klavatura-aula-f75-engukr-tri-rezhimi-pdkluchennja-leobog-axis-reaper-switch-white-lines-82979573785471_%2B81aec5a950.png</picture>
-        <picture>https://techgleam.com.ua/content/images/21/grova-mexanchna-klavatura-aula-f75-engukr-tri-rezhimi-pdkluchennja-seiya-switch-white-lines-94473211411266_%2Be5917af75d.jpg</picture>
-        <picture>https://techgleam.com.ua/content/images/21/grova-mexanchna-klavatura-aula-f75-engukr-tri-rezhimi-pdkluchennja-seiya-switch-white-lines-56771524055075_%2Ba4e8e41c01.jpg</picture>
-        <picture>https://techgleam.com.ua/content/images/21/grova-mexanchna-klavatura-aula-f75-engukr-tri-rezhimi-pdkluchennja-seiya-switch-white-lines-51773286594063_%2B53cb7c7d09.jpg</picture>
-        <picture>https://techgleam.com.ua/content/images/21/grova-mexanchna-klavatura-aula-f75-engukr-tri-rezhimi-pdkluchennja-seiya-switch-white-lines-78186610016765_%2B416443af48.jpg</picture>
-        <param name="Гарантія">3 місяці</param>
-        <param name="Колір">Білий</param>
-        <param name="Конструкція клавіш">Механічна</param>
-        <param name="Підключення">Комбіноване</param>
-        <param name="Інтерфейс підключення">Bluetooth</param>
-        <param name="Інтерфейс підключення">Радіоінтерфейс</param>
-        <param name="Інтерфейс підключення">USB</param>
-        <param name="Розкладка">Eng / Ukr</param>
-        <param name="Форм-фактор">Компактні</param>
-        <param name="Колір підсвічування">RGB</param>
-        <param name="Підсвічування клавіш">Є</param>
-        <param name="Матеріал корпусу">Пластик</param>
-        <param name="Живлення">Акумулятор</param>
-        <param name="Сумісність з ОС">Windows</param>
-        <param name="Сумісність з ОС">Mac OS</param>
-        <param name="Сумісність з ОС">Linux</param>
-        <param name="Стан">Новий</param>
-        <param name="Комплектація">Клавіатура</param>
-        <param name="Призначення">Для ПК</param>
-        <param name="Вид">Ігрові</param>
-        <country>Китай</country>
-      </offer>
       <offer id="2171" available="true">
         <availability_status>available</availability_status>
         <name_ua>Ігрова механічна клавіатура AULA F75 / Eng+Ukr / Три режими підключення / Leobog Axis Reaper Switch / Blue</name_ua>
@@ -2969,7 +2864,7 @@
         <picture>https://techgleam.com.ua/content/images/15/97163125299942_%2B27386230f7.jpg</picture>
         <picture>https://techgleam.com.ua/content/images/15/35504972482379_%2Bcd4dd7f4b3.jpg</picture>
         <param name="Гарантія">1 місяць</param>
-        <param name="Колір">Бузковий</param>
+        <param name="Колір">Фіолетовий</param>
         <param name="Конструкція клавіш">Механічна</param>
         <param name="Підключення">Дротове</param>
         <param name="Інтерфейс підключення">USB Type-C</param>
@@ -2980,6 +2875,7 @@
         <param name="Матеріал корпусу">Пластик</param>
         <param name="Сумісність з ОС">Windows</param>
         <param name="Сумісність з ОС">Mac OS</param>
+        <param name="Колір">Бузковий</param>
         <param name="Стан">Новий</param>
         <param name="Комплектація">Клавіатура</param>
         <param name="Призначення">Для ПК</param>
@@ -3144,7 +3040,7 @@
         <picture>https://techgleam.com.ua/content/images/20/65817139803599_%2Be30527bf9c.jpg</picture>
         <picture>https://techgleam.com.ua/content/images/20/28673482484509_%2B73dd316767.jpg</picture>
         <param name="Гарантія">3 місяці</param>
-        <param name="Колір">Темно-сірий</param>
+        <param name="Колір">Сірий</param>
         <param name="Конструкція клавіш">Магнітна</param>
         <param name="Підключення">Дротове</param>
         <param name="Інтерфейс підключення">USB Type-C</param>
@@ -3156,6 +3052,7 @@
         <param name="Сумісність з ОС">Windows</param>
         <param name="Сумісність з ОС">Mac OS</param>
         <param name="Сумісність з ОС">Linux</param>
+        <param name="Колір">Темно-сірий</param>
         <param name="Стан">Новий</param>
         <param name="Комплектація">Клавіатура</param>
         <param name="Призначення">Для ПК</param>
@@ -3217,7 +3114,7 @@
         <picture>https://techgleam.com.ua/content/images/24/88176434602802_%2B7f8ac7d57f.jpg</picture>
         <picture>https://techgleam.com.ua/content/images/24/74059355317290_%2B85aad05fe5.jpg</picture>
         <param name="Гарантія">3 місяці</param>
-        <param name="Колір">Темно-сірий</param>
+        <param name="Колір">Сірий</param>
         <param name="Конструкція клавіш">Магнітна</param>
         <param name="Підключення">Дротове</param>
         <param name="Інтерфейс підключення">USB Type-C</param>
@@ -3229,6 +3126,7 @@
         <param name="Сумісність з ОС">Windows</param>
         <param name="Сумісність з ОС">Mac OS</param>
         <param name="Сумісність з ОС">Linux</param>
+        <param name="Колір">Темно-сірий</param>
         <param name="Стан">Новий</param>
         <param name="Комплектація">Клавіатура</param>
         <param name="Призначення">Для ПК</param>
@@ -3361,7 +3259,7 @@
         <picture>https://techgleam.com.ua/content/images/28/15518705060379_%2Be8e79d5477.jpg</picture>
         <picture>https://techgleam.com.ua/content/images/28/48490368325279_%2B5982705a24.jpg</picture>
         <param name="Гарантія">3 місяці</param>
-        <param name="Колір">Бузковий</param>
+        <param name="Колір">Фіолетовий</param>
         <param name="Конструкція клавіш">Механічна</param>
         <param name="Підключення">Дротове</param>
         <param name="Інтерфейс підключення">USB Type-C</param>
@@ -3370,6 +3268,7 @@
         <param name="Сумісність з ОС">Windows</param>
         <param name="Сумісність з ОС">Mac OS</param>
         <param name="Сумісність з ОС">Linux</param>
+        <param name="Колір">Бузковий</param>
         <param name="Стан">Новий</param>
         <param name="Комплектація">Клавіатура</param>
         <param name="Призначення">Для ПК</param>
@@ -3472,6 +3371,7 @@
         <picture>https://techgleam.com.ua/content/images/42/36749919907156_%2Bb09e5a21f0.jpg</picture>
         <picture>https://techgleam.com.ua/content/images/42/37459066383748_%2B0da3d9c381.jpg</picture>
         <param name="Гарантія">1 місяць</param>
+        <param name="Колір">Білий</param>
         <param name="Конструкція клавіш">Магнітна</param>
         <param name="Підключення">Дротове</param>
         <param name="Інтерфейс підключення">USB Type-C</param>
@@ -4253,6 +4153,7 @@
         <description_ru><p><strong>Logitech G502 HERO — топовая точность и полная кастомизация</strong></p>    <p>G502 HERO сочетает в себе высокую производительность, прочную сборку и умные игровые фишки. Идеальна для тех, кто хочет максимум контроля без компромиссов.</p>    <p><strong>Основные характеристики:</strong></p>    <ul>   <li>Тип: игровая проводная мышь</li>   <li>Сенсор: PMW3366 — без ускорения, сглаживания или фильтрации</li>   <li>DPI: 200–12 000, мгновенное переключение между 5 уровнями (кнопка под большим пальцем)</li>   <li>Кнопки: 11 программируемых</li>   <li>Колесико: двухрежимное — сверхбыстрое свободное и пошаговое прокручивание</li>   <li>Вес и баланс: система сменных утяжелителей для тонкой настройки</li>   <li>Подсветка: RGB (16,8 млн цветов)</li>   <li>Переключатели: механические микропереключатели, ресурс 20 млн нажатий</li>   <li>Кабель: в прочной оплетке</li>   <li>ПЗ: Logitech Gaming Software — профили, макросы, подсветка, калибровка под поверхность</li>  </ul>    <p><strong>Что дает преимущество в игре:</strong></p>    <ul>   <li>Быстрое изменение DPI — от точного прицеливания до стремительных движений за одно мгновение</li>   <li>Дворежимное колесико для быстрого скролла и точного контроля</li>   <li>Гибкая персонализация: вес, баланс, кнопки, подсветка и профили</li>  </ul>    <p><strong>Комплектация:</strong></p>    <p>-Мышь Logitech G502 HERO</p>    <p>-Набор утяжелителей</p>    <p>-Инструкция</p>    <p>G502 HERO — это инструмент, дарящий стабильность, скорость и точность как в киберсражениях, так и в повседневной работе.</p></description_ru>
         <price>1500</price>
         <categoryId>1084</categoryId>
+        <vendor>Logitech</vendor>
         <picture>https://techgleam.com.ua/content/images/2/47373047522697_%2B4e38811923.jpg</picture>
         <picture>https://techgleam.com.ua/content/images/2/43464987113012_%2B98a4d0ddea.jpg</picture>
         <picture>https://techgleam.com.ua/content/images/2/38186701111089_%2B654898c4b3.jpg</picture>
@@ -4573,6 +4474,7 @@
         <picture>https://techgleam.com.ua/content/images/28/12212397102981_%2B1a9a2e2d05.jpg</picture>
         <picture>https://techgleam.com.ua/content/images/28/32709589654379_%2B10bc8ab783.jpg</picture>
         <param name="Гарантія">1 місяць</param>
+        <param name="Колір">Білий</param>
         <param name="Сумісність з ОС">Windows</param>
         <param name="Сумісність з ОС">Mac OS</param>
         <param name="Сумісність з ОС">Linux</param>
@@ -4939,6 +4841,7 @@
         <picture>https://techgleam.com.ua/content/images/18/29782958201586_%2Be63bb703ad.jpg</picture>
         <picture>https://techgleam.com.ua/content/images/18/47103928690866_%2B1db7fb4a12.jpg</picture>
         <param name="Гарантія">1 місяць</param>
+        <param name="Колір">Білий</param>
         <param name="Конструкція клавіш">Механічна</param>
         <param name="Підключення">Комбіноване</param>
         <param name="Інтерфейс підключення">Bluetooth</param>
@@ -5653,7 +5556,7 @@
         <picture>https://techgleam.com.ua/content/images/18/83736718682564_%2B2a2a3d5e0e.jpg</picture>
         <picture>https://techgleam.com.ua/content/images/18/78372593357705_%2B9343623ff2.jpg</picture>
         <param name="Гарантія">3 місяці</param>
-        <param name="Колір">Бузковий</param>
+        <param name="Колір">Фіолетовий</param>
         <param name="Підключення">Комбіноване</param>
         <param name="Сумісність з ОС">Microsoft Windows</param>
         <param name="Сумісність з ОС">Mac OS</param>
@@ -6574,7 +6477,7 @@
         <picture>https://techgleam.com.ua/content/images/44/igrovaja-mexanicheskaja-klaviatura-mchose-g75-pro-tri-rezhima-podkluchenija-matcha-latte-switch-purple-50629740467002_%2B2f4aafbf2a.jpg</picture>
         <picture>https://techgleam.com.ua/content/images/44/igrovaja-mexanicheskaja-klaviatura-mchose-g75-pro-tri-rezhima-podkluchenija-matcha-latte-switch-purple-50846678298833_%2B62f8f667d7.jpg</picture>
         <param name="Гарантія">1 місяць</param>
-        <param name="Колір">Бузковий</param>
+        <param name="Колір">Фіолетовий</param>
         <param name="Конструкція клавіш">Механічна</param>
         <param name="Підключення">Комбіноване</param>
         <param name="Інтерфейс підключення">Bluetooth</param>
@@ -6589,6 +6492,7 @@
         <param name="Сумісність з ОС">Windows</param>
         <param name="Сумісність з ОС">Mac OS</param>
         <param name="Сумісність з ОС">Linux</param>
+        <param name="Колір">Бузковий</param>
         <param name="Стан">Новий</param>
         <param name="Комплектація">Клавіатура</param>
         <param name="Призначення">Для ПК</param>
@@ -6638,7 +6542,7 @@
         <picture>https://techgleam.com.ua/content/images/46/besprovodnaja-igrovaja-mysh-mchose-k7-ultra-tri-rezhima-podkluchenija-paw3950-42-000-dpi-white-silver-93885492300002_%2Be76988b36e.jpg</picture>
         <picture>https://techgleam.com.ua/content/images/46/besprovodnaja-igrovaja-mysh-mchose-k7-ultra-tri-rezhima-podkluchenija-paw3950-42-000-dpi-white-silver-59235488900671_%2B6bc0d8c583.jpg</picture>
         <param name="Гарантія">3 місяці</param>
-        <param name="Колір">Сірий</param>
+        <param name="Колір">Сріблястий</param>
         <param name="Підключення">Комбіноване</param>
         <param name="Сумісність з ОС">Microsoft Windows</param>
         <param name="Сумісність з ОС">Mac OS</param>
@@ -7771,7 +7675,7 @@
         <picture>https://techgleam.com.ua/content/images/45/igrovaja-besprovodnaja-klaviatura-freewolf-m96-rgb-s-ekranom-dva-rezhima-podkluchenija-52788677082617_%2Bb03533c45b.jpg</picture>
         <picture>https://techgleam.com.ua/content/images/45/igrovaja-besprovodnaja-klaviatura-freewolf-m96-rgb-s-ekranom-dva-rezhima-podkluchenija-24104078097075_%2B0004680111.jpg</picture>
         <param name="Гарантія">1 місяць</param>
-        <param name="Колір">В асортименті</param>
+        <param name="Колір">Різнокольоровий</param>
         <param name="Конструкція клавіш">Мембранна</param>
         <param name="Підключення">Комбіноване</param>
         <param name="Інтерфейс підключення">Bluetooth</param>
@@ -7784,6 +7688,7 @@
         <param name="Сумісність з ОС">Windows</param>
         <param name="Сумісність з ОС">Mac OS</param>
         <param name="Сумісність з ОС">Linux</param>
+        <param name="Колір">В асортименті</param>
         <param name="Стан">Новий</param>
         <param name="Комплектація">Клавіатура</param>
         <param name="Призначення">Для ПК</param>
@@ -7833,7 +7738,7 @@
         <picture>https://techgleam.com.ua/content/images/47/igrovaja-provodnaja-mexanicheskaja-klaviatura-zifriend-za68-rgb-mechanical-switch-65-purple-57428702322244_%2B4ca14e8e5b.jpg</picture>
         <picture>https://techgleam.com.ua/content/images/47/igrovaja-provodnaja-mexanicheskaja-klaviatura-zifriend-za68-rgb-mechanical-switch-65-purple-24996412094151_%2B449ad2353a.jpg</picture>
         <param name="Гарантія">1 місяць</param>
-        <param name="Колір">Бузковий</param>
+        <param name="Колір">Фіолетовий</param>
         <param name="Конструкція клавіш">Механічна</param>
         <param name="Підключення">Дротове</param>
         <param name="Інтерфейс підключення">USB Type-C</param>
@@ -7845,6 +7750,7 @@
         <param name="Сумісність з ОС">Windows</param>
         <param name="Сумісність з ОС">Mac OS</param>
         <param name="Сумісність з ОС">Linux</param>
+        <param name="Колір">Бузковий</param>
         <param name="Стан">Новий</param>
         <param name="Комплектація">Клавіатура</param>
         <param name="Призначення">Для ПК</param>
@@ -7967,7 +7873,7 @@
         <picture>https://techgleam.com.ua/content/images/2/igrovaja-mexanicheskaja-provodnaja-klaviatura-hxsj-v500-blue-switch-60-rgb-colourful-46902090779489_%2Bf2b102f1ad.jpg</picture>
         <picture>https://techgleam.com.ua/content/images/2/igrovaja-mexanicheskaja-provodnaja-klaviatura-hxsj-v500-blue-switch-60-rgb-colourful-74772569799254_%2Bc94c693ee2.jpg</picture>
         <param name="Гарантія">1 місяць</param>
-        <param name="Колір">В асортименті</param>
+        <param name="Колір">Різнокольоровий</param>
         <param name="Конструкція клавіш">Механічна</param>
         <param name="Підключення">Дротове</param>
         <param name="Інтерфейс підключення">USB Type-C</param>
@@ -7979,6 +7885,7 @@
         <param name="Сумісність з ОС">Windows</param>
         <param name="Сумісність з ОС">Mac OS</param>
         <param name="Сумісність з ОС">Linux</param>
+        <param name="Колір">В асортименті</param>
         <param name="Стан">Новий</param>
         <param name="Комплектація">Клавіатура</param>
         <param name="Призначення">Для ПК</param>
@@ -8526,7 +8433,7 @@
         <picture>https://techgleam.com.ua/content/images/11/mexanicheskaja-klaviatura-ajazz-ak680-hot-swap-battery-mode-red-switch-purple-35071964826411_%2B1653364fb0.jpg</picture>
         <picture>https://techgleam.com.ua/content/images/11/mexanicheskaja-klaviatura-ajazz-ak680-hot-swap-battery-mode-red-switch-purple-75308866081085_%2B0ff6083e0b.jpg</picture>
         <param name="Гарантія">1 місяць</param>
-        <param name="Колір">Бузковий</param>
+        <param name="Колір">Фіолетовий</param>
         <param name="Конструкція клавіш">Механічна</param>
         <param name="Підключення">Комбіноване</param>
         <param name="Інтерфейс підключення">Радіоінтерфейс</param>
@@ -8536,6 +8443,7 @@
         <param name="Матеріал корпусу">Пластик</param>
         <param name="Сумісність з ОС">Windows</param>
         <param name="Сумісність з ОС">Mac OS</param>
+        <param name="Колір">Бузковий</param>
         <param name="Стан">Новий</param>
         <param name="Комплектація">Клавіатура</param>
         <param name="Призначення">Для ПК</param>
@@ -8690,7 +8598,7 @@
         <picture>https://techgleam.com.ua/content/images/3/igrovaja-magnitnaja-provodnaja-klaviatura-attack-shark-r85-provodnoe-podkluchenie-magnetic-switch-black-92780439429555_%2Bd093097eaf.jpg</picture>
         <picture>https://techgleam.com.ua/content/images/3/igrovaja-magnitnaja-provodnaja-klaviatura-attack-shark-r85-provodnoe-podkluchenie-magnetic-switch-black-25540494806267_%2Bab929d1c01.jpg</picture>
         <param name="Гарантія">3 місяці</param>
-        <param name="Колір">Темно-сірий</param>
+        <param name="Колір">Сірий</param>
         <param name="Конструкція клавіш">Магнітна</param>
         <param name="Підключення">Дротове</param>
         <param name="Інтерфейс підключення">USB Type-C</param>
@@ -8702,6 +8610,7 @@
         <param name="Сумісність з ОС">Windows</param>
         <param name="Сумісність з ОС">Mac OS</param>
         <param name="Сумісність з ОС">Linux</param>
+        <param name="Колір">Темно-сірий</param>
         <param name="Стан">Новий</param>
         <param name="Комплектація">Клавіатура</param>
         <param name="Призначення">Для ПК</param>
@@ -9045,7 +8954,7 @@
         <picture>https://techgleam.com.ua/content/images/26/igrovaja-mexanicheskaja-provodnaja-klaviatura-ajazz-ak690-68-klavish-hot-swap-rgb-melard-switch-mc-purple-71188297994233_%2B6a32f21b0e.jpg</picture>
         <picture>https://techgleam.com.ua/content/images/26/igrovaja-mexanicheskaja-provodnaja-klaviatura-ajazz-ak690-68-klavish-hot-swap-rgb-melard-switch-mc-purple-18992482868245_%2Bae8892fe75.jpg</picture>
         <param name="Гарантія">1 місяць</param>
-        <param name="Колір">Бузковий</param>
+        <param name="Колір">Фіолетовий</param>
         <param name="Конструкція клавіш">Механічна</param>
         <param name="Підключення">Дротове</param>
         <param name="Інтерфейс підключення">USB Type-C</param>
@@ -9057,6 +8966,7 @@
         <param name="Сумісність з ОС">Windows</param>
         <param name="Сумісність з ОС">Mac OS</param>
         <param name="Сумісність з ОС">Linux</param>
+        <param name="Колір">Бузковий</param>
         <param name="Стан">Новий</param>
         <param name="Комплектація">Клавіатура</param>
         <param name="Призначення">Для ПК</param>
@@ -9717,7 +9627,7 @@
         <picture>https://techgleam.com.ua/content/images/11/igrovaja-provodnaja-magnitnaja-klaviatura-gravastar-mercury-v60-pro-deluxe-edition-magnetic-gravastar-ufo-switch-with-keycap-set-chrome-silver-94727437864284_%2B7f8fb76335.jpg</picture>
         <picture>https://techgleam.com.ua/content/images/11/igrovaja-provodnaja-magnitnaja-klaviatura-gravastar-mercury-v60-pro-deluxe-edition-magnetic-gravastar-ufo-switch-with-keycap-set-chrome-silver-97811102537831_%2Bc967928c24.jpg</picture>
         <param name="Гарантія">6 місяців</param>
-        <param name="Колір">Сірий</param>
+        <param name="Колір">Сріблястий</param>
         <param name="Конструкція клавіш">Магнітна</param>
         <param name="Підключення">Дротове</param>
         <param name="Інтерфейс підключення">USB Type-C</param>
@@ -9729,6 +9639,7 @@
         <param name="Сумісність з ОС">Windows</param>
         <param name="Сумісність з ОС">Mac OS</param>
         <param name="Сумісність з ОС">Linux</param>
+        <param name="Колір">Сірий</param>
         <param name="Стан">Новий</param>
         <param name="Комплектація">Клавіатура</param>
         <param name="Призначення">Для ПК</param>
@@ -9899,6 +9810,7 @@
         <description_ru><p data-end="2351" data-start="2058"><strong data-end="2095" data-start="2058">Logitech G102 Lightsync USB Black</strong> — проводная игровая мышь с оптическим сенсором <strong data-end="2158" data-start="2143">до 8000 DPI</strong>, <strong data-end="2191" data-start="2160">6 программируемыми кнопками</strong>, RGB-подсветкой <strong data-end="2221" data-start="2208">Lightsync</strong> и быстрым откликом для игр и повседневного использования. Оснащена <strong data-end="2318" data-start="2289">32-битным ARM-процессором</strong> и удобным средним форм-фактором.</p>    <p data-end="2372" data-start="2353"><strong data-end="2400" data-start="2373">Logitech G102 Lightsync</strong> — популярная проводная мышь для тех, кто ищет надёжное решение для игр, учёбы и повседневной работы. Модель имеет классическую симметричную форму, удобно лежит в руке и подходит большинству пользователей благодаря <strong data-end="2635" data-start="2615">среднему размеру</strong> и комфортной посадке.</p>    <p data-end="2933" data-start="2659">Мышь оснащена <strong data-end="2696" data-start="2673">оптическим сенсором</strong> с чувствительностью <strong data-end="2732" data-start="2717">до 8000 DPI</strong>, что обеспечивает точный контроль в шутерах, MOBA и других динамичных играх. Диапазон чувствительности — <strong data-end="2860" data-start="2838">от 200 до 8000 DPI</strong>, поэтому можно легко подобрать удобную скорость движения под свой стиль.</p>    <p data-end="3282" data-start="2935"><strong data-end="2963" data-start="2935">6 программируемых кнопок</strong> и <strong data-end="2993" data-start="2966">32-битный ARM-процессор</strong> позволяют настраивать команды, макросы и игровые профили. Подсветка <strong data-end="3079" data-start="3062">Lightsync RGB</strong> добавляет яркости рабочему месту и помогает персонализировать внешний вид устройства.<br data-end="3168" data-start="3165" />  Подключение осуществляется через <strong data-end="3208" data-start="3201">USB</strong>, длина кабеля — <strong data-end="3234" data-start="3225">2.1 м</strong>, поддерживаются <strong data-end="3281" data-start="3251">Windows, macOS и Chrome OS</strong>.</p>    <h3 data-end="3311" data-start="3284">Основные характеристики</h3>    <ul data-end="3874" data-start="3312">   <li data-end="3349" data-start="3312">   <p data-end="3349" data-start="3314"><strong data-end="3325" data-start="3314">Модель:</strong> Logitech G102 Lightsync</p>   </li>   <li data-end="3385" data-start="3350">   <p data-end="3385" data-start="3352"><strong data-end="3374" data-start="3352">Код производителя:</strong> 910-005823</p>   </li>   <li data-end="3419" data-start="3386">   <p data-end="3419" data-start="3388"><strong data-end="3396" data-start="3388">Тип:</strong> проводная игровая мышь</p>   </li>   <li data-end="3440" data-start="3420">   <p data-end="3440" data-start="3422"><strong data-end="3436" data-start="3422">Интерфейс:</strong> USB</p>   </li>   <li data-end="3465" data-start="3441">   <p data-end="3465" data-start="3443"><strong data-end="3454" data-start="3443">Сенсор:</strong> оптический</p>   </li>   <li data-end="3498" data-start="3466">   <p data-end="3498" data-start="3468"><strong data-end="3489" data-start="3468">Максимальное DPI:</strong> <strong data-end="3498" data-start="3490">8000</strong></p>   </li>   <li data-end="3531" data-start="3499">   <p data-end="3531" data-start="3501"><strong data-end="3518" data-start="3501">Диапазон DPI:</strong> <strong data-end="3531" data-start="3519">200–8000</strong></p>   </li>   <li data-end="3562" data-start="3532">   <p data-end="3562" data-start="3534"><strong data-end="3556" data-start="3534">Количество кнопок:</strong> <strong data-end="3562" data-start="3557">6</strong></p>   </li>   <li data-end="3592" data-start="3563">   <p data-end="3592" data-start="3565"><strong data-end="3576" data-start="3565">Кнопки:</strong> программируемые</p>   </li>   <li data-end="3627" data-start="3593">   <p data-end="3627" data-start="3595"><strong data-end="3609" data-start="3595">Процессор:</strong> <strong data-end="3627" data-start="3610">32-битный ARM</strong></p>   </li>   <li data-end="3658" data-start="3628">   <p data-end="3658" data-start="3630"><strong data-end="3644" data-start="3630">Подсветка:</strong> RGB Lightsync</p>   </li>   <li data-end="3699" data-start="3659">   <p data-end="3699" data-start="3661"><strong data-end="3672" data-start="3661">Размер:</strong> <strong data-end="3699" data-start="3673">62.2 × 116.6 × 38.2 мм</strong></p>   </li>   <li data-end="3729" data-start="3700">   <p data-end="3729" data-start="3702"><strong data-end="3719" data-start="3702">Длина кабеля:</strong> <strong data-end="3729" data-start="3720">2.1 м</strong></p>   </li>   <li data-end="3748" data-start="3730">   <p data-end="3748" data-start="3732"><strong data-end="3741" data-start="3732">Цвет:</strong> чёрный</p>   </li>   <li data-end="3797" data-start="3749">   <p data-end="3797" data-start="3751"><strong data-end="3769" data-start="3751">Совместимость:</strong> Windows / macOS / Chrome OS</p>   </li>   <li data-end="3840" data-start="3798">   <p data-end="3840" data-start="3800"><strong data-end="3830" data-start="3800">Страна регистрации бренда:</strong> Швейцария</p>   </li>   <li data-end="3874" data-start="3841">   <p data-end="3874" data-start="3843"><strong data-end="3868" data-start="3843">Страна-производитель:</strong> Китай</p>   </li>  </ul></description_ru>
         <price>999</price>
         <categoryId>1084</categoryId>
+        <vendor>Logitech</vendor>
         <picture>https://techgleam.com.ua/content/images/32/igrovaja-provodnaja-myshka-logitech-g102-lightsync-8000-dpi-black-72189338144463_%2Bf932db9a2b.jpg</picture>
         <picture>https://techgleam.com.ua/content/images/32/igrovaja-provodnaja-myshka-logitech-g102-lightsync-8000-dpi-black-76216668033118_%2Bcc6bb2ee41.jpg</picture>
         <picture>https://techgleam.com.ua/content/images/32/igrovaja-provodnaja-myshka-logitech-g102-lightsync-8000-dpi-black-88222429160008_%2B4237891ce9.jpg</picture>
@@ -10148,6 +10060,7 @@
         <picture>https://techgleam.com.ua/content/images/43/mexanicheskaja-klaviatura-aula-s75-pro-75-tri-rezhima-podkluchenija-seyia-switch-white-blue-51577470258984_%2B8566ca75aa.jpg</picture>
         <picture>https://techgleam.com.ua/content/images/43/mexanicheskaja-klaviatura-aula-s75-pro-75-tri-rezhima-podkluchenija-seyia-switch-white-blue-98641693070935_%2B7ac5acc537.jpg</picture>
         <param name="Гарантія">3 місяці</param>
+        <param name="Колір">Білий</param>
         <param name="Конструкція клавіш">Механічна</param>
         <param name="Підключення">Комбіноване</param>
         <param name="Інтерфейс підключення">Bluetooth</param>
@@ -11020,7 +10933,7 @@
         <picture>https://techgleam.com.ua/content/images/3/grova-bezdrotova-mishka-ipi-qi-pro-tri-rezhimi-pdkluchennja-42000-dpi-sensor-paw3950-purple-95167377722564_%2B060b14f7a4.png</picture>
         <picture>https://techgleam.com.ua/content/images/3/grova-bezdrotova-mishka-ipi-qi-pro-tri-rezhimi-pdkluchennja-42000-dpi-sensor-paw3950-purple-82530435859139_%2Bb6d49402ab.png</picture>
         <param name="Гарантія">6 місяців</param>
-        <param name="Колір">Бузковий</param>
+        <param name="Колір">Фіолетовий</param>
         <param name="Підключення">Комбіноване</param>
         <param name="Сумісність з ОС">Microsoft Windows</param>
         <param name="Сумісність з ОС">Mac OS</param>
@@ -11047,7 +10960,7 @@
         <picture>https://techgleam.com.ua/content/images/4/grova-bezdrotova-mishka-ipi-qi-pro-tri-rezhimi-pdkluchennja-42000-dpi-sensor-paw3950-silver-93772015909025_%2B2eb99a06df.png</picture>
         <picture>https://techgleam.com.ua/content/images/4/grova-bezdrotova-mishka-ipi-qi-pro-tri-rezhimi-pdkluchennja-42000-dpi-sensor-paw3950-silver-54723096526168_%2B6954338e50.png</picture>
         <param name="Гарантія">6 місяців</param>
-        <param name="Колір">Сірий</param>
+        <param name="Колір">Сріблястий</param>
         <param name="Підключення">Комбіноване</param>
         <param name="Сумісність з ОС">Microsoft Windows</param>
         <param name="Сумісність з ОС">Mac OS</param>
@@ -11203,6 +11116,7 @@
         <picture>https://techgleam.com.ua/content/images/30/grova-bezdrotova-mexanchna-klavatura-attack-shark-k86-tri-rezhimi-pdkluchennja-linear-blue-whale-switches-white-blue-48844547335317_%2B9b31d41e6b.jpg</picture>
         <picture>https://techgleam.com.ua/content/images/30/grova-bezdrotova-mexanchna-klavatura-attack-shark-k86-tri-rezhimi-pdkluchennja-linear-blue-whale-switches-white-blue-90743456618862_%2Bea1277d343.jpg</picture>
         <param name="Гарантія">3 місяці</param>
+        <param name="Колір">Білий</param>
         <param name="Конструкція клавіш">Механічна</param>
         <param name="Підключення">Комбіноване</param>
         <param name="Інтерфейс підключення">Bluetooth</param>
@@ -11468,7 +11382,7 @@
         <vendor>ATK</vendor>
         <picture>https://techgleam.com.ua/content/images/43/grova-bezdrotova-mishka-atk-blazing-sky-ghost-tri-rezhimi-pdkluchennja-sensor-paw3950-ultra-42000-dpi-silver-69947462774638_%2B3bc14e2296.jpg</picture>
         <param name="Гарантія">3 місяці</param>
-        <param name="Колір">Сірий</param>
+        <param name="Колір">Сріблястий</param>
         <param name="Підключення">Комбіноване</param>
         <param name="Сумісність з ОС">Microsoft Windows</param>
         <param name="Сумісність з ОС">Mac OS</param>
@@ -11693,6 +11607,75 @@
         <param name="Сумісність з ОС">Windows</param>
         <param name="Сумісність з ОС">Mac OS</param>
         <param name="Сумісність з ОС">Linux</param>
+        <param name="Стан">Новий</param>
+        <param name="Комплектація">Клавіатура</param>
+        <param name="Призначення">Для ПК</param>
+        <param name="Вид">Ігрові</param>
+        <country>Китай</country>
+      </offer>
+      <offer id="1755" available="false">
+        <availability_status>temporarily_unavailable</availability_status>
+        <name_ua>Ігрова механічна клавіатура Kondor Starlight / Дротове підключення / Brown Switch / White Black</name_ua>
+        <name_ru>Игровая механическая клавиатура Kondor Starlight / Проводное подключение / Brown Switch / White Black</name_ru>
+        <description_ua><p data-end="414" data-start="47">KONDOR Starlight — це компактна дротова механічна клавіатура у <strong data-end="151" data-start="131">60% форм-факторі</strong>, створена для тих, хто цінує мінімалістичний розмір, зручний друк і стильний вигляд робочого місця. Модель поєднує компактний корпус, Hot-Swap, шумоізоляцію та яскраве LED-підсвічування, що робить її хорошим вибором як для щоденного використання, так і для ігор.</p>    <p data-end="760" data-start="416">Клавіатура оснащена <strong data-end="451" data-start="436">61 клавішею</strong> та коричневими тактильними перемикачами, які забезпечують приємне натискання з відчутним відгуком. Ресурс свічів становить <strong data-end="601" data-start="575">50 мільйонів натискань</strong>, а підтримка <strong data-end="627" data-start="615">Hot-Swap</strong> дозволяє змінювати перемикачі без пайки. Це додає більше гнучкості для тих, хто хоче налаштовувати клавіатуру під власні вподобання.</p>    <p data-end="1073" data-start="762">KONDOR Starlight має <strong data-end="808" data-start="783">Rainbow LED-підсвітку</strong> з <strong data-end="838" data-start="811">20 вбудованими режимами</strong>, а також <strong data-end="880" data-start="848">бокову RGB-підсвітку корпусу</strong> з <strong data-end="898" data-start="883">11 режимами</strong>, що додає сетапу більш виразного вигляду. Клавіатура підтримує <strong data-end="976" data-start="962">Anti-Ghost</strong> і <strong data-end="997" data-start="979">N-Key Rollover</strong>, тому коректно обробляє одночасні натискання під час швидкого друку та гри.</p>    <p data-end="1468" data-start="1075">Модель оснащена <strong data-end="1125" data-start="1091">ABS кейкапами подвійного лиття</strong>, має розкладку <strong data-end="1153" data-start="1141">укр/англ</strong>, шумопоглинаючий шар піни <strong data-end="1187" data-start="1180">EVA</strong> та <strong data-end="1219" data-start="1191">силіконову віброізоляцію</strong>, які роблять звук натискань м’якшим і приємнішим. Корпус виготовлений із якісного пластику, а регульовані ніжки з <strong data-end="1359" data-start="1334">трьома рівнями висоти</strong> дозволяють зручніше налаштувати положення клавіатури. KONDOR Starlight сумісна з <strong data-end="1467" data-start="1441">Windows, macOS і Linux</strong>.</p>    <p data-end="1493" data-start="1470"><strong data-end="1491" data-start="1470">Основні переваги:</strong></p>    <ul data-end="2023" data-start="1494">   <li data-end="1508" data-section-id="pdyuf6" data-start="1494">61 клавіша</li>   <li data-end="1528" data-section-id="1xyg7ma" data-start="1509">Форм-фактор 60%</li>   <li data-end="1558" data-section-id="pqgd39" data-start="1529">Коричневі тактильні свічі</li>   <li data-end="1599" data-section-id="1i7jcqb" data-start="1559">Ресурс свічів 50 мільйонів натискань</li>   <li data-end="1622" data-section-id="1tqc2tu" data-start="1600">Підтримка Hot-Swap</li>   <li data-end="1648" data-section-id="oixmra" data-start="1623">Rainbow LED-підсвітка</li>   <li data-end="1684" data-section-id="o71fd" data-start="1649">20 вбудованих режимів підсвітки</li>   <li data-end="1717" data-section-id="12t13ch" data-start="1685">Бокова RGB-підсвітка корпусу</li>   <li data-end="1750" data-section-id="gewqxv" data-start="1718">11 режимів бокової підсвітки</li>   <li data-end="1773" data-section-id="l3ya0t" data-start="1751">Розкладка укр/англ</li>   <li data-end="1806" data-section-id="a79eix" data-start="1774">ABS кейкапи подвійного лиття</li>   <li data-end="1839" data-section-id="c2tf2r" data-start="1807">Шумопоглинаючий шар піни EVA</li>   <li data-end="1868" data-section-id="1ygob1i" data-start="1840">Силіконова віброізоляція</li>   <li data-end="1883" data-section-id="1svgb2o" data-start="1869">Anti-Ghost</li>   <li data-end="1902" data-section-id="y4hbf3" data-start="1884">N-Key Rollover</li>   <li data-end="1943" data-section-id="1pr4p84" data-start="1903">Дротове підключення через USB Type-C</li>   <li data-end="1984" data-section-id="1pt6muj" data-start="1944">Регульовані ніжки з 3 рівнями висоти</li>   <li data-end="2023" data-section-id="1r8awjc" data-start="1985">Сумісність з Windows, macOS, Linux</li>  </ul></description_ua>
+        <description_ru><p data-end="2405" data-start="2025">KONDOR Starlight — это компактная проводная механическая клавиатура в <strong data-end="2136" data-start="2116">60% форм-факторе</strong>, созданная для тех, кто ценит минималистичный размер, удобный набор текста и стильный вид рабочего места. Модель сочетает компактный корпус, Hot-Swap, шумоизоляцию и яркую LED-подсветку, что делает её хорошим выбором как для повседневного использования, так и для игр.</p>    <p data-end="2764" data-start="2407">Клавиатура оснащена <strong data-end="2442" data-start="2427">61 клавишей</strong> и коричневыми тактильными переключателями, которые обеспечивают приятное нажатие с ощутимым откликом. Ресурс свичей составляет <strong data-end="2594" data-start="2570">50 миллионов нажатий</strong>, а поддержка <strong data-end="2620" data-start="2608">Hot-Swap</strong> позволяет менять переключатели без пайки. Это добавляет больше гибкости для тех, кто хочет настраивать клавиатуру под собственные предпочтения.</p>    <p data-end="3098" data-start="2766">KONDOR Starlight имеет <strong data-end="2814" data-start="2789">Rainbow LED-подсветку</strong> с <strong data-end="2844" data-start="2817">20 встроенными режимами</strong>, а также <strong data-end="2887" data-start="2854">боковую RGB-подсветку корпуса</strong> с <strong data-end="2905" data-start="2890">11 режимами</strong>, что делает сетап более выразительным. Клавиатура поддерживает <strong data-end="2983" data-start="2969">Anti-Ghost</strong> и <strong data-end="3004" data-start="2986">N-Key Rollover</strong>, поэтому корректно обрабатывает одновременные нажатия во время быстрого набора текста и игры.</p>    <p data-end="3499" data-start="3100">Модель оснащена <strong data-end="3148" data-start="3116">ABS кейкапами двойного литья</strong>, имеет раскладку <strong data-end="3178" data-start="3166">укр/англ</strong>, шумопоглощающий слой пены <strong data-end="3213" data-start="3206">EVA</strong> и <strong data-end="3245" data-start="3216">силиконовую виброизоляцию</strong>, которые делают звук нажатий более мягким и приятным. Корпус выполнен из качественного пластика, а регулируемые ножки с <strong data-end="3391" data-start="3366">тремя уровнями высоты</strong> позволяют удобнее настроить положение клавиатуры. KONDOR Starlight совместима с <strong data-end="3498" data-start="3472">Windows, macOS и Linux</strong>.</p>    <p data-end="3529" data-start="3501"><strong data-end="3527" data-start="3501">Основные преимущества:</strong></p>    <ul data-end="4067" data-start="3530">   <li data-end="3544" data-section-id="nebxws" data-start="3530">61 клавиша</li>   <li data-end="3564" data-section-id="1xyg7ma" data-start="3545">Форм-фактор 60%</li>   <li data-end="3596" data-section-id="gpjyv9" data-start="3565">Коричневые тактильные свичи</li>   <li data-end="3635" data-section-id="1bgqkm8" data-start="3597">Ресурс свичей 50 миллионов нажатий</li>   <li data-end="3658" data-section-id="237m0b" data-start="3636">Поддержка Hot-Swap</li>   <li data-end="3684" data-section-id="3o9a71" data-start="3659">Rainbow LED-подсветка</li>   <li data-end="3720" data-section-id="1n217mu" data-start="3685">20 встроенных режимов подсветки</li>   <li data-end="3754" data-section-id="1fomphi" data-start="3721">Боковая RGB-подсветка корпуса</li>   <li data-end="3787" data-section-id="xb6eha" data-start="3755">11 режимов боковой подсветки</li>   <li data-end="3810" data-section-id="1dvk9dx" data-start="3788">Раскладка укр/англ</li>   <li data-end="3841" data-section-id="1rfzwnx" data-start="3811">ABS кейкапы двойного литья</li>   <li data-end="3875" data-section-id="1qgq9ga" data-start="3842">Шумопоглощающий слой пены EVA</li>   <li data-end="3905" data-section-id="xh26mh" data-start="3876">Силиконовая виброизоляция</li>   <li data-end="3920" data-section-id="1svgb2o" data-start="3906">Anti-Ghost</li>   <li data-end="3939" data-section-id="y4hbf3" data-start="3921">N-Key Rollover</li>   <li data-end="3982" data-section-id="1msvdwd" data-start="3940">Проводное подключение через USB Type-C</li>   <li data-end="4025" data-section-id="16dwuw9" data-start="3983">Регулируемые ножки с 3 уровнями высоты</li>   <li data-end="4067" data-section-id="1j55pqp" data-start="4026">Совместимость с Windows, macOS, Linux</li>  </ul></description_ru>
+        <price>1899</price>
+        <old_price>2199</old_price>
+        <categoryId>1082</categoryId>
+        <vendor>Kondor</vendor>
+        <picture>https://techgleam.com.ua/content/images/6/grova-mexanchna-klavatura-kondor-starlight-drotove-pdkluchennja-brown-switch-white-black-57232814125708_%2Baf08b96d37.jpg</picture>
+        <picture>https://techgleam.com.ua/content/images/6/grova-mexanchna-klavatura-kondor-starlight-drotove-pdkluchennja-brown-switch-white-black-11623326524632_%2B24d6f4a615.jpg</picture>
+        <picture>https://techgleam.com.ua/content/images/6/grova-mexanchna-klavatura-kondor-starlight-drotove-pdkluchennja-brown-switch-white-black-92928297732780_%2Bde06d764ce.jpg</picture>
+        <picture>https://techgleam.com.ua/content/images/6/grova-mexanchna-klavatura-kondor-starlight-drotove-pdkluchennja-brown-switch-white-black-51432367192305_%2B2fb32f08b8.jpg</picture>
+        <picture>https://techgleam.com.ua/content/images/6/grova-mexanchna-klavatura-kondor-starlight-drotove-pdkluchennja-brown-switch-white-black-43653582265279_%2B3ecae0c8ff.jpg</picture>
+        <param name="Гарантія">12 місяців</param>
+        <param name="Колір">Чорний</param>
+        <param name="Конструкція клавіш">Механічна</param>
+        <param name="Підключення">Дротове</param>
+        <param name="Інтерфейс підключення">USB Type-C</param>
+        <param name="Розкладка">Eng / Ukr</param>
+        <param name="Форм-фактор">Компактні</param>
+        <param name="Колір підсвічування">RGB</param>
+        <param name="Підсвічування клавіш">Є</param>
+        <param name="Матеріал корпусу">Пластик</param>
+        <param name="Сумісність з ОС">Windows</param>
+        <param name="Сумісність з ОС">Mac OS</param>
+        <param name="Сумісність з ОС">Linux</param>
+        <param name="Стан">Новий</param>
+        <param name="Комплектація">Клавіатура</param>
+        <param name="Призначення">Для ПК</param>
+        <param name="Вид">Ігрові</param>
+        <country>Китай</country>
+      </offer>
+      <offer id="1758" available="false">
+        <availability_status>temporarily_unavailable</availability_status>
+        <name_ua>Ігрова механічна клавіатура Kondor Moonlight X / Дротове підключення / Brown Switch / Black Grey Black</name_ua>
+        <name_ru>Игровая механическая клавиатура Kondor Moonlight X / Проводное подключение / Brown Switch / Black Grey</name_ru>
+        <description_ua><p data-end="384" data-start="49">KONDOR Moonlight X — це компактна дротова механічна клавіатура, створена для комфортного друку, щоденного використання та ігор. Модель поєднує зручний компактний формат, тактильні перемикачі, Hot-Swap, шумоізоляцію та ролер для керування звуком і підсвіткою, що робить її практичним варіантом для сучасного сетапу.</p>    <p data-end="745" data-start="386">Клавіатура оснащена <strong data-end="422" data-start="406">68 клавішами</strong> та коричневими тактильними свічами, які забезпечують приємний відгук при натисканні без різкого клікаючого звуку. Ресурс свічів становить <strong data-end="587" data-start="561">50 мільйонів натискань</strong>, а підтримка <strong data-end="613" data-start="601">Hot-Swap</strong> дозволяє змінювати перемикачі без пайки. Це додає більше гнучкості для тих, хто хоче підлаштувати клавіатуру під власні вподобання.</p>    <p data-end="1092" data-start="747">KONDOR Moonlight X має <strong data-end="821" data-start="770">Rainbow LED-підсвітку з 12 вбудованими режимами</strong>, а також <strong data-end="863" data-start="831">бокову RGB-підсвітку корпусу</strong>, яка додає клавіатурі більш виразного вигляду на столі. Для швидкого керування гучністю та підсвіткою передбачений <strong data-end="988" data-start="979">ролер</strong>, а регульовані ніжки з <strong data-end="1037" data-start="1012">трьома рівнями висоти</strong> дозволяють комфортно налаштувати положення клавіатури.</p>    <p data-end="1564" data-start="1094">Модель оснащена <strong data-end="1144" data-start="1110">ABS кейкапами подвійного лиття</strong>, має розкладку <strong data-end="1172" data-start="1160">укр/англ</strong>, шумопоглинаючий шар піни <strong data-end="1206" data-start="1199">EVA</strong> та <strong data-end="1238" data-start="1210">силіконову віброізоляцію</strong>, що допомагає зробити звук натискань м’якшим і приємнішим. Також клавіатура підтримує <strong data-end="1339" data-start="1325">Anti-Ghost</strong> і <strong data-end="1360" data-start="1342">N-Key Rollover</strong>, тому добре підходить як для роботи, так і для ігрових сценаріїв. Підключення здійснюється через <strong data-end="1472" data-start="1458">USB Type-C</strong>, а сумісність з <strong data-end="1515" data-start="1489">Windows, macOS і Linux</strong> робить модель універсальною для різних платформ.</p>    <p data-end="1589" data-start="1566"><strong data-end="1587" data-start="1566">Основні переваги:</strong></p>    <ul data-end="2184" data-start="1590">   <li data-end="1603" data-section-id="ytzv4r" data-start="1590">68 клавіш</li>   <li data-end="1623" data-section-id="1xye37b" data-start="1604">Форм-фактор 65%</li>   <li data-end="1653" data-section-id="pqgd39" data-start="1624">Коричневі тактильні свічі</li>   <li data-end="1707" data-section-id="1tukemd" data-start="1654">Тактильні перемикачі без різкого клікаючого звуку</li>   <li data-end="1748" data-section-id="1i7jcqb" data-start="1708">Ресурс свічів 50 мільйонів натискань</li>   <li data-end="1771" data-section-id="1tqc2tu" data-start="1749">Підтримка Hot-Swap</li>   <li data-end="1797" data-section-id="oixmra" data-start="1772">Rainbow LED-підсвітка</li>   <li data-end="1833" data-section-id="rjxzjs" data-start="1798">12 вбудованих режимів підсвітки</li>   <li data-end="1866" data-section-id="12t13ch" data-start="1834">Бокова RGB-підсвітка корпусу</li>   <li data-end="1911" data-section-id="1easte8" data-start="1867">Ролер для регулювання звуку та підсвітки</li>   <li data-end="1934" data-section-id="l3ya0t" data-start="1912">Розкладка укр/англ</li>   <li data-end="1967" data-section-id="a79eix" data-start="1935">ABS кейкапи подвійного лиття</li>   <li data-end="2000" data-section-id="c2tf2r" data-start="1968">Шумопоглинаючий шар піни EVA</li>   <li data-end="2029" data-section-id="1ygob1i" data-start="2001">Силіконова віброізоляція</li>   <li data-end="2044" data-section-id="1svgb2o" data-start="2030">Anti-Ghost</li>   <li data-end="2063" data-section-id="y4hbf3" data-start="2045">N-Key Rollover</li>   <li data-end="2104" data-section-id="1pr4p84" data-start="2064">Дротове підключення через USB Type-C</li>   <li data-end="2145" data-section-id="1pt6muj" data-start="2105">Регульовані ніжки з 3 рівнями висоти</li>   <li data-end="2184" data-section-id="1r8awjc" data-start="2146">Сумісність з Windows, macOS, Linux</li>  </ul></description_ua>
+        <description_ru><p data-end="2550" data-start="2186">KONDOR Moonlight X — это компактная проводная механическая клавиатура, созданная для комфортного набора текста, повседневного использования и игр. Модель сочетает удобный компактный формат, тактильные переключатели, Hot-Swap, шумоизоляцию и роллер для управления звуком и подсветкой, что делает её практичным вариантом для современного сетапа.</p>    <p data-end="2916" data-start="2552">Клавиатура оснащена <strong data-end="2588" data-start="2572">68 клавишами</strong> и коричневыми тактильными свичами, которые обеспечивают приятный отклик при нажатии без резкого кликающего звука. Ресурс свичей составляет <strong data-end="2752" data-start="2728">50 миллионов нажатий</strong>, а поддержка <strong data-end="2778" data-start="2766">Hot-Swap</strong> позволяет менять переключатели без пайки. Это даёт больше гибкости для тех, кто хочет подстроить клавиатуру под собственные предпочтения.</p>    <p data-end="3265" data-start="2918">KONDOR Moonlight X имеет <strong data-end="2994" data-start="2943">Rainbow LED-подсветку с 12 встроенными режимами</strong>, а также <strong data-end="3037" data-start="3004">боковую RGB-подсветку корпуса</strong>, которая делает клавиатуру более выразительной на столе. Для быстрого управления громкостью и подсветкой предусмотрен <strong data-end="3166" data-start="3156">роллер</strong>, а регулируемые ножки с <strong data-end="3216" data-start="3191">тремя уровнями высоты</strong> позволяют удобно настроить положение клавиатуры.</p>    <p data-end="3751" data-start="3267">Модель оснащена <strong data-end="3315" data-start="3283">ABS кейкапами двойного литья</strong>, имеет раскладку <strong data-end="3345" data-start="3333">укр/англ</strong>, шумопоглощающий слой пены <strong data-end="3380" data-start="3373">EVA</strong> и <strong data-end="3412" data-start="3383">силиконовую виброизоляцию</strong>, что помогает сделать звук нажатий более мягким и приятным. Также клавиатура поддерживает <strong data-end="3517" data-start="3503">Anti-Ghost</strong> и <strong data-end="3538" data-start="3520">N-Key Rollover</strong>, поэтому хорошо подходит как для работы, так и для игровых сценариев. Подключение осуществляется через <strong data-end="3656" data-start="3642">USB Type-C</strong>, а совместимость с <strong data-end="3702" data-start="3676">Windows, macOS и Linux</strong> делает модель универсальной для разных платформ.</p>    <p data-end="3781" data-start="3753"><strong data-end="3779" data-start="3753">Основные преимущества:</strong></p>    <ul data-end="4388" data-start="3782">   <li data-end="3795" data-section-id="yth3jp" data-start="3782">68 клавиш</li>   <li data-end="3815" data-section-id="1xye37b" data-start="3796">Форм-фактор 65%</li>   <li data-end="3847" data-section-id="gpjyv9" data-start="3816">Коричневые тактильные свичи</li>   <li data-end="3905" data-section-id="xuzfc5" data-start="3848">Тактильные переключатели без резкого кликающего звука</li>   <li data-end="3944" data-section-id="1bgqkm8" data-start="3906">Ресурс свичей 50 миллионов нажатий</li>   <li data-end="3967" data-section-id="237m0b" data-start="3945">Поддержка Hot-Swap</li>   <li data-end="3993" data-section-id="3o9a71" data-start="3968">Rainbow LED-подсветка</li>   <li data-end="4029" data-section-id="12mjlt3" data-start="3994">12 встроенных режимов подсветки</li>   <li data-end="4063" data-section-id="1fomphi" data-start="4030">Боковая RGB-подсветка корпуса</li>   <li data-end="4108" data-section-id="141daoc" data-start="4064">Роллер для регулировки звука и подсветки</li>   <li data-end="4131" data-section-id="1dvk9dx" data-start="4109">Раскладка укр/англ</li>   <li data-end="4162" data-section-id="1rfzwnx" data-start="4132">ABS кейкапы двойного литья</li>   <li data-end="4196" data-section-id="1qgq9ga" data-start="4163">Шумопоглощающий слой пены EVA</li>   <li data-end="4226" data-section-id="xh26mh" data-start="4197">Силиконовая виброизоляция</li>   <li data-end="4241" data-section-id="1svgb2o" data-start="4227">Anti-Ghost</li>   <li data-end="4260" data-section-id="y4hbf3" data-start="4242">N-Key Rollover</li>   <li data-end="4303" data-section-id="1msvdwd" data-start="4261">Проводное подключение через USB Type-C</li>   <li data-end="4346" data-section-id="16dwuw9" data-start="4304">Регулируемые ножки с 3 уровнями высоты</li>   <li data-end="4388" data-section-id="1j55pqp" data-start="4347">Совместимость с Windows, macOS, Linux</li>  </ul></description_ru>
+        <price>2199</price>
+        <old_price>2799</old_price>
+        <categoryId>1082</categoryId>
+        <vendor>Kondor</vendor>
+        <picture>https://techgleam.com.ua/content/images/9/grova-mexanchna-klavatura-kondor-moonlight-x-drotove-pdkluchennja-brown-switch-black-grey-black-99118579098434_%2B17e23cc3e1.jpg</picture>
+        <picture>https://techgleam.com.ua/content/images/9/grova-mexanchna-klavatura-kondor-moonlight-x-drotove-pdkluchennja-brown-switch-black-grey-black-26663308075645_%2B800e704a3b.jpg</picture>
+        <picture>https://techgleam.com.ua/content/images/9/grova-mexanchna-klavatura-kondor-moonlight-x-drotove-pdkluchennja-brown-switch-black-grey-black-28600165188099_%2Baf31d5d1d9.jpg</picture>
+        <picture>https://techgleam.com.ua/content/images/9/grova-mexanchna-klavatura-kondor-moonlight-x-drotove-pdkluchennja-brown-switch-black-grey-black-51572849674678_%2Bc448826516.jpg</picture>
+        <picture>https://techgleam.com.ua/content/images/9/grova-mexanchna-klavatura-kondor-moonlight-x-drotove-pdkluchennja-brown-switch-black-grey-black-62518377539247_%2B592d469feb.jpg</picture>
+        <param name="Гарантія">12 місяців</param>
+        <param name="Колір">Сірий</param>
+        <param name="Конструкція клавіш">Механічна</param>
+        <param name="Підключення">Дротове</param>
+        <param name="Інтерфейс підключення">USB Type-C</param>
+        <param name="Розкладка">Eng / Ukr</param>
+        <param name="Форм-фактор">Компактні</param>
+        <param name="Колір підсвічування">RGB</param>
+        <param name="Підсвічування клавіш">Є</param>
+        <param name="Матеріал корпусу">Пластик</param>
+        <param name="Сумісність з ОС">Windows</param>
+        <param name="Сумісність з ОС">Mac OS</param>
+        <param name="Сумісність з ОС">Linux</param>
+        <param name="Колір">Темно-сірий</param>
         <param name="Стан">Новий</param>
         <param name="Комплектація">Клавіатура</param>
         <param name="Призначення">Для ПК</param>
@@ -11955,6 +11938,7 @@
         <picture>https://techgleam.com.ua/content/images/25/grova-mexanchna-drotova-klavatura-ajazz-ak690-68-klavsh-hot-swap-rgb-melard-switch-mc-white-blue-59702186543399_%2B6ed811e94f.jpg</picture>
         <picture>https://techgleam.com.ua/content/images/25/grova-mexanchna-drotova-klavatura-ajazz-ak690-68-klavsh-hot-swap-rgb-melard-switch-mc-white-blue-58546030690207_%2B4353e5f26d.jpg</picture>
         <param name="Гарантія">1 місяць</param>
+        <param name="Колір">Білий</param>
         <param name="Конструкція клавіш">Механічна</param>
         <param name="Підключення">Дротове</param>
         <param name="Інтерфейс підключення">USB Type-C</param>
@@ -12224,7 +12208,7 @@
         <picture>https://techgleam.com.ua/content/images/42/grova-mexanchna-klavatura-akko-5075-v3-tri-rezhimi-pdkluchennja-frost-pink-switch-purple-25240406184115_%2Bf1cd6ca00b.png</picture>
         <picture>https://techgleam.com.ua/content/images/42/grova-mexanchna-klavatura-akko-5075-v3-tri-rezhimi-pdkluchennja-frost-pink-switch-purple-51100304576930_%2Bfab2fede6f.png</picture>
         <param name="Гарантія">3 місяці</param>
-        <param name="Колір">Бузковий</param>
+        <param name="Колір">Фіолетовий</param>
         <param name="Конструкція клавіш">Механічна</param>
         <param name="Підключення">Комбіноване</param>
         <param name="Інтерфейс підключення">Bluetooth</param>
@@ -12239,6 +12223,7 @@
         <param name="Сумісність з ОС">Windows</param>
         <param name="Сумісність з ОС">Mac OS</param>
         <param name="Сумісність з ОС">Linux</param>
+        <param name="Колір">Бузковий</param>
         <param name="Стан">Новий</param>
         <param name="Комплектація">Клавіатура</param>
         <param name="Призначення">Для ПК</param>
@@ -12508,7 +12493,7 @@
         <picture>https://techgleam.com.ua/content/images/4/grova-bezdrotova-mishka-attack-shark-x11-ultra-tri-rezhimi-pdkluchennja-carbon-fiber-sensor-paw3950max-42000-dpi-purple-95266018642805_%2Be5cb20f694.jpg</picture>
         <picture>https://techgleam.com.ua/content/images/4/grova-bezdrotova-mishka-attack-shark-x11-ultra-tri-rezhimi-pdkluchennja-carbon-fiber-sensor-paw3950max-42000-dpi-purple-11556664586130_%2B2d979edd17.jpg</picture>
         <param name="Гарантія">3 місяці</param>
-        <param name="Колір">Бузковий</param>
+        <param name="Колір">Фіолетовий</param>
         <param name="Підключення">Комбіноване</param>
         <param name="Сумісність з ОС">Microsoft Windows</param>
         <param name="Сумісність з ОС">Mac OS</param>
@@ -13268,7 +13253,7 @@
         <picture>https://techgleam.com.ua/content/images/43/grova-bezdrotova-mishka-aula-sc620-tri-rezhimi-pdkluchennja-sensor-paw3311-67-g-12000-dpi-purple-25313134841959_%2B8a4b7884f8.jpg</picture>
         <picture>https://techgleam.com.ua/content/images/43/grova-bezdrotova-mishka-aula-sc620-tri-rezhimi-pdkluchennja-sensor-paw3311-67-g-12000-dpi-purple-22991537221693_%2B67b692a8ff.png</picture>
         <param name="Гарантія">1 місяць</param>
-        <param name="Колір">Бузковий</param>
+        <param name="Колір">Фіолетовий</param>
         <param name="Підключення">Комбіноване</param>
         <param name="Сумісність з ОС">Microsoft Windows</param>
         <param name="Сумісність з ОС">Mac OS</param>
@@ -13961,7 +13946,7 @@
         <picture>https://techgleam.com.ua/content/images/25/grova-bezdrotova-mexanchna-klavatura-attack-shark-x85-engukr-tri-rezhimi-pdkluchennja-white-jade-switch-purple-32564355077672_%2Bd3673c3af3.png</picture>
         <picture>https://techgleam.com.ua/content/images/25/grova-bezdrotova-mexanchna-klavatura-attack-shark-x85-engukr-tri-rezhimi-pdkluchennja-white-jade-switch-purple-98497957899462_%2B6e846df99d.png</picture>
         <param name="Гарантія">3 місяці</param>
-        <param name="Колір">Бузковий</param>
+        <param name="Колір">Фіолетовий</param>
         <param name="Конструкція клавіш">Механічна</param>
         <param name="Підключення">Комбіноване</param>
         <param name="Інтерфейс підключення">Bluetooth</param>
@@ -13976,6 +13961,7 @@
         <param name="Сумісність з ОС">Windows</param>
         <param name="Сумісність з ОС">Mac OS</param>
         <param name="Сумісність з ОС">Linux</param>
+        <param name="Колір">Бузковий</param>
         <param name="Стан">Новий</param>
         <param name="Комплектація">Клавіатура</param>
         <param name="Призначення">Для ПК</param>
@@ -14137,7 +14123,7 @@
         <vendor>ATK</vendor>
         <picture>https://techgleam.com.ua/content/images/36/29418969145614_%2B4c6c12ec69.jpg</picture>
         <param name="Гарантія">3 місяці</param>
-        <param name="Колір">Сірий</param>
+        <param name="Колір">Сріблястий</param>
         <param name="Підключення">Комбіноване</param>
         <param name="Сумісність з ОС">Microsoft Windows</param>
         <param name="Сумісність з ОС">Mac OS</param>
@@ -15272,6 +15258,44 @@
         <param name="Тип">Ігрові (геймерські)</param>
         <country>Китай</country>
       </offer>
+      <offer id="2170" available="false">
+        <availability_status>temporarily_unavailable</availability_status>
+        <name_ua>Ігрова механічна клавіатура AULA F75 / Eng+Ukr / Три режими підключення / Seiya Switch / White Lines</name_ua>
+        <name_ru>Игровая механическая клавиатура AULA F75 / Eng+Ukr / Три режима подключения / Seiya Switch / Leobog Axis Reaper Switch / White Lines</name_ru>
+        <description_ua><p><strong>Механічна клавіатура AULA F75 </strong></p>    <p>AULA F75 — це універсальна клавіатура для роботи, навчання та ігор, що поєднує компактність, ергономіку та сучасні функції.</p>    <p><strong>Основні характеристики:</strong></p>    <ul>   <li>Тип: Механічна клавіатура, 75% форм-фактор </li>   <li>Розкладка: англійська / українська</li>   <li>Підключення: Bluetooth 5.0 / 2.4 ГГц / USB Type-C  </li>   <li>Сумісність: Windows, Mac, iOS, Android, PS, Xbox  </li>   <li>5-шарова система шумопоглинання для комфортного набору тексту  </li>   <li>Мультимедійне колесо для зручного керування гучністю та підсвіткою</li>   <li>Акумулятор: 4000 мА·год, забезпечує тривалий час автономної роботи.</li>  </ul>    <p><strong>RGB-підсвітка:</strong><br />  • 15 режимів  <br />  • 16.8 млн кольорів  <br />  • Музичний режим реагує на ритм відтворюваної музики</p>    <p><strong>Комплектація:</strong></p>    <ul>   <li>Клавіатура AULA F75  </li>   <li>Кабель USB Type-C  </li>   <li>USB-адаптер 2.4 ГГц  </li>   <li>Захисна накладка від пилу  </li>   <li>4 запасні перемикачі  </li>   <li>Пуллер  </li>   <li>Інструкція користувача</li>  </ul></description_ua>
+        <description_ru><p><strong>Механическая клавиатура AULA F75</strong></p>    <p>AULA F75 – это универсальная клавиатура для работы, обучения и игр, сочетающая компактность, эргономику и современные функции.</p>    <p><strong>Основные характеристики:</strong></p>    <ul>   <li>Тип: Механическая клавиатура, 75% форм-фактор</li>   <li>Раскладка: английская / русская</li>   <li>Подключение: Bluetooth 5.0/2.4 ГГц/USB Type-C</li>   <li>Совместимость: Windows, Mac, iOS, Android, PS, Xbox</li>   <li>5-слойная система шумопоглощения для комфортного набора текста</li>   <li>Мультимедийное колесо для удобного управления громкостью и подсветкой</li>   <li>Аккумулятор: 4000 мАч, обеспечивает длительное время автономной работы.</li>  </ul>    <p><strong>RGB-подсветка:</strong><br />  • 15 режимов<br />  • 16.8 млн цветов<br />  • Музыкальный режим реагирует на ритм воспроизводимой музыки.</p>    <p><strong>Комплектация:</strong></p>    <ul>   <li>Клавиатура AULA F75</li>   <li>Кабель USB Type-C</li>   <li>USB-адаптер 2.4 ГГц</li>   <li>Защитная накладка от пыли</li>   <li>4 запасные переключатели</li>   <li>Пуллер</li>   <li>Руководство пользователя</li>  </ul></description_ru>
+        <price>2799</price>
+        <old_price>3499</old_price>
+        <categoryId>1082</categoryId>
+        <vendor>Aula</vendor>
+        <picture>https://techgleam.com.ua/content/images/21/grova-mexanchna-klavatura-aula-f75-engukr-tri-rezhimi-pdkluchennja-leobog-axis-reaper-switch-white-lines-83626479562908_%2Bdc54a8f798.png</picture>
+        <picture>https://techgleam.com.ua/content/images/21/grova-mexanchna-klavatura-aula-f75-engukr-tri-rezhimi-pdkluchennja-leobog-axis-reaper-switch-white-lines-82979573785471_%2B81aec5a950.png</picture>
+        <picture>https://techgleam.com.ua/content/images/21/grova-mexanchna-klavatura-aula-f75-engukr-tri-rezhimi-pdkluchennja-seiya-switch-white-lines-94473211411266_%2Be5917af75d.jpg</picture>
+        <picture>https://techgleam.com.ua/content/images/21/grova-mexanchna-klavatura-aula-f75-engukr-tri-rezhimi-pdkluchennja-seiya-switch-white-lines-56771524055075_%2Ba4e8e41c01.jpg</picture>
+        <picture>https://techgleam.com.ua/content/images/21/grova-mexanchna-klavatura-aula-f75-engukr-tri-rezhimi-pdkluchennja-seiya-switch-white-lines-51773286594063_%2B53cb7c7d09.jpg</picture>
+        <picture>https://techgleam.com.ua/content/images/21/grova-mexanchna-klavatura-aula-f75-engukr-tri-rezhimi-pdkluchennja-seiya-switch-white-lines-78186610016765_%2B416443af48.jpg</picture>
+        <param name="Гарантія">3 місяці</param>
+        <param name="Колір">Білий</param>
+        <param name="Конструкція клавіш">Механічна</param>
+        <param name="Підключення">Комбіноване</param>
+        <param name="Інтерфейс підключення">Bluetooth</param>
+        <param name="Інтерфейс підключення">Радіоінтерфейс</param>
+        <param name="Інтерфейс підключення">USB</param>
+        <param name="Розкладка">Eng / Ukr</param>
+        <param name="Форм-фактор">Компактні</param>
+        <param name="Колір підсвічування">RGB</param>
+        <param name="Підсвічування клавіш">Є</param>
+        <param name="Матеріал корпусу">Пластик</param>
+        <param name="Живлення">Акумулятор</param>
+        <param name="Сумісність з ОС">Windows</param>
+        <param name="Сумісність з ОС">Mac OS</param>
+        <param name="Сумісність з ОС">Linux</param>
+        <param name="Стан">Новий</param>
+        <param name="Комплектація">Клавіатура</param>
+        <param name="Призначення">Для ПК</param>
+        <param name="Вид">Ігрові</param>
+        <country>Китай</country>
+      </offer>
       <offer id="595" available="true">
         <availability_status>available</availability_status>
         <name_ua>Металевий USB HUB 8-в-1 / Type-C / USB 3.0 / SD / TF / PD / AUX</name_ua>
@@ -15335,6 +15359,37 @@
         <picture>https://techgleam.com.ua/content/images/8/13529576955488_%2Bc4232aeed2.jpg</picture>
         <picture>https://techgleam.com.ua/content/images/8/81398541083430_%2Bc372ec95d5.jpg</picture>
         <param name="Гарантія">3 місяці</param>
+        <param name="Колір">Чорний</param>
+        <param name="Тип">Повнорозмірні</param>
+        <param name="Тип підключення">Комбінований</param>
+        <param name="Мікрофон">Зйомний</param>
+        <param name="Інтерфейс зарядного пристрою">USB Type-C</param>
+        <param name="Матеріал амбушюр">Екошкіра</param>
+        <param name="Чутливість навушників">95 дБ</param>
+        <param name="Чутливість навушників">120 дБ</param>
+        <param name="Діапазон частот навушників">20 - 20000 Гц</param>
+        <param name="Кріплення">Оголів&apos;я</param>
+        <param name="Довжина кабелю">1.8 м</param>
+        <param name="Час зарядки">2.5 години</param>
+        <param name="Час роботи">250 годин</param>
+        <param name="Вага">265 г</param>
+        <param name="Стан">Новий</param>
+        <param name="Призначення">Геймерські</param>
+        <country>Китай</country>
+      </offer>
+      <offer id="658" available="true">
+        <availability_status>available</availability_status>
+        <name_ua>Навушники MCHOSE V9 Pro / Бездротова ігрова гарнітура / 2.4G / Bluetooth з мікрофоном / Pink</name_ua>
+        <name_ru>Наушники MCHOSE V9 Pro / Беспроводная игровая гарнитура / 2.4G / Bluetooth с микрофоном / Pink</name_ru>
+        <description_ua><p><strong data-end="27" data-start="3">MCHOSE V9 Pro</strong><strong>— </strong>бездротова ігрова гарнітура, що дарує максимальний комфорт і точне позиціонування звуків у грі.<br data-end="128" data-start="125" />  53-мм біоцелюлозні драйвери + підтримка 7.1 забезпечують чисте й об’ємне звучання, а ємний акумулятор дозволяє грати <strong data-end="261" data-start="245">до 250 годин</strong> без підзарядки. Must-have аксесуар для стрімів, матчів і щоденних дзвінків!</p>    <h3 data-end="374" data-start="344">Основні характеристики:</h3>    <ul>   <li>Тип підключення: 2.4 ГГц / Bluetooth 5.3 / дротове USB-C</li>   <li>Сумісність: ПК, ноутбук, PS4/PS5, Nintendo Switch, смартфони</li>   <li>Драйвери: 53 мм біоцелюлозні — детальний бас і чисті верхи</li>   <li>Звук: об’ємний 7.1, точне позиціонування кроків і пострілів</li>   <li>Мікрофон: знімний, на гнучкій штанзі, AI-шумопридушення, швидке mute</li>   <li>Керування: коліщатко гучності й кнопки на чаші</li>   <li>Акумулятор: 2000 мА·год, до 250 год роботи</li>   <li>Комфорт: м’які амбушури з пам’яттю форми, регульоване наголів’я, легка посадка</li>   <li>Конструкція: складана, зносостійке покриття </li>  </ul>    <p><strong>Комплектація:</strong></p>    <ul>   <li>Гарнітура MCHOSE V9 Pro </li>   <li>2.4 ГГц USB-A ресивер</li>   <li>Кабель USB</li>   <li>Знімний мікрофон</li>   <li>Інструкція користувача</li>  </ul></description_ua>
+        <description_ru><p><strong>MCHOSE V9 Pro— беспроводная игровая гарнитура, дающая максимальный комфорт и точное позиционирование звуков в игре.</strong><br />  53-мм биоцеллюлозный драйвер + поддержка 7.1 обеспечивают чистое и объемное звучание, а емкий аккумулятор позволяет играть до 250 часов без подзарядки. Must-have аксессуар для стримов, матчей и ежедневных звонков!</p>    <p><strong>Основные характеристики:</strong></p>    <ul>   <li>Тип подключения: 2.4 ГГц/Bluetooth 5.3/проводное USB-C</li>   <li>Совместимость: ПК, ноутбук, PS4/PS5, Nintendo Switch, смартфоны</li>   <li>Драйверы: 53 мм биоцеллюлозные - подробный бас и чистые верха.</li>   <li>Звук: объемный 7.1, точное позиционирование шагов и выстрелов</li>   <li>Микрофон: съемный, на гибкой штанге, AI-шумоподавление, быстрое mute</li>   <li>Управление: колесико громкости и кнопки на чаше</li>   <li>Аккумулятор: 2000 мА·ч, до 250 ч работы</li>   <li>Комфорт: мягкие амбушюры с памятью формы, регулируемое оголовье, легкая посадка</li>   <li>Конструкция: складная, износостойкое покрытие</li>  </ul>    <p><strong>   Комплектация:</strong></p>    <ul>   <li>Гарнитура MCHOSE V9 Pro</li>   <li>2.4 ГГц USB-A ресивер</li>   <li>Кабель USB</li>   <li>Съемный микрофон</li>   <li>Руководство пользователя</li>  </ul></description_ru>
+        <price>2599</price>
+        <old_price>2999</old_price>
+        <categoryId>1086</categoryId>
+        <vendor>Mchose</vendor>
+        <picture>https://techgleam.com.ua/content/images/9/29361228343385_%2Bf5021e232a.jpg</picture>
+        <param name="Гарантія">3 місяці</param>
+        <param name="Колір">Рожевий</param>
         <param name="Тип">Повнорозмірні</param>
         <param name="Тип підключення">Комбінований</param>
         <param name="Мікрофон">Зйомний</param>
@@ -15456,6 +15511,7 @@
         <picture>https://techgleam.com.ua/content/images/8/93428353257578_%2Bbf80b6a59b.jpg</picture>
         <picture>https://techgleam.com.ua/content/images/8/28975587804992_%2B962573770d.jpg</picture>
         <param name="Гарантія">3 місяці</param>
+        <param name="Колір">Чорний</param>
         <param name="Особливості">Ігрові</param>
       </offer>
       <offer id="780" available="true">
@@ -15561,6 +15617,7 @@
         <categoryId>1089</categoryId>
         <picture>https://techgleam.com.ua/content/images/14/igrovoy-kovrik-blue-white-lines-90x40-sm-white-blue-52966463671957_%2B1f0f5a73b8.jpg</picture>
         <param name="Гарантія">3 місяці</param>
+        <param name="Колір">Білий</param>
         <param name="Особливості">Ігрові</param>
       </offer>
       <offer id="1664" available="true">
@@ -15627,6 +15684,7 @@
         <picture>https://techgleam.com.ua/content/images/17/groviy-kilimok-attack-shark-cm02-4045-sm-purple-12235799068800_%2Bf2f005e251.jpg</picture>
         <picture>https://techgleam.com.ua/content/images/17/groviy-kilimok-attack-shark-cm02-4045-sm-purple-18012958307588_%2Be22a6494f8.jpg</picture>
         <param name="Гарантія">3 місяці</param>
+        <param name="Колір">Фіолетовий</param>
         <param name="Колір">Бузковий</param>
         <param name="Особливості">Ігрові</param>
       </offer>
@@ -15677,6 +15735,7 @@
         <categoryId>1089</categoryId>
         <picture>https://techgleam.com.ua/content/images/21/groviy-kilimok-astral-lines-40x45x4-dark-grey-92625080507477_%2B4550a0bc05.JPG</picture>
         <picture>https://techgleam.com.ua/content/images/21/groviy-kilimok-astral-lines-40x45x4-dark-grey-42355432633453_%2B7eff4196b6.JPG</picture>
+        <param name="Колір">Сірий</param>
         <param name="Колір">Темно-сірий</param>
         <param name="Особливості">Ігрові</param>
       </offer>
@@ -15868,6 +15927,7 @@
         <price>620</price>
         <categoryId>1089</categoryId>
         <picture>https://techgleam.com.ua/content/images/1/groviy-kilimok-cyber-rail-9040-sm-4-mm-purple-73096758671631_%2B45a89e244e.jpg</picture>
+        <param name="Колір">Фіолетовий</param>
         <param name="Колір">Бузковий</param>
         <param name="Особливості">Ігрові</param>
       </offer>
@@ -15880,6 +15940,7 @@
         <price>620</price>
         <categoryId>1089</categoryId>
         <picture>https://techgleam.com.ua/content/images/2/groviy-kilimok-neon-sky-9040-sm-4-mm-multicolor-92796104376934_%2B0cf7427bfd.jpg</picture>
+        <param name="Колір">Різнокольоровий</param>
         <param name="Колір">В асортименті</param>
         <param name="Особливості">Ігрові</param>
       </offer>
@@ -15928,6 +15989,7 @@
         <price>450</price>
         <categoryId>1089</categoryId>
         <picture>https://techgleam.com.ua/content/images/10/groviy-kilimok-z-anme-titani-epchna-bitva-9040-sm-3-mm-multicolor-81004006678614_%2B5a4c94715c.jpg</picture>
+        <param name="Колір">Різнокольоровий</param>
         <param name="Колір">В асортименті</param>
         <param name="Особливості">Ігрові</param>
       </offer>
@@ -16100,7 +16162,7 @@
         <price>899</price>
         <categoryId>1093</categoryId>
         <picture>https://techgleam.com.ua/content/images/9/kastomn-pbt-keykapi-gengar-pokemon-125-sht.-dlja-mexanchnix-ta-magntnix-klavatur-purple-57559398879275_%2B0be0ebe298.jpg</picture>
-        <param name="Колір">Бузковий</param>
+        <param name="Колір">Фіолетовий</param>
         <param name="Розкладка">Eng</param>
         <param name="Колір">Фиолетовый</param>
         <param name="Призначення">Для клавиатуры</param>
@@ -16494,7 +16556,7 @@
         <picture>https://techgleam.com.ua/content/images/12/kastomn-matov-keykapi-frosted-flowing-rainbow-rhyme-120-klavsh-rayduzhniy-gradent-dlja-mexanchnix-magntnix-klavatur-rainbow-25315482703499_%2Be794dabec0.png</picture>
         <picture>https://techgleam.com.ua/content/images/12/kastomn-matov-keykapi-frosted-flowing-rainbow-rhyme-120-klavsh-rayduzhniy-gradent-dlja-mexanchnix-magntnix-klavatur-rainbow-51938136551781_%2B4a58b189ad.png</picture>
         <picture>https://techgleam.com.ua/content/images/12/kastomn-matov-keykapi-frosted-flowing-rainbow-rhyme-120-klavsh-rayduzhniy-gradent-dlja-mexanchnix-magntnix-klavatur-rainbow-28955752958624_%2Bda8c153c1f.png</picture>
-        <param name="Колір">В асортименті</param>
+        <param name="Колір">Різнокольоровий</param>
         <param name="Розкладка">Eng</param>
         <param name="Колір">Разноцветный</param>
         <param name="Призначення">Для клавиатуры</param>
@@ -16511,7 +16573,7 @@
         <price>899</price>
         <categoryId>1093</categoryId>
         <picture>https://techgleam.com.ua/content/images/13/kastomn-keykapi-mystery-realm-neon-abyss-129-klavsh-neonovo-foletoviy-dizayn-dlja-mexanchnix-magntnix-klavatur-purple-98350424461723_%2Bde8249e4d9.jpg</picture>
-        <param name="Колір">Бузковий</param>
+        <param name="Колір">Фіолетовий</param>
         <param name="Розкладка">Eng</param>
         <param name="Колір">Фиолетовый</param>
         <param name="Призначення">Для клавиатуры</param>
@@ -16653,6 +16715,7 @@
         <price>539</price>
         <categoryId>1089</categoryId>
         <picture>https://techgleam.com.ua/content/images/28/velikiy-groviy-kilimok-dlja-mish-chainsaw-man-makima-crimson-chaos-9004003-mm-anme-dizayn-dlja-mish-ta-klavaturi-red-black-79327153859828_%2B2a4769ed67.png</picture>
+        <param name="Колір">Чорний</param>
         <param name="Особливості">Ігрові</param>
       </offer>
       <offer id="2035" available="true">
@@ -17259,7 +17322,7 @@
         <picture>https://techgleam.com.ua/content/images/25/bezdrotova-grova-misha-attack-shark-rs3-ultra-tri-rezhimi-pdkluchennja-sensor-paw3955max-52000-dpi-carbon-fiber-silver-87520819005555_%2B69a4518234.jpg</picture>
         <picture>https://techgleam.com.ua/content/images/25/bezdrotova-grova-misha-attack-shark-rs3-ultra-tri-rezhimi-pdkluchennja-sensor-paw3955max-52000-dpi-carbon-fiber-silver-98209023751167_%2Bc459f3aeae.jpg</picture>
         <param name="Гарантія">3 місяці</param>
-        <param name="Колір">Сірий</param>
+        <param name="Колір">Сріблястий</param>
         <param name="Підключення">Комбіноване</param>
         <param name="Сумісність з ОС">Microsoft Windows</param>
         <param name="Сумісність з ОС">Mac OS</param>
@@ -17324,6 +17387,7 @@
         <picture>https://techgleam.com.ua/content/images/29/bezdrotov-grov-navushniki-attack-shark-l30-pro-tri-rezhimi-pdkluchennja-7.1-surround-sound-znmniy-mkrofon-black-red-30832297358029_%2Be75f040eaf.jpg</picture>
         <picture>https://techgleam.com.ua/content/images/29/bezdrotov-grov-navushniki-attack-shark-l30-pro-tri-rezhimi-pdkluchennja-7.1-surround-sound-znmniy-mkrofon-black-red-60240893351037_%2Bd7c89a60c1.jpg</picture>
         <param name="Гарантія">3 місяці</param>
+        <param name="Колір">Чорний</param>
         <param name="Тип">Повнорозмірні</param>
         <param name="Тип підключення">Комбінований</param>
         <param name="Мікрофон">Зйомний</param>
@@ -17769,7 +17833,7 @@
         <price>1099</price>
         <categoryId>1093</categoryId>
         <picture>https://techgleam.com.ua/content/images/39/kastomn-pbt-keykapi-makima-125-sht.-chainsaw-man-dizayn-dlja-mexanchnix-magntnix-klavatur-purple-27699399321387_%2B41d0329b0a.jpg</picture>
-        <param name="Колір">Бузковий</param>
+        <param name="Колір">Фіолетовий</param>
         <param name="Розкладка">Eng</param>
         <param name="Призначення">Для клавиатуры</param>
         <param name="Стан">Новий</param>
@@ -17985,7 +18049,7 @@
         <price>1199</price>
         <categoryId>1093</categoryId>
         <picture>https://techgleam.com.ua/content/images/8/kastomn-pbt-keykapi-kuromi-133-sht.-dlja-mexanchnix-ta-magntnix-klavatur-anglyska-rozkladka-purple-36812614614572_%2Bea27d155f9.jpg</picture>
-        <param name="Колір">Бузковий</param>
+        <param name="Колір">Фіолетовий</param>
         <param name="Розкладка">Eng</param>
         <param name="Колір">Фиолетовый</param>
         <param name="Призначення">Для клавиатуры</param>
@@ -18020,7 +18084,7 @@
         <price>1199</price>
         <categoryId>1093</categoryId>
         <picture>https://techgleam.com.ua/content/images/10/kastomn-pbt-keykapi-kuromi-crybaby-monster-112-sht.-dlja-mexanchnix-ta-magntnix-klavatur-anglyska-rozkladka-purple-91119854324137_%2B102cda00be.png</picture>
-        <param name="Колір">Бузковий</param>
+        <param name="Колір">Фіолетовий</param>
         <param name="Розкладка">Eng</param>
         <param name="Колір">Фиолетовый</param>
         <param name="Призначення">Для клавиатуры</param>
@@ -18055,7 +18119,7 @@
         <price>1199</price>
         <categoryId>1093</categoryId>
         <picture>https://techgleam.com.ua/content/images/12/kastomn-pbt-keykapi-seaside-112-sht.-dlja-mexanchnix-ta-magntnix-klavatur-anglyska-rozkladka-yellow-13000014283111_%2Bef39e96c45.png</picture>
-        <param name="Колір">Жёлтый</param>
+        <param name="Колір">Жовтий</param>
         <param name="Розкладка">Eng</param>
         <param name="Колір">Желтый</param>
         <param name="Призначення">Для клавиатуры</param>
@@ -18506,36 +18570,6 @@
         <param name="Призначення">Геймерські</param>
         <country>Китай</country>
       </offer>
-      <offer id="658" available="false">
-        <availability_status>temporarily_unavailable</availability_status>
-        <name_ua>Навушники MCHOSE V9 Pro / Бездротова ігрова гарнітура / 2.4G / Bluetooth з мікрофоном / Pink</name_ua>
-        <name_ru>Наушники MCHOSE V9 Pro / Беспроводная игровая гарнитура / 2.4G / Bluetooth с микрофоном / Pink</name_ru>
-        <description_ua><p><strong data-end="27" data-start="3">MCHOSE V9 Pro</strong><strong>— </strong>бездротова ігрова гарнітура, що дарує максимальний комфорт і точне позиціонування звуків у грі.<br data-end="128" data-start="125" />  53-мм біоцелюлозні драйвери + підтримка 7.1 забезпечують чисте й об’ємне звучання, а ємний акумулятор дозволяє грати <strong data-end="261" data-start="245">до 250 годин</strong> без підзарядки. Must-have аксесуар для стрімів, матчів і щоденних дзвінків!</p>    <h3 data-end="374" data-start="344">Основні характеристики:</h3>    <ul>   <li>Тип підключення: 2.4 ГГц / Bluetooth 5.3 / дротове USB-C</li>   <li>Сумісність: ПК, ноутбук, PS4/PS5, Nintendo Switch, смартфони</li>   <li>Драйвери: 53 мм біоцелюлозні — детальний бас і чисті верхи</li>   <li>Звук: об’ємний 7.1, точне позиціонування кроків і пострілів</li>   <li>Мікрофон: знімний, на гнучкій штанзі, AI-шумопридушення, швидке mute</li>   <li>Керування: коліщатко гучності й кнопки на чаші</li>   <li>Акумулятор: 2000 мА·год, до 250 год роботи</li>   <li>Комфорт: м’які амбушури з пам’яттю форми, регульоване наголів’я, легка посадка</li>   <li>Конструкція: складана, зносостійке покриття </li>  </ul>    <p><strong>Комплектація:</strong></p>    <ul>   <li>Гарнітура MCHOSE V9 Pro </li>   <li>2.4 ГГц USB-A ресивер</li>   <li>Кабель USB</li>   <li>Знімний мікрофон</li>   <li>Інструкція користувача</li>  </ul></description_ua>
-        <description_ru><p><strong>MCHOSE V9 Pro— беспроводная игровая гарнитура, дающая максимальный комфорт и точное позиционирование звуков в игре.</strong><br />  53-мм биоцеллюлозный драйвер + поддержка 7.1 обеспечивают чистое и объемное звучание, а емкий аккумулятор позволяет играть до 250 часов без подзарядки. Must-have аксессуар для стримов, матчей и ежедневных звонков!</p>    <p><strong>Основные характеристики:</strong></p>    <ul>   <li>Тип подключения: 2.4 ГГц/Bluetooth 5.3/проводное USB-C</li>   <li>Совместимость: ПК, ноутбук, PS4/PS5, Nintendo Switch, смартфоны</li>   <li>Драйверы: 53 мм биоцеллюлозные - подробный бас и чистые верха.</li>   <li>Звук: объемный 7.1, точное позиционирование шагов и выстрелов</li>   <li>Микрофон: съемный, на гибкой штанге, AI-шумоподавление, быстрое mute</li>   <li>Управление: колесико громкости и кнопки на чаше</li>   <li>Аккумулятор: 2000 мА·ч, до 250 ч работы</li>   <li>Комфорт: мягкие амбушюры с памятью формы, регулируемое оголовье, легкая посадка</li>   <li>Конструкция: складная, износостойкое покрытие</li>  </ul>    <p><strong>   Комплектация:</strong></p>    <ul>   <li>Гарнитура MCHOSE V9 Pro</li>   <li>2.4 ГГц USB-A ресивер</li>   <li>Кабель USB</li>   <li>Съемный микрофон</li>   <li>Руководство пользователя</li>  </ul></description_ru>
-        <price>2599</price>
-        <old_price>2999</old_price>
-        <categoryId>1086</categoryId>
-        <vendor>Mchose</vendor>
-        <picture>https://techgleam.com.ua/content/images/9/29361228343385_%2Bf5021e232a.jpg</picture>
-        <param name="Гарантія">3 місяці</param>
-        <param name="Колір">Рожевий</param>
-        <param name="Тип">Повнорозмірні</param>
-        <param name="Тип підключення">Комбінований</param>
-        <param name="Мікрофон">Зйомний</param>
-        <param name="Інтерфейс зарядного пристрою">USB Type-C</param>
-        <param name="Матеріал амбушюр">Екошкіра</param>
-        <param name="Чутливість навушників">95 дБ</param>
-        <param name="Чутливість навушників">120 дБ</param>
-        <param name="Діапазон частот навушників">20 - 20000 Гц</param>
-        <param name="Кріплення">Оголів&apos;я</param>
-        <param name="Довжина кабелю">1.8 м</param>
-        <param name="Час зарядки">2.5 години</param>
-        <param name="Час роботи">250 годин</param>
-        <param name="Вага">265 г</param>
-        <param name="Стан">Новий</param>
-        <param name="Призначення">Геймерські</param>
-        <country>Китай</country>
-      </offer>
       <offer id="659" available="false">
         <availability_status>temporarily_unavailable</availability_status>
         <name_ua>Навушники MCHOSE V9 Pro / Бездротова ігрова гарнітура / 2.4G / Bluetooth з мікрофоном / White Blue</name_ua>
@@ -18552,6 +18586,7 @@
         <picture>https://techgleam.com.ua/content/images/10/39850700293888_%2B592531ed04.jpg</picture>
         <picture>https://techgleam.com.ua/content/images/10/23942635915061_%2Bf947bb2113.jpg</picture>
         <param name="Гарантія">3 місяці</param>
+        <param name="Колір">Білий</param>
         <param name="Тип">Повнорозмірні</param>
         <param name="Тип підключення">Комбінований</param>
         <param name="Мікрофон">Зйомний</param>
@@ -18637,7 +18672,7 @@
         <picture>https://techgleam.com.ua/content/images/20/15090972903407_%2Bda899e48be.jpg</picture>
         <picture>https://techgleam.com.ua/content/images/20/20250491725495_%2B5559cf84ff.jpg</picture>
         <param name="Гарантія">1 місяць</param>
-        <param name="Колір">Бузковий</param>
+        <param name="Колір">Фіолетовий</param>
         <param name="Розкладка">Eng</param>
         <param name="Колір">Фиолетовый</param>
         <param name="Призначення">Для клавиатуры</param>
@@ -19416,7 +19451,7 @@
         <categoryId>1093</categoryId>
         <picture>https://techgleam.com.ua/content/images/30/nabor-keykapov-pbt-black-purple-gradient-lines-130-oem-profil-85705492645747_%2B2fa52087ae.png</picture>
         <picture>https://techgleam.com.ua/content/images/30/nabor-keykapov-pbt-black-purple-gradient-lines-130-oem-profil-41776540533092_%2B267ca8d6f5.png</picture>
-        <param name="Колір">Бузковий</param>
+        <param name="Колір">Фіолетовий</param>
         <param name="Розкладка">Eng</param>
         <param name="Колір">Фиолетовый</param>
         <param name="Призначення">Для клавиатуры</param>
@@ -19707,7 +19742,7 @@
         <picture>https://techgleam.com.ua/content/images/9/68639122332017_%2Bbaa14d2fe0.jpg</picture>
         <picture>https://techgleam.com.ua/content/images/9/64232780441992_%2B2ab329f5e0.jpg</picture>
         <picture>https://techgleam.com.ua/content/images/9/42967210667887_%2Bec363374ba.jpg</picture>
-        <param name="Колір">Бузковий</param>
+        <param name="Колір">Фіолетовий</param>
         <param name="Розкладка">Eng</param>
         <param name="Колір">Фиолетовый</param>
         <param name="Призначення">Для клавиатуры</param>
@@ -19739,7 +19774,7 @@
         <categoryId>1093</categoryId>
         <picture>https://techgleam.com.ua/content/images/13/nabor-poluproznachnyx-keykapov-pbt-coulomi-oem-height-122-klavishi-purple-92538409829561_%2B7755184f86.jpeg</picture>
         <param name="Гарантія">3 місяці</param>
-        <param name="Колір">Бузковий</param>
+        <param name="Колір">Фіолетовий</param>
         <param name="Розкладка">Eng</param>
         <param name="Призначення">Для клавиатуры</param>
         <param name="Стан">Новий</param>
@@ -19919,7 +19954,7 @@
         <picture>https://techgleam.com.ua/content/images/18/igrovye-besprovodnye-naushniki-mchose-v9-turbo-tri-rezhima-podkluchenija-white-gold-91402698378891_%2B9945f34799.jpg</picture>
         <picture>https://techgleam.com.ua/content/images/18/igrovye-besprovodnye-naushniki-mchose-v9-turbo-tri-rezhima-podkluchenija-white-gold-94102885721287_%2B790cc10fa4.jpg</picture>
         <param name="Гарантія">6 місяців</param>
-        <param name="Колір">Білий</param>
+        <param name="Колір">Біло-золотий</param>
         <param name="Тип">Повнорозмірні</param>
         <param name="Тип підключення">Комбінований</param>
         <param name="Мікрофон">Зйомний</param>
@@ -19930,6 +19965,7 @@
         <param name="Довжина кабелю">1.6 м</param>
         <param name="Час роботи">250 годин</param>
         <param name="Вага">320 г</param>
+        <param name="Колір">Білий</param>
         <param name="Стан">Новий</param>
         <param name="Призначення">Геймерські</param>
         <country>Китай</country>
@@ -20079,6 +20115,7 @@
         <picture>https://techgleam.com.ua/content/images/25/led-nochnik-lampa-nastolnaja-usb-lampa-nochnik-360-sensornaja-akkumuljatornaja-dekorativnaja-purple-16372254712215_%2B1df458fdb4.png</picture>
         <picture>https://techgleam.com.ua/content/images/25/led-nochnik-lampa-nastolnaja-usb-lampa-nochnik-360-sensornaja-akkumuljatornaja-dekorativnaja-purple-92001307083809_%2B454058fd62.png</picture>
         <picture>https://techgleam.com.ua/content/images/25/led-nochnik-lampa-nastolnaja-usb-lampa-nochnik-360-sensornaja-akkumuljatornaja-dekorativnaja-purple-35572808157268_%2B6822bb3cdf.png</picture>
+        <param name="Колір">Фіолетовий</param>
         <param name="Колір">Бузковий</param>
         <param name="Стан">Новий</param>
       </offer>
@@ -20470,7 +20507,7 @@
         <picture>https://techgleam.com.ua/content/images/31/nabr-keykapv-pbt-purple-gradient-130-side-engraved-foletoviy-oem-komplekt-dlja-ansi-iso-klavatur-18351772572817_%2Bc1e189eb03.jpeg</picture>
         <picture>https://techgleam.com.ua/content/images/31/nabr-keykapv-pbt-purple-gradient-130-side-engraved-foletoviy-oem-komplekt-dlja-ansi-iso-klavatur-89031173497032_%2Bb47b656a72.jpeg</picture>
         <param name="Гарантія">1 місяць</param>
-        <param name="Колір">Бузковий</param>
+        <param name="Колір">Фіолетовий</param>
         <param name="Розкладка">Eng</param>
         <param name="Колір">Фиолетовый</param>
         <param name="Призначення">Для клавиатуры</param>
@@ -20529,6 +20566,7 @@
         <price>620</price>
         <categoryId>1089</categoryId>
         <picture>https://techgleam.com.ua/content/images/29/groviy-kilimok-moonlight-tree-90x40-sm-4-mm-colourful-40940828898449_%2Bb8251c0eb2.jpg</picture>
+        <param name="Колір">Різнокольоровий</param>
         <param name="Колір">В асортименті</param>
         <param name="Особливості">Ігрові</param>
       </offer>
@@ -20661,6 +20699,7 @@
         <price>620</price>
         <categoryId>1089</categoryId>
         <picture>https://techgleam.com.ua/content/images/42/groviy-kilimok-sunset-shore-girl-9040-sm-4-mm-purple-94294903289299_%2Bd63071916b.jpg</picture>
+        <param name="Колір">Фіолетовий</param>
         <param name="Колір">Бузковий</param>
         <param name="Особливості">Ігрові</param>
       </offer>
@@ -20685,6 +20724,7 @@
         <price>620</price>
         <categoryId>1089</categoryId>
         <picture>https://techgleam.com.ua/content/images/45/groviy-kilimok-cosmic-dusk-9040-sm-4-mm-dark-purple-15221882287530_%2B577a453b07.jpg</picture>
+        <param name="Колір">Фіолетовий</param>
         <param name="Колір">Бузковий</param>
         <param name="Особливості">Ігрові</param>
       </offer>
@@ -20895,7 +20935,7 @@
         <price>899</price>
         <categoryId>1093</categoryId>
         <picture>https://techgleam.com.ua/content/images/11/kastomn-pbt-keykapi-cyberpunk--125-sht.-dlja-mexanchnix-ta-magntnix-klavatur-yellow-45958661452637_%2B1ae3c8bd65.png</picture>
-        <param name="Колір">Жёлтый</param>
+        <param name="Колір">Жовтий</param>
         <param name="Розкладка">Eng</param>
         <param name="Призначення">Для клавиатуры</param>
         <param name="Стан">Новий</param>
@@ -20912,7 +20952,7 @@
         <price>899</price>
         <categoryId>1093</categoryId>
         <picture>https://techgleam.com.ua/content/images/13/kastomn-pbt-keykapi-cyberpunk-125-sht.-english-russian-layout-dlja-mexanchnix-ta-magntnix-klavatur-yellow-59125887780504_%2B551e3bd205.png</picture>
-        <param name="Колір">Жёлтый</param>
+        <param name="Колір">Жовтий</param>
         <param name="Розкладка">Eng / Ru</param>
         <param name="Призначення">Для клавиатуры</param>
         <param name="Стан">Новий</param>
