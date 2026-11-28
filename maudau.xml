@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<yml_catalog date="2026-11-28 14:23">
+<yml_catalog date="2026-11-28 15:23">
   <shop>
     <categories>
       <category id="1082" portal_id="1839">Клавіатури</category>
@@ -2232,43 +2232,6 @@
         <param name="Колір підсвічування">RGB</param>
         <param name="Підсвічування клавіш">Є</param>
         <param name="Матеріал корпусу">Пластик</param>
-        <param name="Сумісність з ОС">Windows</param>
-        <param name="Сумісність з ОС">Mac OS</param>
-        <param name="Сумісність з ОС">Linux</param>
-        <param name="Стан">Новий</param>
-        <param name="Комплектація">Клавіатура</param>
-        <param name="Призначення">Для ПК</param>
-        <param name="Вид">Ігрові</param>
-        <country>Китай</country>
-      </offer>
-      <offer id="2162" available="true">
-        <availability_status>available</availability_status>
-        <name_ua>Ігрова механічна клавіатура Aula F75 Max / Eng+Ukr / Три режими підключення / LEOBOG Reaper Switch / Black</name_ua>
-        <name_ru>Игровая механическая клавиатура Aula F75 Max / Eng+Ukr / Три режима подключения / LEOBOG Reaper Switch / Black</name_ru>
-        <description_ua><p><strong>AULA F75 Max </strong>— це компактна механічна клавіатура форм-фактора 75%, яка поєднує зручність, сучасний дизайн і розширений функціонал. Металевий енкодер для гучності та вбудований TFT-екран роблять F75 Max справжнім центром керування робочим столом і стрім-сетапом.</p>    <p><strong>Основні характеристики:</strong></p>    <ul>   <li>Тип: механічна клавіатура, 75% (80 клавіш)</li>   <li>Особливості: 1 металевий енкодер + TFT-екран для індикації стану/режимів</li>   <li>Під’єднання: 2.4 Гц, Bluetooth 5.0 та USB Type-C (комбіноване)</li>   <li>Сумісність: Windows, macOS, iOS, Android</li>   <li>Розкладка: англійська</li>   <li>Підсвітка: RGB з багатьма ефектами та налаштуванням яскравості</li>   <li>Перемикачі: Leobog Reaper, профіль лінійні — м’який хід і чітка стабільність</li>   <li>Інтерфейси: Bluetooth / USB / 2.4</li>   <li>Країна-виробник: Китай</li>  </ul>    <p><strong>Про комфорт і звук:</strong><br />  Продумана конструкція з внутрішнім демпфуванням для приємної акустики без зайвих резонансів.<br />  Стабільні стабілізатори для великих клавіш: пробіл, Shift, Enter — без деренчання.</p>    <p><br />  <strong>Керування та зручність:</strong><br />  Мультимедійне колесо (енткодер) — швидке регулювання гучності та перемикання режимів.<br />  TFT-екран відображає профілі, режим підсвітки, рівень під’єднання та іншу корисну інформацію.</p>    <p><br />  <strong>RGB-підсвітка:</strong><br />  Різноманітні анімації та статичні схеми<br />  Підтримка індивідуального налаштування для кожної клавіші<br />  Синхронізація ефектів через фірмове ПЗ</p></description_ua>
-        <description_ru><p><strong>AULA F75 Max</strong> – это компактная механическая клавиатура форм-фактора 75%, сочетающая удобство, современный дизайн и расширенный функционал. Металлический энкодер для громкости и встроенный TFT-экран делают F75 Max настоящим центром управления рабочим столом и стрим-сетапом.<br />  <strong>Основные характеристики:</strong></p>    <ul>   <li>Тип: механическая клавиатура, 75% (80 клавиш)</li>   <li>Особенности: 1 металлический энкодер + TFT-экран для индикации состояния/режимов</li>   <li>Подключение: 2.4 Гц, Bluetooth 5.0 и USB Type-C (комбинированное)</li>   <li>Совместимость: Windows, macOS, iOS, Android</li>   <li>Раскладка: английский</li>   <li>Подсветка: RGB со многими эффектами и настройкой яркости</li>   <li>Переключатели: Leobog Reaper, профиль линейные – мягкий ход и четкая стабильность.</li>   <li>Интерфейсы: Bluetooth /USB / 2.4</li>   <li>Страна-производитель: Китай</li>  </ul>    <p><strong>О комфорте и звуке:</strong><br />  Продуманная конструкция с внутренним демпфированием для приятной акустики без лишних резонансов.<br />  Стабильные стабилизаторы для больших клавиш: пробел, Shift, Enter – без дребезжания.</p>    <p><br />  <strong>Управление и удобство:</strong><br />  Мультимедийное колесо (энткодер) – быстрая регулировка громкости и переключение режимов.<br />  TFT-экран отображает профили, режим подсветки, уровень подключения и другую полезную информацию.</p>    <p><br />  <strong>RGB-подсветка:</strong><br />  Разнообразные анимации и статические схемы<br />  Поддержка индивидуальной настройки для каждой клавиши<br />  Синхронизация эффектов через фирменное ПО</p></description_ru>
-        <price>3299</price>
-        <old_price>3999</old_price>
-        <categoryId>1082</categoryId>
-        <vendor>Aula</vendor>
-        <picture>https://techgleam.com.ua/content/images/13/grova-mexanchna-klavatura-aula-f75-max-engukr-tri-rezhimi-pdkluchennja-leobog-reaper-switch-black-70045494216924_%2B9af6cc99c3.png</picture>
-        <picture>https://techgleam.com.ua/content/images/13/grova-mexanchna-klavatura-aula-f75-max-engukr-tri-rezhimi-pdkluchennja-leobog-reaper-switch-black-15876559277824_%2B8c58a47e22.png</picture>
-        <picture>https://techgleam.com.ua/content/images/13/grova-mexanchna-klavatura-aula-f75-max-engukr-tri-rezhimi-pdkluchennja-leobog-reaper-switch-black-32911973981365_%2Be4e7ca6aed.jpg</picture>
-        <picture>https://techgleam.com.ua/content/images/13/grova-mexanchna-klavatura-aula-f75-max-engukr-tri-rezhimi-pdkluchennja-leobog-reaper-switch-black-23905207186545_%2B04ad9ca603.jpg</picture>
-        <picture>https://techgleam.com.ua/content/images/13/grova-mexanchna-klavatura-aula-f75-max-engukr-tri-rezhimi-pdkluchennja-leobog-reaper-switch-black-99219362807182_%2Ba424322417.jpg</picture>
-        <param name="Гарантія">3 місяці</param>
-        <param name="Колір">Чорний</param>
-        <param name="Конструкція клавіш">Механічна</param>
-        <param name="Підключення">Комбіноване</param>
-        <param name="Інтерфейс підключення">Bluetooth</param>
-        <param name="Інтерфейс підключення">Радіоінтерфейс</param>
-        <param name="Інтерфейс підключення">USB</param>
-        <param name="Розкладка">Eng / Ukr</param>
-        <param name="Форм-фактор">Компактні</param>
-        <param name="Колір підсвічування">RGB</param>
-        <param name="Підсвічування клавіш">Є</param>
-        <param name="Матеріал корпусу">Пластик</param>
-        <param name="Живлення">Акумулятор</param>
         <param name="Сумісність з ОС">Windows</param>
         <param name="Сумісність з ОС">Mac OS</param>
         <param name="Сумісність з ОС">Linux</param>
@@ -15256,6 +15219,43 @@
         <param name="Роздільна здатність сенсора">Понад 20000 dpi</param>
         <param name="Стан">Новий</param>
         <param name="Тип">Ігрові (геймерські)</param>
+        <country>Китай</country>
+      </offer>
+      <offer id="2162" available="false">
+        <availability_status>temporarily_unavailable</availability_status>
+        <name_ua>Ігрова механічна клавіатура Aula F75 Max / Eng+Ukr / Три режими підключення / LEOBOG Reaper Switch / Black</name_ua>
+        <name_ru>Игровая механическая клавиатура Aula F75 Max / Eng+Ukr / Три режима подключения / LEOBOG Reaper Switch / Black</name_ru>
+        <description_ua><p><strong>AULA F75 Max </strong>— це компактна механічна клавіатура форм-фактора 75%, яка поєднує зручність, сучасний дизайн і розширений функціонал. Металевий енкодер для гучності та вбудований TFT-екран роблять F75 Max справжнім центром керування робочим столом і стрім-сетапом.</p>    <p><strong>Основні характеристики:</strong></p>    <ul>   <li>Тип: механічна клавіатура, 75% (80 клавіш)</li>   <li>Особливості: 1 металевий енкодер + TFT-екран для індикації стану/режимів</li>   <li>Під’єднання: 2.4 Гц, Bluetooth 5.0 та USB Type-C (комбіноване)</li>   <li>Сумісність: Windows, macOS, iOS, Android</li>   <li>Розкладка: англійська</li>   <li>Підсвітка: RGB з багатьма ефектами та налаштуванням яскравості</li>   <li>Перемикачі: Leobog Reaper, профіль лінійні — м’який хід і чітка стабільність</li>   <li>Інтерфейси: Bluetooth / USB / 2.4</li>   <li>Країна-виробник: Китай</li>  </ul>    <p><strong>Про комфорт і звук:</strong><br />  Продумана конструкція з внутрішнім демпфуванням для приємної акустики без зайвих резонансів.<br />  Стабільні стабілізатори для великих клавіш: пробіл, Shift, Enter — без деренчання.</p>    <p><br />  <strong>Керування та зручність:</strong><br />  Мультимедійне колесо (енткодер) — швидке регулювання гучності та перемикання режимів.<br />  TFT-екран відображає профілі, режим підсвітки, рівень під’єднання та іншу корисну інформацію.</p>    <p><br />  <strong>RGB-підсвітка:</strong><br />  Різноманітні анімації та статичні схеми<br />  Підтримка індивідуального налаштування для кожної клавіші<br />  Синхронізація ефектів через фірмове ПЗ</p></description_ua>
+        <description_ru><p><strong>AULA F75 Max</strong> – это компактная механическая клавиатура форм-фактора 75%, сочетающая удобство, современный дизайн и расширенный функционал. Металлический энкодер для громкости и встроенный TFT-экран делают F75 Max настоящим центром управления рабочим столом и стрим-сетапом.<br />  <strong>Основные характеристики:</strong></p>    <ul>   <li>Тип: механическая клавиатура, 75% (80 клавиш)</li>   <li>Особенности: 1 металлический энкодер + TFT-экран для индикации состояния/режимов</li>   <li>Подключение: 2.4 Гц, Bluetooth 5.0 и USB Type-C (комбинированное)</li>   <li>Совместимость: Windows, macOS, iOS, Android</li>   <li>Раскладка: английский</li>   <li>Подсветка: RGB со многими эффектами и настройкой яркости</li>   <li>Переключатели: Leobog Reaper, профиль линейные – мягкий ход и четкая стабильность.</li>   <li>Интерфейсы: Bluetooth /USB / 2.4</li>   <li>Страна-производитель: Китай</li>  </ul>    <p><strong>О комфорте и звуке:</strong><br />  Продуманная конструкция с внутренним демпфированием для приятной акустики без лишних резонансов.<br />  Стабильные стабилизаторы для больших клавиш: пробел, Shift, Enter – без дребезжания.</p>    <p><br />  <strong>Управление и удобство:</strong><br />  Мультимедийное колесо (энткодер) – быстрая регулировка громкости и переключение режимов.<br />  TFT-экран отображает профили, режим подсветки, уровень подключения и другую полезную информацию.</p>    <p><br />  <strong>RGB-подсветка:</strong><br />  Разнообразные анимации и статические схемы<br />  Поддержка индивидуальной настройки для каждой клавиши<br />  Синхронизация эффектов через фирменное ПО</p></description_ru>
+        <price>3299</price>
+        <old_price>3999</old_price>
+        <categoryId>1082</categoryId>
+        <vendor>Aula</vendor>
+        <picture>https://techgleam.com.ua/content/images/13/grova-mexanchna-klavatura-aula-f75-max-engukr-tri-rezhimi-pdkluchennja-leobog-reaper-switch-black-70045494216924_%2B9af6cc99c3.png</picture>
+        <picture>https://techgleam.com.ua/content/images/13/grova-mexanchna-klavatura-aula-f75-max-engukr-tri-rezhimi-pdkluchennja-leobog-reaper-switch-black-15876559277824_%2B8c58a47e22.png</picture>
+        <picture>https://techgleam.com.ua/content/images/13/grova-mexanchna-klavatura-aula-f75-max-engukr-tri-rezhimi-pdkluchennja-leobog-reaper-switch-black-32911973981365_%2Be4e7ca6aed.jpg</picture>
+        <picture>https://techgleam.com.ua/content/images/13/grova-mexanchna-klavatura-aula-f75-max-engukr-tri-rezhimi-pdkluchennja-leobog-reaper-switch-black-23905207186545_%2B04ad9ca603.jpg</picture>
+        <picture>https://techgleam.com.ua/content/images/13/grova-mexanchna-klavatura-aula-f75-max-engukr-tri-rezhimi-pdkluchennja-leobog-reaper-switch-black-99219362807182_%2Ba424322417.jpg</picture>
+        <param name="Гарантія">3 місяці</param>
+        <param name="Колір">Чорний</param>
+        <param name="Конструкція клавіш">Механічна</param>
+        <param name="Підключення">Комбіноване</param>
+        <param name="Інтерфейс підключення">Bluetooth</param>
+        <param name="Інтерфейс підключення">Радіоінтерфейс</param>
+        <param name="Інтерфейс підключення">USB</param>
+        <param name="Розкладка">Eng / Ukr</param>
+        <param name="Форм-фактор">Компактні</param>
+        <param name="Колір підсвічування">RGB</param>
+        <param name="Підсвічування клавіш">Є</param>
+        <param name="Матеріал корпусу">Пластик</param>
+        <param name="Живлення">Акумулятор</param>
+        <param name="Сумісність з ОС">Windows</param>
+        <param name="Сумісність з ОС">Mac OS</param>
+        <param name="Сумісність з ОС">Linux</param>
+        <param name="Стан">Новий</param>
+        <param name="Комплектація">Клавіатура</param>
+        <param name="Призначення">Для ПК</param>
+        <param name="Вид">Ігрові</param>
         <country>Китай</country>
       </offer>
       <offer id="2170" available="false">
